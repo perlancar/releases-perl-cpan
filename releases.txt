@@ -4762,3 +4762,14 @@ date:2015-04-21	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureCoreOrPP-0.03.tar
 date:2015-04-21	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureCoreOrPP-0.04.tar.gz	ver:0.04	size:13876
 date:2015-04-21	repo:cpan	file:App-PMUtils-0.41.tar.gz	ver:0.41	size:24661
 date:2015-04-22	repo:cpan	file:Perinci-Sub-Gen-AccessTable-0.47.tar.gz	ver:0.47	size:41486
+date:2015-04-22	repo:cpan	file:Params-Sah-0.04.tar.gz	ver:0.04	size:17880
+date:2015-04-22	repo:cpan	file:App-eta2zero-0.03.tar.gz	ver:0.03	size:13804
+date:2015-04-22	repo:cpan	file:Perinci-CmdLine-Server-0.05.tar.gz	ver:0.05	size:16173
+date:2015-04-22	repo:cpan	file:App-lcpan-0.25.tar.gz	ver:0.25	size:42367
+date:2015-04-22	repo:cpan	file:Test-WithDB-0.04.tar.gz	ver:0.04	size:17004
+date:2015-04-22	repo:cpan	file:SQL-Schema-Versioned-0.15.tar.gz	ver:0.15	size:19353
+date:2015-04-22	repo:cpan	file:Test-WithDB-0.05.tar.gz	ver:0.05	size:17079
+date:2015-04-22	repo:cpan	file:Dist-Zilla-Plugin-EnsureSQLSchemaVersionedTest-0.01.tar.gz	ver:0.01	size:13034
+date:2015-04-22	repo:cpan	file:File-RsyBak-0.25.tar.gz	ver:0.25	size:25027
+date:2015-04-22	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.37.tar.gz	ver:0.37	size:15577
+date:2015-04-22	repo:cpan	file:SQL-Schema-Versioned-0.16.tar.gz	ver:0.16	size:19422
