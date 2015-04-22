@@ -4773,3 +4773,4 @@ date:2015-04-22	repo:cpan	file:Dist-Zilla-Plugin-EnsureSQLSchemaVersionedTest-0.
 date:2015-04-22	repo:cpan	file:File-RsyBak-0.25.tar.gz	ver:0.25	size:25027
 date:2015-04-22	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.37.tar.gz	ver:0.37	size:15577
 date:2015-04-22	repo:cpan	file:SQL-Schema-Versioned-0.16.tar.gz	ver:0.16	size:19422
+date:2015-04-22	repo:cpan	file:App-lcpan-0.26.tar.gz	ver:0.26	size:42932
