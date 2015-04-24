@@ -4777,3 +4777,14 @@ date:2015-04-22	repo:cpan	file:App-lcpan-0.26.tar.gz	ver:0.26	size:42932
 date:2015-04-23	repo:cpan	file:Module-CoreList-More-0.05.tar.gz	ver:0.05	size:15876
 date:2015-04-23	repo:cpan	file:App-lcpan-0.27.tar.gz	ver:0.27	size:43570
 date:2015-04-23	repo:cpan	file:Perinci-Sub-Gen-FromClass-0.03.tar.gz	ver:0.03	size:16334
+date:2015-04-24	repo:cpan	file:DBIx-Diff-Schema-0.05.tar.gz	ver:0.05	size:16416
+date:2015-04-24	repo:cpan	file:SQL-Schema-Versioned-0.17.tar.gz	ver:0.17	size:19668
+date:2015-04-24	repo:cpan	file:App-lcpan-0.28.tar.gz	ver:0.28	size:43597
+date:2015-04-24	repo:cpan	file:DefHash-1.0.10.tar.gz	ver:1.0.10	size:16969
+date:2015-04-24	repo:cpan	file:Data-Sah-Normalize-0.02.tar.gz	ver:0.02	size:14929
+date:2015-04-24	repo:cpan	file:Data-Sah-Normalize-0.03.tar.gz	ver:0.03	size:15389
+date:2015-04-24	repo:cpan	file:Perinci-Sub-Normalize-0.10.tar.gz	ver:0.10	size:15905
+date:2015-04-24	repo:cpan	file:Data-Sah-0.53.tar.gz	ver:0.53	size:103855
+date:2015-04-24	repo:cpan	file:Perinci-Sub-Normalize-0.11.tar.gz	ver:0.11	size:16187
+date:2015-04-24	repo:cpan	file:Hash-DefHash-Normalize-0.01.tar.gz	ver:0.01	size:13325
+date:2015-04-24	repo:cpan	file:Hash-DefHash-Normalize-0.02.tar.gz	ver:0.02	size:13577
