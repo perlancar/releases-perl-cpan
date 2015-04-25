@@ -4789,3 +4789,8 @@ date:2015-04-24	repo:cpan	file:Perinci-Sub-Normalize-0.11.tar.gz	ver:0.11	size:1
 date:2015-04-24	repo:cpan	file:Hash-DefHash-Normalize-0.01.tar.gz	ver:0.01	size:13325
 date:2015-04-24	repo:cpan	file:Hash-DefHash-Normalize-0.02.tar.gz	ver:0.02	size:13577
 date:2015-04-24	repo:cpan	file:App-lcpan-0.29.tar.gz	ver:0.29	size:44200
+date:2015-04-25	repo:cpan	file:Perinci-CmdLine-Lite-1.11.tar.gz	ver:1.11	size:69024
+date:2015-04-25	repo:cpan	file:Complete-Util-0.28.tar.gz	ver:0.28	size:21725
+date:2015-04-25	repo:cpan	file:Complete-Util-0.29.tar.gz	ver:0.29	size:21891
+date:2015-04-25	repo:cpan	file:Complete-Getopt-Long-0.32.tar.gz	ver:0.32	size:23317
+date:2015-04-25	repo:cpan	file:Perinci-Sub-Wrapper-0.76.tar.gz	ver:0.76	size:41974
