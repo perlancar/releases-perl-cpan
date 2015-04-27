@@ -4794,3 +4794,8 @@ date:2015-04-25	repo:cpan	file:Complete-Util-0.28.tar.gz	ver:0.28	size:21725
 date:2015-04-25	repo:cpan	file:Complete-Util-0.29.tar.gz	ver:0.29	size:21891
 date:2015-04-25	repo:cpan	file:Complete-Getopt-Long-0.32.tar.gz	ver:0.32	size:23317
 date:2015-04-25	repo:cpan	file:Perinci-Sub-Wrapper-0.76.tar.gz	ver:0.76	size:41974
+date:2015-04-25	repo:cpan	file:App-DzilUtils-0.07.tar.gz	ver:0.07	size:19206
+date:2015-04-25	repo:cpan	file:Log-Any-For-Class-0.25.tar.gz	ver:0.25	size:19418
+date:2015-04-25	repo:cpan	file:Perinci-CmdLine-Lite-1.12.tar.gz	ver:1.12	size:69489
+date:2015-04-26	repo:cpan	file:Data-Dmp-0.11.tar.gz	ver:0.11	size:17373
+date:2015-04-26	repo:cpan	file:App-lcpan-0.30.tar.gz	ver:0.30	size:45200
