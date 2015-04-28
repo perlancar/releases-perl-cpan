@@ -4799,3 +4799,4 @@ date:2015-04-25	repo:cpan	file:Log-Any-For-Class-0.25.tar.gz	ver:0.25	size:19418
 date:2015-04-25	repo:cpan	file:Perinci-CmdLine-Lite-1.12.tar.gz	ver:1.12	size:69489
 date:2015-04-26	repo:cpan	file:Data-Dmp-0.11.tar.gz	ver:0.11	size:17373
 date:2015-04-26	repo:cpan	file:App-lcpan-0.30.tar.gz	ver:0.30	size:45200
+date:2015-04-27	repo:cpan	file:Perinci-Sub-Complete-0.79.tar.gz	ver:0.79	size:28749
