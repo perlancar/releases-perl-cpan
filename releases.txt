@@ -4800,3 +4800,12 @@ date:2015-04-25	repo:cpan	file:Perinci-CmdLine-Lite-1.12.tar.gz	ver:1.12	size:69
 date:2015-04-26	repo:cpan	file:Data-Dmp-0.11.tar.gz	ver:0.11	size:17373
 date:2015-04-26	repo:cpan	file:App-lcpan-0.30.tar.gz	ver:0.30	size:45200
 date:2015-04-27	repo:cpan	file:Perinci-Sub-Complete-0.79.tar.gz	ver:0.79	size:28749
+date:2015-04-28	repo:cpan	file:Calendar-Indonesia-Holiday-0.24.tar.gz	ver:0.24	size:24542
+date:2015-04-28	repo:cpan	file:App-IndonesianHolidayUtils-0.01.tar.gz	ver:0.01	size:18606
+date:2015-04-28	repo:cpan	file:Perinci-Sub-Gen-AccessTable-0.48.tar.gz	ver:0.48	size:41613
+date:2015-04-28	repo:cpan	file:Finance-Bank-ID-BCA-0.35.tar.gz	ver:0.35	size:31226
+date:2015-04-28	repo:cpan	file:Finance-Bank-ID-BPRKS-0.03.tar.gz	ver:0.03	size:33674
+date:2015-04-28	repo:cpan	file:Finance-Bank-ID-Mandiri-0.32.tar.gz	ver:0.32	size:29903
+date:2015-04-28	repo:cpan	file:App-IndonesianHolidayUtils-0.02.tar.gz	ver:0.02	size:18723
+date:2015-04-28	repo:cpan	file:App-IndonesianBankingUtils-0.01.tar.gz	ver:0.01	size:17774
+date:2015-04-28	repo:cpan	file:App-lcpan-0.31.tar.gz	ver:0.31	size:44360
