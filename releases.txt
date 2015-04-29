@@ -4809,3 +4809,10 @@ date:2015-04-28	repo:cpan	file:Finance-Bank-ID-Mandiri-0.32.tar.gz	ver:0.32	size
 date:2015-04-28	repo:cpan	file:App-IndonesianHolidayUtils-0.02.tar.gz	ver:0.02	size:18723
 date:2015-04-28	repo:cpan	file:App-IndonesianBankingUtils-0.01.tar.gz	ver:0.01	size:17774
 date:2015-04-28	repo:cpan	file:App-lcpan-0.31.tar.gz	ver:0.31	size:44360
+date:2015-04-29	repo:cpan	file:Finance-Bank-ID-BCA-0.36.tar.gz	ver:0.36	size:31361
+date:2015-04-29	repo:cpan	file:Simple-Timer-0.01.tar.gz	ver:0.01	size:13362
+date:2015-04-29	repo:cpan	file:SQL-Schema-Versioned-0.18.tar.gz	ver:0.18	size:20096
+date:2015-04-29	repo:cpan	file:App-lcpan-0.32.tar.gz	ver:0.32	size:45532
+date:2015-04-30	repo:cpan	file:App-lcpan-0.33.tar.gz	ver:0.33	size:45803
+date:2015-04-30	repo:cpan	file:App-ShellCompleter-cpanm-0.11.tar.gz	ver:0.11	size:16827
+date:2015-04-30	repo:cpan	file:SQL-Schema-Versioned-0.19.tar.gz	ver:0.19	size:20125
