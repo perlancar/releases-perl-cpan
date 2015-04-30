@@ -4816,3 +4816,6 @@ date:2015-04-29	repo:cpan	file:App-lcpan-0.32.tar.gz	ver:0.32	size:45532
 date:2015-04-30	repo:cpan	file:App-lcpan-0.33.tar.gz	ver:0.33	size:45803
 date:2015-04-30	repo:cpan	file:App-ShellCompleter-cpanm-0.11.tar.gz	ver:0.11	size:16827
 date:2015-04-30	repo:cpan	file:SQL-Schema-Versioned-0.19.tar.gz	ver:0.19	size:20125
+date:2015-04-30	repo:cpan	file:Getopt-Long-Complete-0.25.tar.gz	ver:0.25	size:18721
+date:2015-04-30	repo:cpan	file:Sah-0.9.34.tar.gz	ver:0.9.34	size:82366
+date:2015-04-30	repo:cpan	file:Rinci-1.1.76.tar.gz	ver:1.1.76	size:57442
