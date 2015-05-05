@@ -4823,3 +4823,13 @@ date:2015-05-01	repo:cpan	file:Rinci-1.1.77.tar.gz	ver:1.1.77	size:57538
 date:2015-05-02	repo:cpan	file:App-SahUtils-0.08.tar.gz	ver:0.08	size:19004
 date:2015-05-02	repo:cpan	file:App-OrgUtils-0.31.tar.gz	ver:0.31	size:36205
 date:2015-05-04	repo:cpan	file:App-SahUtils-0.09.tar.gz	ver:0.09	size:19672
+date:2015-05-05	repo:cpan	file:Data-Transmute-0.01.tar.gz	ver:0.01	size:15495
+date:2015-05-05	repo:cpan	file:Config-IOD-Reader-0.16.tar.gz	ver:0.16	size:22064
+date:2015-05-05	repo:cpan	file:Config-IOD-0.16.tar.gz	ver:0.16	size:23933
+date:2015-05-05	repo:cpan	file:Data-Transmute-0.02.tar.gz	ver:0.02	size:15309
+date:2015-05-05	repo:cpan	file:Dist-Zilla-Plugin-InsertCommandOutput-0.04.tar.gz	ver:0.04	size:13277
+date:2015-05-05	repo:cpan	file:Dist-Zilla-Plugin-InsertCodeResult-0.04.tar.gz	ver:0.04	size:13190
+date:2015-05-05	repo:cpan	file:Dist-Zilla-Plugin-InsertCodeOutput-0.03.tar.gz	ver:0.03	size:13373
+date:2015-05-05	repo:cpan	file:Sah-0.9.35.tar.gz	ver:0.9.35	size:83506
+date:2015-05-05	repo:cpan	file:Sah-0.9.36.tar.gz	ver:0.9.36	size:83983
+date:2015-05-05	repo:cpan	file:Data-Sah-0.54.tar.gz	ver:0.54	size:108334
