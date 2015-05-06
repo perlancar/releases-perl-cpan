@@ -4824,3 +4824,8 @@ date:2015-05-01	repo:cpan	file:Rinci-1.1.77.tar.gz	ver:1.1.77	size:57538
 date:2015-05-02	repo:cpan	file:App-SahUtils-0.08.tar.gz	ver:0.08	size:19004
 date:2015-05-02	repo:cpan	file:App-OrgUtils-0.31.tar.gz	ver:0.31	size:36205
 date:2015-05-04	repo:cpan	file:App-SahUtils-0.09.tar.gz	ver:0.09	size:19672
+date:2015-05-06	repo:cpan	file:Module-CoreList-More-0.06.tar.gz	ver:0.06	size:17995
+date:2015-05-06	repo:cpan	file:Data-Sah-0.55.tar.gz	ver:0.55	size:107423
+date:2015-05-06	repo:cpan	file:App-SahUtils-0.10.tar.gz	ver:0.10	size:18817
+date:2015-05-06	repo:cpan	file:Perinci-CmdLine-Lite-1.13.tar.gz	ver:1.13	size:68805
+date:2015-05-06	repo:cpan	file:App-SahUtils-0.11.tar.gz	ver:0.11	size:18884
