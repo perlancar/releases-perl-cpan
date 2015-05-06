@@ -4819,6 +4819,7 @@ date:2015-04-30	repo:cpan	file:SQL-Schema-Versioned-0.19.tar.gz	ver:0.19	size:20
 date:2015-04-30	repo:cpan	file:Getopt-Long-Complete-0.25.tar.gz	ver:0.25	size:18721
 date:2015-04-30	repo:cpan	file:Sah-0.9.34.tar.gz	ver:0.9.34	size:82366
 date:2015-04-30	repo:cpan	file:Rinci-1.1.76.tar.gz	ver:1.1.76	size:57442
+date:2015-05-01	repo:cpan	file:App-SahUtils-0.07.tar.gz	ver:0.07	size:17965
 date:2015-05-01	repo:cpan	file:Rinci-1.1.77.tar.gz	ver:1.1.77	size:57538
 date:2015-05-02	repo:cpan	file:App-SahUtils-0.08.tar.gz	ver:0.08	size:19004
 date:2015-05-02	repo:cpan	file:App-OrgUtils-0.31.tar.gz	ver:0.31	size:36205
