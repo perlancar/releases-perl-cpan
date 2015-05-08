@@ -4843,3 +4843,4 @@ date:2015-05-06	repo:cpan	file:Perinci-CmdLine-Lite-1.13.tar.gz	ver:1.13	size:68
 date:2015-05-06	repo:cpan	file:App-SahUtils-0.11.tar.gz	ver:0.11	size:18884
 >>>>>>> 4085fa19c06d6783ca7689a1d40df6609a3d8859
 date:2015-05-07	repo:cpan	file:Module-CoreList-More-0.07.tar.gz	ver:0.07	size:18711
+date:2015-05-08	repo:cpan	file:HTTP-Tiny-CLI-0.04.tar.gz	ver:0.04	size:15377
