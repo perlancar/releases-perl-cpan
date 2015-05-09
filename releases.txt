@@ -921,7 +921,7 @@ date:2012-03-30	repo:cpan	file:Perinci-CmdLine-0.46.tar.gz	ver:0.46	size:26547
 date:2012-03-31	repo:cpan	file:Perinci-0.13.tar.gz	ver:0.13	size:23858
 date:2012-03-31	repo:cpan	file:Perinci-0.14.tar.gz	ver:0.14	size:24154
 date:2012-03-31	repo:cpan	file:Perinci-Sub-property-timeout-0.02.tar.gz	ver:0.02	size:10556
-date:2012-03-38	repo:cpan	file:Setup-Text-Snippet-0.07.tar.gz	ver:0.07	size:15485
+date:2012-03-31	repo:cpan	file:Setup-Text-Snippet-0.07.tar.gz	ver:0.07	size:15485
 date:2012-04-02	repo:cpan	file:HTTP-Daemon-patch-ipv6-0.01.tar.gz	ver:0.01	size:9784
 date:2012-04-02	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.16.tar.gz	ver:0.16	size:17217
 date:2012-04-02	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.17.tar.gz	ver:0.17	size:17255
@@ -4844,3 +4844,6 @@ date:2015-05-06	repo:cpan	file:App-SahUtils-0.11.tar.gz	ver:0.11	size:18884
 >>>>>>> 4085fa19c06d6783ca7689a1d40df6609a3d8859
 date:2015-05-07	repo:cpan	file:Module-CoreList-More-0.07.tar.gz	ver:0.07	size:18711
 date:2015-05-08	repo:cpan	file:HTTP-Tiny-CLI-0.04.tar.gz	ver:0.04	size:15377
+date:2015-05-09	repo:cpan	file:App-fsql-0.15.tar.gz	ver:0.15	size:22561
+date:2015-05-09	repo:cpan	file:SQL-Statement-Functions-Date-0.01.tar.gz	ver:0.01	size:14445
+date:2015-05-09	repo:cpan	file:App-fsql-0.16.tar.gz	ver:0.16	size:23070
