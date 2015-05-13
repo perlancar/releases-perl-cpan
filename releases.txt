@@ -4848,3 +4848,17 @@ date:2015-05-09	repo:cpan	file:App-fsql-0.15.tar.gz	ver:0.15	size:22561
 date:2015-05-09	repo:cpan	file:SQL-Statement-Functions-Date-0.01.tar.gz	ver:0.01	size:14445
 date:2015-05-09	repo:cpan	file:App-fsql-0.16.tar.gz	ver:0.16	size:23070
 date:2015-05-10	repo:cpan	file:App-fsql-0.17.tar.gz	ver:0.17	size:23221
+date:2015-05-13	repo:cpan	file:SQL-Statement-Functions-Date-0.02.tar.gz	ver:0.02	size:14050
+date:2015-05-13	repo:cpan	file:App-fsql-0.18.tar.gz	ver:0.18	size:22374
+date:2015-05-13	repo:cpan	file:App-PeriSeq-0.01.tar.gz	ver:0.01	size:16417
+date:2015-05-13	repo:cpan	file:App-PeriSeq-0.02.tar.gz	ver:0.02	size:16560
+date:2015-05-13	repo:cpan	file:Perinci-Sub-CoerceArgs-0.02.tar.gz	ver:0.02	size:15021
+date:2015-05-13	repo:cpan	file:Perinci-Sub-CoerceArgs-0.03.tar.gz	ver:0.03	size:15344
+date:2015-05-13	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.66.tar.gz	ver:0.66	size:32455
+date:2015-05-13	repo:cpan	file:Data-Sah-0.56.tar.gz	ver:0.56	size:108700
+date:2015-05-13	repo:cpan	file:App-dateseq-0.01.tar.gz	ver:0.01	size:16422
+date:2015-05-13	repo:cpan	file:App-dateseq-0.02.tar.gz	ver:0.02	size:16552
+date:2015-05-13	repo:cpan	file:App-ShellCompleter-cpanm-0.12.tar.gz	ver:0.12	size:16853
+date:2015-05-13	repo:cpan	file:App-PerinciUtils-0.02.tar.gz	ver:0.02	size:25734
+date:2015-05-13	repo:cpan	file:Perinci-Sub-Wrapper-0.77.tar.gz	ver:0.77	size:43738
+date:2015-05-13	repo:cpan	file:App-PerinciUtils-0.03.tar.gz	ver:0.03	size:25770
