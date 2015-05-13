@@ -4847,3 +4847,4 @@ date:2015-05-08	repo:cpan	file:HTTP-Tiny-CLI-0.04.tar.gz	ver:0.04	size:15377
 date:2015-05-09	repo:cpan	file:App-fsql-0.15.tar.gz	ver:0.15	size:22561
 date:2015-05-09	repo:cpan	file:SQL-Statement-Functions-Date-0.01.tar.gz	ver:0.01	size:14445
 date:2015-05-09	repo:cpan	file:App-fsql-0.16.tar.gz	ver:0.16	size:23070
+date:2015-05-10	repo:cpan	file:App-fsql-0.17.tar.gz	ver:0.17	size:23221
