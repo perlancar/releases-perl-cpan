@@ -4894,3 +4894,9 @@ date:2015-05-15	repo:cpan	file:Perinci-CmdLine-Any-Lumped-0.08.tar.gz	ver:0.08	s
 date:2015-05-15	repo:cpan	file:App-short-0.07.tar.gz	ver:0.07	size:19452
 date:2015-05-15	repo:cpan	file:App-LintPrereqs-0.26.tar.gz	ver:0.26	size:19743
 date:2015-05-15	repo:cpan	file:Perinci-CmdLine-Any-Lumped-0.09.tar.gz	ver:0.09	size:278600
+date:2015-05-16	repo:cpan	file:Sub-NoRepeat-0.01.tar.gz	ver:0.01	size:16257
+date:2015-05-16	repo:cpan	file:App-norepeat-0.05.tar.gz	ver:0.05	size:17803
+date:2015-05-16	repo:cpan	file:Sub-NoRepeat-0.02.tar.gz	ver:0.02	size:16355
+date:2015-05-16	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.38.tar.gz	ver:0.38	size:15474
+date:2015-05-16	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.01.tar.gz	ver:0.01	size:13442
+date:2015-05-16	repo:cpan	file:Dist-Zilla-Plugin-Lump-0.08.tar.gz	ver:0.08	size:16801
