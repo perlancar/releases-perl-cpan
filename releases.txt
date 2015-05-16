@@ -4900,3 +4900,8 @@ date:2015-05-16	repo:cpan	file:Sub-NoRepeat-0.02.tar.gz	ver:0.02	size:16355
 date:2015-05-16	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.38.tar.gz	ver:0.38	size:15474
 date:2015-05-16	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.01.tar.gz	ver:0.01	size:13442
 date:2015-05-16	repo:cpan	file:Dist-Zilla-Plugin-Lump-0.08.tar.gz	ver:0.08	size:16801
+date:2015-05-16	repo:cpan	file:App-pause-0.31.tar.gz	ver:0.31	size:17925
+date:2015-05-16	repo:cpan	file:Dist-Zilla-Plugin-Fatten-0.02.tar.gz	ver:0.02	size:15238
+date:2015-05-16	repo:cpan	file:App-pause-0.32.tar.gz	ver:0.32	size:312552
+date:2015-05-16	repo:cpan	file:Dist-Zilla-Plugin-Fatten-0.03.tar.gz	ver:0.03	size:15277
+date:2015-05-16	repo:cpan	file:App-pause-0.33.tar.gz	ver:0.33	size:312570
