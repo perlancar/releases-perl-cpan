@@ -4910,3 +4910,7 @@ date:2015-05-17	repo:cpan	file:Perinci-Sub-CoerceArgs-0.04.tar.gz	ver:0.04	size:
 date:2015-05-19	repo:cpan	file:lib-filter-0.02.tar.gz	ver:0.02	size:14474
 date:2015-05-19	repo:cpan	file:App-lcpan-Call-0.02.tar.gz	ver:0.02	size:13017
 date:2015-05-19	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.67.tar.gz	ver:0.67	size:33264
+date:2015-05-19	repo:cpan	file:App-lcpan-0.35.tar.gz	ver:0.35	size:46161
+date:2015-05-20	repo:cpan	file:App-lcpan-0.36.tar.gz	ver:0.36	size:46335
+date:2015-05-20	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.68.tar.gz	ver:0.68	size:32704
+date:2015-05-20	repo:cpan	file:DBIx-Diff-Schema-0.06.tar.gz	ver:0.06	size:16475
