@@ -4914,3 +4914,13 @@ date:2015-05-19	repo:cpan	file:App-lcpan-0.35.tar.gz	ver:0.35	size:46161
 date:2015-05-20	repo:cpan	file:App-lcpan-0.36.tar.gz	ver:0.36	size:46335
 date:2015-05-20	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.68.tar.gz	ver:0.68	size:32704
 date:2015-05-20	repo:cpan	file:DBIx-Diff-Schema-0.06.tar.gz	ver:0.06	size:16475
+date:2015-05-22	repo:cpan	file:App-SahUtils-0.12.tar.gz	ver:0.12	size:20072
+date:2015-05-22	repo:cpan	file:lib-filter-0.03.tar.gz	ver:0.03	size:15495
+date:2015-05-22	repo:cpan	file:Data-Sah-0.58.tar.gz	ver:0.58	size:106544
+date:2015-05-22	repo:cpan	file:Module-XSOrPP-0.09.tar.gz	ver:0.09	size:15382
+date:2015-05-22	repo:cpan	file:Data-Sah-0.59.tar.gz	ver:0.59	size:106968
+date:2015-05-22	repo:cpan	file:App-SahUtils-0.13.tar.gz	ver:0.13	size:20181
+date:2015-05-23	repo:cpan	file:Data-Clean-JSON-0.25.tar.gz	ver:0.25	size:21642
+date:2015-05-23	repo:cpan	file:Data-Clean-JSON-0.26.tar.gz	ver:0.26	size:21672
+date:2015-05-23	repo:cpan	file:Perinci-Sub-Wrapper-0.78.tar.gz	ver:0.78	size:44964
+date:2015-05-23	repo:cpan	file:App-PerinciUtils-0.04.tar.gz	ver:0.04	size:27425
