@@ -4926,3 +4926,4 @@ date:2015-05-23	repo:cpan	file:Perinci-Sub-Wrapper-0.78.tar.gz	ver:0.78	size:449
 date:2015-05-23	repo:cpan	file:App-PerinciUtils-0.04.tar.gz	ver:0.04	size:27425
 date:2015-05-23	repo:cpan	file:Perinci-Sub-FeatureUtil-0.02.tar.gz	ver:0.02	size:13326
 date:2015-05-25	repo:cpan	file:Perinci-CmdLine-Inline-0.01.tar.gz	ver:0.01	size:24576
+date:2015-05-25	repo:cpan	file:Perinci-CmdLine-Inline-0.02.tar.gz	ver:0.02	size:24259
