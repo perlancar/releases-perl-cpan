@@ -4928,3 +4928,6 @@ date:2015-05-23	repo:cpan	file:Perinci-Sub-FeatureUtil-0.02.tar.gz	ver:0.02	size
 date:2015-05-25	repo:cpan	file:Perinci-CmdLine-Inline-0.01.tar.gz	ver:0.01	size:24576
 date:2015-05-25	repo:cpan	file:Perinci-CmdLine-Inline-0.02.tar.gz	ver:0.02	size:24259
 date:2015-05-26	repo:cpan	file:Data-Sah-0.60.tar.gz	ver:0.60	size:111757
+date:2015-05-26	repo:cpan	file:lib-filter-0.04.tar.gz	ver:0.04	size:15524
+date:2015-05-26	repo:cpan	file:Data-Sah-0.61.tar.gz	ver:0.61	size:110558
+date:2015-05-26	repo:cpan	file:App-SahUtils-0.14.tar.gz	ver:0.14	size:19212
