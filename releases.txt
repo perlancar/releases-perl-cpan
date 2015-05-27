@@ -4931,3 +4931,5 @@ date:2015-05-26	repo:cpan	file:Data-Sah-0.60.tar.gz	ver:0.60	size:111757
 date:2015-05-26	repo:cpan	file:lib-filter-0.04.tar.gz	ver:0.04	size:15524
 date:2015-05-26	repo:cpan	file:Data-Sah-0.61.tar.gz	ver:0.61	size:110558
 date:2015-05-26	repo:cpan	file:App-SahUtils-0.14.tar.gz	ver:0.14	size:19212
+date:2015-05-27	repo:cpan	file:lib-filter-0.05.tar.gz	ver:0.05	size:16332
+date:2015-05-27	repo:cpan	file:Data-Sah-From-JSONSchema-0.01.tar.gz	ver:0.01	size:14359
