@@ -4933,3 +4933,7 @@ date:2015-05-26	repo:cpan	file:Data-Sah-0.61.tar.gz	ver:0.61	size:110558
 date:2015-05-26	repo:cpan	file:App-SahUtils-0.14.tar.gz	ver:0.14	size:19212
 date:2015-05-27	repo:cpan	file:lib-filter-0.05.tar.gz	ver:0.05	size:16332
 date:2015-05-27	repo:cpan	file:Data-Sah-From-JSONSchema-0.01.tar.gz	ver:0.01	size:14359
+date:2015-06-05	repo:cpan	file:Desktop-Detect-0.04.tar.gz	ver:0.04	size:13549
+date:2015-06-05	repo:cpan	file:App-SetScreensaverTimeout-0.09.tar.gz	ver:0.09	size:17738
+date:2015-06-05	repo:cpan	file:Desktop-Detect-0.05.tar.gz	ver:0.05	size:13568
+date:2015-06-05	repo:cpan	file:App-SetScreensaverTimeout-0.10.tar.gz	ver:0.10	size:17766
