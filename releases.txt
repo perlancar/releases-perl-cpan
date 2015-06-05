@@ -4824,7 +4824,6 @@ date:2015-05-01	repo:cpan	file:Rinci-1.1.77.tar.gz	ver:1.1.77	size:57538
 date:2015-05-02	repo:cpan	file:App-SahUtils-0.08.tar.gz	ver:0.08	size:19004
 date:2015-05-02	repo:cpan	file:App-OrgUtils-0.31.tar.gz	ver:0.31	size:36205
 date:2015-05-04	repo:cpan	file:App-SahUtils-0.09.tar.gz	ver:0.09	size:19672
-<<<<<<< HEAD
 date:2015-05-05	repo:cpan	file:Data-Transmute-0.01.tar.gz	ver:0.01	size:15495
 date:2015-05-05	repo:cpan	file:Config-IOD-Reader-0.16.tar.gz	ver:0.16	size:22064
 date:2015-05-05	repo:cpan	file:Config-IOD-0.16.tar.gz	ver:0.16	size:23933
@@ -4835,13 +4834,11 @@ date:2015-05-05	repo:cpan	file:Dist-Zilla-Plugin-InsertCodeOutput-0.03.tar.gz	ve
 date:2015-05-05	repo:cpan	file:Sah-0.9.35.tar.gz	ver:0.9.35	size:83506
 date:2015-05-05	repo:cpan	file:Sah-0.9.36.tar.gz	ver:0.9.36	size:83983
 date:2015-05-05	repo:cpan	file:Data-Sah-0.54.tar.gz	ver:0.54	size:108334
-=======
 date:2015-05-06	repo:cpan	file:Module-CoreList-More-0.06.tar.gz	ver:0.06	size:17995
 date:2015-05-06	repo:cpan	file:Data-Sah-0.55.tar.gz	ver:0.55	size:107423
 date:2015-05-06	repo:cpan	file:App-SahUtils-0.10.tar.gz	ver:0.10	size:18817
 date:2015-05-06	repo:cpan	file:Perinci-CmdLine-Lite-1.13.tar.gz	ver:1.13	size:68805
 date:2015-05-06	repo:cpan	file:App-SahUtils-0.11.tar.gz	ver:0.11	size:18884
->>>>>>> 4085fa19c06d6783ca7689a1d40df6609a3d8859
 date:2015-05-07	repo:cpan	file:Module-CoreList-More-0.07.tar.gz	ver:0.07	size:18711
 date:2015-05-08	repo:cpan	file:HTTP-Tiny-CLI-0.04.tar.gz	ver:0.04	size:15377
 date:2015-05-09	repo:cpan	file:App-fsql-0.15.tar.gz	ver:0.15	size:22561
@@ -4933,6 +4930,8 @@ date:2015-05-26	repo:cpan	file:Data-Sah-0.61.tar.gz	ver:0.61	size:110558
 date:2015-05-26	repo:cpan	file:App-SahUtils-0.14.tar.gz	ver:0.14	size:19212
 date:2015-05-27	repo:cpan	file:lib-filter-0.05.tar.gz	ver:0.05	size:16332
 date:2015-05-27	repo:cpan	file:Data-Sah-From-JSONSchema-0.01.tar.gz	ver:0.01	size:14359
+date:2015-06-04	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.01.tar.gz	ver:0.01	size:21723
+date:2015-06-04	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.02.tar.gz	ver:0.02	size:22878
 date:2015-06-05	repo:cpan	file:Desktop-Detect-0.04.tar.gz	ver:0.04	size:13549
 date:2015-06-05	repo:cpan	file:App-SetScreensaverTimeout-0.09.tar.gz	ver:0.09	size:17738
 date:2015-06-05	repo:cpan	file:Desktop-Detect-0.05.tar.gz	ver:0.05	size:13568
