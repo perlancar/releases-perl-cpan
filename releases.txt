@@ -4936,3 +4936,13 @@ date:2015-06-05	repo:cpan	file:Desktop-Detect-0.04.tar.gz	ver:0.04	size:13549
 date:2015-06-05	repo:cpan	file:App-SetScreensaverTimeout-0.09.tar.gz	ver:0.09	size:17738
 date:2015-06-05	repo:cpan	file:Desktop-Detect-0.05.tar.gz	ver:0.05	size:13568
 date:2015-06-05	repo:cpan	file:App-SetScreensaverTimeout-0.10.tar.gz	ver:0.10	size:17766
+date:2015-06-07	repo:cpan	file:Config-IOD-Reader-0.17.tar.gz	ver:0.17	size:22184
+date:2015-06-07	repo:cpan	file:Complete-Util-0.30.tar.gz	ver:0.30	size:22032
+date:2015-06-07	repo:cpan	file:Acme-PERLANCAR-Test-0.01.tar.gz	ver:0.01	size:12335
+date:2015-06-07	repo:cpan	file:Data-Sah-0.62.tar.gz	ver:0.62	size:112262
+date:2015-06-08	repo:cpan	file:Complete-Util-0.31.tar.gz	ver:0.31	size:22108
+date:2015-06-08	repo:cpan	file:Log-Any-App-0.48.tar.gz	ver:0.48	size:48585
+date:2015-06-08	repo:cpan	file:Data-Clean-JSON-0.27.tar.gz	ver:0.27	size:21256
+date:2015-06-08	repo:cpan	file:App-SetScreensaverTimeout-0.11.tar.gz	ver:0.11	size:19050
+date:2015-06-09	repo:cpan	file:Data-Sah-0.63.tar.gz	ver:0.63	size:112363
+date:2015-06-09	repo:cpan	file:App-PMUtils-0.43.tar.gz	ver:0.43	size:26905
