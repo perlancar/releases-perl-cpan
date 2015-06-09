@@ -4939,3 +4939,4 @@ date:2015-06-05	repo:cpan	file:App-SetScreensaverTimeout-0.10.tar.gz	ver:0.10	si
 date:2015-06-09	repo:cpan	file:Pod-Weaver-PluginBundle-Author-PERLANCAR-0.24.tar.gz	ver:0.24	size:14352
 date:2015-06-09	repo:cpan	file:App-pause-0.34.tar.gz	ver:0.34	size:321611
 date:2015-06-09	repo:cpan	file:Finance-Bank-ID-BCA-0.37.tar.gz	ver:0.37	size:33643
+date:2015-06-09	repo:cpan	file:App-lcpan-0.37.tar.gz	ver:0.37	size:46410
