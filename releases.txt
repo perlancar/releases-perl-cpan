@@ -4946,3 +4946,7 @@ date:2015-06-08	repo:cpan	file:Data-Clean-JSON-0.27.tar.gz	ver:0.27	size:21256
 date:2015-06-08	repo:cpan	file:App-SetScreensaverTimeout-0.11.tar.gz	ver:0.11	size:19050
 date:2015-06-09	repo:cpan	file:Data-Sah-0.63.tar.gz	ver:0.63	size:112363
 date:2015-06-09	repo:cpan	file:App-PMUtils-0.43.tar.gz	ver:0.43	size:26905
+date:2015-06-09	repo:cpan	file:Pod-Weaver-PluginBundle-Author-PERLANCAR-0.24.tar.gz	ver:0.24	size:14352
+date:2015-06-09	repo:cpan	file:App-pause-0.34.tar.gz	ver:0.34	size:321611
+date:2015-06-09	repo:cpan	file:Finance-Bank-ID-BCA-0.37.tar.gz	ver:0.37	size:33643
+date:2015-06-09	repo:cpan	file:App-lcpan-0.37.tar.gz	ver:0.37	size:46410
