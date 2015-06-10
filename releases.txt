@@ -4950,3 +4950,9 @@ date:2015-06-09	repo:cpan	file:Pod-Weaver-PluginBundle-Author-PERLANCAR-0.24.tar
 date:2015-06-09	repo:cpan	file:App-pause-0.34.tar.gz	ver:0.34	size:321611
 date:2015-06-09	repo:cpan	file:Finance-Bank-ID-BCA-0.37.tar.gz	ver:0.37	size:33643
 date:2015-06-09	repo:cpan	file:App-lcpan-0.37.tar.gz	ver:0.37	size:46410
+date:2015-06-10	repo:cpan	file:Data-Sah-0.64.tar.gz	ver:0.64	size:111025
+date:2015-06-10	repo:cpan	file:Data-Clean-JSON-0.28.tar.gz	ver:0.28	size:21350
+date:2015-06-10	repo:cpan	file:Class-GenSource-0.01.tar.gz	ver:0.01	size:13132
+date:2015-06-10	repo:cpan	file:App-lcpan-0.38.tar.gz	ver:0.38	size:46473
+date:2015-06-10	repo:cpan	file:Class-GenSource-0.02.tar.gz	ver:0.02	size:13194
+date:2015-06-10	repo:cpan	file:Class-GenSource-0.03.tar.gz	ver:0.03	size:13253
