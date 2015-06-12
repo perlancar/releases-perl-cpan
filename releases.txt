@@ -4969,3 +4969,5 @@ date:2015-06-11	repo:cpan	file:App-PMUtils-0.44.tar.gz	ver:0.44	size:26349
 date:2015-06-11	repo:cpan	file:Getopt-Long-Util-0.82.tar.gz	ver:0.82	size:16284
 date:2015-06-11	repo:cpan	file:Dist-Zilla-Plugin-Comment-0.01.tar.gz	ver:0.01	size:13408
 date:2015-06-11	repo:cpan	file:Getopt-Long-Util-0.83.tar.gz	ver:0.83	size:16311
+date:2015-06-12	repo:cpan	file:Module-FatPack-0.02.tar.gz	ver:0.02	size:15022
+date:2015-06-12	repo:cpan	file:Module-FatPack-0.03.tar.gz	ver:0.03	size:15060
