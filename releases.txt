@@ -4971,3 +4971,4 @@ date:2015-06-11	repo:cpan	file:Dist-Zilla-Plugin-Comment-0.01.tar.gz	ver:0.01	si
 date:2015-06-11	repo:cpan	file:Getopt-Long-Util-0.83.tar.gz	ver:0.83	size:16311
 date:2015-06-12	repo:cpan	file:Module-FatPack-0.02.tar.gz	ver:0.02	size:15022
 date:2015-06-12	repo:cpan	file:Module-FatPack-0.03.tar.gz	ver:0.03	size:15060
+date:2015-06-12	repo:cpan	file:Module-FatPack-0.04.tar.gz	ver:0.04	size:15179
