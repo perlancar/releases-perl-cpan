@@ -4972,3 +4972,13 @@ date:2015-06-11	repo:cpan	file:Getopt-Long-Util-0.83.tar.gz	ver:0.83	size:16311
 date:2015-06-12	repo:cpan	file:Module-FatPack-0.02.tar.gz	ver:0.02	size:15022
 date:2015-06-12	repo:cpan	file:Module-FatPack-0.03.tar.gz	ver:0.03	size:15060
 date:2015-06-12	repo:cpan	file:Module-FatPack-0.04.tar.gz	ver:0.04	size:15179
+date:2015-06-12	repo:cpan	file:Data-Section-Seekable-0.01.tar.gz	ver:0.01	size:14675
+date:2015-06-12	repo:cpan	file:Data-Section-Seekable-0.02.tar.gz	ver:0.02	size:14978
+date:2015-06-12	repo:cpan	file:Data-Section-Seekable-0.03.tar.gz	ver:0.03	size:15495
+date:2015-06-12	repo:cpan	file:Class-GenSource-0.04.tar.gz	ver:0.04	size:13615
+date:2015-06-12	repo:cpan	file:Data-Section-Seekable-0.04.tar.gz	ver:0.04	size:15808
+date:2015-06-12	repo:cpan	file:Module-DataPack-0.01.tar.gz	ver:0.01	size:15762
+date:2015-06-12	repo:cpan	file:Perinci-CmdLine-Inline-0.04.tar.gz	ver:0.04	size:24525
+date:2015-06-12	repo:cpan	file:Data-Section-Seekable-0.05.tar.gz	ver:0.05	size:15882
+date:2015-06-12	repo:cpan	file:Class-GenSource-0.05.tar.gz	ver:0.05	size:14156
+date:2015-06-12	repo:cpan	file:Class-GenSource-0.06.tar.gz	ver:0.06	size:14375
