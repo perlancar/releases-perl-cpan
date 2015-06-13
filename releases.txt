@@ -4982,3 +4982,5 @@ date:2015-06-12	repo:cpan	file:Perinci-CmdLine-Inline-0.04.tar.gz	ver:0.04	size:
 date:2015-06-12	repo:cpan	file:Data-Section-Seekable-0.05.tar.gz	ver:0.05	size:15882
 date:2015-06-12	repo:cpan	file:Class-GenSource-0.05.tar.gz	ver:0.05	size:14156
 date:2015-06-12	repo:cpan	file:Class-GenSource-0.06.tar.gz	ver:0.06	size:14375
+date:2015-06-13	repo:cpan	file:App-short-0.08.tar.gz	ver:0.08	size:20044
+date:2015-06-13	repo:cpan	file:App-lcpan-0.39.tar.gz	ver:0.39	size:46956
