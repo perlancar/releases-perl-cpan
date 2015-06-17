@@ -5001,7 +5001,7 @@ date:2015-06-14	repo:cpan	file:Dist-Zilla-Plugin-Fatten-0.04.tar.gz	ver:0.04	siz
 date:2015-06-14	repo:cpan	file:App-pause-0.36.tar.gz	ver:0.36	size:321339
 date:2015-06-14	repo:cpan	file:Dist-Zilla-Plugin-Extras-0.02.tar.gz	ver:0.02	size:13255
 date:2015-06-14	repo:cpan	file:Dist-Zilla-Plugin-Extras-0.03.tar.gz	ver:0.03	size:13294
-date:2015-06-14	repo:cpan	file:App-tchart-0.04.tar.gz	ver:0.04	size:15615
+date:2015-06-14	repo:cpan	file:App-tchart-0.04.tar.gz	ver:0.04	size:15615	oldname:App-chart
 date:2015-06-14	repo:cpan	file:Acme-PERLANCAR-Test-0.02.tar.gz	ver:0.02	size:12473
 date:2015-06-14	repo:cpan	file:Acme-PERLANCAR-Test-0.03.tar.gz	ver:0.03	size:12498
 date:2015-06-14	repo:cpan	file:Acme-PERLANCAR-Test-0.04.tar.gz	ver:0.04	size:12498
