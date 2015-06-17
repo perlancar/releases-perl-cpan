@@ -5046,3 +5046,7 @@ date:2015-06-16	repo:cpan	file:Getopt-Long-EvenLess-0.01.tar.gz	ver:0.01	size:16
 date:2015-06-17	repo:cpan	file:App-hr-0.04.tar.gz	ver:0.04	size:15004
 date:2015-06-17	repo:cpan	file:App-hr-0.05.tar.gz	ver:0.05	size:15068
 date:2015-06-17	repo:cpan	file:Function-Embeddable-0.01.tar.gz	ver:0.01	size:12812
+date:2015-06-17	repo:cpan	file:App-hr-0.06.tar.gz	ver:0.06	size:15092
+date:2015-06-17	repo:cpan	file:App-lcpan-0.41.tar.gz	ver:0.41	size:47804
+date:2015-06-17	repo:cpan	file:Function-Embeddable-0.02.tar.gz	ver:0.02	size:14153
+date:2015-06-17	repo:cpan	file:App-hr-0.07.tar.gz	ver:0.07	size:15561
