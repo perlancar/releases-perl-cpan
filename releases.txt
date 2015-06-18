@@ -5074,7 +5074,7 @@ date:2015-06-18	repo:cpan	file:Data-Section-Seekable-0.06.tar.gz	ver:0.06	size:1
 date:2015-06-18	repo:cpan	file:Test-Perinci-CmdLine-1.16.tar.gz	ver:1.16	size:14412
 date:2015-06-18	repo:cpan	file:Test-Perinci-CmdLine-1.17.tar.gz	ver:1.17	size:14538
 date:2015-06-18	repo:cpan	file:lib-filter-0.06.tar.gz	ver:0.06	size:16883
-date:2015-06-18	repo:cpan	file:Code-Embeddable-0.03.tar.gz	ver:0.03	size:14533
+date:2015-06-18	repo:cpan	file:Code-Embeddable-0.03.tar.gz	ver:0.03	size:14533	oldname:Function-Embeddable
 date:2015-06-18	repo:cpan	file:lib-filter-0.07.tar.gz	ver:0.07	size:16929
 date:2015-06-18	repo:cpan	file:Dist-Zilla-Plugin-InsertBlock-0.05.tar.gz	ver:0.05	size:14006
 date:2015-06-18	repo:cpan	file:Code-Embeddable-0.03.tar.gz	ver:0.03	size:15286
@@ -5094,3 +5094,4 @@ date:2015-06-18	repo:cpan	file:IPC-System-Options-0.13.tar.gz	ver:0.13	size:1559
 date:2015-06-18	repo:cpan	file:Test-Perinci-CmdLine-1.18.tar.gz	ver:1.18	size:14796
 date:2015-06-18	repo:cpan	file:Perinci-CmdLine-Inline-0.09.tar.gz	ver:0.09	size:26357
 date:2015-06-18	repo:cpan	file:Module-DataPack-0.04.tar.gz	ver:0.04	size:15705
+date:2015-06-18	repo:cpan	file:Data-Sah-0.67.tar.gz	ver:0.67	size:111257
