@@ -5095,3 +5095,13 @@ date:2015-06-18	repo:cpan	file:Test-Perinci-CmdLine-1.18.tar.gz	ver:1.18	size:14
 date:2015-06-18	repo:cpan	file:Perinci-CmdLine-Inline-0.09.tar.gz	ver:0.09	size:26357
 date:2015-06-18	repo:cpan	file:Module-DataPack-0.04.tar.gz	ver:0.04	size:15705
 date:2015-06-18	repo:cpan	file:Data-Sah-0.67.tar.gz	ver:0.67	size:111257
+date:2015-06-19	repo:cpan	file:App-BenchStartupModules-0.01.tar.gz	ver:0.01	size:13723
+date:2015-06-19	repo:cpan	file:Perinci-CmdLine-Lite-1.15.tar.gz	ver:1.15	size:63718
+date:2015-06-19	repo:cpan	file:Log-Any-Adapter-Screen-0.09.tar.gz	ver:0.09	size:15386
+date:2015-06-19	repo:cpan	file:App-CompleteUtils-0.06.tar.gz	ver:0.06	size:15685
+date:2015-06-19	repo:cpan	file:Perinci-CmdLine-Lite-1.16.tar.gz	ver:1.16	size:63715
+date:2015-06-19	repo:cpan	file:Getopt-Long-EvenLess-0.04.tar.gz	ver:0.04	size:16704
+date:2015-06-19	repo:cpan	file:Perinci-CmdLine-Inline-0.10.tar.gz	ver:0.10	size:26510
+date:2015-06-19	repo:cpan	file:App-BenchDateModules-0.01.tar.gz	ver:0.01	size:14416
+date:2015-06-19	repo:cpan	file:App-BenchDateModules-0.02.tar.gz	ver:0.02	size:14680
+date:2015-06-19	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.19.tar.gz	ver:0.19	size:17037
