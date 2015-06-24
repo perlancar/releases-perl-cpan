@@ -5105,3 +5105,5 @@ date:2015-06-19	repo:cpan	file:Perinci-CmdLine-Inline-0.10.tar.gz	ver:0.10	size:
 date:2015-06-19	repo:cpan	file:App-BenchDateModules-0.01.tar.gz	ver:0.01	size:14416
 date:2015-06-19	repo:cpan	file:App-BenchDateModules-0.02.tar.gz	ver:0.02	size:14680
 date:2015-06-19	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.19.tar.gz	ver:0.19	size:17037
+date:2015-06-24	repo:cpan	file:App-BenchTextTableModules-0.01.tar.gz	ver:0.01	size:17114
+date:2015-06-24	repo:cpan	file:lib-filter-0.09.tar.gz	ver:0.09	size:17135
