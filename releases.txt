@@ -5107,3 +5107,10 @@ date:2015-06-19	repo:cpan	file:App-BenchDateModules-0.02.tar.gz	ver:0.02	size:14
 date:2015-06-19	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.19.tar.gz	ver:0.19	size:17037
 date:2015-06-24	repo:cpan	file:App-BenchTextTableModules-0.01.tar.gz	ver:0.01	size:17114
 date:2015-06-24	repo:cpan	file:lib-filter-0.09.tar.gz	ver:0.09	size:17135
+date:2015-06-25	repo:cpan	file:lib-filter-0.10.tar.gz	ver:0.10	size:17756
+date:2015-06-26	repo:cpan	file:lib-filter-0.11.tar.gz	ver:0.11	size:17799
+date:2015-06-26	repo:cpan	file:Proc-ChildError-0.03.tar.gz	ver:0.03	size:13884
+date:2015-06-26	repo:cpan	file:IPC-System-Options-0.14.tar.gz	ver:0.14	size:16266
+date:2015-06-26	repo:cpan	file:IPC-System-Options-0.15.tar.gz	ver:0.15	size:16270
+date:2015-06-26	repo:cpan	file:IPC-System-Options-0.16.tar.gz	ver:0.16	size:16283
+date:2015-06-26	repo:cpan	file:lib-filter-0.12.tar.gz	ver:0.12	size:17865
