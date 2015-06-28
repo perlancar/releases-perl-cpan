@@ -5123,3 +5123,9 @@ date:2015-06-28	repo:cpan	file:lib-filter-0.14.tar.gz	ver:0.14	size:19477
 date:2015-06-28	repo:cpan	file:lib-filter-0.15.tar.gz	ver:0.15	size:19998
 date:2015-06-28	repo:cpan	file:lib-filter-0.16.tar.gz	ver:0.16	size:20066
 date:2015-06-28	repo:cpan	file:lib-filter-0.17.tar.gz	ver:0.17	size:20127
+date:2015-06-28	repo:cpan	file:App-fsql-0.19.tar.gz	ver:0.19	size:23245
+date:2015-06-28	repo:cpan	file:App-lcpan-0.42.tar.gz	ver:0.42	size:50365
+date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromCode-0.01.tar.gz	ver:0.01	size:13444
+date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromCommand-0.01.tar.gz	ver:0.01	size:13547
+date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.02.tar.gz	ver:0.02	size:13452
+date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.02.tar.gz	ver:0.02	size:13454
