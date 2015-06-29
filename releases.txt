@@ -5129,3 +5129,4 @@ date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromCode-0.01.tar.gz	ve
 date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromCommand-0.01.tar.gz	ver:0.01	size:13547
 date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.02.tar.gz	ver:0.02	size:13452
 date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.02.tar.gz	ver:0.02	size:13454
+date:2015-06-29	repo:cpan	file:App-BenchSerializers-0.01.tar.gz	ver:0.01	size:18974
