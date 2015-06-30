@@ -5139,3 +5139,6 @@ date:2015-06-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.02.tar.gz	ver:0.02	siz
 date:2015-06-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.03.tar.gz	ver:0.03	size:13051
 date:2015-06-30	repo:cpan	file:Pod-Weaver-Plugin-PERLANCAR-CPANLists-0.02.tar.gz	ver:0.02	size:13159
 date:2015-06-30	repo:cpan	file:App-fsql-0.20.tar.gz	ver:0.20	size:22999
+date:2015-06-30	repo:cpan	file:Perinci-CmdLine-Lite-1.17.tar.gz	ver:1.17	size:63814
+date:2015-06-30	repo:cpan	file:Perinci-CmdLine-Classic-1.52.tar.gz	ver:1.52	size:42911
+date:2015-06-30	repo:cpan	file:App-IndonesianBankingUtils-0.02.tar.gz	ver:0.02	size:18031
