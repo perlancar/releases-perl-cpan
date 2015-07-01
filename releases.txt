@@ -5131,3 +5131,14 @@ date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.02.tar.gz	ver:
 date:2015-06-28	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.02.tar.gz	ver:0.02	size:13454
 date:2015-06-29	repo:cpan	file:App-BenchSerializers-0.01.tar.gz	ver:0.01	size:18974
 date:2015-06-29	repo:cpan	file:lib-filter-0.18.tar.gz	ver:0.18	size:20035
+date:2015-06-30	repo:cpan	file:Dist-Zilla-Plugin-AddFile-FromFS-0.03.tar.gz	ver:0.03	size:13025
+date:2015-06-30	repo:cpan	file:lib-filter-0.19.tar.gz	ver:0.19	size:20502
+date:2015-06-30	repo:cpan	file:Pod-Weaver-Plugin-PERLANCAR-CPANLists-0.01.tar.gz	ver:0.01	size:13117
+date:2015-06-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.01.tar.gz	ver:0.01	size:12943
+date:2015-06-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.02.tar.gz	ver:0.02	size:13037
+date:2015-06-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.03.tar.gz	ver:0.03	size:13051
+date:2015-06-30	repo:cpan	file:Pod-Weaver-Plugin-PERLANCAR-CPANLists-0.02.tar.gz	ver:0.02	size:13159
+date:2015-06-30	repo:cpan	file:App-fsql-0.20.tar.gz	ver:0.20	size:22999
+date:2015-06-30	repo:cpan	file:Perinci-CmdLine-Lite-1.17.tar.gz	ver:1.17	size:63814
+date:2015-06-30	repo:cpan	file:Perinci-CmdLine-Classic-1.52.tar.gz	ver:1.52	size:42911
+date:2015-06-30	repo:cpan	file:App-IndonesianBankingUtils-0.02.tar.gz	ver:0.02	size:18031
