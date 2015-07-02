@@ -5167,3 +5167,17 @@ date:2015-07-01	repo:cpan	file:Business-ID-NIK-0.06.tar.gz	ver:0.06	size:17497
 date:2015-07-01	repo:cpan	file:Locale-ID-Locality-0.07.tar.gz	ver:0.07	size:24071
 date:2015-07-02	repo:cpan	file:App-pause-0.37.tar.gz	ver:0.37	size:327290
 date:2015-07-02	repo:cpan	file:App-lcpan-0.44.tar.gz	ver:0.44	size:50825
+date:2015-07-02	repo:cpan	file:App-lcpan-0.45.tar.gz	ver:0.45	size:51252
+date:2015-07-02	repo:cpan	file:App-lcpan-0.46.tar.gz	ver:0.46	size:51289
+date:2015-07-02	repo:cpan	file:App-pause-0.38.tar.gz	ver:0.38	size:326121
+date:2015-07-02	repo:cpan	file:App-GenPericmdScript-0.08.tar.gz	ver:0.08	size:22051
+date:2015-07-02	repo:cpan	file:Dist-Zilla-Plugin-InsertBlock-0.06.tar.gz	ver:0.06	size:14263
+date:2015-07-02	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.14.tar.gz	ver:0.14	size:16019
+date:2015-07-02	repo:cpan	file:App-GenPericmdScript-0.09.tar.gz	ver:0.09	size:22216
+date:2015-07-02	repo:cpan	file:Perinci-CmdLine-Inline-0.11.tar.gz	ver:0.11	size:27077
+date:2015-07-02	repo:cpan	file:Perinci-CmdLine-Inline-0.12.tar.gz	ver:0.12	size:27170
+date:2015-07-02	repo:cpan	file:App-GenPericmdScript-0.10.tar.gz	ver:0.10	size:22315
+date:2015-07-02	repo:cpan	file:App-hr-0.10.tar.gz	ver:0.10	size:21747
+date:2015-07-02	repo:cpan	file:Perinci-CmdLine-Inline-0.13.tar.gz	ver:0.13	size:27329
+date:2015-07-02	repo:cpan	file:App-hr-0.11.tar.gz	ver:0.11	size:21809
+date:2015-07-02	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.15.tar.gz	ver:0.15	size:16052
