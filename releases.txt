@@ -5165,3 +5165,5 @@ date:2015-07-01	repo:cpan	file:App-IODUtils-0.09.tar.gz	ver:0.09	size:19038
 date:2015-07-01	repo:cpan	file:Unix-Passwd-File-0.20.tar.gz	ver:0.20	size:35843
 date:2015-07-01	repo:cpan	file:Business-ID-NIK-0.06.tar.gz	ver:0.06	size:17497
 date:2015-07-01	repo:cpan	file:Locale-ID-Locality-0.07.tar.gz	ver:0.07	size:24071
+date:2015-07-02	repo:cpan	file:App-pause-0.37.tar.gz	ver:0.37	size:327290
+date:2015-07-02	repo:cpan	file:App-lcpan-0.44.tar.gz	ver:0.44	size:50825
