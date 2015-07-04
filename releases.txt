@@ -5190,3 +5190,6 @@ date:2015-07-03	repo:cpan	file:App-depak-0.41.tar.gz	ver:0.41	size:30489	oldname
 date:2015-07-04	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.21.tar.gz	ver:0.21	size:19591
 date:2015-07-04	repo:cpan	file:Perinci-CmdLine-Help-0.07.tar.gz	ver:0.07	size:14924
 date:2015-07-04	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.41.tar.gz	ver:0.41	size:20766
+date:2015-07-04	repo:cpan	file:Dist-Zilla-Plugin-OurDist-0.02.tar.gz	ver:0.02	size:13464
+date:2015-07-04	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-OurPkgVersion-0.04.tar.gz	ver:0.04	size:13635
+date:2015-07-04	repo:cpan	file:Dist-Zilla-Plugin-OurDate-0.03.tar.gz	ver:0.03	size:13562
