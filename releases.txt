@@ -5187,3 +5187,6 @@ date:2015-07-03	repo:cpan	file:App-FatPackUtils-0.03.tar.gz	ver:0.03	size:16574
 date:2015-07-03	repo:cpan	file:IPC-System-Options-0.17.tar.gz	ver:0.17	size:15795
 date:2015-07-03	repo:cpan	file:Test-Perinci-CmdLine-1.19.tar.gz	ver:1.19	size:14845
 date:2015-07-03	repo:cpan	file:App-depak-0.41.tar.gz	ver:0.41	size:30489	oldname:App-fatten
+date:2015-07-04	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.21.tar.gz	ver:0.21	size:19591
+date:2015-07-04	repo:cpan	file:Perinci-CmdLine-Help-0.07.tar.gz	ver:0.07	size:14924
+date:2015-07-04	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.41.tar.gz	ver:0.41	size:20766
