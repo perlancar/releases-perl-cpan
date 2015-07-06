@@ -5199,3 +5199,16 @@ date:2015-07-05	repo:cpan	file:App-depak-0.42.tar.gz	ver:0.42	size:32364
 date:2015-07-05	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.09.tar.gz	ver:0.09	size:15793
 date:2015-07-05	repo:cpan	file:App-pause-0.39.tar.gz	ver:0.39	size:321472
 date:2015-07-05	repo:cpan	file:Module-DataPack-0.07.tar.gz	ver:0.07	size:15888
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.02.tar.gz	ver:0.02	size:14319
+date:2015-07-06	repo:cpan	file:App-hr-0.12.tar.gz	ver:0.12	size:23953
+date:2015-07-06	repo:cpan	file:Perinci-CmdLine-Inline-0.14.tar.gz	ver:0.14	size:28969
+date:2015-07-06	repo:cpan	file:App-hr-0.13.tar.gz	ver:0.13	size:23972
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Role-PERLANCAR-WriteModules-0.01.tar.gz	ver:0.01	size:14194
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.10.tar.gz	ver:0.10	size:16234
+date:2015-07-06	repo:cpan	file:App-GenPericmdScript-0.11.tar.gz	ver:0.11	size:23490
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.16.tar.gz	ver:0.16	size:16888
+date:2015-07-06	repo:cpan	file:App-hr-0.14.tar.gz	ver:0.14	size:23753
+date:2015-07-06	repo:cpan	file:App-pause-0.40.tar.gz	ver:0.40	size:323870
+date:2015-07-06	repo:cpan	file:Perinci-CmdLine-Lite-1.18.tar.gz	ver:1.18	size:64818
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.16.tar.gz	ver:0.16	size:16974
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.17.tar.gz	ver:0.17	size:17039
