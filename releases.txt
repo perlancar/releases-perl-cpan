@@ -5212,3 +5212,5 @@ date:2015-07-06	repo:cpan	file:App-pause-0.40.tar.gz	ver:0.40	size:323870
 date:2015-07-06	repo:cpan	file:Perinci-CmdLine-Lite-1.18.tar.gz	ver:1.18	size:64818
 date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.16.tar.gz	ver:0.16	size:16974
 date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.17.tar.gz	ver:0.17	size:17039
+date:2015-07-06	repo:cpan	file:Perinci-CmdLine-Lite-1.19.tar.gz	ver:1.19	size:64403
+date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.11.tar.gz	ver:0.11	size:15551
