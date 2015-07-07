@@ -5217,3 +5217,14 @@ date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.16.tar.gz	ve
 date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.17.tar.gz	ver:0.17	size:17039
 date:2015-07-06	repo:cpan	file:Perinci-CmdLine-Lite-1.19.tar.gz	ver:1.19	size:64403
 date:2015-07-06	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.11.tar.gz	ver:0.11	size:15551
+date:2015-07-07	repo:cpan	file:Perinci-To-Doc-0.61.tar.gz	ver:0.61	size:32876
+date:2015-07-07	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AbstractFromMeta-0.07.tar.gz	ver:0.07	size:15420
+date:2015-07-07	repo:cpan	file:Pod-Weaver-Role-DumpPerinciCmdLineScript-0.03.tar.gz	ver:0.03	size:12892
+date:2015-07-07	repo:cpan	file:App-pause-Unpacked-0.01.tar.gz	ver:0.01	size:16448
+date:2015-07-07	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AbstractFromMeta-0.08.tar.gz	ver:0.08	size:15458
+date:2015-07-07	repo:cpan	file:Perinci-CmdLine-Lite-1.20.tar.gz	ver:1.20	size:64144
+date:2015-07-07	repo:cpan	file:WWW-PAUSE-Simple-0.23.tar.gz	ver:0.23	size:20273
+date:2015-07-07	repo:cpan	file:App-pause-0.41.tar.gz	ver:0.41	size:324089
+date:2015-07-07	repo:cpan	file:App-pause-Unpacked-0.02.tar.gz	ver:0.02	size:16836
+date:2015-07-07	repo:cpan	file:App-depak-0.43.tar.gz	ver:0.43	size:30778
+date:2015-07-07	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.12.tar.gz	ver:0.12	size:15657
