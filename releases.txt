@@ -5228,3 +5228,5 @@ date:2015-07-07	repo:cpan	file:App-pause-0.41.tar.gz	ver:0.41	size:324089
 date:2015-07-07	repo:cpan	file:App-pause-Unpacked-0.02.tar.gz	ver:0.02	size:16836
 date:2015-07-07	repo:cpan	file:App-depak-0.43.tar.gz	ver:0.43	size:30778
 date:2015-07-07	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.12.tar.gz	ver:0.12	size:15657
+date:2015-07-07	repo:cpan	file:WWW-PAUSE-Simple-0.24.tar.gz	ver:0.24	size:20300
+date:2015-07-07	repo:cpan	file:App-pause-0.42.tar.gz	ver:0.42	size:324103
