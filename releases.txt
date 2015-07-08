@@ -5230,3 +5230,10 @@ date:2015-07-07	repo:cpan	file:App-depak-0.43.tar.gz	ver:0.43	size:30778
 date:2015-07-07	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.12.tar.gz	ver:0.12	size:15657
 date:2015-07-07	repo:cpan	file:WWW-PAUSE-Simple-0.24.tar.gz	ver:0.24	size:20300
 date:2015-07-07	repo:cpan	file:App-pause-0.42.tar.gz	ver:0.42	size:324103
+date:2015-07-08	repo:cpan	file:Data-Sah-0.69.tar.gz	ver:0.69	size:112099
+date:2015-07-08	repo:cpan	file:Perinci-CmdLine-Lite-1.21.tar.gz	ver:1.21	size:64333
+date:2015-07-08	repo:cpan	file:Module-DataPack-0.08.tar.gz	ver:0.08	size:16025
+date:2015-07-08	repo:cpan	file:Perinci-CmdLine-Classic-1.53.tar.gz	ver:1.53	size:42999
+date:2015-07-08	repo:cpan	file:Perinci-CmdLine-Inline-0.15.tar.gz	ver:0.15	size:27800
+date:2015-07-08	repo:cpan	file:App-GenPericmdScript-0.12.tar.gz	ver:0.12	size:22578
+date:2015-07-08	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.18.tar.gz	ver:0.18	size:16513
