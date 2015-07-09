@@ -5237,3 +5237,5 @@ date:2015-07-08	repo:cpan	file:Perinci-CmdLine-Classic-1.53.tar.gz	ver:1.53	size
 date:2015-07-08	repo:cpan	file:Perinci-CmdLine-Inline-0.15.tar.gz	ver:0.15	size:27800
 date:2015-07-08	repo:cpan	file:App-GenPericmdScript-0.12.tar.gz	ver:0.12	size:22578
 date:2015-07-08	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.18.tar.gz	ver:0.18	size:16513
+date:2015-07-09	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.03.tar.gz	ver:0.03	size:13859
+date:2015-07-09	repo:cpan	file:App-pause-FatPacked-0.01.tar.gz	ver:0.01	size:326492
