@@ -5260,3 +5260,4 @@ date:2015-07-10	repo:cpan	file:App-IndonesianFinanceUtils-0.02.tar.gz	ver:0.02	s
 date:2015-07-10	repo:cpan	file:App-IndonesianLocaleUtils-0.01.tar.gz	ver:0.01	size:17781
 date:2015-07-10	repo:cpan	file:App-IndonesianNumberUtils-0.01.tar.gz	ver:0.01	size:13811
 date:2015-07-10	repo:cpan	file:Finance-Currency-Convert-KlikBCA-0.08.tar.gz	ver:0.08	size:23602
+date:2015-07-10	repo:cpan	file:Perinci-Access-Lite-0.10.tar.gz	ver:0.10	size:16587
