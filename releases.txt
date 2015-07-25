@@ -5282,3 +5282,4 @@ date:2015-07-22	repo:cpan	file:App-pastel-0.01.tar.gz	ver:0.01	size:14331
 date:2015-07-22	repo:cpan	file:App-chalk-0.04.tar.gz	ver:0.04	size:15585
 date:2015-07-25	repo:cpan	file:Calendar-Indonesia-Holiday-0.25.tar.gz	ver:0.25	size:24315
 date:2015-07-25	repo:cpan	file:Git-Bunch-0.45.tar.gz	ver:0.45	size:32781
+date:2015-07-25	repo:cpan	file:Git-Bunch-0.46.tar.gz	ver:0.46	size:33558
