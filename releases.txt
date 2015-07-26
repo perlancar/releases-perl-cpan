@@ -5285,3 +5285,10 @@ date:2015-07-25	repo:cpan	file:Git-Bunch-0.45.tar.gz	ver:0.45	size:32781
 date:2015-07-25	repo:cpan	file:Git-Bunch-0.46.tar.gz	ver:0.46	size:33558
 date:2015-07-25	repo:cpan	file:App-lens-0.01.tar.gz	ver:0.01	size:14186
 date:2015-07-25	repo:cpan	file:Perinci-Examples-0.55.tar.gz	ver:0.55	size:35687
+date:2015-07-26	repo:cpan	file:Mooish-0.01.tar.gz	ver:0.01	size:12641
+date:2015-07-26	repo:cpan	file:Devel-Caller-Util-0.01.tar.gz	ver:0.01	size:13118
+date:2015-07-26	repo:cpan	file:Devel-Caller-Util-0.02.tar.gz	ver:0.02	size:13643
+date:2015-07-26	repo:cpan	file:Devel-Caller-Util-0.03.tar.gz	ver:0.03	size:13684
+date:2015-07-26	repo:cpan	file:Mooish-Caller-Util-0.01.tar.gz	ver:0.01	size:15375
+date:2015-07-26	repo:cpan	file:Mooish-Caller-Util-0.02.tar.gz	ver:0.02	size:15402
+date:2015-07-26	repo:cpan	file:Mooish-Caller-Util-0.03.tar.gz	ver:0.03	size:15501
