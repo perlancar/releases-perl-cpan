@@ -5310,3 +5310,4 @@ date:2015-07-27	repo:cpan	file:Acme-PERLANCAR-Test-0.27.tar.gz	ver:0.27	size:148
 date:2015-07-27	repo:cpan	file:Mooish-Caller-Util-0.04.tar.gz	ver:0.04	size:15736
 date:2015-07-27	repo:cpan	file:LWP-UserAgent-Patch-FilterMirror-0.05.tar.gz	ver:0.05	size:14323
 date:2015-07-27	repo:cpan	file:App-lcpan-0.47.tar.gz	ver:0.47	size:52745
+date:2015-07-27	repo:cpan	file:App-depak-0.45.tar.gz	ver:0.45	size:32999
