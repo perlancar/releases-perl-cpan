@@ -5311,3 +5311,10 @@ date:2015-07-27	repo:cpan	file:Mooish-Caller-Util-0.04.tar.gz	ver:0.04	size:1573
 date:2015-07-27	repo:cpan	file:LWP-UserAgent-Patch-FilterMirror-0.05.tar.gz	ver:0.05	size:14323
 date:2015-07-27	repo:cpan	file:App-lcpan-0.47.tar.gz	ver:0.47	size:52745
 date:2015-07-27	repo:cpan	file:App-depak-0.45.tar.gz	ver:0.45	size:32999
+date:2015-07-27	repo:cpan	file:Mooish-Caller-Util-0.05.tar.gz	ver:0.05	size:15832
+date:2015-07-28	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.04.tar.gz	ver:0.04	size:14865
+date:2015-07-28	repo:cpan	file:App-pause-FatPacked-0.44.tar.gz	ver:0.44	size:320826
+date:2015-07-28	repo:cpan	file:App-pause-Unpacked-0.44.tar.gz	ver:0.44	size:17890
+date:2015-07-28	repo:cpan	file:Perinci-CmdLine-Lite-1.23.tar.gz	ver:1.23	size:66522
+date:2015-07-28	repo:cpan	file:Perinci-CmdLine-Lite-1.24.tar.gz	ver:1.24	size:66649
+date:2015-07-28	repo:cpan	file:App-pause-0.45.tar.gz	ver:0.45	size:321850
