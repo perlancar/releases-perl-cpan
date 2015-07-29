@@ -5261,3 +5261,6 @@ date:2015-07-10	repo:cpan	file:App-IndonesianLocaleUtils-0.01.tar.gz	ver:0.01	si
 date:2015-07-10	repo:cpan	file:App-IndonesianNumberUtils-0.01.tar.gz	ver:0.01	size:13811
 date:2015-07-10	repo:cpan	file:Finance-Currency-Convert-KlikBCA-0.08.tar.gz	ver:0.08	size:23602
 date:2015-07-10	repo:cpan	file:Perinci-Access-Lite-0.10.tar.gz	ver:0.10	size:16587
+date:2015-07-18	repo:cpan	file:App-CheckModuleVersion-0.02.tar.gz	ver:0.02	size:13217
+date:2015-07-18	repo:cpan	file:App-CheckModuleVersion-0.03.tar.gz	ver:0.03	size:15407
+date:2015-07-29	repo:cpan	file:Text-WideChar-Util-0.16.tar.gz	ver:0.16	size:21374
