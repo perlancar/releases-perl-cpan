@@ -5321,3 +5321,5 @@ date:2015-07-28	repo:cpan	file:Perinci-CmdLine-Lite-1.23.tar.gz	ver:1.23	size:66
 date:2015-07-28	repo:cpan	file:Perinci-CmdLine-Lite-1.24.tar.gz	ver:1.24	size:66649
 date:2015-07-28	repo:cpan	file:App-pause-0.45.tar.gz	ver:0.45	size:321850
 date:2015-07-29	repo:cpan	file:Text-WideChar-Util-0.16.tar.gz	ver:0.16	size:21374
+date:2015-07-30	repo:cpan	file:App-nauniq-0.08.tar.gz	ver:0.08	size:18185
+date:2015-07-30	repo:cpan	file:App-nauniq-0.09.tar.gz	ver:0.09	size:18178
