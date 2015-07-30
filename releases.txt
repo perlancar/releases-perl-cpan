@@ -5337,3 +5337,8 @@ date:2015-07-30	repo:cpan	file:Perinci-CmdLine-Dump-0.05.tar.gz	ver:0.05	size:15
 date:2015-07-30	repo:cpan	file:Pod-Weaver-Section-Completion-PerinciCmdLine-0.11.tar.gz	ver:0.11	size:13617
 date:2015-07-30	repo:cpan	file:App-hr-0.18.tar.gz	ver:0.18	size:23796
 date:2015-07-30	repo:cpan	file:App-CheckModuleVersion-0.07.tar.gz	ver:0.07	size:20858
+date:2015-07-30	repo:cpan	file:App-nauniq-0.08.tar.gz	ver:0.08	size:18185
+date:2015-07-30	repo:cpan	file:App-nauniq-0.09.tar.gz	ver:0.09	size:18178
+date:2015-07-30	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.22.tar.gz	ver:0.22	size:17300
+date:2015-07-30	repo:cpan	file:App-hr-0.19.tar.gz	ver:0.19	size:24576
+date:2015-07-30	repo:cpan	file:Mooish-Caller-Util-0.06.tar.gz	ver:0.06	size:15636
