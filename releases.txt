@@ -5345,3 +5345,8 @@ date:2015-07-30	repo:cpan	file:Mooish-Caller-Util-0.06.tar.gz	ver:0.06	size:1563
 date:2015-07-30	repo:cpan	file:App-CheckModuleVersion-0.08.tar.gz	ver:0.08	size:20903
 date:2015-07-31	repo:cpan	file:Perinci-CmdLine-Inline-0.18.tar.gz	ver:0.18	size:28107
 date:2015-07-31	repo:cpan	file:Module-CheckVersion-0.03.tar.gz	ver:0.03	size:22315
+date:2015-08-01	repo:cpan	file:Module-DataPack-0.09.tar.gz	ver:0.09	size:16073
+date:2015-08-01	repo:cpan	file:App-depak-0.46.tar.gz	ver:0.46	size:32873
+date:2015-08-01	repo:cpan	file:Test-Perinci-CmdLine-1.21.tar.gz	ver:1.21	size:15354
+date:2015-08-01	repo:cpan	file:Perinci-CmdLine-Inline-0.19.tar.gz	ver:0.19	size:29264
+date:2015-08-02	repo:cpan	file:App-BenchPerinci-0.01.tar.gz	ver:0.01	size:14110
