@@ -5351,3 +5351,7 @@ date:2015-08-01	repo:cpan	file:Test-Perinci-CmdLine-1.21.tar.gz	ver:1.21	size:15
 date:2015-08-01	repo:cpan	file:Perinci-CmdLine-Inline-0.19.tar.gz	ver:0.19	size:29264
 date:2015-08-02	repo:cpan	file:App-BenchPerinci-0.01.tar.gz	ver:0.01	size:14110
 date:2015-08-06	repo:cpan	file:App-PMUtils-0.47.tar.gz	ver:0.47	size:29215
+date:2015-08-06	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.03.tar.gz	ver:0.03	size:23457
+date:2015-08-06	repo:cpan	file:Complete-Number-0.01.tar.gz	ver:0.01	size:13831
+date:2015-08-06	repo:cpan	file:App-ShellCompleter-mpv-0.01.tar.gz	ver:0.01	size:25135
+date:2015-08-06	repo:cpan	file:App-ShellCompleter-mpv-0.02.tar.gz	ver:0.02	size:25199
