@@ -5350,3 +5350,4 @@ date:2015-08-01	repo:cpan	file:App-depak-0.46.tar.gz	ver:0.46	size:32873
 date:2015-08-01	repo:cpan	file:Test-Perinci-CmdLine-1.21.tar.gz	ver:1.21	size:15354
 date:2015-08-01	repo:cpan	file:Perinci-CmdLine-Inline-0.19.tar.gz	ver:0.19	size:29264
 date:2015-08-02	repo:cpan	file:App-BenchPerinci-0.01.tar.gz	ver:0.01	size:14110
+date:2015-08-06	repo:cpan	file:App-PMUtils-0.47.tar.gz	ver:0.47	size:29215
