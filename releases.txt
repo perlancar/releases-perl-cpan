@@ -5355,3 +5355,4 @@ date:2015-08-06	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.03.tar.gz	ver:0.03
 date:2015-08-06	repo:cpan	file:Complete-Number-0.01.tar.gz	ver:0.01	size:13831
 date:2015-08-06	repo:cpan	file:App-ShellCompleter-mpv-0.01.tar.gz	ver:0.01	size:25135
 date:2015-08-06	repo:cpan	file:App-ShellCompleter-mpv-0.02.tar.gz	ver:0.02	size:25199
+date:2015-08-10	repo:cpan	file:DateTime-Format-Indonesian-0.03.tar.gz	ver:0.03	size:14390
