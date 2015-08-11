@@ -5361,3 +5361,12 @@ date:2015-08-09	repo:cpan	file:Perinci-CmdLine-Lite-1.25.tar.gz	ver:1.25	size:66
 date:2015-08-09	repo:cpan	file:Perinci-CmdLine-Lite-1.26.tar.gz	ver:1.26	size:66362
 date:2015-08-09	repo:cpan	file:App-ruler-0.02.tar.gz	ver:0.02	size:16668
 date:2015-08-10	repo:cpan	file:DateTime-Format-Indonesian-0.03.tar.gz	ver:0.03	size:14390
+date:2015-08-11	repo:cpan	file:PERLANCAR-Module-List-0.003001.tar.gz	ver:0.003001	size:13420
+date:2015-08-11	repo:cpan	file:App-lcpan-0.48.tar.gz	ver:0.48	size:51658
+date:2015-08-11	repo:cpan	file:App-lcpan-0.49.tar.gz	ver:0.49	size:51730
+date:2015-08-11	repo:cpan	file:Complete-Util-0.32.tar.gz	ver:0.32	size:21839
+date:2015-08-11	repo:cpan	file:Perinci-Sub-Complete-0.80.tar.gz	ver:0.80	size:28385
+date:2015-08-11	repo:cpan	file:App-lcpan-0.50.tar.gz	ver:0.50	size:51574
+date:2015-08-11	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.04.tar.gz	ver:0.04	size:23778
+date:2015-08-11	repo:cpan	file:ShellCompleter-Util-0.01.tar.gz	ver:0.01	size:12964
+date:2015-08-11	repo:cpan	file:App-ShellCompleter-mpv-0.03.tar.gz	ver:0.03	size:25195
