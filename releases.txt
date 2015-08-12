@@ -5370,3 +5370,6 @@ date:2015-08-11	repo:cpan	file:App-lcpan-0.50.tar.gz	ver:0.50	size:51574
 date:2015-08-11	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.04.tar.gz	ver:0.04	size:23778
 date:2015-08-11	repo:cpan	file:ShellCompleter-Util-0.01.tar.gz	ver:0.01	size:12964
 date:2015-08-11	repo:cpan	file:App-ShellCompleter-mpv-0.03.tar.gz	ver:0.03	size:25195
+date:2015-08-12	repo:cpan	file:Text-ANSI-Util-0.17.tar.gz	ver:0.17	size:30233
+date:2015-08-12	repo:cpan	file:Text-ANSI-Util-0.18.tar.gz	ver:0.18	size:30889
+date:2015-08-12	repo:cpan	file:App-ruler-0.03.tar.gz	ver:0.03	size:16665
