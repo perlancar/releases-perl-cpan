@@ -5373,3 +5373,5 @@ date:2015-08-11	repo:cpan	file:App-ShellCompleter-mpv-0.03.tar.gz	ver:0.03	size:
 date:2015-08-12	repo:cpan	file:Text-ANSI-Util-0.17.tar.gz	ver:0.17	size:30233
 date:2015-08-12	repo:cpan	file:Text-ANSI-Util-0.18.tar.gz	ver:0.18	size:30889
 date:2015-08-12	repo:cpan	file:App-ruler-0.03.tar.gz	ver:0.03	size:16665
+date:2015-08-13	repo:cpan	file:Text-ANSI-Util-0.19.tar.gz	ver:0.19	size:31418
+date:2015-08-13	repo:cpan	file:App-ruler-0.04.tar.gz	ver:0.04	size:16893
