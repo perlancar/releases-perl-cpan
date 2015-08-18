@@ -5437,3 +5437,7 @@ date:2015-08-17	repo:cpan	file:MarpaX-Simple-0.05.tar.gz	ver:0.05	size:15452
 date:2015-08-17	repo:cpan	file:Media-Info-Mplayer-0.04.tar.gz	ver:0.04	size:14647
 date:2015-08-17	repo:cpan	file:Module-Patch-0.22.tar.gz	ver:0.22	size:20869
 date:2015-08-17	repo:cpan	file:Net-HTTP-Methods-Patch-LogRequest-0.09.tar.gz	ver:0.09	size:14422
+date:2015-08-18	repo:cpan	file:App-BenchStartupCompleters-0.01.tar.gz	ver:0.01	size:14427
+date:2015-08-18	repo:cpan	file:Config-IOD-0.17.tar.gz	ver:0.17	size:24998
+date:2015-08-18	repo:cpan	file:Config-IOD-0.18.tar.gz	ver:0.18	size:25298
+date:2015-08-18	repo:cpan	file:App-LintPrereqs-0.28.tar.gz	ver:0.28	size:21421
