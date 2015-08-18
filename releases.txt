@@ -5474,3 +5474,12 @@ date:2015-08-18	repo:cpan	file:SyntaxHighlight-Any-0.06.tar.gz	ver:0.06	size:166
 date:2015-08-18	repo:cpan	file:Test-WithDB-0.06.tar.gz	ver:0.06	size:17321
 date:2015-08-18	repo:cpan	file:Text-ANSITable-0.41.tar.gz	ver:0.41	size:55125
 date:2015-08-18	repo:cpan	file:Text-Fragment-0.07.tar.gz	ver:0.07	size:21233
+date:2015-08-18	repo:cpan	file:IOD-Examples-0.16.tar.gz	ver:0.16	size:22293
+date:2015-08-18	repo:cpan	file:Config-IOD-0.19.tar.gz	ver:0.19	size:25414
+date:2015-08-18	repo:cpan	file:App-CalId-0.10.tar.gz	ver:0.10	size:17709
+date:2015-08-18	repo:cpan	file:App-CompleteCLIs-0.03.tar.gz	ver:0.03	size:22599
+date:2015-08-18	repo:cpan	file:App-CompleteUtils-0.08.tar.gz	ver:0.08	size:15886
+date:2015-08-18	repo:cpan	file:App-CreateSelfSignedSSLCert-0.11.tar.gz	ver:0.11	size:17828
+date:2015-08-18	repo:cpan	file:App-CreateSparseFile-0.05.tar.gz	ver:0.05	size:16635
+date:2015-08-18	repo:cpan	file:App-dateseq-0.03.tar.gz	ver:0.03	size:16915
+date:2015-08-18	repo:cpan	file:App-depak-0.48.tar.gz	ver:0.48	size:31310
