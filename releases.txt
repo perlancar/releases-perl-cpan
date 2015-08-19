@@ -5483,3 +5483,12 @@ date:2015-08-18	repo:cpan	file:App-CreateSelfSignedSSLCert-0.11.tar.gz	ver:0.11	
 date:2015-08-18	repo:cpan	file:App-CreateSparseFile-0.05.tar.gz	ver:0.05	size:16635
 date:2015-08-18	repo:cpan	file:App-dateseq-0.03.tar.gz	ver:0.03	size:16915
 date:2015-08-18	repo:cpan	file:App-depak-0.48.tar.gz	ver:0.48	size:31310
+date:2015-08-19	repo:cpan	file:Perinci-Tx-Manager-0.52.tar.gz	ver:0.52	size:36592
+date:2015-08-19	repo:cpan	file:App-CompleteCLIs-0.04.tar.gz	ver:0.04	size:22675
+date:2015-08-19	repo:cpan	file:App-GenPericmdCompleterScript-0.01.tar.gz	ver:0.01	size:19520
+date:2015-08-19	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.69.tar.gz	ver:0.69	size:33089
+date:2015-08-19	repo:cpan	file:App-GenPericmdCompleterScript-0.02.tar.gz	ver:0.02	size:19954
+date:2015-08-19	repo:cpan	file:App-GenPericmdCompleterScript-0.03.tar.gz	ver:0.03	size:20039
+date:2015-08-19	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.23.tar.gz	ver:0.23	size:17592
+date:2015-08-19	repo:cpan	file:App-hr-0.20.tar.gz	ver:0.20	size:162330
+date:2015-08-19	repo:cpan	file:Module-CheckVersion-0.04.tar.gz	ver:0.04	size:161316
