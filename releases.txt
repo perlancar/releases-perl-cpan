@@ -5492,3 +5492,7 @@ date:2015-08-19	repo:cpan	file:App-GenPericmdCompleterScript-0.03.tar.gz	ver:0.0
 date:2015-08-19	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.23.tar.gz	ver:0.23	size:17592
 date:2015-08-19	repo:cpan	file:App-hr-0.20.tar.gz	ver:0.20	size:162330
 date:2015-08-19	repo:cpan	file:Module-CheckVersion-0.04.tar.gz	ver:0.04	size:161316
+date:2015-08-19	repo:cpan	file:App-GenPericmdCompleterScript-0.04.tar.gz	ver:0.04	size:20019
+date:2015-08-19	repo:cpan	file:App-hr-0.21.tar.gz	ver:0.21	size:80352
+date:2015-08-19	repo:cpan	file:Module-CheckVersion-0.05.tar.gz	ver:0.05	size:79351
+date:2015-08-19	repo:cpan	file:App-BenchStartupCompleters-0.02.tar.gz	ver:0.02	size:14132
