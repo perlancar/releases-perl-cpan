@@ -5496,3 +5496,8 @@ date:2015-08-19	repo:cpan	file:App-GenPericmdCompleterScript-0.04.tar.gz	ver:0.0
 date:2015-08-19	repo:cpan	file:App-hr-0.21.tar.gz	ver:0.21	size:80352
 date:2015-08-19	repo:cpan	file:Module-CheckVersion-0.05.tar.gz	ver:0.05	size:79351
 date:2015-08-19	repo:cpan	file:App-BenchStartupCompleters-0.02.tar.gz	ver:0.02	size:14132
+date:2015-08-20	repo:cpan	file:Text-ANSI-WideUtil-0.20.tar.gz	ver:0.20	size:13351
+date:2015-08-20	repo:cpan	file:Text-ANSI-Util-0.20.tar.gz	ver:0.20	size:31564
+date:2015-08-20	repo:cpan	file:Text-ANSI-WideUtil-0.21.tar.gz	ver:0.21	size:13638
+date:2015-08-20	repo:cpan	file:Text-ANSI-Util-0.21.tar.gz	ver:0.21	size:31725
+date:2015-08-20	repo:cpan	file:App-hr-0.22.tar.gz	ver:0.22	size:81161
