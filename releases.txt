@@ -5513,3 +5513,7 @@ date:2015-08-26	repo:cpan	file:Pod-Weaver-Role-SectionText-HasCompletion-0.03.ta
 date:2015-08-26	repo:cpan	file:App-hr-0.23.tar.gz	ver:0.23	size:26393
 date:2015-08-26	repo:cpan	file:Module-CheckVersion-0.06.tar.gz	ver:0.06	size:24448
 date:2015-08-26	repo:cpan	file:Module-CheckVersion-0.06.tar.gz	ver:0.06	size:24450
+date:2015-08-31	repo:cpan	file:App-LintPrereqs-0.31.tar.gz	ver:0.31	size:21997
+date:2015-08-31	repo:cpan	file:Dist-Zilla-Plugin-Lump-0.09.tar.gz	ver:0.09	size:17908
+date:2015-08-31	repo:cpan	file:Dist-Zilla-Plugin-InsertExecsList-0.02.tar.gz	ver:0.02	size:13962
+date:2015-08-31	repo:cpan	file:App-UuidUtils-0.01.tar.gz	ver:0.01	size:78283
