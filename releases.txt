@@ -5501,3 +5501,8 @@ date:2015-08-20	repo:cpan	file:Text-ANSI-Util-0.20.tar.gz	ver:0.20	size:31564
 date:2015-08-20	repo:cpan	file:Text-ANSI-WideUtil-0.21.tar.gz	ver:0.21	size:13638
 date:2015-08-20	repo:cpan	file:Text-ANSI-Util-0.21.tar.gz	ver:0.21	size:31725
 date:2015-08-20	repo:cpan	file:App-hr-0.22.tar.gz	ver:0.22	size:81161
+date:2015-08-24	repo:cpan	file:App-BenchStartupPauseClis-0.01.tar.gz	ver:0.01	size:14196
+date:2015-08-29	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.20.tar.gz	ver:0.20	size:17242
+date:2015-08-29	repo:cpan	file:File-Copy-Undoable-0.08.tar.gz	ver:0.08	size:16704
+date:2015-08-29	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.21.tar.gz	ver:0.21	size:17255
+date:2015-08-29	repo:cpan	file:Finance-Bank-ID-BCA-0.39.tar.gz	ver:0.39	size:32528
