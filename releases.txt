@@ -5524,3 +5524,7 @@ date:2015-08-31	repo:cpan	file:Dist-Zilla-Plugin-InsertExecsList-0.02.tar.gz	ver
 date:2015-08-31	repo:cpan	file:App-UuidUtils-0.01.tar.gz	ver:0.01	size:78283
 date:2015-09-03	repo:cpan	file:Number-Closest-NonOO-0.04.tar.gz	ver:0.04	size:15014
 date:2015-09-03	repo:cpan	file:Perinci-Object-0.22.tar.gz	ver:0.22	size:20988
+date:2015-09-03	repo:cpan	file:Number-Closest-NonOO-0.05.tar.gz	ver:0.05	size:15125
+date:2015-09-03	repo:cpan	file:Rinci-1.1.78.tar.gz	ver:1.1.78	size:57794
+date:2015-09-03	repo:cpan	file:Sah-0.9.38.tar.gz	ver:0.9.38	size:79503
+date:2015-09-03	repo:cpan	file:DefHash-1.0.11.tar.gz	ver:1.0.11	size:17105
