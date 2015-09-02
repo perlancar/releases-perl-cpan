@@ -5522,3 +5522,5 @@ date:2015-08-31	repo:cpan	file:App-LintPrereqs-0.31.tar.gz	ver:0.31	size:21997
 date:2015-08-31	repo:cpan	file:Dist-Zilla-Plugin-Lump-0.09.tar.gz	ver:0.09	size:17908
 date:2015-08-31	repo:cpan	file:Dist-Zilla-Plugin-InsertExecsList-0.02.tar.gz	ver:0.02	size:13962
 date:2015-08-31	repo:cpan	file:App-UuidUtils-0.01.tar.gz	ver:0.01	size:78283
+date:2015-09-03	repo:cpan	file:Number-Closest-NonOO-0.04.tar.gz	ver:0.04	size:15014
+date:2015-09-03	repo:cpan	file:Perinci-Object-0.22.tar.gz	ver:0.22	size:20988
