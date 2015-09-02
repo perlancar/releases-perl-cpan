@@ -5528,3 +5528,5 @@ date:2015-09-03	repo:cpan	file:Number-Closest-NonOO-0.05.tar.gz	ver:0.05	size:15
 date:2015-09-03	repo:cpan	file:Rinci-1.1.78.tar.gz	ver:1.1.78	size:57794
 date:2015-09-03	repo:cpan	file:Sah-0.9.38.tar.gz	ver:0.9.38	size:79503
 date:2015-09-03	repo:cpan	file:DefHash-1.0.11.tar.gz	ver:1.0.11	size:17105
+date:2015-09-03	repo:cpan	file:Business-BankList-Indonesia-0.07.tar.gz	ver:0.07	size:17729
+date:2015-09-03	repo:cpan	file:Perinci-Object-0.23.tar.gz	ver:0.23	size:21058
