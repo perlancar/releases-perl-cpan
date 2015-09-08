@@ -5750,3 +5750,7 @@ date:2015-09-06	repo:cpan	file:Perinci-Sub-ArgEntity-riap_url-0.02.tar.gz	ver:0.
 date:2015-09-06	repo:cpan	file:Perinci-Sub-ArgEntity-software_license-0.02.tar.gz	ver:0.02	size:13324
 date:2015-09-06	repo:cpan	file:Perinci-Sub-ArgEntity-timezone-0.02.tar.gz	ver:0.02	size:13263
 date:2015-09-06	repo:cpan	file:Perinci-Sub-ArgEntity-unix_user-0.02.tar.gz	ver:0.02	size:13513
+date:2015-09-08	repo:cpan	file:Config-IOD-0.21.tar.gz	ver:0.21	size:25663
+date:2015-09-08	repo:cpan	file:Config-IOD-Reader-0.19.tar.gz	ver:0.19	size:22481
+date:2015-09-08	repo:cpan	file:Finance-Bank-ID-BCA-0.42.tar.gz	ver:0.42	size:31882
+date:2015-09-08	repo:cpan	file:Finance-Bank-ID-BCA-0.43.tar.gz	ver:0.43	size:31870
