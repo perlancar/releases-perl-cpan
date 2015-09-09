@@ -5754,3 +5754,9 @@ date:2015-09-08	repo:cpan	file:Config-IOD-0.21.tar.gz	ver:0.21	size:25663
 date:2015-09-08	repo:cpan	file:Config-IOD-Reader-0.19.tar.gz	ver:0.19	size:22481
 date:2015-09-08	repo:cpan	file:Finance-Bank-ID-BCA-0.42.tar.gz	ver:0.42	size:31882
 date:2015-09-08	repo:cpan	file:Finance-Bank-ID-BCA-0.43.tar.gz	ver:0.43	size:31870
+date:2015-09-09	repo:cpan	file:Git-Bunch-0.49.tar.gz	ver:0.49	size:33304
+date:2015-09-09	repo:cpan	file:Perinci-Examples-Bin-Any-0.06.tar.gz	ver:0.06	size:22573
+date:2015-09-09	repo:cpan	file:App-GenPericmdScript-0.14.tar.gz	ver:0.14	size:23944
+date:2015-09-09	repo:cpan	file:Sah-0.9.39.tar.gz	ver:0.9.39	size:81807
+date:2015-09-09	repo:cpan	file:Setup-1.0.5.tar.gz	ver:1.0.5	size:13333
+date:2015-09-09	repo:cpan	file:Perinci-Sub-ArgEntity-modulename-0.03.tar.gz	ver:0.03	size:12653
