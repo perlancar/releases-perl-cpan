@@ -5787,3 +5787,20 @@ date:2015-09-09	repo:cpan	file:Complete-Path-0.15.tar.gz	ver:0.15	size:16841
 date:2015-09-09	repo:cpan	file:Data-Sah-0.70.tar.gz	ver:0.70	size:112374
 date:2015-09-09	repo:cpan	file:Complete-Dist-0.05.tar.gz	ver:0.05	size:13316
 date:2015-09-09	repo:cpan	file:Complete-Getopt-Long-0.34.tar.gz	ver:0.34	size:23029
+date:2015-09-10	repo:cpan	file:App-errnos-0.01.tar.gz	ver:0.01	size:16771
+date:2015-09-10	repo:cpan	file:Perinci-CmdLine-Inline-0.20.tar.gz	ver:0.20	size:28134
+date:2015-09-10	repo:cpan	file:App-GenPericmdScript-0.15.tar.gz	ver:0.15	size:23116
+date:2015-09-10	repo:cpan	file:App-errnos-0.02.tar.gz	ver:0.02	size:17614
+date:2015-09-10	repo:cpan	file:File-chown-0.01.tar.gz	ver:0.01	size:13483
+date:2015-09-10	repo:cpan	file:File-Create-Layout-0.02.tar.gz	ver:0.02	size:17561
+date:2015-09-10	repo:cpan	file:File-chown-0.02.tar.gz	ver:0.02	size:13737
+date:2015-09-10	repo:cpan	file:App-errno-0.03.tar.gz	ver:0.03	size:14187	oldname:App-errnos
+date:2015-09-10	repo:cpan	file:App-errno-0.04.tar.gz	ver:0.04	size:14256
+date:2015-09-10	repo:cpan	file:App-errno-0.05.tar.gz	ver:0.05	size:14361
+date:2015-09-10	repo:cpan	file:String-Wildcard-Bash-0.03.tar.gz	ver:0.03	size:14673
+date:2015-09-10	repo:cpan	file:WWW-PAUSE-Simple-0.26.tar.gz	ver:0.26	size:21141
+date:2015-09-10	repo:cpan	file:WWW-PAUSE-Simple-0.27.tar.gz	ver:0.27	size:21207
+date:2015-09-10	repo:cpan	file:App-pause-0.46.tar.gz	ver:0.46	size:312903
+date:2015-09-10	repo:cpan	file:App-pause-0.47.tar.gz	ver:0.47	size:312908
+date:2015-09-10	repo:cpan	file:App-pause-FatPacked-0.47.tar.gz	ver:0.47	size:312180
+date:2015-09-10	repo:cpan	file:App-pause-Unpacked-0.47.tar.gz	ver:0.47	size:17209
