@@ -5804,3 +5804,12 @@ date:2015-09-10	repo:cpan	file:App-pause-0.46.tar.gz	ver:0.46	size:312903
 date:2015-09-10	repo:cpan	file:App-pause-0.47.tar.gz	ver:0.47	size:312908
 date:2015-09-10	repo:cpan	file:App-pause-FatPacked-0.47.tar.gz	ver:0.47	size:312180
 date:2015-09-10	repo:cpan	file:App-pause-Unpacked-0.47.tar.gz	ver:0.47	size:17209
+date:2015-09-11	repo:cpan	file:File-Create-Layout-0.03.tar.gz	ver:0.03	size:17782
+date:2015-09-11	repo:cpan	file:Setup-File-Layout-0.01.tar.gz	ver:0.01	size:13850
+date:2015-09-11	repo:cpan	file:Dist-Zilla-Role-Rinci-CheckDefinesMeta-0.01.tar.gz	ver:0.01	size:12738
+date:2015-09-11	repo:cpan	file:Dist-Zilla-Plugin-Test-Rinci-0.03.tar.gz	ver:0.03	size:13162
+date:2015-09-11	repo:cpan	file:WWW-PAUSE-Simple-0.28.tar.gz	ver:0.28	size:21230
+date:2015-09-11	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-EnsurePrereqToSpec-0.01.tar.gz	ver:0.01	size:13124
+date:2015-09-11	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.42.tar.gz	ver:0.42	size:16141
+date:2015-09-11	repo:cpan	file:Perinci-Result-Format-Lite-0.01.tar.gz	ver:0.01	size:14417
+date:2015-09-11	repo:cpan	file:Perinci-CmdLine-Lite-1.29.tar.gz	ver:1.29	size:64922
