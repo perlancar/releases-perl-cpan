@@ -5813,3 +5813,15 @@ date:2015-09-11	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-EnsurePrereqToSpec-0.
 date:2015-09-11	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.42.tar.gz	ver:0.42	size:16141
 date:2015-09-11	repo:cpan	file:Perinci-Result-Format-Lite-0.01.tar.gz	ver:0.01	size:14417
 date:2015-09-11	repo:cpan	file:Perinci-CmdLine-Lite-1.29.tar.gz	ver:1.29	size:64922
+date:2015-09-11	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.24.tar.gz	ver:0.24	size:17682
+date:2015-09-12	repo:cpan	file:Complete-Util-0.35.tar.gz	ver:0.35	size:23131
+date:2015-09-12	repo:cpan	file:Complete-0.14.tar.gz	ver:0.14	size:16716
+date:2015-09-12	repo:cpan	file:Complete-0.15.tar.gz	ver:0.15	size:16827
+date:2015-09-12	repo:cpan	file:App-short-0.09.tar.gz	ver:0.09	size:20769
+date:2015-09-12	repo:cpan	file:Perinci-CmdLine-Inline-0.21.tar.gz	ver:0.21	size:29409
+date:2015-09-12	repo:cpan	file:App-GenPericmdScript-0.16.tar.gz	ver:0.16	size:24232
+date:2015-09-12	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.25.tar.gz	ver:0.25	size:17804
+date:2015-09-12	repo:cpan	file:Perinci-Result-Format-Lite-0.02.tar.gz	ver:0.02	size:14374
+date:2015-09-12	repo:cpan	file:Perinci-Access-Simple-Server-0.23.tar.gz	ver:0.23	size:26172
+date:2015-09-12	repo:cpan	file:IPC-System-Options-0.22.tar.gz	ver:0.22	size:16060
+date:2015-09-12	repo:cpan	file:App-TableDataUtils-0.01.tar.gz	ver:0.01	size:17106
