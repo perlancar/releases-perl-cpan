@@ -5828,3 +5828,4 @@ date:2015-09-12	repo:cpan	file:App-TableDataUtils-0.01.tar.gz	ver:0.01	size:1710
 date:2015-09-12	repo:cpan	file:App-TableDataUtils-0.02.tar.gz	ver:0.02	size:17159
 date:2015-09-13	repo:cpan	file:App-TableDataUtils-0.03.tar.gz	ver:0.03	size:17552
 date:2015-09-13	repo:cpan	file:Test-Perinci-CmdLine-1.22.tar.gz	ver:1.22	size:16815
+date:2015-09-14	repo:cpan	file:Getopt-Panjang-0.01.tar.gz	ver:0.01	size:18762
