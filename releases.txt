@@ -5844,3 +5844,14 @@ date:2015-09-15	repo:cpan	file:Perinci-CmdLine-Classic-1.57.tar.gz	ver:1.57	size
 date:2015-09-15	repo:cpan	file:Perinci-Result-Format-Lite-0.03.tar.gz	ver:0.03	size:14516
 date:2015-09-15	repo:cpan	file:TableData-Object-0.03.tar.gz	ver:0.03	size:14390
 date:2015-09-15	repo:cpan	file:App-td-0.01.tar.gz	ver:0.01	size:15072
+date:2015-09-16	repo:cpan	file:Complete-Path-0.16.tar.gz	ver:0.16	size:16944
+date:2015-09-16	repo:cpan	file:Complete-Path-0.17.tar.gz	ver:0.17	size:16935
+date:2015-09-16	repo:cpan	file:Complete-0.16.tar.gz	ver:0.16	size:16481
+date:2015-09-16	repo:cpan	file:Complete-File-0.36.tar.gz	ver:0.36	size:16015
+date:2015-09-16	repo:cpan	file:Complete-FS-0.01.tar.gz	ver:0.01	size:12898
+date:2015-09-16	repo:cpan	file:Complete-Dpkg-0.00.tar.gz	ver:0.00	size:12724
+date:2015-09-16	repo:cpan	file:Complete-Host-0.00.tar.gz	ver:0.00	size:12724
+date:2015-09-16	repo:cpan	file:Complete-RPM-0.00.tar.gz	ver:0.00	size:12738
+date:2015-09-16	repo:cpan	file:Complete-Env-0.36.tar.gz	ver:0.36	size:13623
+date:2015-09-16	repo:cpan	file:Complete-Program-0.36.tar.gz	ver:0.36	size:13831
+date:2015-09-16	repo:cpan	file:Complete-Util-0.36.tar.gz	ver:0.36	size:18778
