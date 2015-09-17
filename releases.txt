@@ -5862,3 +5862,16 @@ date:2015-09-17	repo:cpan	file:App-lcpan-0.53.tar.gz	ver:0.53	size:51814
 date:2015-09-17	repo:cpan	file:App-CompleteUtils-0.10.tar.gz	ver:0.10	size:15900
 date:2015-09-17	repo:cpan	file:App-ProgUtils-0.17.tar.gz	ver:0.17	size:18123
 date:2015-09-17	repo:cpan	file:Complete-Path-0.18.tar.gz	ver:0.18	size:17041
+date:2015-09-17	repo:cpan	file:App-ShellCompleter-CpanUpload-0.04.tar.gz	ver:0.04	size:14442
+date:2015-09-17	repo:cpan	file:App-ShellCompleter-emacs-0.03.tar.gz	ver:0.03	size:14884
+date:2015-09-17	repo:cpan	file:App-ShellCompleter-mpv-0.04.tar.gz	ver:0.04	size:25216
+date:2015-09-17	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.05.tar.gz	ver:0.05	size:24025
+date:2015-09-17	repo:cpan	file:App-PlUtils-0.10.tar.gz	ver:0.10	size:18916
+date:2015-09-17	repo:cpan	file:App-shcompgen-0.13.tar.gz	ver:0.13	size:23354
+date:2015-09-17	repo:cpan	file:Complete-Getopt-Long-0.36.tar.gz	ver:0.36	size:23202
+date:2015-09-17	repo:cpan	file:Complete-TZ-0.05.tar.gz	ver:0.05	size:13345
+date:2015-09-17	repo:cpan	file:Perinci-Sub-ArgEntity-dirname-0.03.tar.gz	ver:0.03	size:12628
+date:2015-09-17	repo:cpan	file:Perinci-Sub-ArgEntity-filename-0.03.tar.gz	ver:0.03	size:12603
+date:2015-09-17	repo:cpan	file:Complete-Env-0.37.tar.gz	ver:0.37	size:13765
+date:2015-09-17	repo:cpan	file:Complete-Program-0.37.tar.gz	ver:0.37	size:13968
+date:2015-09-17	repo:cpan	file:Complete-Module-0.20.tar.gz	ver:0.20	size:18323
