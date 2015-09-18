@@ -5875,3 +5875,11 @@ date:2015-09-17	repo:cpan	file:Perinci-Sub-ArgEntity-filename-0.03.tar.gz	ver:0.
 date:2015-09-17	repo:cpan	file:Complete-Env-0.37.tar.gz	ver:0.37	size:13765
 date:2015-09-17	repo:cpan	file:Complete-Program-0.37.tar.gz	ver:0.37	size:13968
 date:2015-09-17	repo:cpan	file:Complete-Module-0.20.tar.gz	ver:0.20	size:18323
+date:2015-09-18	repo:cpan	file:App-ShellCompleter-cpanm-0.14.tar.gz	ver:0.14	size:17047
+date:2015-09-18	repo:cpan	file:Data-Dmp-0.12.tar.gz	ver:0.12	size:16988
+date:2015-09-18	repo:cpan	file:Perinci-CmdLine-Classic-1.58.tar.gz	ver:1.58	size:41876
+date:2015-09-18	repo:cpan	file:App-pause-0.48.tar.gz	ver:0.48	size:309672
+date:2015-09-18	repo:cpan	file:App-BenchLevenshteinModules-0.01.tar.gz	ver:0.01	size:15423
+date:2015-09-18	repo:cpan	file:Complete-Util-0.38.tar.gz	ver:0.38	size:19347
+date:2015-09-18	repo:cpan	file:Perinci-CmdLine-Lite-1.32.tar.gz	ver:1.32	size:51496
+date:2015-09-18	repo:cpan	file:Perinci-CmdLine-1.47.tar.gz	ver:1.47	size:26580
