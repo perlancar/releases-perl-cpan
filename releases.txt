@@ -5875,3 +5875,5 @@ date:2015-09-17	repo:cpan	file:Perinci-Sub-ArgEntity-filename-0.03.tar.gz	ver:0.
 date:2015-09-17	repo:cpan	file:Complete-Env-0.37.tar.gz	ver:0.37	size:13765
 date:2015-09-17	repo:cpan	file:Complete-Program-0.37.tar.gz	ver:0.37	size:13968
 date:2015-09-17	repo:cpan	file:Complete-Module-0.20.tar.gz	ver:0.20	size:18323
+date:2015-09-18	repo:cpan	file:Complete-TZ-0.06.tar.gz	ver:0.06	size:13251
+date:2015-09-18	repo:cpan	file:App-CompleteCLIs-0.06.tar.gz	ver:0.06	size:24392
