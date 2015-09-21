@@ -5885,3 +5885,6 @@ date:2015-09-18	repo:cpan	file:App-BenchLevenshteinModules-0.01.tar.gz	ver:0.01	
 date:2015-09-18	repo:cpan	file:Complete-Util-0.38.tar.gz	ver:0.38	size:19347
 date:2015-09-18	repo:cpan	file:Perinci-CmdLine-Lite-1.32.tar.gz	ver:1.32	size:51496
 date:2015-09-18	repo:cpan	file:Perinci-CmdLine-1.47.tar.gz	ver:1.47	size:26580
+date:2015-09-20	repo:cpan	file:PERLANCAR-Text-Levenshtein-0.02.tar.gz	ver:0.02	size:13408
+date:2015-09-20	repo:cpan	file:Complete-File-0.37.tar.gz	ver:0.37	size:16696
+date:2015-09-21	repo:cpan	file:Dist-Zilla-Plugin-InsertBlock-0.07.tar.gz	ver:0.07	size:14882
