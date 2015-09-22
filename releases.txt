@@ -5885,3 +5885,16 @@ date:2015-09-18	repo:cpan	file:App-BenchLevenshteinModules-0.01.tar.gz	ver:0.01	
 date:2015-09-18	repo:cpan	file:Complete-Util-0.38.tar.gz	ver:0.38	size:19347
 date:2015-09-18	repo:cpan	file:Perinci-CmdLine-Lite-1.32.tar.gz	ver:1.32	size:51496
 date:2015-09-18	repo:cpan	file:Perinci-CmdLine-1.47.tar.gz	ver:1.47	size:26580
+date:2015-09-22	repo:cpan	file:Complete-Getopt-Long-0.37.tar.gz	ver:0.37	size:23221
+date:2015-09-22	repo:cpan	file:Complete-Path-0.19.tar.gz	ver:0.19	size:17097
+date:2015-09-22	repo:cpan	file:Dist-Zilla-Role-Rinci-CheckDefinesMeta-0.02.tar.gz	ver:0.02	size:13319
+date:2015-09-22	repo:cpan	file:App-PMUtils-0.50.tar.gz	ver:0.50	size:29530
+date:2015-09-22	repo:cpan	file:Borang-0.02.tar.gz	ver:0.02	size:19472
+date:2015-09-22	repo:cpan	file:App-ListDebianReleases-0.05.tar.gz	ver:0.05	size:15692
+date:2015-09-22	repo:cpan	file:PERLANCAR-Debian-Releases-0.01.tar.gz	ver:0.01	size:15136
+date:2015-09-22	repo:cpan	file:App-ListUbuntuReleases-0.05.tar.gz	ver:0.05	size:16547
+date:2015-09-22	repo:cpan	file:Ubuntu-Releases-0.05.tar.gz	ver:0.05	size:15681
+date:2015-09-22	repo:cpan	file:App-ListDebianReleases-0.06.tar.gz	ver:0.06	size:16872
+date:2015-09-22	repo:cpan	file:Ubuntu-Releases-0.06.tar.gz	ver:0.06	size:15833
+date:2015-09-22	repo:cpan	file:App-ListUbuntuReleases-0.06.tar.gz	ver:0.06	size:16755
+date:2015-09-22	repo:cpan	file:PERLANCAR-Debian-Releases-0.02.tar.gz	ver:0.02	size:15361
