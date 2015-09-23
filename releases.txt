@@ -5898,3 +5898,13 @@ date:2015-09-22	repo:cpan	file:App-ListDebianReleases-0.06.tar.gz	ver:0.06	size:
 date:2015-09-22	repo:cpan	file:Ubuntu-Releases-0.06.tar.gz	ver:0.06	size:15833
 date:2015-09-22	repo:cpan	file:App-ListUbuntuReleases-0.06.tar.gz	ver:0.06	size:16755
 date:2015-09-22	repo:cpan	file:PERLANCAR-Debian-Releases-0.02.tar.gz	ver:0.02	size:15361
+date:2015-09-23	repo:cpan	file:Perinci-CmdLine-Inline-0.22.tar.gz	ver:0.22	size:28383
+date:2015-09-23	repo:cpan	file:Perinci-Examples-0.59.tar.gz	ver:0.59	size:36230
+date:2015-09-23	repo:cpan	file:Test-Perinci-CmdLine-1.23.tar.gz	ver:1.23	size:16266
+date:2015-09-23	repo:cpan	file:Perinci-CmdLine-Inline-0.23.tar.gz	ver:0.23	size:28450
+date:2015-09-23	repo:cpan	file:App-DateUtils-0.01.tar.gz	ver:0.01	size:16335
+date:2015-09-23	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.23.tar.gz	ver:0.23	size:19775
+date:2015-09-23	repo:cpan	file:Perinci-To-Doc-0.64.tar.gz	ver:0.64	size:33492
+date:2015-09-23	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.44.tar.gz	ver:0.44	size:21344
+date:2015-09-23	repo:cpan	file:App-DateUtils-0.02.tar.gz	ver:0.02	size:17654
+date:2015-09-23	repo:cpan	file:Complete-Module-0.21.tar.gz	ver:0.21	size:18381
