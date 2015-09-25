@@ -5925,3 +5925,4 @@ date:2015-09-25	repo:cpan	file:Perinci-To-Doc-0.65.tar.gz	ver:0.65	size:33518
 date:2015-09-25	repo:cpan	file:Perinci-To-Doc-0.66.tar.gz	ver:0.66	size:33576
 date:2015-09-25	repo:cpan	file:App-SetScreensaverTimeout-0.13.tar.gz	ver:0.13	size:18350
 date:2015-09-25	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.45.tar.gz	ver:0.45	size:21384
+date:2015-09-25	repo:cpan	file:App-dateseq-0.05.tar.gz	ver:0.05	size:17005
