@@ -5932,3 +5932,14 @@ date:2015-09-26	repo:cpan	file:Dist-Zilla-Plugin-Rinci-Wrap-0.11.tar.gz	ver:0.11
 date:2015-09-26	repo:cpan	file:Perinci-Examples-0.60.tar.gz	ver:0.60	size:36562
 date:2015-09-26	repo:cpan	file:App-GenPericmdScript-0.18.tar.gz	ver:0.18	size:24914
 date:2015-09-26	repo:cpan	file:Perinci-Sub-CoerceArgs-0.10.tar.gz	ver:0.10	size:17718
+date:2015-09-26	repo:cpan	file:App-dateseq-0.06.tar.gz	ver:0.06	size:18666
+date:2015-09-26	repo:cpan	file:Data-Sah-0.73.tar.gz	ver:0.73	size:109842
+date:2015-09-26	repo:cpan	file:Perinci-Sub-CoerceArgs-0.11.tar.gz	ver:0.11	size:17961
+date:2015-09-27	repo:cpan	file:Test-WithDB-0.07.tar.gz	ver:0.07	size:19657
+date:2015-09-27	repo:cpan	file:Sort-Sub-0.01.tar.gz	ver:0.01	size:14696
+date:2015-09-27	repo:cpan	file:Sort-Sub-0.02.tar.gz	ver:0.02	size:14730
+date:2015-09-27	repo:cpan	file:Data-Dmp-0.13.tar.gz	ver:0.13	size:17909
+date:2015-09-27	repo:cpan	file:Getopt-Long-Dump-0.05.tar.gz	ver:0.05	size:15449
+date:2015-09-27	repo:cpan	file:App-ShellCompleter-CpanUpload-0.05.tar.gz	ver:0.05	size:15494
+date:2015-09-27	repo:cpan	file:App-UuidUtils-0.02.tar.gz	ver:0.02	size:71839
+date:2015-09-27	repo:cpan	file:App-GenPericmdCompleterScript-0.05.tar.gz	ver:0.05	size:21609
