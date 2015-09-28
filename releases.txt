@@ -5944,3 +5944,6 @@ date:2015-09-27	repo:cpan	file:App-ShellCompleter-CpanUpload-0.05.tar.gz	ver:0.0
 date:2015-09-27	repo:cpan	file:App-UuidUtils-0.02.tar.gz	ver:0.02	size:71839
 date:2015-09-27	repo:cpan	file:App-GenPericmdCompleterScript-0.05.tar.gz	ver:0.05	size:21609
 date:2015-09-28	repo:cpan	file:App-GenPericmdScript-0.19.tar.gz	ver:0.19	size:25018
+date:2015-09-28	repo:cpan	file:App-GenPericmdScript-0.20.tar.gz	ver:0.20	size:24083
+date:2015-09-28	repo:cpan	file:Test-Perinci-CmdLine-1.24.tar.gz	ver:1.24	size:17249
+date:2015-09-28	repo:cpan	file:Perinci-CmdLine-Inline-0.24.tar.gz	ver:0.24	size:28524
