@@ -5943,3 +5943,4 @@ date:2015-09-27	repo:cpan	file:Getopt-Long-Dump-0.05.tar.gz	ver:0.05	size:15449
 date:2015-09-27	repo:cpan	file:App-ShellCompleter-CpanUpload-0.05.tar.gz	ver:0.05	size:15494
 date:2015-09-27	repo:cpan	file:App-UuidUtils-0.02.tar.gz	ver:0.02	size:71839
 date:2015-09-27	repo:cpan	file:App-GenPericmdCompleterScript-0.05.tar.gz	ver:0.05	size:21609
+date:2015-09-28	repo:cpan	file:App-GenPericmdScript-0.19.tar.gz	ver:0.19	size:25018
