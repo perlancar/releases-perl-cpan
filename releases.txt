@@ -5961,3 +5961,9 @@ date:2015-09-29	repo:cpan	file:Perinci-CmdLine-Lite-1.34.tar.gz	ver:1.34	size:51
 date:2015-09-29	repo:cpan	file:Perinci-CmdLine-Classic-1.59.tar.gz	ver:1.59	size:41958
 date:2015-09-29	repo:cpan	file:Test-Perinci-CmdLine-1.26.tar.gz	ver:1.26	size:21150
 date:2015-09-29	repo:cpan	file:Perinci-CmdLine-Inline-0.25.tar.gz	ver:0.25	size:26985
+date:2015-09-30	repo:cpan	file:Perinci-Result-Format-Lite-0.05.tar.gz	ver:0.05	size:15491
+date:2015-09-30	repo:cpan	file:Perinci-CmdLine-Inline-0.26.tar.gz	ver:0.26	size:26707
+date:2015-09-30	repo:cpan	file:Perinci-Sub-Normalize-0.13.tar.gz	ver:0.13	size:16306
+date:2015-09-30	repo:cpan	file:Perinci-Sub-CoerceArgs-0.12.tar.gz	ver:0.12	size:17441
+date:2015-09-30	repo:cpan	file:Perinci-Result-Format-Lite-0.06.tar.gz	ver:0.06	size:15493
+date:2015-09-30	repo:cpan	file:Perinci-CmdLine-Inline-0.27.tar.gz	ver:0.27	size:26693
