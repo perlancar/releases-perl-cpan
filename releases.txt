@@ -5970,3 +5970,6 @@ date:2015-09-30	repo:cpan	file:Perinci-CmdLine-Inline-0.27.tar.gz	ver:0.27	size:
 date:2015-10-01	repo:cpan	file:PERLANCAR-Debian-Releases-0.03.tar.gz	ver:0.03	size:15522
 date:2015-10-01	repo:cpan	file:Permute-Named-Iter-0.01.tar.gz	ver:0.01	size:13946
 date:2015-10-01	repo:cpan	file:Ubuntu-Releases-0.07.tar.gz	ver:0.07	size:15945
+date:2015-10-01	repo:cpan	file:PERLANCAR-Permute-Named-0.01.tar.gz	ver:0.01	size:13307
+date:2015-10-01	repo:cpan	file:Permute-Named-Iter-0.02.tar.gz	ver:0.02	size:13903
+date:2015-10-02	repo:cpan	file:PERLANCAR-Permute-Named-0.02.tar.gz	ver:0.02	size:13529
