@@ -5973,3 +5973,10 @@ date:2015-10-01	repo:cpan	file:Ubuntu-Releases-0.07.tar.gz	ver:0.07	size:15945
 date:2015-10-01	repo:cpan	file:PERLANCAR-Permute-Named-0.01.tar.gz	ver:0.01	size:13307
 date:2015-10-01	repo:cpan	file:Permute-Named-Iter-0.02.tar.gz	ver:0.02	size:13903
 date:2015-10-02	repo:cpan	file:PERLANCAR-Permute-Named-0.02.tar.gz	ver:0.02	size:13529
+date:2015-10-03	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureCoreOrPP-0.07.tar.gz	ver:0.07	size:14585
+date:2015-10-03	repo:cpan	file:Module-FatPack-0.09.tar.gz	ver:0.09	size:15973
+date:2015-10-03	repo:cpan	file:Perinci-CmdLine-Inline-0.28.tar.gz	ver:0.28	size:28367
+date:2015-10-03	repo:cpan	file:Module-DataPack-0.11.tar.gz	ver:0.11	size:16977
+date:2015-10-03	repo:cpan	file:Perinci-CmdLine-Lite-1.35.tar.gz	ver:1.35	size:52365
+date:2015-10-03	repo:cpan	file:App-BenchPermuteNamedModules-0.01.tar.gz	ver:0.01	size:15641
+date:2015-10-04	repo:cpan	file:WWW-DistroWatch-ReleaseInfo-0.01.tar.gz	ver:0.01	size:14524
