@@ -5997,3 +5997,11 @@ date:2015-10-06	repo:cpan	file:App-ListRedhatReleases-0.01.tar.gz	ver:0.01	size:
 date:2015-10-06	repo:cpan	file:CentOS-Releases-0.01.tar.gz	ver:0.01	size:15920
 date:2015-10-06	repo:cpan	file:App-ListCentosReleases-0.01.tar.gz	ver:0.01	size:18638
 date:2015-10-06	repo:cpan	file:Log-Any-App-0.51.tar.gz	ver:0.51	size:50677
+date:2015-10-07	repo:cpan	file:Sort-Sub-0.03.tar.gz	ver:0.03	size:15222
+date:2015-10-07	repo:cpan	file:App-subsort-0.01.tar.gz	ver:0.01	size:13983
+date:2015-10-07	repo:cpan	file:Data-Unixish-1.51.tar.gz	ver:1.51	size:45674
+date:2015-10-08	repo:cpan	file:Complete-Module-0.22.tar.gz	ver:0.22	size:18728
+date:2015-10-08	repo:cpan	file:Config-IOD-0.22.tar.gz	ver:0.22	size:25963
+date:2015-10-08	repo:cpan	file:Bencher-0.01.tar.gz	ver:0.01	size:20249
+date:2015-10-08	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.01.tar.gz	ver:0.01	size:12417
+date:2015-10-08	repo:cpan	file:Config-IOD-0.23.tar.gz	ver:0.23	size:25996
