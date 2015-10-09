@@ -6006,3 +6006,6 @@ date:2015-10-08	repo:cpan	file:Bencher-0.01.tar.gz	ver:0.01	size:20249
 date:2015-10-08	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.01.tar.gz	ver:0.01	size:12417
 date:2015-10-08	repo:cpan	file:Config-IOD-0.23.tar.gz	ver:0.23	size:25996
 date:2015-10-08	repo:cpan	file:Bencher-Scenario-PermuteNamedModules-0.01.tar.gz	ver:0.01	size:12513
+date:2015-10-09	repo:cpan	file:App-lcpan-0.54.tar.gz	ver:0.54	size:955431
+date:2015-10-09	repo:cpan	file:Bencher-0.02.tar.gz	ver:0.02	size:23593
+date:2015-10-09	repo:cpan	file:Bencher-Scenario-Interpreters-0.01.tar.gz	ver:0.01	size:12428
