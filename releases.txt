@@ -6009,3 +6009,6 @@ date:2015-10-08	repo:cpan	file:Bencher-Scenario-PermuteNamedModules-0.01.tar.gz	
 date:2015-10-09	repo:cpan	file:App-lcpan-0.54.tar.gz	ver:0.54	size:955431
 date:2015-10-09	repo:cpan	file:Bencher-0.02.tar.gz	ver:0.02	size:23593
 date:2015-10-09	repo:cpan	file:Bencher-Scenario-Interpreters-0.01.tar.gz	ver:0.01	size:12428
+date:2015-10-11	repo:cpan	file:Bencher-Scenario-TextTableModules-0.01.tar.gz	ver:0.01	size:13622
+date:2015-10-11	repo:cpan	file:Bencher-0.03.tar.gz	ver:0.03	size:25222
+date:2015-10-11	repo:cpan	file:Module-DataPack-0.12.tar.gz	ver:0.12	size:17014
