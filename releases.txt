@@ -6012,3 +6012,8 @@ date:2015-10-09	repo:cpan	file:Bencher-Scenario-Interpreters-0.01.tar.gz	ver:0.0
 date:2015-10-11	repo:cpan	file:Bencher-Scenario-TextTableModules-0.01.tar.gz	ver:0.01	size:13622
 date:2015-10-11	repo:cpan	file:Bencher-0.03.tar.gz	ver:0.03	size:25222
 date:2015-10-11	repo:cpan	file:Module-DataPack-0.12.tar.gz	ver:0.12	size:17014
+date:2015-10-12	repo:cpan	file:Bash-History-Read-0.01.tar.gz	ver:0.01	size:13317
+date:2015-10-12	repo:cpan	file:Test-Perinci-CmdLine-1.27.tar.gz	ver:1.27	size:22149
+date:2015-10-12	repo:cpan	file:Perinci-CmdLine-Gen-0.22.tar.gz	ver:0.22	size:17866
+date:2015-10-12	repo:cpan	file:App-GenPericmdScript-0.22.tar.gz	ver:0.22	size:18976
+date:2015-10-12	repo:cpan	file:Perinci-CmdLine-Gen-0.23.tar.gz	ver:0.23	size:20904
