@@ -6017,3 +6017,9 @@ date:2015-10-12	repo:cpan	file:Test-Perinci-CmdLine-1.27.tar.gz	ver:1.27	size:22
 date:2015-10-12	repo:cpan	file:Perinci-CmdLine-Gen-0.22.tar.gz	ver:0.22	size:17866
 date:2015-10-12	repo:cpan	file:App-GenPericmdScript-0.22.tar.gz	ver:0.22	size:18976
 date:2015-10-12	repo:cpan	file:Perinci-CmdLine-Gen-0.23.tar.gz	ver:0.23	size:20904
+date:2015-10-13	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.27.tar.gz	ver:0.27	size:18554
+date:2015-10-14	repo:cpan	file:Bencher-Scenario-Serializers-0.01.tar.gz	ver:0.01	size:13861
+date:2015-10-14	repo:cpan	file:Bencher-0.04.tar.gz	ver:0.04	size:26333
+date:2015-10-14	repo:cpan	file:Bencher-0.05.tar.gz	ver:0.05	size:26593
+date:2015-10-14	repo:cpan	file:Bencher-Scenario-Serializers-0.02.tar.gz	ver:0.02	size:13754
+date:2015-10-14	repo:cpan	file:Bencher-0.06.tar.gz	ver:0.06	size:26893
