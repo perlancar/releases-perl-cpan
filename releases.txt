@@ -6042,6 +6042,9 @@ date:2015-10-20	repo:cpan	file:Module-XSOrPP-0.10.tar.gz	ver:0.10	size:14864
 date:2015-10-20	repo:cpan	file:Log-Dispatch-Dir-0.13.tar.gz	ver:0.13	size:18218
 date:2015-10-20	repo:cpan	file:Data-Format-Pretty-Console-0.35.tar.gz	ver:0.35	size:22553
 date:2015-10-20	repo:cpan	file:JSON-Color-0.08.tar.gz	ver:0.08	size:14593
+date:2015-10-21	repo:cpan	file:Bencher-0.07.tar.gz	ver:0.07	size:27648
+date:2015-10-21	repo:cpan	file:Bencher-Scenario-Serializers-0.03.tar.gz	ver:0.03	size:13546
+date:2015-10-21	repo:cpan	file:Bencher-Scenario-Serializers-0.04.tar.gz	ver:0.04	size:13394
 date:2015-10-21	repo:cpan	file:Data-Section-Seekable-0.07.tar.gz	ver:0.07	size:16417
 date:2015-10-21	repo:cpan	file:Dist-Zilla-Plugin-InsertBlock-0.08.tar.gz	ver:0.08	size:14377
 date:2015-10-21	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.15.tar.gz	ver:0.15	size:16425
