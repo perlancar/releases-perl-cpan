@@ -6027,3 +6027,6 @@ date:2015-10-18	repo:cpan	file:Data-Sah-0.74.tar.gz	ver:0.74	size:116925
 date:2015-10-18	repo:cpan	file:App-LintPrereqs-0.32.tar.gz	ver:0.32	size:22242
 date:2015-10-18	repo:cpan	file:Bencher-Scenario-StartupGetoptModules-0.01.tar.gz	ver:0.01	size:13050
 date:2015-10-18	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.02.tar.gz	ver:0.02	size:13165
+date:2015-10-21	repo:cpan	file:Bencher-0.07.tar.gz	ver:0.07	size:27648
+date:2015-10-21	repo:cpan	file:Bencher-Scenario-Serializers-0.03.tar.gz	ver:0.03	size:13546
+date:2015-10-21	repo:cpan	file:Bencher-Scenario-Serializers-0.04.tar.gz	ver:0.04	size:13394
