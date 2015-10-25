@@ -6076,3 +6076,5 @@ date:2015-10-22	repo:cpan	file:Perinci-Tx-Manager-0.54.tar.gz	ver:0.54	size:3664
 date:2015-10-22	repo:cpan	file:Bencher-Scenario-Serializers-0.05.tar.gz	ver:0.05	size:13704
 date:2015-10-22	repo:cpan	file:Perinci-CmdLine-1.48.tar.gz	ver:1.48	size:27032
 date:2015-10-22	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.43.tar.gz	ver:0.43	size:16295
+date:2015-10-25	repo:cpan	file:Unicode-Homoglyph-0.01.tar.gz	ver:0.01	size:16670
+date:2015-10-25	repo:cpan	file:App-mimic-0.01.tar.gz	ver:0.01	size:16083
