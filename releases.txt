@@ -6098,3 +6098,7 @@ date:2015-10-23	repo:cpan	file:Exporter-Rinci-0.01.tar.gz	ver:0.01	size:13236
 date:2015-10-23	repo:cpan	file:App-IndonesianFinanceUtils-0.04.tar.gz	ver:0.04	size:16194
 date:2015-10-25	repo:cpan	file:Unicode-Homoglyph-0.01.tar.gz	ver:0.01	size:16670
 date:2015-10-25	repo:cpan	file:App-mimic-0.01.tar.gz	ver:0.01	size:16083
+date:2015-10-29	repo:cpan	file:TableData-Object-0.04.tar.gz	ver:0.04	size:14488
+date:2015-10-29	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.07.tar.gz	ver:0.07	size:14293
+date:2015-10-29	repo:cpan	file:App-AcmeCpanlists-0.05.tar.gz	ver:0.05	size:18407
+date:2015-10-29	repo:cpan	file:File-RsyBak-0.30.tar.gz	ver:0.30	size:649109
