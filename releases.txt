@@ -6108,3 +6108,4 @@ date:2015-11-01	repo:cpan	file:Data-Serializer-Data-Dmp-0.02.tar.gz	ver:0.02	siz
 date:2015-11-02	repo:cpan	file:TableData-Object-0.05.tar.gz	ver:0.05	size:18868
 date:2015-11-02	repo:cpan	file:TableData-Object-0.06.tar.gz	ver:0.06	size:18954
 date:2015-11-02	repo:cpan	file:App-td-0.02.tar.gz	ver:0.02	size:16282
+date:2015-11-03	repo:cpan	file:Perinci-Sub-XCompletion-0.03.tar.gz	ver:0.03	size:13430
