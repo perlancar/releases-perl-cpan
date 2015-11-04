@@ -6112,3 +6112,5 @@ date:2015-11-03	repo:cpan	file:Perinci-Sub-XCompletion-0.03.tar.gz	ver:0.03	size
 date:2015-11-03	repo:cpan	file:App-MTPUtils-0.01.tar.gz	ver:0.01	size:18171
 date:2015-11-04	repo:cpan	file:App-MTPUtils-0.02.tar.gz	ver:0.02	size:19727
 date:2015-11-04	repo:cpan	file:Perinci-Result-Format-0.44.tar.gz	ver:0.44	size:17205
+date:2015-11-04	repo:cpan	file:Bash-History-Read-0.02.tar.gz	ver:0.02	size:13533
+date:2015-11-04	repo:cpan	file:App-BashHistoryUtils-0.01.tar.gz	ver:0.01	size:16970
