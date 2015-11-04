@@ -6110,3 +6110,4 @@ date:2015-11-02	repo:cpan	file:TableData-Object-0.06.tar.gz	ver:0.06	size:18954
 date:2015-11-02	repo:cpan	file:App-td-0.02.tar.gz	ver:0.02	size:16282
 date:2015-11-03	repo:cpan	file:Perinci-Sub-XCompletion-0.03.tar.gz	ver:0.03	size:13430
 date:2015-11-03	repo:cpan	file:App-MTPUtils-0.01.tar.gz	ver:0.01	size:18171
+date:2015-11-04	repo:cpan	file:Perinci-Result-Format-0.44.tar.gz	ver:0.44	size:17205
