@@ -6114,3 +6114,8 @@ date:2015-11-04	repo:cpan	file:App-MTPUtils-0.02.tar.gz	ver:0.02	size:19727
 date:2015-11-04	repo:cpan	file:Perinci-Result-Format-0.44.tar.gz	ver:0.44	size:17205
 date:2015-11-04	repo:cpan	file:Bash-History-Read-0.02.tar.gz	ver:0.02	size:13533
 date:2015-11-04	repo:cpan	file:App-BashHistoryUtils-0.01.tar.gz	ver:0.01	size:16970
+date:2015-11-04	repo:cpan	file:HTTP-Headers-Patch-DontUseStorable-0.04.tar.gz	ver:0.04	size:13627
+date:2015-11-05	repo:cpan	file:Git-Bunch-0.50.tar.gz	ver:0.50	size:32735
+date:2015-11-05	repo:cpan	file:Bash-History-Read-0.03.tar.gz	ver:0.03	size:14408
+date:2015-11-05	repo:cpan	file:App-BashHistoryUtils-0.02.tar.gz	ver:0.02	size:17630
+date:2015-11-05	repo:cpan	file:Data-Dump-Patch-ReplaceWithDataDmp-0.01.tar.gz	ver:0.01	size:12734
