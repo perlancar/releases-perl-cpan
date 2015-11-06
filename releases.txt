@@ -6124,3 +6124,4 @@ date:2015-11-06	repo:cpan	file:App-ListAndroidReleases-0.01.tar.gz	ver:0.01	size
 date:2015-11-06	repo:cpan	file:Perinci-Sub-XCompletion-0.04.tar.gz	ver:0.04	size:13690
 date:2015-11-06	repo:cpan	file:Complete-File-0.38.tar.gz	ver:0.38	size:16519
 date:2015-11-06	repo:cpan	file:Perinci-Sub-XCompletion-0.05.tar.gz	ver:0.05	size:13732
+date:2015-11-06	repo:cpan	file:Scalar-Util-LooksLikeNumber-1.39.2.tar.gz	ver:1.39.2	size:48805
