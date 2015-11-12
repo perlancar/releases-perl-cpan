@@ -6141,3 +6141,4 @@ date:2015-11-08	repo:cpan	file:Log-Any-Proxy-Patch-UseDataDmp-0.01.tar.gz	ver:0.
 date:2015-11-09	repo:cpan	file:App-BashHistoryUtils-0.04.tar.gz	ver:0.04	size:19258
 date:2015-11-09	repo:cpan	file:App-ZodiacUtils-0.01.tar.gz	ver:0.01	size:16635
 date:2015-11-11	repo:cpan	file:Perinci-CmdLine-Lite-1.37.tar.gz	ver:1.37	size:51338
+date:2015-11-12	repo:cpan	file:Filesys-Cap-0.02.tar.gz	ver:0.02	size:13552
