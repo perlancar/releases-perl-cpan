@@ -6142,3 +6142,11 @@ date:2015-11-09	repo:cpan	file:App-BashHistoryUtils-0.04.tar.gz	ver:0.04	size:19
 date:2015-11-09	repo:cpan	file:App-ZodiacUtils-0.01.tar.gz	ver:0.01	size:16635
 date:2015-11-11	repo:cpan	file:Perinci-CmdLine-Lite-1.37.tar.gz	ver:1.37	size:51338
 date:2015-11-12	repo:cpan	file:Filesys-Cap-0.02.tar.gz	ver:0.02	size:13552
+date:2015-11-13	repo:cpan	file:App-setop-0.10.tar.gz	ver:0.10	size:16634
+date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.01.tar.gz	ver:0.01	size:12916
+date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.02.tar.gz	ver:0.02	size:12980
+date:2015-11-13	repo:cpan	file:Array-Set-0.01.tar.gz	ver:0.01	size:14473
+date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.03.tar.gz	ver:0.03	size:13021
+date:2015-11-13	repo:cpan	file:Bencher-0.08.tar.gz	ver:0.08	size:26953
+date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.04.tar.gz	ver:0.04	size:13051
+date:2015-11-13	repo:cpan	file:Bencher-0.09.tar.gz	ver:0.09	size:27035
