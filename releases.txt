@@ -6152,3 +6152,4 @@ date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.04.tar.gz	
 date:2015-11-13	repo:cpan	file:Bencher-0.09.tar.gz	ver:0.09	size:27035
 date:2015-11-14	repo:cpan	file:Ubuntu-Releases-0.08.tar.gz	ver:0.08	size:16019
 date:2015-11-14	repo:cpan	file:Bencher-Scenario-ListMoreUtils-0.01.tar.gz	ver:0.01	size:12535
+date:2015-11-14	repo:cpan	file:Bencher-0.10.tar.gz	ver:0.10	size:28477
