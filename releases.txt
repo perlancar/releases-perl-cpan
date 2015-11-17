@@ -6150,3 +6150,6 @@ date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.03.tar.gz	
 date:2015-11-13	repo:cpan	file:Bencher-0.08.tar.gz	ver:0.08	size:26953
 date:2015-11-13	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.04.tar.gz	ver:0.04	size:13051
 date:2015-11-13	repo:cpan	file:Bencher-0.09.tar.gz	ver:0.09	size:27035
+date:2015-11-17	repo:cpan	file:Perinci-CmdLine-Lite-1.38.tar.gz	ver:1.38	size:51355
+date:2015-11-17	repo:cpan	file:App-perlmv-0.49.tar.gz	ver:0.49	size:28069
+date:2015-11-17	repo:cpan	file:App-perlmv-0.50.tar.gz	ver:0.50	size:28073
