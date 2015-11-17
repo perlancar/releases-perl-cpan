@@ -6155,3 +6155,5 @@ date:2015-11-14	repo:cpan	file:Bencher-Scenario-ListMoreUtils-0.01.tar.gz	ver:0.
 date:2015-11-17	repo:cpan	file:Perinci-CmdLine-Lite-1.38.tar.gz	ver:1.38	size:51355
 date:2015-11-17	repo:cpan	file:App-perlmv-0.49.tar.gz	ver:0.49	size:28069
 date:2015-11-17	repo:cpan	file:App-perlmv-0.50.tar.gz	ver:0.50	size:28073
+date:2015-11-17	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.01.tar.gz	ver:0.01	size:13082
+date:2015-11-17	repo:cpan	file:Bencher-0.11.tar.gz	ver:0.11	size:29921
