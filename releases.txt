@@ -6157,3 +6157,10 @@ date:2015-11-17	repo:cpan	file:App-perlmv-0.49.tar.gz	ver:0.49	size:28069
 date:2015-11-17	repo:cpan	file:App-perlmv-0.50.tar.gz	ver:0.50	size:28073
 date:2015-11-17	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.01.tar.gz	ver:0.01	size:13082
 date:2015-11-17	repo:cpan	file:Bencher-0.11.tar.gz	ver:0.11	size:29921
+date:2015-11-18	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.01.tar.gz	ver:0.01	size:13215
+date:2015-11-18	repo:cpan	file:Array-Set-0.02.tar.gz	ver:0.02	size:14772
+date:2015-11-18	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.05.tar.gz	ver:0.05	size:13803
+date:2015-11-18	repo:cpan	file:App-LinguaENUtils-0.01.tar.gz	ver:0.01	size:14543
+date:2015-11-18	repo:cpan	file:App-LinguaENUtils-0.02.tar.gz	ver:0.02	size:16865
+date:2015-11-18	repo:cpan	file:App-LinguaENUtils-0.03.tar.gz	ver:0.03	size:17144
+date:2015-11-18	repo:cpan	file:App-LinguaIDUtils-0.01.tar.gz	ver:0.01	size:15867
