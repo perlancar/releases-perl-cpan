@@ -6164,3 +6164,5 @@ date:2015-11-18	repo:cpan	file:App-LinguaENUtils-0.01.tar.gz	ver:0.01	size:14543
 date:2015-11-18	repo:cpan	file:App-LinguaENUtils-0.02.tar.gz	ver:0.02	size:16865
 date:2015-11-18	repo:cpan	file:App-LinguaENUtils-0.03.tar.gz	ver:0.03	size:17144
 date:2015-11-18	repo:cpan	file:App-LinguaIDUtils-0.01.tar.gz	ver:0.01	size:15867
+date:2015-11-19	repo:cpan	file:Acme-PERLANCAR-Test-0.28.tar.gz	ver:0.28	size:14522
+date:2015-11-19	repo:cpan	file:Bencher-0.12.tar.gz	ver:0.12	size:30216
