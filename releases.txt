@@ -6183,3 +6183,7 @@ date:2015-11-22	repo:cpan	file:App-dux-1.51.tar.gz	ver:1.51	size:18665
 date:2015-11-22	repo:cpan	file:App-lcpan-0.57.tar.gz	ver:0.57	size:54285
 date:2015-11-22	repo:cpan	file:Data-Unixish-1.52.tar.gz	ver:1.52	size:47557
 date:2015-11-22	repo:cpan	file:File-Random-Pick-0.01.tar.gz	ver:0.01	size:13810
+date:2015-11-23	repo:cpan	file:File-Random-Pick-0.02.tar.gz	ver:0.02	size:13256
+date:2015-11-23	repo:cpan	file:App-PickRandomLines-0.01.tar.gz	ver:0.01	size:77109
+date:2015-11-24	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.08.tar.gz	ver:0.08	size:14839
+date:2015-11-24	repo:cpan	file:Perinci-Result-Format-Lite-0.09.tar.gz	ver:0.09	size:15541
