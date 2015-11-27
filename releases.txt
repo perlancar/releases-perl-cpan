@@ -6189,3 +6189,9 @@ date:2015-11-24	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.08.tar.gz	ver:0.08	siz
 date:2015-11-24	repo:cpan	file:Perinci-Result-Format-Lite-0.09.tar.gz	ver:0.09	size:15541
 date:2015-11-27	repo:cpan	file:Data-Section-Seekable-0.08.tar.gz	ver:0.08	size:16500
 date:2015-11-27	repo:cpan	file:Module-DataPack-0.16.tar.gz	ver:0.16	size:16533
+date:2015-11-27	repo:cpan	file:Test-Perinci-CmdLine-1.28.tar.gz	ver:1.28	size:21335
+date:2015-11-27	repo:cpan	file:Perinci-CmdLine-Inline-0.29.tar.gz	ver:0.29	size:27364
+date:2015-11-27	repo:cpan	file:Perinci-CmdLine-Lite-1.40.tar.gz	ver:1.40	size:51291
+date:2015-11-27	repo:cpan	file:Test-Perinci-CmdLine-1.29.tar.gz	ver:1.29	size:21373
+date:2015-11-27	repo:cpan	file:Perinci-Examples-0.62.tar.gz	ver:0.62	size:38036
+date:2015-11-27	repo:cpan	file:Perinci-CmdLine-Inline-0.30.tar.gz	ver:0.30	size:28559
