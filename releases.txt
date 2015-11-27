@@ -6187,3 +6187,5 @@ date:2015-11-23	repo:cpan	file:File-Random-Pick-0.02.tar.gz	ver:0.02	size:13256
 date:2015-11-23	repo:cpan	file:App-PickRandomLines-0.01.tar.gz	ver:0.01	size:77109
 date:2015-11-24	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.08.tar.gz	ver:0.08	size:14839
 date:2015-11-24	repo:cpan	file:Perinci-Result-Format-Lite-0.09.tar.gz	ver:0.09	size:15541
+date:2015-11-27	repo:cpan	file:Data-Section-Seekable-0.08.tar.gz	ver:0.08	size:16500
+date:2015-11-27	repo:cpan	file:Module-DataPack-0.16.tar.gz	ver:0.16	size:16533
