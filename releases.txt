@@ -6235,3 +6235,8 @@ date:2015-11-29	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.03.tar.gz	ve
 date:2015-11-29	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.07.tar.gz	ver:0.07	size:14932
 date:2015-11-29	repo:cpan	file:Perinci-Result-Format-0.45.tar.gz	ver:0.45	size:17961
 date:2015-11-29	repo:cpan	file:Perinci-CmdLine-Lite-1.41.tar.gz	ver:1.41	size:52223
+date:2015-11-30	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.04.tar.gz	ver:0.04	size:14393
+date:2015-11-30	repo:cpan	file:Bencher-Scenario-ZodiacModules-0.02.tar.gz	ver:0.02	size:13531
+date:2015-11-30	repo:cpan	file:Complete-Dist-0.07.tar.gz	ver:0.07	size:14023
+date:2015-11-30	repo:cpan	file:Complete-Dist-Zilla-0.07.tar.gz	ver:0.07	size:14036
+date:2015-11-30	repo:cpan	file:Complete-Dpkg-0.02.tar.gz	ver:0.02	size:13452
