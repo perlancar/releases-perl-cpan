@@ -6246,3 +6246,6 @@ date:2015-12-01	repo:cpan	file:App-rimetadb-0.14.tar.gz	ver:0.14	size:22582
 date:2015-12-01	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AddToDb-0.01.tar.gz	ver:0.01	size:13923
 date:2015-12-01	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.44.tar.gz	ver:0.44	size:16343
 date:2015-12-01	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.45.tar.gz	ver:0.45	size:16271
+date:2015-12-02	repo:cpan	file:Complete-Module-0.24.tar.gz	ver:0.24	size:18443
+date:2015-12-02	repo:cpan	file:Test-Perinci-CmdLine-1.31.tar.gz	ver:1.31	size:21601
+date:2015-12-02	repo:cpan	file:Perinci-CmdLine-Lite-1.42.tar.gz	ver:1.42	size:72080
