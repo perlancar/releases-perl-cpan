@@ -6249,3 +6249,5 @@ date:2015-12-01	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.45.tar
 date:2015-12-02	repo:cpan	file:Complete-Module-0.24.tar.gz	ver:0.24	size:18443
 date:2015-12-02	repo:cpan	file:Test-Perinci-CmdLine-1.31.tar.gz	ver:1.31	size:21601
 date:2015-12-02	repo:cpan	file:Perinci-CmdLine-Lite-1.42.tar.gz	ver:1.42	size:72080
+date:2015-12-07	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.28.tar.gz	ver:0.28	size:17975
+date:2015-12-07	repo:cpan	file:App-td-0.03.tar.gz	ver:0.03	size:16161
