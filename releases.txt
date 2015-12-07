@@ -6256,3 +6256,5 @@ date:2015-12-07	repo:cpan	file:App-lcpan-CmdBundle-dzil-0.02.tar.gz	ver:0.02	siz
 date:2015-12-07	repo:cpan	file:Complete-Perl-0.02.tar.gz	ver:0.02	size:14664
 date:2015-12-07	repo:cpan	file:Perinci-Sub-ArgEntity-perl_version-0.01.tar.gz	ver:0.01	size:13222
 date:2015-12-07	repo:cpan	file:App-PMUtils-0.53.tar.gz	ver:0.53	size:31326
+date:2015-12-07	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.28.tar.gz	ver:0.28	size:17975
+date:2015-12-07	repo:cpan	file:App-td-0.03.tar.gz	ver:0.03	size:16161
