@@ -6249,3 +6249,10 @@ date:2015-12-01	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.45.tar
 date:2015-12-02	repo:cpan	file:Complete-Module-0.24.tar.gz	ver:0.24	size:18443
 date:2015-12-02	repo:cpan	file:Test-Perinci-CmdLine-1.31.tar.gz	ver:1.31	size:21601
 date:2015-12-02	repo:cpan	file:Perinci-CmdLine-Lite-1.42.tar.gz	ver:1.42	size:72080
+date:2015-12-05	repo:cpan	file:Perinci-Sub-Complete-0.83.tar.gz	ver:0.83	size:29367
+date:2015-12-07	repo:cpan	file:App-lcpan-CmdBundle-dzil-0.01.tar.gz	ver:0.01	size:16163
+date:2015-12-07	repo:cpan	file:App-lcpan-0.58.tar.gz	ver:0.58	size:59389
+date:2015-12-07	repo:cpan	file:App-lcpan-CmdBundle-dzil-0.02.tar.gz	ver:0.02	size:16253
+date:2015-12-07	repo:cpan	file:Complete-Perl-0.02.tar.gz	ver:0.02	size:14664
+date:2015-12-07	repo:cpan	file:Perinci-Sub-ArgEntity-perl_version-0.01.tar.gz	ver:0.01	size:13222
+date:2015-12-07	repo:cpan	file:App-PMUtils-0.53.tar.gz	ver:0.53	size:31326
