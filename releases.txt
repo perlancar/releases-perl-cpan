@@ -6262,3 +6262,13 @@ date:2015-12-08	repo:cpan	file:Complete-Perl-0.03.tar.gz	ver:0.03	size:14257
 date:2015-12-08	repo:cpan	file:Dist-Zilla-Role-DumpPerinciCmdLineScript-0.02.tar.gz	ver:0.02	size:12949
 date:2015-12-08	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.49.tar.gz	ver:0.49	size:21829
 date:2015-12-08	repo:cpan	file:App-lcpan-0.59.tar.gz	ver:0.59	size:53921
+date:2015-12-09	repo:cpan	file:Calendar-Indonesia-Holiday-0.27.tar.gz	ver:0.27	size:25245
+date:2015-12-09	repo:cpan	file:Perinci-CmdLine-Classic-1.61.tar.gz	ver:1.61	size:42098
+date:2015-12-09	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AbstractFromMeta-0.09.tar.gz	ver:0.09	size:15508
+date:2015-12-09	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.05.tar.gz	ver:0.05	size:14739
+date:2015-12-09	repo:cpan	file:Bencher-0.16.tar.gz	ver:0.16	size:31141
+date:2015-12-09	repo:cpan	file:Bencher-Scenario-CmdLineParsingModules-0.01.tar.gz	ver:0.01	size:12892
+date:2015-12-09	repo:cpan	file:Bencher-Scenario-IODParsingModules-0.01.tar.gz	ver:0.01	size:13020
+date:2015-12-09	repo:cpan	file:Bencher-0.17.tar.gz	ver:0.17	size:32103
+date:2015-12-09	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.06.tar.gz	ver:0.06	size:14792
+date:2015-12-09	repo:cpan	file:Bencher-Scenario-RandomLineModules-0.01.tar.gz	ver:0.01	size:13229
