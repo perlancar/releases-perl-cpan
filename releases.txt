@@ -6272,3 +6272,7 @@ date:2015-12-09	repo:cpan	file:Bencher-Scenario-IODParsingModules-0.01.tar.gz	ve
 date:2015-12-09	repo:cpan	file:Bencher-0.17.tar.gz	ver:0.17	size:32103
 date:2015-12-09	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.06.tar.gz	ver:0.06	size:14792
 date:2015-12-09	repo:cpan	file:Bencher-Scenario-RandomLineModules-0.01.tar.gz	ver:0.01	size:13229
+date:2015-12-10	repo:cpan	file:Bencher-Scenario-IODParsingModules-0.02.tar.gz	ver:0.02	size:13083
+date:2015-12-10	repo:cpan	file:App-INIUtils-0.01.tar.gz	ver:0.01	size:16373
+date:2015-12-10	repo:cpan	file:Bencher-Scenario-CmdLineParsingModules-0.02.tar.gz	ver:0.02	size:12859
+date:2015-12-10	repo:cpan	file:App-INIUtils-0.02.tar.gz	ver:0.02	size:16347
