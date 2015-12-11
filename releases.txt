@@ -6276,3 +6276,7 @@ date:2015-12-10	repo:cpan	file:Bencher-Scenario-IODParsingModules-0.02.tar.gz	ve
 date:2015-12-10	repo:cpan	file:App-INIUtils-0.01.tar.gz	ver:0.01	size:16373
 date:2015-12-10	repo:cpan	file:Bencher-Scenario-CmdLineParsingModules-0.02.tar.gz	ver:0.02	size:12859
 date:2015-12-10	repo:cpan	file:App-INIUtils-0.02.tar.gz	ver:0.02	size:16347
+date:2015-12-11	repo:cpan	file:Apachish-Examples-0.01.tar.gz	ver:0.01	size:15123
+date:2015-12-11	repo:cpan	file:Apachish-0.9.0.tar.gz	ver:0.9.0	size:13309
+date:2015-12-11	repo:cpan	file:Config-Apachish-Reader-0.01.tar.gz	ver:0.01	size:15214
+date:2015-12-11	repo:cpan	file:Config-Apachish-Reader-0.02.tar.gz	ver:0.02	size:15394
