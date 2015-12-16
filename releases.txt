@@ -6280,3 +6280,6 @@ date:2015-12-11	repo:cpan	file:Apachish-Examples-0.01.tar.gz	ver:0.01	size:15123
 date:2015-12-11	repo:cpan	file:Apachish-0.9.0.tar.gz	ver:0.9.0	size:13309
 date:2015-12-11	repo:cpan	file:Config-Apachish-Reader-0.01.tar.gz	ver:0.01	size:15214
 date:2015-12-11	repo:cpan	file:Config-Apachish-Reader-0.02.tar.gz	ver:0.02	size:15394
+date:2015-12-16	repo:cpan	file:Finance-Bank-ID-BPRKS-0.05.tar.gz	ver:0.05	size:33929
+date:2015-12-16	repo:cpan	file:Log-Dispatch-Dir-0.14.tar.gz	ver:0.14	size:18330
+date:2015-12-16	repo:cpan	file:App-ProcUtils-0.01.tar.gz	ver:0.01	size:15416
