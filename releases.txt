@@ -6312,3 +6312,5 @@ date:2015-12-18	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.51.tar.gz	ver:0.51	size
 date:2015-12-18	repo:cpan	file:App-CalId-0.11.tar.gz	ver:0.11	size:17998
 date:2015-12-18	repo:cpan	file:App-lcpan-Call-0.05.tar.gz	ver:0.05	size:13441
 date:2015-12-18	repo:cpan	file:App-ZodiacUtils-0.06.tar.gz	ver:0.06	size:139367
+date:2015-12-18	repo:cpan	file:Bencher-Scenario-ListUtil-0.02.tar.gz	ver:0.02	size:13133
+date:2015-12-18	repo:cpan	file:PERLANCAR-List-Util-PP-0.02.tar.gz	ver:0.02	size:13451	oldname:List-Util-PP
