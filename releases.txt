@@ -6289,3 +6289,4 @@ date:2015-12-17	repo:cpan	file:Text-Table-Org-0.01.tar.gz	ver:0.01	size:14010
 date:2015-12-17	repo:cpan	file:Bencher-0.18.tar.gz	ver:0.18	size:32404
 date:2015-12-17	repo:cpan	file:Text-Table-Org-0.02.tar.gz	ver:0.02	size:14091
 date:2015-12-17	repo:cpan	file:Bencher-Scenario-TextTableModules-0.02.tar.gz	ver:0.02	size:13504
+date:2015-12-17	repo:cpan	file:App-CalcAccumulatedDiscounts-0.01.tar.gz	ver:0.01	size:18489
