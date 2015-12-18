@@ -6314,3 +6314,13 @@ date:2015-12-18	repo:cpan	file:App-lcpan-Call-0.05.tar.gz	ver:0.05	size:13441
 date:2015-12-18	repo:cpan	file:App-ZodiacUtils-0.06.tar.gz	ver:0.06	size:139367
 date:2015-12-18	repo:cpan	file:Bencher-Scenario-ListUtil-0.02.tar.gz	ver:0.02	size:13133
 date:2015-12-18	repo:cpan	file:PERLANCAR-List-Util-PP-0.02.tar.gz	ver:0.02	size:13451	oldname:List-Util-PP
+date:2015-12-18	repo:cpan	file:PERLANCAR-List-Util-PP-0.03.tar.gz	ver:0.03	size:14322
+date:2015-12-18	repo:cpan	file:Text-Table-CSV-0.01.tar.gz	ver:0.01	size:13474
+date:2015-12-18	repo:cpan	file:DateTime-Format-Indonesian-0.04.tar.gz	ver:0.04	size:13974
+date:2015-12-18	repo:cpan	file:App-CalcAccumulatedInflation-0.01.tar.gz	ver:0.01	size:16532
+date:2015-12-18	repo:cpan	file:PERLANCAR-List-Util-PP-0.04.tar.gz	ver:0.04	size:14345
+date:2015-12-18	repo:cpan	file:Perinci-To-Doc-0.71.tar.gz	ver:0.71	size:34472
+date:2015-12-18	repo:cpan	file:App-CalcAccumulatedInflation-0.02.tar.gz	ver:0.02	size:16592
+date:2015-12-18	repo:cpan	file:App-ZodiacUtils-0.07.tar.gz	ver:0.07	size:139508
+date:2015-12-18	repo:cpan	file:Perinci-To-Doc-0.72.tar.gz	ver:0.72	size:34521
+date:2015-12-18	repo:cpan	file:App-CalcAccumulatedDiscounts-0.05.tar.gz	ver:0.05	size:17382
