@@ -6331,3 +6331,22 @@ date:2015-12-22	repo:cpan	file:Business-Tax-ID-PPH21-0.01.tar.gz	ver:0.01	size:1
 date:2015-12-22	repo:cpan	file:App-PPH21Utils-0.01.tar.gz	ver:0.01	size:16064
 date:2015-12-23	repo:cpan	file:Data-Dump-SortKeys-0.01.tar.gz	ver:0.01	size:20215
 date:2015-12-23	repo:cpan	file:Data-Dump-SortKeys-0.02.tar.gz	ver:0.02	size:20305
+date:2015-12-23	repo:cpan	file:JSON-Color-0.09.tar.gz	ver:0.09	size:14813
+date:2015-12-23	repo:cpan	file:Data-Dump-SortKeys-0.03.tar.gz	ver:0.03	size:20340
+date:2015-12-23	repo:cpan	file:JSON-Color-0.10.tar.gz	ver:0.10	size:14954
+date:2015-12-23	repo:cpan	file:JSON-Color-0.11.tar.gz	ver:0.11	size:15074
+date:2015-12-23	repo:cpan	file:Bencher-Scenario-Perinci-0.01.tar.gz	ver:0.01	size:13183
+date:2015-12-23	repo:cpan	file:Bencher-Scenario-GetoptModules-0.02.tar.gz	ver:0.02	size:13028	oldname:Bencher-Scenario-StartupGetoptModules
+date:2015-12-23	repo:cpan	file:Bencher-Scenario-Exporters-0.03.tar.gz	ver:0.03	size:12818	oldname:Bencher-Scenario-StartupExporters
+date:2015-12-23	repo:cpan	file:App-LinguaENUtils-0.04.tar.gz	ver:0.04	size:17172
+date:2015-12-23	repo:cpan	file:Array-Iter-0.01.tar.gz	ver:0.01	size:12971
+date:2015-12-23	repo:cpan	file:Bencher-0.19.tar.gz	ver:0.19	size:33032
+date:2015-12-23	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.07.tar.gz	ver:0.07	size:14808
+date:2015-12-23	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.08.tar.gz	ver:0.08	size:14867
+date:2015-12-23	repo:cpan	file:Bencher-Scenario-DataSah-0.01.tar.gz	ver:0.01	size:14005
+date:2015-12-23	repo:cpan	file:Bencher-Scenarios-DataSah-0.02.tar.gz	ver:0.02	size:14020	oldname:Bencher-Scenario-DataSah
+date:2015-12-23	repo:cpan	file:Bencher-Scenarios-Perinci-0.02.tar.gz	ver:0.02	size:13231	oldname:Bencher-Scenario-Perinci
+date:2015-12-23	repo:cpan	file:Perinci-To-Doc-0.73.tar.gz	ver:0.73	size:34785
+date:2015-12-23	repo:cpan	file:Business-Tax-ID-PPH21-0.02.tar.gz	ver:0.02	size:15845
+date:2015-12-23	repo:cpan	file:Perinci-Sub-PropertyUtil-0.09.tar.gz	ver:0.09	size:14029
+date:2015-12-23	repo:cpan	file:Perinci-Sub-Normalize-0.14.tar.gz	ver:0.14	size:16029
