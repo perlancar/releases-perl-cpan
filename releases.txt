@@ -6354,3 +6354,5 @@ date:2015-12-25	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.52.tar.gz	ver:0.52	size
 date:2015-12-25	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AddPrereqs-0.07.tar.gz	ver:0.07	size:15103
 date:2015-12-25	repo:cpan	file:Perinci-Sub-Util-0.43.tar.gz	ver:0.43	size:20412
 date:2015-12-25	repo:cpan	file:App-texttable-0.01.tar.gz	ver:0.01	size:15761
+date:2015-12-25	repo:cpan	file:App-lcpan-0.60.tar.gz	ver:0.60	size:56528
+date:2015-12-25	repo:cpan	file:App-OrgUtils-0.34.tar.gz	ver:0.34	size:37747
