@@ -6356,3 +6356,7 @@ date:2015-12-25	repo:cpan	file:Perinci-Sub-Util-0.43.tar.gz	ver:0.43	size:20412
 date:2015-12-25	repo:cpan	file:App-texttable-0.01.tar.gz	ver:0.01	size:15761
 date:2015-12-25	repo:cpan	file:App-lcpan-0.60.tar.gz	ver:0.60	size:56528
 date:2015-12-25	repo:cpan	file:App-OrgUtils-0.34.tar.gz	ver:0.34	size:37747
+date:2015-12-27	repo:cpan	file:Data-Dmp-0.14.tar.gz	ver:0.14	size:18588
+date:2015-12-28	repo:cpan	file:App-hr-0.24.tar.gz	ver:0.24	size:78559
+date:2015-12-28	repo:cpan	file:Data-Dump-SortKeys-0.04.tar.gz	ver:0.04	size:21821
+date:2015-12-28	repo:cpan	file:Perinci-To-Doc-0.74.tar.gz	ver:0.74	size:32536
