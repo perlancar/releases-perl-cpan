@@ -6366,3 +6366,4 @@ date:2015-12-29	repo:cpan	file:Bencher-Scenario-ComparisonOps-0.01.tar.gz	ver:0.
 date:2015-12-29	repo:cpan	file:Bencher-Scenario-Allocations-0.01.tar.gz	ver:0.01	size:12626
 date:2015-12-29	repo:cpan	file:App-SerializeUtils-0.09.tar.gz	ver:0.09	size:19726
 date:2015-12-29	repo:cpan	file:Perinci-Sub-ConvertArgs-Array-0.08.tar.gz	ver:0.08	size:14689
+date:2015-12-29	repo:cpan	file:Sort-BySpec-0.02.tar.gz	ver:0.02	size:16261
