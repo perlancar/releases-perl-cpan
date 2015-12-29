@@ -6362,3 +6362,7 @@ date:2015-12-28	repo:cpan	file:Data-Dump-SortKeys-0.04.tar.gz	ver:0.04	size:2182
 date:2015-12-28	repo:cpan	file:Perinci-To-Doc-0.74.tar.gz	ver:0.74	size:32536
 date:2015-12-28	repo:cpan	file:Bencher-Scenario-SortBySpec-0.01.tar.gz	ver:0.01	size:12882
 date:2015-12-29	repo:cpan	file:Sort-BySpec-0.01.tar.gz	ver:0.01	size:16073
+date:2015-12-29	repo:cpan	file:Bencher-Scenario-ComparisonOps-0.01.tar.gz	ver:0.01	size:12621
+date:2015-12-29	repo:cpan	file:Bencher-Scenario-Allocations-0.01.tar.gz	ver:0.01	size:12626
+date:2015-12-29	repo:cpan	file:App-SerializeUtils-0.09.tar.gz	ver:0.09	size:19726
+date:2015-12-29	repo:cpan	file:Perinci-Sub-ConvertArgs-Array-0.08.tar.gz	ver:0.08	size:14689
