@@ -6367,3 +6367,11 @@ date:2015-12-29	repo:cpan	file:Bencher-Scenario-Allocations-0.01.tar.gz	ver:0.01
 date:2015-12-29	repo:cpan	file:App-SerializeUtils-0.09.tar.gz	ver:0.09	size:19726
 date:2015-12-29	repo:cpan	file:Perinci-Sub-ConvertArgs-Array-0.08.tar.gz	ver:0.08	size:14689
 date:2015-12-29	repo:cpan	file:Sort-BySpec-0.02.tar.gz	ver:0.02	size:16261
+date:2015-12-30	repo:cpan	file:Complete-Bash-0.22.tar.gz	ver:0.22	size:23737
+date:2015-12-30	repo:cpan	file:Complete-Bash-0.23.tar.gz	ver:0.23	size:24026
+date:2015-12-30	repo:cpan	file:Complete-Getopt-Long-0.38.tar.gz	ver:0.38	size:23650
+date:2015-12-30	repo:cpan	file:Perinci-Sub-Complete-0.84.tar.gz	ver:0.84	size:28679
+date:2015-12-30	repo:cpan	file:Complete-Bash-0.24.tar.gz	ver:0.24	size:24035
+date:2015-12-30	repo:cpan	file:Getopt-Long-Complete-0.26.tar.gz	ver:0.26	size:19012
+date:2015-12-30	repo:cpan	file:Getopt-Long-Subcommand-0.04.tar.gz	ver:0.04	size:19173
+date:2015-12-30	repo:cpan	file:Perinci-CmdLine-Lite-1.43.tar.gz	ver:1.43	size:51986
