@@ -6393,3 +6393,5 @@ date:2016-01-02	repo:cpan	file:Bencher-Scenario-LogAny-0.01.tar.gz	ver:0.01	size
 date:2016-01-03	repo:cpan	file:App-rimetadb-0.15.tar.gz	ver:0.15	size:24658
 date:2016-01-03	repo:cpan	file:Getopt-Long-Negate-EN-0.02.tar.gz	ver:0.02	size:14113
 date:2016-01-03	repo:cpan	file:Getopt-Long-Negate-EN-0.03.tar.gz	ver:0.03	size:14224
+date:2016-01-04	repo:cpan	file:App-lcpan-0.62.tar.gz	ver:0.62	size:56815
+date:2016-01-04	repo:cpan	file:App-wordlist-0.12.tar.gz	ver:0.12	size:19819
