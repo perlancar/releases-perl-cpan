@@ -6395,3 +6395,6 @@ date:2016-01-03	repo:cpan	file:Getopt-Long-Negate-EN-0.02.tar.gz	ver:0.02	size:1
 date:2016-01-03	repo:cpan	file:Getopt-Long-Negate-EN-0.03.tar.gz	ver:0.03	size:14224
 date:2016-01-04	repo:cpan	file:App-lcpan-0.62.tar.gz	ver:0.62	size:56815
 date:2016-01-04	repo:cpan	file:App-wordlist-0.12.tar.gz	ver:0.12	size:19819
+date:2016-01-05	repo:cpan	file:App-lcpan-Call-0.06.tar.gz	ver:0.06	size:13597
+date:2016-01-05	repo:cpan	file:Complete-Util-0.43.tar.gz	ver:0.43	size:21370
+date:2016-01-05	repo:cpan	file:Complete-Common-0.22.tar.gz	ver:0.22	size:14934
