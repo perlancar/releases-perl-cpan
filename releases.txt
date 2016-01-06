@@ -6427,3 +6427,13 @@ date:2016-01-05	repo:cpan	file:Bencher-Scenario-ZodiacModules-0.03.tar.gz	ver:0.
 date:2016-01-05	repo:cpan	file:Bencher-Scenarios-CompleteUtil-0.02.tar.gz	ver:0.02	size:14198
 date:2016-01-05	repo:cpan	file:Bencher-Scenarios-DataSah-0.03.tar.gz	ver:0.03	size:15808
 date:2016-01-05	repo:cpan	file:Bencher-Scenarios-Perinci-0.03.tar.gz	ver:0.03	size:14414
+date:2016-01-06	repo:cpan	file:Bencher-Scenario-IPCSystemOptions-0.01.tar.gz	ver:0.01	size:13541
+date:2016-01-06	repo:cpan	file:Bencher-0.23.tar.gz	ver:0.23	size:34604
+date:2016-01-06	repo:cpan	file:Proc-ChildError-0.04.tar.gz	ver:0.04	size:13723
+date:2016-01-06	repo:cpan	file:Bencher-ScenarioUtil-Completion-0.01.tar.gz	ver:0.01	size:13428
+date:2016-01-06	repo:cpan	file:App-lcpan-0.63.tar.gz	ver:0.63	size:56022
+date:2016-01-06	repo:cpan	file:Bencher-Scenarios-AppLcpan-0.01.tar.gz	ver:0.01	size:13574
+date:2016-01-06	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.04.tar.gz	ver:0.04	size:14886
+date:2016-01-06	repo:cpan	file:Bencher-Scenarios-AppLcpan-0.02.tar.gz	ver:0.02	size:13506
+date:2016-01-06	repo:cpan	file:Bencher-Scenarios-AppLcpan-0.03.tar.gz	ver:0.03	size:13533
+date:2016-01-06	repo:cpan	file:Bencher-Scenarios-Bencher-0.01.tar.gz	ver:0.01	size:13336
