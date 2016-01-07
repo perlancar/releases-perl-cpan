@@ -6461,3 +6461,5 @@ date:2016-01-07	repo:cpan	file:WordList-0.1.0.tar.gz	ver:0.1.0	size:14229
 date:2016-01-07	repo:cpan	file:WordList-ID-KBBI-0.01.tar.gz	ver:0.01	size:151829
 date:2016-01-07	repo:cpan	file:Bencher-Scenario-WordListModules-0.01.tar.gz	ver:0.01	size:12995
 date:2016-01-07	repo:cpan	file:App-BencherAll-0.02.tar.gz	ver:0.02	size:18194
+date:2016-01-07	repo:cpan	file:App-GamesWordlist-0.13.tar.gz	ver:0.13	size:668563
+date:2016-01-07	repo:cpan	file:App-GamesWordlist-0.14.tar.gz	ver:0.14	size:18669
