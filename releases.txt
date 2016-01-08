@@ -6476,3 +6476,4 @@ date:2016-01-08	repo:cpan	file:Bencher-Scenario-WordListModules-0.03.tar.gz	ver:
 date:2016-01-08	repo:cpan	file:Bencher-Scenario-GamesWordlistModules-0.03.tar.gz	ver:0.03	size:13595
 date:2016-01-08	repo:cpan	file:Games-Hangman-0.04.tar.gz	ver:0.04	size:16835
 date:2016-01-08	repo:cpan	file:Games-Word-Guess-0.07.tar.gz	ver:0.07	size:16320
+date:2016-01-08	repo:cpan	file:Bencher-0.25.tar.gz	ver:0.25	size:35158
