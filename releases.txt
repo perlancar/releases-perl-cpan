@@ -6486,3 +6486,6 @@ date:2016-01-08	repo:cpan	file:Bencher-Scenarios-GetoptLong-0.01.tar.gz	ver:0.01
 date:2016-01-08	repo:cpan	file:Bencher-Scenarios-GetoptLongComplete-0.02.tar.gz	ver:0.02	size:13934
 date:2016-01-08	repo:cpan	file:Bencher-Scenarios-GetoptLongEvenLess-0.01.tar.gz	ver:0.01	size:13499
 date:2016-01-08	repo:cpan	file:Bencher-Scenarios-GetoptLongEvenLess-0.02.tar.gz	ver:0.02	size:13526
+date:2016-01-09	repo:cpan	file:Module-Path-More-0.30.tar.gz	ver:0.30	size:17182
+date:2016-01-09	repo:cpan	file:App-PMUtils-0.54.tar.gz	ver:0.54	size:33569
+date:2016-01-10	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.04.tar.gz	ver:0.04	size:14517
