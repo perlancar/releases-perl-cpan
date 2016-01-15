@@ -6563,3 +6563,4 @@ date:2016-01-14	repo:cpan	file:Complete-Path-0.21.tar.gz	ver:0.21	size:17517
 date:2016-01-14	repo:cpan	file:App-ShellCompleter-cpanm-0.15.tar.gz	ver:0.15	size:18033
 date:2016-01-14	repo:cpan	file:Perinci-CmdLine-Classic-1.62.tar.gz	ver:1.62	size:42650
 date:2016-01-14	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.09.tar.gz	ver:0.09	size:15597
+date:2016-01-15	repo:cpan	file:Acme-PERLANCAR-Test-RequiresUnknownModules-0.01.tar.gz	ver:0.01	size:13216
