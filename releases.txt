@@ -6646,3 +6646,7 @@ date:2016-01-19	repo:cpan	file:Bencher-Scenario-Serializers-0.08.tar.gz	ver:0.08
 date:2016-01-19	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.07.tar.gz	ver:0.07	size:15955
 date:2016-01-20	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.08.tar.gz	ver:0.08	size:15996
 date:2016-01-20	repo:cpan	file:Bencher-Scenario-Serializers-0.09.tar.gz	ver:0.09	size:18996
+date:2016-01-20	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.09.tar.gz	ver:0.09	size:16059
+date:2016-01-20	repo:cpan	file:Bencher-Scenario-Serializers-0.10.tar.gz	ver:0.10	size:19169
+date:2016-01-20	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.10.tar.gz	ver:0.10	size:16083
+date:2016-01-20	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.10.tar.gz	ver:0.10	size:15002
