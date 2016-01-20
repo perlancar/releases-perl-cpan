@@ -6650,3 +6650,16 @@ date:2016-01-20	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.09.tar.gz	ve
 date:2016-01-20	repo:cpan	file:Bencher-Scenario-Serializers-0.10.tar.gz	ver:0.10	size:19169
 date:2016-01-20	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.10.tar.gz	ver:0.10	size:16083
 date:2016-01-20	repo:cpan	file:Bencher-Scenario-LevenshteinModules-0.10.tar.gz	ver:0.10	size:15002
+date:2016-01-20	repo:cpan	file:Data-Clean-JSON-0.29.tar.gz	ver:0.29	size:21668
+date:2016-01-20	repo:cpan	file:App-BencherUtils-0.05.tar.gz	ver:0.05	size:21378
+date:2016-01-20	repo:cpan	file:Crypt-Password-Util-0.14.tar.gz	ver:0.14	size:16494
+date:2016-01-20	repo:cpan	file:Crypt-Password-Util-0.15.tar.gz	ver:0.15	size:16573
+date:2016-01-20	repo:cpan	file:Acme-Test-crypt-0.01.tar.gz	ver:0.01	size:12897
+date:2016-01-20	repo:cpan	file:PERLANCAR-Module-List-0.003002.tar.gz	ver:0.003002	size:13743
+date:2016-01-20	repo:cpan	file:Bencher-Scenarios-PERLANCARModuleList-0.01.tar.gz	ver:0.01	size:13860
+date:2016-01-20	repo:cpan	file:App-lcpan-CmdBundle-ver-0.01.tar.gz	ver:0.01	size:14942
+date:2016-01-20	repo:cpan	file:Perinci-Examples-0.65.tar.gz	ver:0.65	size:38488
+date:2016-01-20	repo:cpan	file:Test-Perinci-CmdLine-1.32.tar.gz	ver:1.32	size:21749
+date:2016-01-20	repo:cpan	file:Perinci-Sub-Wrapper-0.80.tar.gz	ver:0.80	size:44874
+date:2016-01-20	repo:cpan	file:Perinci-CmdLine-Classic-1.64.tar.gz	ver:1.64	size:42250
+date:2016-01-21	repo:cpan	file:SQL-Statement-Functions-Date-0.03.tar.gz	ver:0.03	size:14540
