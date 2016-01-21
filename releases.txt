@@ -6664,3 +6664,5 @@ date:2016-01-20	repo:cpan	file:Perinci-Sub-Wrapper-0.80.tar.gz	ver:0.80	size:448
 date:2016-01-20	repo:cpan	file:Perinci-CmdLine-Classic-1.64.tar.gz	ver:1.64	size:42250
 date:2016-01-21	repo:cpan	file:SQL-Statement-Functions-Date-0.03.tar.gz	ver:0.03	size:14540
 date:2016-01-21	repo:cpan	file:PERLANCAR-Module-List-0.003003.tar.gz	ver:0.003003	size:13839
+date:2016-01-21	repo:cpan	file:App-lcpan-CmdBundle-ver-0.02.tar.gz	ver:0.02	size:15541
+date:2016-01-21	repo:cpan	file:Complete-Bash-0.25.tar.gz	ver:0.25	size:25506
