@@ -6693,3 +6693,9 @@ date:2016-01-22	repo:cpan	file:App-BencherUtils-0.07.tar.gz	ver:0.07	size:21493
 date:2016-01-22	repo:cpan	file:App-BencherUtils-0.08.tar.gz	ver:0.08	size:21562
 date:2016-01-22	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.11.tar.gz	ver:0.11	size:16373
 date:2016-01-22	repo:cpan	file:Bencher-0.34.tar.gz	ver:0.34	size:42264
+date:2016-01-22	repo:cpan	file:App-BencherUtils-0.09.tar.gz	ver:0.09	size:21557
+date:2016-01-22	repo:cpan	file:Perinci-Sub-Property-arg-cmdline-0.01.tar.gz	ver:0.01	size:12799
+date:2016-01-22	repo:cpan	file:Perinci-Examples-0.68.tar.gz	ver:0.68	size:39334
+date:2016-01-22	repo:cpan	file:Test-Perinci-CmdLine-1.37.tar.gz	ver:1.37	size:22320
+date:2016-01-22	repo:cpan	file:Perinci-CmdLine-Lite-1.48.tar.gz	ver:1.48	size:52740
+date:2016-01-22	repo:cpan	file:Bencher-Scenarios-PerinciCmdLine-0.02.tar.gz	ver:0.02	size:15645
