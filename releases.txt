@@ -6680,3 +6680,4 @@ date:2016-01-21	repo:cpan	file:Bencher-Scenarios-PERLANCAR-0.02.tar.gz	ver:0.02	
 date:2016-01-21	repo:cpan	file:Crypt-Password-Util-0.17.tar.gz	ver:0.17	size:17294
 date:2016-01-21	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.53.tar.gz	ver:0.53	size:22269
 date:2016-01-21	repo:cpan	file:App-BencherUtils-0.06.tar.gz	ver:0.06	size:21423
+date:2016-01-22	repo:cpan	file:Perinci-Sub-Wrapper-0.81.tar.gz	ver:0.81	size:44900
