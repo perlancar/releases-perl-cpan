@@ -6705,3 +6705,7 @@ date:2016-01-23	repo:cpan	file:App-lcpan-0.65.tar.gz	ver:0.65	size:58187
 date:2016-01-23	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.54.tar.gz	ver:0.54	size:22924
 date:2016-01-23	repo:cpan	file:Config-IOD-Reader-0.20.tar.gz	ver:0.20	size:23118
 date:2016-01-23	repo:cpan	file:Perinci-CmdLine-Lite-1.49.tar.gz	ver:1.49	size:53889
+date:2016-01-23	repo:cpan	file:Complete-Getopt-Long-0.40.tar.gz	ver:0.40	size:24535
+date:2016-01-23	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.09.tar.gz	ver:0.09	size:16307
+date:2016-01-24	repo:cpan	file:Dist-Zilla-Plugin-PrecomputeVariable-0.04.tar.gz	ver:0.04	size:14878
+date:2016-01-24	repo:cpan	file:Bencher-Scenarios-RegexpCommon-0.01.tar.gz	ver:0.01	size:16374
