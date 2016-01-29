@@ -6709,3 +6709,6 @@ date:2016-01-23	repo:cpan	file:Complete-Getopt-Long-0.40.tar.gz	ver:0.40	size:24
 date:2016-01-23	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.09.tar.gz	ver:0.09	size:16307
 date:2016-01-24	repo:cpan	file:Dist-Zilla-Plugin-PrecomputeVariable-0.04.tar.gz	ver:0.04	size:14878
 date:2016-01-24	repo:cpan	file:Bencher-Scenarios-RegexpCommon-0.01.tar.gz	ver:0.01	size:16374
+date:2016-01-29	repo:cpan	file:App-LintPrereqs-0.33.tar.gz	ver:0.33	size:22846
+date:2016-01-29	repo:cpan	file:Text-Fragment-0.09.tar.gz	ver:0.09	size:22506
+date:2016-01-29	repo:cpan	file:App-shcompgen-0.14.tar.gz	ver:0.14	size:25843
