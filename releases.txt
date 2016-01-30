@@ -6712,3 +6712,4 @@ date:2016-01-24	repo:cpan	file:Bencher-Scenarios-RegexpCommon-0.01.tar.gz	ver:0.
 date:2016-01-29	repo:cpan	file:App-LintPrereqs-0.33.tar.gz	ver:0.33	size:22846
 date:2016-01-29	repo:cpan	file:Text-Fragment-0.09.tar.gz	ver:0.09	size:22506
 date:2016-01-29	repo:cpan	file:App-shcompgen-0.14.tar.gz	ver:0.14	size:25843
+date:2016-01-30	repo:cpan	file:Pod-Weaver-Section-ReplaceSource-DefaultGitHub-0.01.tar.gz	ver:0.01	size:12992
