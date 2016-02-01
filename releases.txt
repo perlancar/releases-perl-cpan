@@ -6713,3 +6713,8 @@ date:2016-01-29	repo:cpan	file:App-LintPrereqs-0.33.tar.gz	ver:0.33	size:22846
 date:2016-01-29	repo:cpan	file:Text-Fragment-0.09.tar.gz	ver:0.09	size:22506
 date:2016-01-29	repo:cpan	file:App-shcompgen-0.14.tar.gz	ver:0.14	size:25843
 date:2016-01-30	repo:cpan	file:Pod-Weaver-Section-ReplaceSource-DefaultGitHub-0.01.tar.gz	ver:0.01	size:12992
+date:2016-01-31	repo:cpan	file:Bencher-Scenario-BigFloat-0.01.tar.gz	ver:0.01	size:14192
+date:2016-01-31	repo:cpan	file:Bencher-Scenario-BigInt-0.01.tar.gz	ver:0.01	size:14294
+date:2016-01-31	repo:cpan	file:App-MarkdownToPODUtils-0.01.tar.gz	ver:0.01	size:16943
+date:2016-01-31	repo:cpan	file:App-MarkdownUtils-0.02.tar.gz	ver:0.02	size:17452
+date:2016-01-31	repo:cpan	file:App-CommonMarkUtils-0.01.tar.gz	ver:0.01	size:16970
