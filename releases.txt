@@ -6719,3 +6719,4 @@ date:2016-01-31	repo:cpan	file:Bencher-Scenario-BigInt-0.01.tar.gz	ver:0.01	size
 date:2016-01-31	repo:cpan	file:App-MarkdownToPODUtils-0.01.tar.gz	ver:0.01	size:16943
 date:2016-01-31	repo:cpan	file:App-MarkdownUtils-0.02.tar.gz	ver:0.02	size:17452
 date:2016-01-31	repo:cpan	file:App-CommonMarkUtils-0.01.tar.gz	ver:0.01	size:16970
+date:2016-02-02	repo:cpan	file:Complete-Bash-0.26.tar.gz	ver:0.26	size:24338
