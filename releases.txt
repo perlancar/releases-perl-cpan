@@ -6743,3 +6743,7 @@ date:2016-02-04	repo:cpan	file:App-LintPrereqs-0.34.tar.gz	ver:0.34	size:21371
 date:2016-02-04	repo:cpan	file:Perinci-CmdLine-Lite-1.50.tar.gz	ver:1.50	size:53833
 date:2016-02-04	repo:cpan	file:Perinci-CmdLine-Classic-1.66.tar.gz	ver:1.66	size:42434
 date:2016-02-04	repo:cpan	file:Perinci-CmdLine-Inline-0.35.tar.gz	ver:0.35	size:29598
+date:2016-02-05	repo:cpan	file:App-wordlist-0.19.tar.gz	ver:0.19	size:83818
+date:2016-02-05	repo:cpan	file:Finance-Currency-Convert-BI-0.02.tar.gz	ver:0.02	size:55840
+date:2016-02-05	repo:cpan	file:Config-IOD-Reader-0.21.tar.gz	ver:0.21	size:22954
+date:2016-02-05	repo:cpan	file:Games-Word-Phraselist-0.05.tar.gz	ver:0.05	size:13105
