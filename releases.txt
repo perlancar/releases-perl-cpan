@@ -6760,3 +6760,19 @@ date:2016-02-08	repo:cpan	file:Perl-Examples-0.05.tar.gz	ver:0.05	size:16786
 date:2016-02-08	repo:cpan	file:App-LinguaSUUtils-0.01.tar.gz	ver:0.01	size:16942
 date:2016-02-09	repo:cpan	file:Module-FatPack-0.10.tar.gz	ver:0.10	size:16356
 date:2016-02-09	repo:cpan	file:Module-DataPack-0.17.tar.gz	ver:0.17	size:17736
+date:2016-02-10	repo:cpan	file:WordList-Phrase-FR-Proverb-ProverbesFrancais-0.01.tar.gz	ver:0.01	size:195188
+date:2016-02-10	repo:cpan	file:WordList-Phrase-ZH-Proverb-ChineseTools-0.02.tar.gz	ver:0.02	size:205103
+date:2016-02-10	repo:cpan	file:WordList-Phrase-ZH-Idiom-Wiktionary-0.01.tar.gz	ver:0.01	size:22712
+date:2016-02-10	repo:cpan	file:WordList-Phrase-ZH-Idiom-Wiktionary-0.02.tar.gz	ver:0.02	size:22669
+date:2016-02-10	repo:cpan	file:WordList-Phrase-EN-Idiom-Wiktionary-0.01.tar.gz	ver:0.01	size:62121
+date:2016-02-10	repo:cpan	file:WordList-Phrase-FR-Idiom-Wiktionary-0.01.tar.gz	ver:0.01	size:16425
+date:2016-02-10	repo:cpan	file:WordList-Phrase-FR-Proverb-Wiktionary-0.01.tar.gz	ver:0.01	size:14028
+date:2016-02-10	repo:cpan	file:WordList-Phrase-ZH-Proverb-Wiktionary-0.01.tar.gz	ver:0.01	size:16783
+date:2016-02-10	repo:cpan	file:WordList-Phrase-EN-Proverb-Wiktionary-0.01.tar.gz	ver:0.01	size:21013
+date:2016-02-10	repo:cpan	file:WordList-Phrase-ZH-Idiom-ChineseTools-0.03.tar.gz	ver:0.03	size:205160	oldname:WordList-Phrase-ZH-Proverb-ChineseTools
+date:2016-02-10	repo:cpan	file:WordList-Phrase-JV-Proverb-PeribahasaNet-0.01.tar.gz	ver:0.01	size:15789
+date:2016-02-10	repo:cpan	file:WordList-Phrase-SU-Proverb-PeribahasaNet-0.01.tar.gz	ver:0.01	size:12988
+date:2016-02-10	repo:cpan	file:Acme-PERLANCAR-Test-ScriptNameSameAsModuleName-0.01.tar.gz	ver:0.01	size:13503
+date:2016-02-10	repo:cpan	file:Acme-PERLANCAR-Test-ScriptNameSameAsModuleName-0.02.tar.gz	ver:0.02	size:13609
+date:2016-02-10	repo:cpan	file:Acme-PERLANCAR-Test-DuplicateScript-0.01.tar.gz	ver:0.01	size:13459
+date:2016-02-10	repo:cpan	file:Bencher-Scenario-RegexpAssemble-0.01.tar.gz	ver:0.01	size:14005
