@@ -6776,6 +6776,9 @@ date:2016-02-10	repo:cpan	file:Acme-PERLANCAR-Test-ScriptNameSameAsModuleName-0.
 date:2016-02-10	repo:cpan	file:Acme-PERLANCAR-Test-ScriptNameSameAsModuleName-0.02.tar.gz	ver:0.02	size:13609
 date:2016-02-10	repo:cpan	file:Acme-PERLANCAR-Test-DuplicateScript-0.01.tar.gz	ver:0.01	size:13459
 date:2016-02-10	repo:cpan	file:Bencher-Scenario-RegexpAssemble-0.01.tar.gz	ver:0.01	size:14005
+date:2016-02-11	repo:cpan	file:Log-Any-DBI-Query-0.05.tar.gz	ver:0.05	size:13802
+date:2016-02-11	repo:cpan	file:App-lcpan-0.67.tar.gz	ver:0.67	size:69226
+date:2016-02-11	repo:cpan	file:Dist-Zilla-Plugin-EnsureSQLSchemaVersionedTest-0.02.tar.gz	ver:0.02	size:13242
 date:2016-02-11	repo:cpan	file:App-GoogleSearchPerlIRCLogs-0.01.tar.gz	ver:0.01	size:16535
 date:2016-02-11	repo:cpan	file:Bencher-Scenario-RegexpAssemble-0.02.tar.gz	ver:0.02	size:14009
 date:2016-02-11	repo:cpan	file:App-lcpan-0.68.tar.gz	ver:0.68	size:70375
