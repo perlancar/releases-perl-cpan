@@ -6788,3 +6788,17 @@ date:2016-02-12	repo:cpan	file:App-lcpan-0.71.tar.gz	ver:0.71	size:75777
 date:2016-02-13	repo:cpan	file:App-ListCountries-0.01.tar.gz	ver:0.01	size:18850
 date:2016-02-13	repo:cpan	file:Perinci-Sub-Gen-AccessTable-0.55.tar.gz	ver:0.55	size:42323
 date:2016-02-13	repo:cpan	file:App-ListIntlPhoneCodes-0.01.tar.gz	ver:0.01	size:19252
+date:2016-02-14	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.05.tar.gz	ver:0.05	size:15258
+date:2016-02-14	repo:cpan	file:Perinci-CmdLine-Call-0.04.tar.gz	ver:0.04	size:14860
+date:2016-02-14	repo:cpan	file:App-lcpan-Call-0.07.tar.gz	ver:0.07	size:14733
+date:2016-02-14	repo:cpan	file:App-GamesWordlist-0.16.tar.gz	ver:0.16	size:20504
+date:2016-02-14	repo:cpan	file:Bencher-Scenario-ScalarUtilNumeric-0.01.tar.gz	ver:0.01	size:14728
+date:2016-02-14	repo:cpan	file:App-depak-0.51.tar.gz	ver:0.51	size:34001
+date:2016-02-14	repo:cpan	file:Dist-Zilla-Plugin-Acme-CPANLists-Blacklist-0.02.tar.gz	ver:0.02	size:15812
+date:2016-02-14	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureCoreOrPP-0.08.tar.gz	ver:0.08	size:14844
+date:2016-02-14	repo:cpan	file:Dist-Zilla-Plugin-Lump-0.10.tar.gz	ver:0.10	size:18112
+date:2016-02-14	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.18.tar.gz	ver:0.18	size:17795
+date:2016-02-14	repo:cpan	file:App-lcpan-0.72.tar.gz	ver:0.72	size:77117
+date:2016-02-14	repo:cpan	file:App-lcpan-0.73.tar.gz	ver:0.73	size:77333
+date:2016-02-15	repo:cpan	file:File-Util-Tempdir-0.01.tar.gz	ver:0.01	size:13807
+date:2016-02-16	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-CheckDepDists-0.06.tar.gz	ver:0.06	size:15404
