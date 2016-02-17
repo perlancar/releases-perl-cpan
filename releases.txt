@@ -6809,3 +6809,8 @@ date:2016-02-16	repo:cpan	file:Acme-PERLANCAR-Test-CaseVariation-0.01.tar.gz	ver
 date:2016-02-16	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.08.tar.gz	ver:0.08	size:25691
 date:2016-02-16	repo:cpan	file:App-lcpan-0.75.tar.gz	ver:0.75	size:77797
 date:2016-02-16	repo:cpan	file:App-lcpan-0.76.tar.gz	ver:0.76	size:77829
+date:2016-02-17	repo:cpan	file:App-lcpan-0.77.tar.gz	ver:0.77	size:77874
+date:2016-02-17	repo:cpan	file:Module-CoreList-More-0.08.tar.gz	ver:0.08	size:19064
+date:2016-02-17	repo:cpan	file:Test-Rinci-0.12.tar.gz	ver:0.12	size:18329
+date:2016-02-17	repo:cpan	file:App-lcpan-0.78.tar.gz	ver:0.78	size:81937
+date:2016-02-17	repo:cpan	file:Bencher-Scenarios-LogDispatch-0.01.tar.gz	ver:0.01	size:14082
