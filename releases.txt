@@ -6814,3 +6814,5 @@ date:2016-02-17	repo:cpan	file:Module-CoreList-More-0.08.tar.gz	ver:0.08	size:19
 date:2016-02-17	repo:cpan	file:Test-Rinci-0.12.tar.gz	ver:0.12	size:18329
 date:2016-02-17	repo:cpan	file:App-lcpan-0.78.tar.gz	ver:0.78	size:81937
 date:2016-02-17	repo:cpan	file:Bencher-Scenarios-LogDispatch-0.01.tar.gz	ver:0.01	size:14082
+date:2016-02-18	repo:cpan	file:Bencher-Scenarios-RegexpGrammars-0.01.tar.gz	ver:0.01	size:13276
+date:2016-02-18	repo:cpan	file:PERLANCAR-JSON-Match-0.01.tar.gz	ver:0.01	size:13529
