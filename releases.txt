@@ -6816,3 +6816,8 @@ date:2016-02-17	repo:cpan	file:App-lcpan-0.78.tar.gz	ver:0.78	size:81937
 date:2016-02-17	repo:cpan	file:Bencher-Scenarios-LogDispatch-0.01.tar.gz	ver:0.01	size:14082
 date:2016-02-18	repo:cpan	file:Bencher-Scenarios-RegexpGrammars-0.01.tar.gz	ver:0.01	size:13276
 date:2016-02-18	repo:cpan	file:PERLANCAR-JSON-Match-0.01.tar.gz	ver:0.01	size:13529
+date:2016-02-18	repo:cpan	file:PERLANCAR-JSON-Match-0.02.tar.gz	ver:0.02	size:13766
+date:2016-02-18	repo:cpan	file:Bencher-Scenario-Serializers-0.11.tar.gz	ver:0.11	size:19386
+date:2016-02-18	repo:cpan	file:JSON-Decode-Regexp-0.04.tar.gz	ver:0.04	size:14746
+date:2016-02-18	repo:cpan	file:Bencher-0.35.tar.gz	ver:0.35	size:43827
+date:2016-02-18	repo:cpan	file:JSON-Decode-Regexp-0.05.tar.gz	ver:0.05	size:14935
