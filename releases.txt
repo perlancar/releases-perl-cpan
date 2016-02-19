@@ -6821,3 +6821,8 @@ date:2016-02-18	repo:cpan	file:Bencher-Scenario-Serializers-0.11.tar.gz	ver:0.11
 date:2016-02-18	repo:cpan	file:JSON-Decode-Regexp-0.04.tar.gz	ver:0.04	size:14746
 date:2016-02-18	repo:cpan	file:Bencher-0.35.tar.gz	ver:0.35	size:43827
 date:2016-02-18	repo:cpan	file:JSON-Decode-Regexp-0.05.tar.gz	ver:0.05	size:14935
+date:2016-02-19	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.71.tar.gz	ver:0.71	size:33689
+date:2016-02-19	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureCoreOrPP-0.09.tar.gz	ver:0.09	size:14312
+date:2016-02-19	repo:cpan	file:App-lcpan-0.79.tar.gz	ver:0.79	size:83433
+date:2016-02-19	repo:cpan	file:Log-Any-DBI-Query-0.06.tar.gz	ver:0.06	size:13977
+date:2016-02-19	repo:cpan	file:Data-Section-Seekable-0.09.tar.gz	ver:0.09	size:17042
