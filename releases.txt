@@ -6860,3 +6860,10 @@ date:2016-02-22	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.19.tar.gz	ver:0.19	size
 date:2016-02-22	repo:cpan	file:Log-Any-DBI-Query-0.07.tar.gz	ver:0.07	size:13910
 date:2016-02-23	repo:cpan	file:Perinci-Sub-Gen-AccessTable-DBI-0.16.tar.gz	ver:0.16	size:21919
 date:2016-02-23	repo:cpan	file:Perinci-Sub-Property-curry-0.05.tar.gz	ver:0.05	size:13680
+date:2016-02-24	repo:cpan	file:LinuxMint-Releases-0.02.tar.gz	ver:0.02	size:16636
+date:2016-02-24	repo:cpan	file:Perinci-Sub-Gen-AccessTable-DBI-0.17.tar.gz	ver:0.17	size:21957
+date:2016-02-24	repo:cpan	file:IOD-0.9.10.tar.gz	ver:0.9.10	size:18981
+date:2016-02-24	repo:cpan	file:IOD-Examples-0.18.tar.gz	ver:0.18	size:20960
+date:2016-02-24	repo:cpan	file:Config-IOD-Reader-0.22.tar.gz	ver:0.22	size:23636
+date:2016-02-24	repo:cpan	file:Config-IOD-0.24.tar.gz	ver:0.24	size:26493
+date:2016-02-25	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.11.tar.gz	ver:0.11	size:16643
