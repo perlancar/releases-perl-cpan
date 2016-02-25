@@ -6869,3 +6869,12 @@ date:2016-02-24	repo:cpan	file:Config-IOD-0.24.tar.gz	ver:0.24	size:26493
 date:2016-02-25	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.11.tar.gz	ver:0.11	size:16643
 date:2016-02-25	repo:cpan	file:Sort-Sub-0.04.tar.gz	ver:0.04	size:15589
 date:2016-02-25	repo:cpan	file:PERLANCAR-Sort-Sub-0.01.tar.gz	ver:0.01	size:14162
+date:2016-02-25	repo:cpan	file:Data-ModeMerge-0.33.tar.gz	ver:0.33	size:44389
+date:2016-02-25	repo:cpan	file:Dist-Zilla-Plugin-Rinci-Validate-0.21.tar.gz	ver:0.21	size:18669
+date:2016-02-25	repo:cpan	file:App-lcpan-0.80.tar.gz	ver:0.80	size:88801
+date:2016-02-25	repo:cpan	file:Rinci-1.1.79.tar.gz	ver:1.1.79	size:58205
+date:2016-02-26	repo:cpan	file:Perinci-Examples-0.70.tar.gz	ver:0.70	size:39573
+date:2016-02-26	repo:cpan	file:Test-Perinci-CmdLine-1.39.tar.gz	ver:1.39	size:22485
+date:2016-02-26	repo:cpan	file:Perinci-CmdLine-Lite-1.51.tar.gz	ver:1.51	size:53931
+date:2016-02-26	repo:cpan	file:Perinci-CmdLine-Classic-1.67.tar.gz	ver:1.67	size:42432
+date:2016-02-26	repo:cpan	file:Perinci-CmdLine-Inline-0.36.tar.gz	ver:0.36	size:29677
