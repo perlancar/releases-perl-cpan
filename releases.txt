@@ -6869,3 +6869,4 @@ date:2016-02-24	repo:cpan	file:Config-IOD-0.24.tar.gz	ver:0.24	size:26493
 date:2016-02-25	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.11.tar.gz	ver:0.11	size:16643
 date:2016-02-25	repo:cpan	file:Sort-Sub-0.04.tar.gz	ver:0.04	size:15589
 date:2016-02-25	repo:cpan	file:PERLANCAR-Sort-Sub-0.01.tar.gz	ver:0.01	size:14162
+date:2016-02-25	repo:cpan	file:PERLANCAR-Sort-Sub-0.02.tar.gz	ver:0.02	size:13124
