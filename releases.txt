@@ -6878,3 +6878,13 @@ date:2016-02-26	repo:cpan	file:Test-Perinci-CmdLine-1.39.tar.gz	ver:1.39	size:22
 date:2016-02-26	repo:cpan	file:Perinci-CmdLine-Lite-1.51.tar.gz	ver:1.51	size:53931
 date:2016-02-26	repo:cpan	file:Perinci-CmdLine-Classic-1.67.tar.gz	ver:1.67	size:42432
 date:2016-02-26	repo:cpan	file:Perinci-CmdLine-Inline-0.36.tar.gz	ver:0.36	size:29677
+date:2016-02-26	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.56.tar.gz	ver:0.56	size:23582
+date:2016-02-26	repo:cpan	file:Perinci-To-Doc-0.75.tar.gz	ver:0.75	size:35461
+date:2016-02-26	repo:cpan	file:Perinci-Examples-0.71.tar.gz	ver:0.71	size:40616
+date:2016-02-26	repo:cpan	file:Perinci-Examples-Bin-Any-ArgsAs-0.01.tar.gz	ver:0.01	size:16474
+date:2016-02-26	repo:cpan	file:Perinci-Examples-Bin-Any-ResultNaked-0.01.tar.gz	ver:0.01	size:15852
+date:2016-02-26	repo:cpan	file:Perinci-To-Doc-0.76.tar.gz	ver:0.76	size:35588
+date:2016-02-26	repo:cpan	file:CPAN-Module-FromURL-0.04.tar.gz	ver:0.04	size:14087
+date:2016-02-26	repo:cpan	file:App-lcpan-CmdBundle-cpanlists-0.00.tar.gz	ver:0.00	size:14226
+date:2016-02-26	repo:cpan	file:App-ShellCompleter-cpanm-0.16.tar.gz	ver:0.16	size:17185
+date:2016-02-26	repo:cpan	file:App-lcpan-CmdBundle-sah-0.00.tar.gz	ver:0.00	size:14111
