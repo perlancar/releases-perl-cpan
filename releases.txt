@@ -6889,3 +6889,9 @@ date:2016-02-26	repo:cpan	file:CPAN-Module-FromURL-0.04.tar.gz	ver:0.04	size:140
 date:2016-02-26	repo:cpan	file:App-lcpan-CmdBundle-cpanlists-0.00.tar.gz	ver:0.00	size:14226
 date:2016-02-26	repo:cpan	file:App-ShellCompleter-cpanm-0.16.tar.gz	ver:0.16	size:17185
 date:2016-02-26	repo:cpan	file:App-lcpan-CmdBundle-sah-0.00.tar.gz	ver:0.00	size:14111
+date:2016-02-27	repo:cpan	file:Sort-Sub-0.05.tar.gz	ver:0.05	size:16060
+date:2016-02-27	repo:cpan	file:PERLANCAR-Sort-Sub-0.03.tar.gz	ver:0.03	size:13196
+date:2016-02-27	repo:cpan	file:App-LintPrereqs-0.35.tar.gz	ver:0.35	size:21716
+date:2016-02-27	repo:cpan	file:Config-IOD-0.25.tar.gz	ver:0.25	size:27157
+date:2016-02-27	repo:cpan	file:App-LintPrereqs-0.36.tar.gz	ver:0.36	size:21799
+date:2016-02-27	repo:cpan	file:Config-IOD-0.26.tar.gz	ver:0.26	size:27187
