@@ -6895,3 +6895,8 @@ date:2016-02-27	repo:cpan	file:App-LintPrereqs-0.35.tar.gz	ver:0.35	size:21716
 date:2016-02-27	repo:cpan	file:Config-IOD-0.25.tar.gz	ver:0.25	size:27157
 date:2016-02-27	repo:cpan	file:App-LintPrereqs-0.36.tar.gz	ver:0.36	size:21799
 date:2016-02-27	repo:cpan	file:Config-IOD-0.26.tar.gz	ver:0.26	size:27187
+date:2016-02-29	repo:cpan	file:App-wordlist-0.21.tar.gz	ver:0.21	size:85572
+date:2016-02-29	repo:cpan	file:App-depak-0.52.tar.gz	ver:0.52	size:34058
+date:2016-02-29	repo:cpan	file:App-shcompgen-0.15.tar.gz	ver:0.15	size:26577
+date:2016-02-29	repo:cpan	file:Dist-Zilla-Plugin-shcompgen-InitOnInstall-0.03.tar.gz	ver:0.03	size:14186
+date:2016-02-29	repo:cpan	file:Dist-Zilla-Plugin-GenShellCompletion-0.10.tar.gz	ver:0.10	size:15451
