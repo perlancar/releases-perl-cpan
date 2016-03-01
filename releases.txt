@@ -6900,3 +6900,9 @@ date:2016-02-29	repo:cpan	file:App-depak-0.52.tar.gz	ver:0.52	size:34058
 date:2016-02-29	repo:cpan	file:App-shcompgen-0.15.tar.gz	ver:0.15	size:26577
 date:2016-02-29	repo:cpan	file:Dist-Zilla-Plugin-shcompgen-InitOnInstall-0.03.tar.gz	ver:0.03	size:14186
 date:2016-02-29	repo:cpan	file:Dist-Zilla-Plugin-GenShellCompletion-0.10.tar.gz	ver:0.10	size:15451
+date:2016-03-01	repo:cpan	file:Config-IOD-Reader-0.23.tar.gz	ver:0.23	size:23681
+date:2016-03-01	repo:cpan	file:Config-IOD-0.27.tar.gz	ver:0.27	size:27226
+date:2016-03-01	repo:cpan	file:Getopt-Long-Negate-EN-0.04.tar.gz	ver:0.04	size:13829
+date:2016-03-01	repo:cpan	file:Getopt-Long-Negate-EN-0.05.tar.gz	ver:0.05	size:14036
+date:2016-03-01	repo:cpan	file:App-IODUtils-0.12.tar.gz	ver:0.12	size:20906
+date:2016-03-01	repo:cpan	file:App-LintPrereqs-0.37.tar.gz	ver:0.37	size:22689
