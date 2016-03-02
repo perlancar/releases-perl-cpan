@@ -6906,3 +6906,8 @@ date:2016-03-01	repo:cpan	file:Getopt-Long-Negate-EN-0.04.tar.gz	ver:0.04	size:1
 date:2016-03-01	repo:cpan	file:Getopt-Long-Negate-EN-0.05.tar.gz	ver:0.05	size:14036
 date:2016-03-01	repo:cpan	file:App-IODUtils-0.12.tar.gz	ver:0.12	size:20906
 date:2016-03-01	repo:cpan	file:App-LintPrereqs-0.37.tar.gz	ver:0.37	size:22689
+date:2016-03-01	repo:cpan	file:App-LintPrereqs-0.38.tar.gz	ver:0.38	size:22979
+date:2016-03-02	repo:cpan	file:Config-IOD-0.28.tar.gz	ver:0.28	size:27465
+date:2016-03-02	repo:cpan	file:App-PDRUtils-0.01.tar.gz	ver:0.01	size:20079
+date:2016-03-02	repo:cpan	file:Version-Util-0.72.tar.gz	ver:0.72	size:15345
+date:2016-03-02	repo:cpan	file:App-PDRUtils-0.02.tar.gz	ver:0.02	size:21457
