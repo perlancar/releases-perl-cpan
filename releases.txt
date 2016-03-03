@@ -6915,3 +6915,7 @@ date:2016-03-02	repo:cpan	file:Perinci-To-Doc-0.77.tar.gz	ver:0.77	size:35720
 date:2016-03-02	repo:cpan	file:App-lcpan-0.81.tar.gz	ver:0.81	size:89930
 date:2016-03-02	repo:cpan	file:Data-Unixish-1.53.tar.gz	ver:1.53	size:46231
 date:2016-03-02	repo:cpan	file:App-PDRUtils-0.03.tar.gz	ver:0.03	size:22747
+date:2016-03-03	repo:cpan	file:App-PDRUtils-0.04.tar.gz	ver:0.04	size:26068
+date:2016-03-03	repo:cpan	file:Config-IOD-0.29.tar.gz	ver:0.29	size:27705
+date:2016-03-03	repo:cpan	file:App-PDRUtils-0.05.tar.gz	ver:0.05	size:29492
+date:2016-03-03	repo:cpan	file:App-PDRUtils-0.06.tar.gz	ver:0.06	size:29645
