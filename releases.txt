@@ -6919,3 +6919,4 @@ date:2016-03-03	repo:cpan	file:App-PDRUtils-0.04.tar.gz	ver:0.04	size:26068
 date:2016-03-03	repo:cpan	file:Config-IOD-0.29.tar.gz	ver:0.29	size:27705
 date:2016-03-03	repo:cpan	file:App-PDRUtils-0.05.tar.gz	ver:0.05	size:29492
 date:2016-03-03	repo:cpan	file:App-PDRUtils-0.06.tar.gz	ver:0.06	size:29645
+date:2016-03-04	repo:cpan	file:App-LintPrereqs-0.39.tar.gz	ver:0.39	size:25702
