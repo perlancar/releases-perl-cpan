@@ -6925,3 +6925,4 @@ date:2016-03-04	repo:cpan	file:Dist-Zilla-Plugin-LintPrereqs-0.01.tar.gz	ver:0.0
 date:2016-03-05	repo:cpan	file:Pipe-Find-0.03.tar.gz	ver:0.03	size:14570
 date:2016-03-05	repo:cpan	file:Pipe-Find-0.04.tar.gz	ver:0.04	size:14594
 date:2016-03-05	repo:cpan	file:App-pretty-0.04.tar.gz	ver:0.04	size:15876
+date:2016-03-06	repo:cpan	file:Test-Rinci-0.14.tar.gz	ver:0.14	size:20087
