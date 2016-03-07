@@ -6925,3 +6925,7 @@ date:2016-03-04	repo:cpan	file:Dist-Zilla-Plugin-LintPrereqs-0.01.tar.gz	ver:0.0
 date:2016-03-05	repo:cpan	file:Pipe-Find-0.03.tar.gz	ver:0.03	size:14570
 date:2016-03-05	repo:cpan	file:Pipe-Find-0.04.tar.gz	ver:0.04	size:14594
 date:2016-03-05	repo:cpan	file:App-pretty-0.04.tar.gz	ver:0.04	size:15876
+date:2016-03-07	repo:cpan	file:CPAN-Info-FromURL-0.05.tar.gz	ver:0.05	size:17223
+date:2016-03-07	repo:cpan	file:HTML-Extract-CPANModules-0.04.tar.gz	ver:0.04	size:14457
+date:2016-03-07	repo:cpan	file:CPAN-Info-FromURL-0.06.tar.gz	ver:0.06	size:17272
+date:2016-03-07	repo:cpan	file:App-CPANURLUtils-0.01.tar.gz	ver:0.01	size:18110
