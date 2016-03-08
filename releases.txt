@@ -6930,3 +6930,8 @@ date:2016-03-07	repo:cpan	file:CPAN-Info-FromURL-0.05.tar.gz	ver:0.05	size:17223
 date:2016-03-07	repo:cpan	file:HTML-Extract-CPANModules-0.04.tar.gz	ver:0.04	size:14457
 date:2016-03-07	repo:cpan	file:CPAN-Info-FromURL-0.06.tar.gz	ver:0.06	size:17272
 date:2016-03-07	repo:cpan	file:App-CPANURLUtils-0.01.tar.gz	ver:0.01	size:18110
+date:2016-03-08	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schema-0.01.tar.gz	ver:0.01	size:13505
+date:2016-03-08	repo:cpan	file:TableDef-1.0.7.tar.gz	ver:1.0.7	size:14753
+date:2016-03-08	repo:cpan	file:Sah-Schema-Int-0.02.tar.gz	ver:0.02	size:12929
+date:2016-03-08	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schema-0.02.tar.gz	ver:0.02	size:13547
+date:2016-03-08	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schema-0.03.tar.gz	ver:0.03	size:13571
