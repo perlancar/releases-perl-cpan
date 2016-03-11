@@ -6970,3 +6970,16 @@ date:2016-03-10	repo:cpan	file:App-pretty-0.05.tar.gz	ver:0.05	size:14958
 date:2016-03-10	repo:cpan	file:App-riap-0.35.tar.gz	ver:0.35	size:26916
 date:2016-03-10	repo:cpan	file:App-rimetadb-0.16.tar.gz	ver:0.16	size:23743
 date:2016-03-10	repo:cpan	file:App-tchart-0.05.tar.gz	ver:0.05	size:15857
+date:2016-03-11	repo:cpan	file:Text-ANSI-Util-0.22.tar.gz	ver:0.22	size:28122
+date:2016-03-11	repo:cpan	file:Data-Unixish-1.54.tar.gz	ver:1.54	size:46260
+date:2016-03-11	repo:cpan	file:App-ruler-0.05.tar.gz	ver:0.05	size:17970
+date:2016-03-11	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.22.tar.gz	ver:0.22	size:17501
+date:2016-03-11	repo:cpan	file:Text-ANSITable-0.48.tar.gz	ver:0.48	size:56137
+date:2016-03-11	repo:cpan	file:Bencher-0.36.tar.gz	ver:0.36	size:43969
+date:2016-03-11	repo:cpan	file:Config-Apachish-Reader-0.03.tar.gz	ver:0.03	size:15587
+date:2016-03-11	repo:cpan	file:Config-IOD-Reader-0.24.tar.gz	ver:0.24	size:23707
+date:2016-03-11	repo:cpan	file:Data-Format-Pretty-Console-0.36.tar.gz	ver:0.36	size:22936
+date:2016-03-11	repo:cpan	file:Data-Format-Pretty-JSON-0.12.tar.gz	ver:0.12	size:14511
+date:2016-03-11	repo:cpan	file:App-jpath-0.04.tar.gz	ver:0.04	size:14949
+date:2016-03-11	repo:cpan	file:Locale-ID-GuessGender-FromFirstName-0.06.tar.gz	ver:0.06	size:26053
+date:2016-03-11	repo:cpan	file:String-JS-0.03.tar.gz	ver:0.03	size:13828
