@@ -6970,3 +6970,5 @@ date:2016-03-10	repo:cpan	file:App-pretty-0.05.tar.gz	ver:0.05	size:14958
 date:2016-03-10	repo:cpan	file:App-riap-0.35.tar.gz	ver:0.35	size:26916
 date:2016-03-10	repo:cpan	file:App-rimetadb-0.16.tar.gz	ver:0.16	size:23743
 date:2016-03-10	repo:cpan	file:App-tchart-0.05.tar.gz	ver:0.05	size:15857
+date:2016-03-13	repo:cpan	file:App-CSelUtils-0.01.tar.gz	ver:0.01	size:17023
+date:2016-03-13	repo:cpan	file:Bencher-Scenarios-TextANSIUtil-0.01.tar.gz	ver:0.01	size:14604
