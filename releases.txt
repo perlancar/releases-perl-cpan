@@ -6977,3 +6977,12 @@ date:2016-03-12	repo:cpan	file:Bencher-Scenarios-Exporters-0.05.tar.gz	ver:0.05	
 date:2016-03-12	repo:cpan	file:App-lcpan-0.84.tar.gz	ver:0.84	size:92697
 date:2016-03-13	repo:cpan	file:App-CSelUtils-0.01.tar.gz	ver:0.01	size:17023
 date:2016-03-13	repo:cpan	file:Bencher-Scenarios-TextANSIUtil-0.01.tar.gz	ver:0.01	size:14604
+date:2016-03-13	repo:cpan	file:Data-Format-Pretty-Console-0.37.tar.gz	ver:0.37	size:23728
+date:2016-03-13	repo:cpan	file:Perinci-CmdLine-Classic-1.68.tar.gz	ver:1.68	size:42926
+date:2016-03-13	repo:cpan	file:Bencher-Scenarios-Perl-0.03.tar.gz	ver:0.03	size:14674
+date:2016-03-13	repo:cpan	file:PERLANCAR-Exporter-Lite-0.02.tar.gz	ver:0.02	size:14316
+date:2016-03-13	repo:cpan	file:App-LintPrereqs-0.40.tar.gz	ver:0.40	size:25835
+date:2016-03-13	repo:cpan	file:Bencher-Scenarios-Exporters-0.06.tar.gz	ver:0.06	size:14702
+date:2016-03-13	repo:cpan	file:Bencher-Scenarios-Exporters-0.07.tar.gz	ver:0.07	size:15445
+date:2016-03-13	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.12.tar.gz	ver:0.12	size:17156
+date:2016-03-13	repo:cpan	file:Bencher-0.37.tar.gz	ver:0.37	size:45047
