@@ -6998,3 +6998,4 @@ date:2016-03-15	repo:cpan	file:PERLANCAR-Module-List-0.003004.tar.gz	ver:0.00300
 date:2016-03-15	repo:cpan	file:Bencher-Scenario-AcmePERLANCARTestPerformance-0.01.tar.gz	ver:0.01	size:13363
 date:2016-03-15	repo:cpan	file:Bencher-Backend-0.39.tar.gz	ver:0.39	size:34860
 date:2016-03-15	repo:cpan	file:Bencher-0.39.tar.gz	ver:0.39	size:26565
+date:2016-03-15	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.14.tar.gz	ver:0.14	size:16734
