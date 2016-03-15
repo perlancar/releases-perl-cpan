@@ -6986,3 +6986,15 @@ date:2016-03-13	repo:cpan	file:Bencher-Scenarios-Exporters-0.06.tar.gz	ver:0.06	
 date:2016-03-13	repo:cpan	file:Bencher-Scenarios-Exporters-0.07.tar.gz	ver:0.07	size:15445
 date:2016-03-13	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.12.tar.gz	ver:0.12	size:17156
 date:2016-03-13	repo:cpan	file:Bencher-0.37.tar.gz	ver:0.37	size:45047
+date:2016-03-15	repo:cpan	file:Regexp-Stringify-0.05.tar.gz	ver:0.05	size:14333
+date:2016-03-15	repo:cpan	file:Bencher-0.38.tar.gz	ver:0.38	size:26018
+date:2016-03-15	repo:cpan	file:Bencher-Backend-0.38.tar.gz	ver:0.38	size:31442
+date:2016-03-15	repo:cpan	file:App-BencherUtils-0.11.tar.gz	ver:0.11	size:23552
+date:2016-03-15	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.11.tar.gz	ver:0.11	size:15058
+date:2016-03-15	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.13.tar.gz	ver:0.13	size:16406
+date:2016-03-15	repo:cpan	file:Acme-PERLANCAR-Test-Performance-0.01.tar.gz	ver:0.01	size:12900
+date:2016-03-15	repo:cpan	file:Acme-PERLANCAR-Test-Performance-0.02.tar.gz	ver:0.02	size:12956
+date:2016-03-15	repo:cpan	file:PERLANCAR-Module-List-0.003004.tar.gz	ver:0.003004	size:14081
+date:2016-03-15	repo:cpan	file:Bencher-Scenario-AcmePERLANCARTestPerformance-0.01.tar.gz	ver:0.01	size:13363
+date:2016-03-15	repo:cpan	file:Bencher-Backend-0.39.tar.gz	ver:0.39	size:34860
+date:2016-03-15	repo:cpan	file:Bencher-0.39.tar.gz	ver:0.39	size:26565
