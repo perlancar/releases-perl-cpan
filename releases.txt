@@ -7049,3 +7049,5 @@ date:2016-03-17	repo:cpan	file:App-LintPrereqs-0.41.tar.gz	ver:0.41	size:23842
 date:2016-03-17	repo:cpan	file:App-PerlbrewUtils-0.02.tar.gz	ver:0.02	size:18660
 date:2016-03-17	repo:cpan	file:App-PerlbrewUtils-0.03.tar.gz	ver:0.03	size:19045
 date:2016-03-17	repo:cpan	file:App-lcpan-0.85.tar.gz	ver:0.85	size:92361
+date:2016-03-18	repo:cpan	file:Bencher-Backend-0.41.tar.gz	ver:0.41	size:35780
+date:2016-03-18	repo:cpan	file:JSON-Decode-Regexp-0.06.tar.gz	ver:0.06	size:15317
