@@ -7052,3 +7052,7 @@ date:2016-03-17	repo:cpan	file:App-lcpan-0.85.tar.gz	ver:0.85	size:92361
 date:2016-03-18	repo:cpan	file:Bencher-Backend-0.41.tar.gz	ver:0.41	size:35780
 date:2016-03-18	repo:cpan	file:JSON-Decode-Regexp-0.06.tar.gz	ver:0.06	size:15317
 date:2016-03-19	repo:cpan	file:Role-TinyCommons-0.01.tar.gz	ver:0.01	size:12311
+date:2016-03-19	repo:cpan	file:Role-TinyCommons-TreeNode-0.01.tar.gz	ver:0.01	size:13161
+date:2016-03-20	repo:cpan	file:Data-CSel-0.01.tar.gz	ver:0.01	size:26521
+date:2016-03-20	repo:cpan	file:App-CSelUtils-0.02.tar.gz	ver:0.02	size:16975
+date:2016-03-21	repo:cpan	file:Perl-Examples-0.06.tar.gz	ver:0.06	size:17070
