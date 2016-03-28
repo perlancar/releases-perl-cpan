@@ -7099,3 +7099,7 @@ date:2016-03-26	repo:cpan	file:PERLANCAR-Tree-Examples-0.01.tar.gz	ver:0.01	size
 date:2016-03-26	repo:cpan	file:Data-Random-Tree-0.04.tar.gz	ver:0.04	size:15646
 date:2016-03-26	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.57.tar.gz	ver:0.57	size:24845
 date:2016-03-26	repo:cpan	file:Data-Random-Tree-0.05.tar.gz	ver:0.05	size:15692
+date:2016-03-27	repo:cpan	file:Tree-FromText-0.01.tar.gz	ver:0.01	size:14540
+date:2016-03-27	repo:cpan	file:PERLANCAR-Tree-Examples-0.02.tar.gz	ver:0.02	size:15034
+date:2016-03-27	repo:cpan	file:Tree-ToText-0.01.tar.gz	ver:0.01	size:14762
+date:2016-03-27	repo:cpan	file:Class-Build-Array-Glob-0.01.tar.gz	ver:0.01	size:15930
