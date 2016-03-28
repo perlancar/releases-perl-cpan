@@ -7103,3 +7103,4 @@ date:2016-03-27	repo:cpan	file:Tree-FromText-0.01.tar.gz	ver:0.01	size:14540
 date:2016-03-27	repo:cpan	file:PERLANCAR-Tree-Examples-0.02.tar.gz	ver:0.02	size:15034
 date:2016-03-27	repo:cpan	file:Tree-ToText-0.01.tar.gz	ver:0.01	size:14762
 date:2016-03-27	repo:cpan	file:Class-Build-Array-Glob-0.01.tar.gz	ver:0.01	size:15930
+date:2016-03-28	repo:cpan	file:Tree-ObjectXS-0.01.tar.gz	ver:0.01	size:15072
