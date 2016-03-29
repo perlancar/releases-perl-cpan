@@ -7110,3 +7110,17 @@ date:2016-03-28	repo:cpan	file:Class-Accessor-Array-0.02.tar.gz	ver:0.02	size:13
 date:2016-03-29	repo:cpan	file:Class-Accessor-Array-Glob-0.01.tar.gz	ver:0.01	size:14135
 date:2016-03-29	repo:cpan	file:Perl-Examples-Accessors-0.02.tar.gz	ver:0.02	size:14153
 date:2016-03-29	repo:cpan	file:Tree-Object-0.04.tar.gz	ver:0.04	size:15211
+date:2016-03-29	repo:cpan	file:Tree-Object-0.05.tar.gz	ver:0.05	size:15529
+date:2016-03-29	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.16.tar.gz	ver:0.16	size:21208
+date:2016-03-29	repo:cpan	file:Tree-ObjectXS-0.02.tar.gz	ver:0.02	size:14409
+date:2016-03-29	repo:cpan	file:Perl-Examples-Accessors-0.03.tar.gz	ver:0.03	size:14135
+date:2016-03-29	repo:cpan	file:PERLANCAR-Tree-Examples-0.03.tar.gz	ver:0.03	size:14393
+date:2016-03-29	repo:cpan	file:Bencher-Scenarios-Accessors-0.01.tar.gz	ver:0.01	size:16206
+date:2016-03-29	repo:cpan	file:Role-TinyCommons-Tree-0.08.tar.gz	ver:0.08	size:21613
+date:2016-03-29	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.58.tar.gz	ver:0.58	size:24030
+date:2016-03-29	repo:cpan	file:Bencher-Scenarios-Accessors-0.02.tar.gz	ver:0.02	size:16240
+date:2016-03-29	repo:cpan	file:Tree-FromStruct-0.03.tar.gz	ver:0.03	size:14385
+date:2016-03-29	repo:cpan	file:Tree-Create-Callback-0.01.tar.gz	ver:0.01	size:14308
+date:2016-03-29	repo:cpan	file:Tree-Create-Size-0.01.tar.gz	ver:0.01	size:14956
+date:2016-03-29	repo:cpan	file:Tree-FromFS-0.00.tar.gz	ver:0.00	size:12747
+date:2016-03-29	repo:cpan	file:Tree-ToFS-0.00.tar.gz	ver:0.00	size:12617
