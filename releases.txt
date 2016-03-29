@@ -7124,3 +7124,6 @@ date:2016-03-29	repo:cpan	file:Tree-Create-Callback-0.01.tar.gz	ver:0.01	size:14
 date:2016-03-29	repo:cpan	file:Tree-Create-Size-0.01.tar.gz	ver:0.01	size:14956
 date:2016-03-29	repo:cpan	file:Tree-FromFS-0.00.tar.gz	ver:0.00	size:12747
 date:2016-03-29	repo:cpan	file:Tree-ToFS-0.00.tar.gz	ver:0.00	size:12617
+date:2016-03-30	repo:cpan	file:Bencher-Scenarios-Accessors-0.03.tar.gz	ver:0.03	size:16420
+date:2016-03-30	repo:cpan	file:Bencher-Scenarios-TreeObject-0.01.tar.gz	ver:0.01	size:14735
+date:2016-03-30	repo:cpan	file:Tree-Object-0.06.tar.gz	ver:0.06	size:16113
