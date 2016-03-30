@@ -7133,3 +7133,4 @@ date:2016-03-30	repo:cpan	file:Data-Clean-JSON-0.32.tar.gz	ver:0.32	size:22776
 date:2016-03-30	repo:cpan	file:Tree-ToText-0.02.tar.gz	ver:0.02	size:14099
 date:2016-03-30	repo:cpan	file:Bencher-Scenarios-TreeObject-0.02.tar.gz	ver:0.02	size:15547
 date:2016-03-31	repo:cpan	file:Bencher-Scenarios-TreeObject-0.03.tar.gz	ver:0.03	size:15606
+date:2016-03-31	repo:cpan	file:Bencher-Scenarios-Accessors-0.04.tar.gz	ver:0.04	size:16693
