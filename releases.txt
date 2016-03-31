@@ -7141,3 +7141,10 @@ date:2016-03-31	repo:cpan	file:Bencher-Backend-0.46.tar.gz	ver:0.46	size:38345
 date:2016-03-31	repo:cpan	file:Bencher-0.46.tar.gz	ver:0.46	size:27440
 date:2016-03-31	repo:cpan	file:Data-Dmp-0.15.tar.gz	ver:0.15	size:18258
 date:2016-03-31	repo:cpan	file:Bencher-0.46.1.tar.gz	ver:0.46.1	size:27748
+date:2016-03-31	repo:cpan	file:JSON-Decode-Regexp-0.08.tar.gz	ver:0.08	size:15370
+date:2016-03-31	repo:cpan	file:Bencher-Backend-1.000.tar.gz	ver:1.000	size:38352
+date:2016-03-31	repo:cpan	file:Bencher-1.000.tar.gz	ver:1.000	size:27743
+date:2016-03-31	repo:cpan	file:HTML-Tree-Create-Callback-0.001.tar.gz	ver:0.001	size:14135
+date:2016-03-31	repo:cpan	file:Tree-Create-Size-0.02.tar.gz	ver:0.02	size:15005
+date:2016-03-31	repo:cpan	file:PERLANCAR-Tree-Examples-0.04.tar.gz	ver:0.04	size:14404
+date:2016-03-31	repo:cpan	file:App-DumpPERLANCARSampleTree-0.001.tar.gz	ver:0.001	size:15796
