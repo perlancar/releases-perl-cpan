@@ -7137,3 +7137,7 @@ date:2016-03-31	repo:cpan	file:Bencher-Scenarios-Accessors-0.04.tar.gz	ver:0.04	
 date:2016-03-31	repo:cpan	file:Tree-ToText-0.03.tar.gz	ver:0.03	size:15535
 date:2016-03-31	repo:cpan	file:Tree-Dump-0.01.tar.gz	ver:0.01	size:13330
 date:2016-03-31	repo:cpan	file:Tree-Dump-0.02.tar.gz	ver:0.02	size:13695
+date:2016-03-31	repo:cpan	file:Bencher-Backend-0.46.tar.gz	ver:0.46	size:38345
+date:2016-03-31	repo:cpan	file:Bencher-0.46.tar.gz	ver:0.46	size:27440
+date:2016-03-31	repo:cpan	file:Data-Dmp-0.15.tar.gz	ver:0.15	size:18258
+date:2016-03-31	repo:cpan	file:Bencher-0.46.1.tar.gz	ver:0.46.1	size:27748
