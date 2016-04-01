@@ -7169,3 +7169,8 @@ date:2016-04-01	repo:cpan	file:Bencher-Scenarios-MojoDOM-0.002.tar.gz	ver:0.002	
 date:2016-04-01	repo:cpan	file:Data-CSel-0.05.tar.gz	ver:0.05	size:27331
 date:2016-04-01	repo:cpan	file:PERLANCAR-HTML-Tree-Examples-1.000.001.tar.gz	ver:1.000.001	size:14339
 date:2016-04-01	repo:cpan	file:PERLANCAR-Tree-Examples-1.000.002.tar.gz	ver:1.000.002	size:15391
+date:2016-04-01	repo:cpan	file:Text-Head-0.001.tar.gz	ver:0.001	size:13320
+date:2016-04-01	repo:cpan	file:Org-Parser-0.47.tar.gz	ver:0.47	size:56361
+date:2016-04-01	repo:cpan	file:App-OrgUtils-0.41.tar.gz	ver:0.41	size:39203
+date:2016-04-01	repo:cpan	file:App-orgsel-0.001.tar.gz	ver:0.001	size:16393
+date:2016-04-01	repo:cpan	file:App-htmlsel-0.001.tar.gz	ver:0.001	size:16105
