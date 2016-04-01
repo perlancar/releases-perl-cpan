@@ -7174,3 +7174,6 @@ date:2016-04-01	repo:cpan	file:Org-Parser-0.47.tar.gz	ver:0.47	size:56361
 date:2016-04-01	repo:cpan	file:App-OrgUtils-0.41.tar.gz	ver:0.41	size:39203
 date:2016-04-01	repo:cpan	file:App-orgsel-0.001.tar.gz	ver:0.001	size:16393
 date:2016-04-01	repo:cpan	file:App-htmlsel-0.001.tar.gz	ver:0.001	size:16105
+date:2016-04-02	repo:cpan	file:Role-TinyCommons-Tree-0.09.tar.gz	ver:0.09	size:22474
+date:2016-04-02	repo:cpan	file:Data-CSel-0.06.tar.gz	ver:0.06	size:27411
+date:2016-04-02	repo:cpan	file:PERLANCAR-Tree-Examples-1.000.003.tar.gz	ver:1.000.003	size:15558
