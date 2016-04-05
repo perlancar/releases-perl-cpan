@@ -7190,3 +7190,7 @@ date:2016-04-06	repo:cpan	file:Media-Info-Mplayer-0.07.tar.gz	ver:0.07	size:1456
 date:2016-04-06	repo:cpan	file:Media-Info-Ffmpeg-0.001.tar.gz	ver:0.001	size:14239
 date:2016-04-06	repo:cpan	file:Media-Info-Ffmpeg-0.002.tar.gz	ver:0.002	size:14283
 date:2016-04-06	repo:cpan	file:Media-Info-0.09.tar.gz	ver:0.09	size:17782
+date:2016-04-06	repo:cpan	file:Media-Info-Mediainfo-0.001.tar.gz	ver:0.001	size:14470
+date:2016-04-06	repo:cpan	file:Media-Info-0.10.tar.gz	ver:0.10	size:14632
+date:2016-04-06	repo:cpan	file:App-MediaInfo-0.10.tar.gz	ver:0.10	size:16307
+date:2016-04-06	repo:cpan	file:App-MediaInfo-0.11.tar.gz	ver:0.11	size:16329
