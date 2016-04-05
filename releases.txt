@@ -7184,3 +7184,5 @@ date:2016-04-03	repo:cpan	file:Examples-Generator-0.1.1.tar.gz	ver:0.1.1	size:14
 date:2016-04-03	repo:cpan	file:Bencher-Backend-1.003.tar.gz	ver:1.003	size:41027
 date:2016-04-03	repo:cpan	file:Data-CSel-0.07.tar.gz	ver:0.07	size:30086
 date:2016-04-04	repo:cpan	file:Perinci-CmdLine-Lite-1.53.tar.gz	ver:1.53	size:54753
+date:2016-04-05	repo:cpan	file:Media-Info-Mplayer-0.06.tar.gz	ver:0.06	size:14459
+date:2016-04-05	repo:cpan	file:Complete-Util-0.46.tar.gz	ver:0.46	size:22118
