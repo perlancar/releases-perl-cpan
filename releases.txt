@@ -7197,3 +7197,8 @@ date:2016-04-06	repo:cpan	file:App-MediaInfo-0.11.tar.gz	ver:0.11	size:16329
 date:2016-04-06	repo:cpan	file:Sort-Sub-0.06.tar.gz	ver:0.06	size:16093
 date:2016-04-06	repo:cpan	file:App-ExtractDate-0.001.tar.gz	ver:0.001	size:16010
 date:2016-04-06	repo:cpan	file:Sort-Sub-date_in_text-0.001.tar.gz	ver:0.001	size:13227
+date:2016-04-06	repo:cpan	file:Bencher-Scenarios-DateTimeFormatAlami-0.001.tar.gz	ver:0.001	size:13476
+date:2016-04-06	repo:cpan	file:DateTime-Format-Alami-0.06.tar.gz	ver:0.06	size:19126
+date:2016-04-06	repo:cpan	file:Date-Extract-ID-0.001.tar.gz	ver:0.001	size:12554
+date:2016-04-06	repo:cpan	file:Sort-Sub-date_in_text-0.002.tar.gz	ver:0.002	size:13419
+date:2016-04-06	repo:cpan	file:App-ExtractDate-0.002.tar.gz	ver:0.002	size:16221
