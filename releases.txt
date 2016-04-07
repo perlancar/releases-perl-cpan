@@ -7202,3 +7202,4 @@ date:2016-04-06	repo:cpan	file:DateTime-Format-Alami-0.06.tar.gz	ver:0.06	size:1
 date:2016-04-06	repo:cpan	file:Date-Extract-ID-0.001.tar.gz	ver:0.001	size:12554
 date:2016-04-06	repo:cpan	file:Sort-Sub-date_in_text-0.002.tar.gz	ver:0.002	size:13419
 date:2016-04-06	repo:cpan	file:App-ExtractDate-0.002.tar.gz	ver:0.002	size:16221
+date:2016-04-07	repo:cpan	file:Bencher-Scenarios-DateTimeFormatAlami-0.002.tar.gz	ver:0.002	size:14329
