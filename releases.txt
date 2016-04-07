@@ -7202,3 +7202,8 @@ date:2016-04-06	repo:cpan	file:DateTime-Format-Alami-0.06.tar.gz	ver:0.06	size:1
 date:2016-04-06	repo:cpan	file:Date-Extract-ID-0.001.tar.gz	ver:0.001	size:12554
 date:2016-04-06	repo:cpan	file:Sort-Sub-date_in_text-0.002.tar.gz	ver:0.002	size:13419
 date:2016-04-06	repo:cpan	file:App-ExtractDate-0.002.tar.gz	ver:0.002	size:16221
+date:2016-04-07	repo:cpan	file:PERLANCAR-HTML-Tree-Examples-1.0.3.tar.gz	ver:1.0.3	size:14733
+date:2016-04-07	repo:cpan	file:PERLANCAR-Tree-Examples-1.0.5.tar.gz	ver:1.0.5	size:15844
+date:2016-04-07	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.49.tar.gz	ver:0.49	size:16595
+date:2016-04-07	repo:cpan	file:App-DumpPERLANCARSampleTree-0.003.tar.gz	ver:0.003	size:15944
+date:2016-04-07	repo:cpan	file:Proc-Govern-0.18.tar.gz	ver:0.18	size:24325
