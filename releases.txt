@@ -7208,3 +7208,9 @@ date:2016-04-07	repo:cpan	file:PERLANCAR-Tree-Examples-1.0.5.tar.gz	ver:1.0.5	si
 date:2016-04-07	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.49.tar.gz	ver:0.49	size:16595
 date:2016-04-07	repo:cpan	file:App-DumpPERLANCARSampleTree-0.003.tar.gz	ver:0.003	size:15944
 date:2016-04-07	repo:cpan	file:Proc-Govern-0.18.tar.gz	ver:0.18	size:24325
+date:2016-04-08	repo:cpan	file:Date-Extract-ID-0.002.tar.gz	ver:0.002	size:12807
+date:2016-04-08	repo:cpan	file:Bencher-Backend-1.004.tar.gz	ver:1.004	size:39763
+date:2016-04-08	repo:cpan	file:Perinci-Result-Format-Lite-0.14.tar.gz	ver:0.14	size:16501
+date:2016-04-08	repo:cpan	file:Bencher-Scenarios-Examples-0.001.tar.gz	ver:0.001	size:13260
+date:2016-04-08	repo:cpan	file:Bencher-Backend-1.005.tar.gz	ver:1.005	size:44120
+date:2016-04-08	repo:cpan	file:Bencher-1.005.tar.gz	ver:1.005	size:35349
