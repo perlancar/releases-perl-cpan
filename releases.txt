@@ -7214,3 +7214,4 @@ date:2016-04-08	repo:cpan	file:Perinci-Result-Format-Lite-0.14.tar.gz	ver:0.14	s
 date:2016-04-08	repo:cpan	file:Bencher-Scenarios-Examples-0.001.tar.gz	ver:0.001	size:13260
 date:2016-04-08	repo:cpan	file:Bencher-Backend-1.005.tar.gz	ver:1.005	size:44120
 date:2016-04-08	repo:cpan	file:Bencher-1.005.tar.gz	ver:1.005	size:35349
+date:2016-04-10	repo:cpan	file:App-PlatformInfo-0.001.tar.gz	ver:0.001	size:21803
