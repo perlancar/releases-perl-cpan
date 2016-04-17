@@ -7247,3 +7247,6 @@ date:2016-04-15	repo:cpan	file:App-wordlist-0.23.tar.gz	ver:0.23	size:87911
 date:2016-04-15	repo:cpan	file:App-wordlist-0.24.tar.gz	ver:0.24	size:88372
 date:2016-04-15	repo:cpan	file:App-lcpan-0.86.tar.gz	ver:0.86	size:94472
 date:2016-04-15	repo:cpan	file:App-td-0.06.tar.gz	ver:0.06	size:86019
+date:2016-04-17	repo:cpan	file:Builtin-Logged-0.12.tar.gz	ver:0.12	size:15384
+date:2016-04-17	repo:cpan	file:Perinci-Sub-CoerceArgs-0.14.tar.gz	ver:0.14	size:18354
+date:2016-04-17	repo:cpan	file:App-after-0.01.tar.gz	ver:0.01	size:18922
