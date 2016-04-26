@@ -7250,3 +7250,14 @@ date:2016-04-15	repo:cpan	file:App-td-0.06.tar.gz	ver:0.06	size:86019
 date:2016-04-17	repo:cpan	file:Builtin-Logged-0.12.tar.gz	ver:0.12	size:15384
 date:2016-04-17	repo:cpan	file:Perinci-Sub-CoerceArgs-0.14.tar.gz	ver:0.14	size:18354
 date:2016-04-17	repo:cpan	file:App-after-0.01.tar.gz	ver:0.01	size:18922
+date:2016-04-18	repo:cpan	file:Builtin-Logged-0.13.tar.gz	ver:0.13	size:15514
+date:2016-04-18	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.59.tar.gz	ver:0.59	size:25099
+date:2016-04-18	repo:cpan	file:Perinci-To-Doc-0.78.tar.gz	ver:0.78	size:33562
+date:2016-04-18	repo:cpan	file:App-after-0.02.tar.gz	ver:0.02	size:19341
+date:2016-04-19	repo:cpan	file:Bencher-Backend-1.007.tar.gz	ver:1.007	size:44909
+date:2016-04-19	repo:cpan	file:App-pause-0.53.tar.gz	ver:0.53	size:324431
+date:2016-04-19	repo:cpan	file:Bencher-Scenarios-DateModules-0.001.tar.gz	ver:0.001	size:14676
+date:2016-04-20	repo:cpan	file:Dist-Zilla-Plugin-GenShellCompletion-0.11.tar.gz	ver:0.11	size:15561
+date:2016-04-20	repo:cpan	file:App-pause-0.54.tar.gz	ver:0.54	size:324526
+date:2016-04-23	repo:cpan	file:Calendar-Indonesia-Holiday-0.28.tar.gz	ver:0.28	size:26484
+date:2016-04-24	repo:cpan	file:Bencher-Scenarios-DataCleansing-0.001.tar.gz	ver:0.001	size:15803
