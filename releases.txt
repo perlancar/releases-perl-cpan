@@ -7261,3 +7261,4 @@ date:2016-04-20	repo:cpan	file:Dist-Zilla-Plugin-GenShellCompletion-0.11.tar.gz	
 date:2016-04-20	repo:cpan	file:App-pause-0.54.tar.gz	ver:0.54	size:324526
 date:2016-04-23	repo:cpan	file:Calendar-Indonesia-Holiday-0.28.tar.gz	ver:0.28	size:26484
 date:2016-04-24	repo:cpan	file:Bencher-Scenarios-DataCleansing-0.001.tar.gz	ver:0.001	size:15803
+date:2016-04-27	repo:cpan	file:App-dux-1.52.tar.gz	ver:1.52	size:19057
