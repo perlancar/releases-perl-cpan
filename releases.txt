@@ -7262,3 +7262,10 @@ date:2016-04-20	repo:cpan	file:App-pause-0.54.tar.gz	ver:0.54	size:324526
 date:2016-04-23	repo:cpan	file:Calendar-Indonesia-Holiday-0.28.tar.gz	ver:0.28	size:26484
 date:2016-04-24	repo:cpan	file:Bencher-Scenarios-DataCleansing-0.001.tar.gz	ver:0.001	size:15803
 date:2016-04-27	repo:cpan	file:App-dux-1.52.tar.gz	ver:1.52	size:19057
+date:2016-04-29	repo:cpan	file:Data-Dmp-0.16.tar.gz	ver:0.16	size:19067
+date:2016-04-30	repo:cpan	file:App-OrgUtils-0.42.tar.gz	ver:0.42	size:38728
+date:2016-04-30	repo:cpan	file:Data-Dmp-0.17.tar.gz	ver:0.17	size:19801
+date:2016-04-30	repo:cpan	file:Bencher-Scenarios-RefUtil-0.001.tar.gz	ver:0.001	size:13796
+date:2016-04-30	repo:cpan	file:Data-Dmp-0.18.tar.gz	ver:0.18	size:19880
+date:2016-04-30	repo:cpan	file:Data-Dmp-0.19.tar.gz	ver:0.19	size:20060
+date:2016-04-30	repo:cpan	file:Bencher-Scenarios-DataDmp-0.001.tar.gz	ver:0.001	size:13782
