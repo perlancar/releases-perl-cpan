@@ -7269,3 +7269,12 @@ date:2016-04-30	repo:cpan	file:Bencher-Scenarios-RefUtil-0.001.tar.gz	ver:0.001	
 date:2016-04-30	repo:cpan	file:Data-Dmp-0.18.tar.gz	ver:0.18	size:19880
 date:2016-04-30	repo:cpan	file:Data-Dmp-0.19.tar.gz	ver:0.19	size:20060
 date:2016-04-30	repo:cpan	file:Bencher-Scenarios-DataDmp-0.001.tar.gz	ver:0.001	size:13782
+date:2016-04-30	repo:cpan	file:App-DistUtils-0.09.tar.gz	ver:0.09	size:20102
+date:2016-04-30	repo:cpan	file:App-PMUtils-0.58.tar.gz	ver:0.58	size:34519
+date:2016-04-30	repo:cpan	file:App-ShellCompleter-perlbrew-0.001.tar.gz	ver:0.001	size:22022
+date:2016-04-30	repo:cpan	file:Pod-Weaver-Section-Completion-GetoptLongSubcommand-0.04.tar.gz	ver:0.04	size:13380
+date:2016-04-30	repo:cpan	file:Pod-Weaver-Section-Completion-GetoptLongComplete-0.08.tar.gz	ver:0.08	size:13557
+date:2016-04-30	repo:cpan	file:Pod-Weaver-Section-Completion-PerinciCmdLine-0.14.tar.gz	ver:0.14	size:13754
+date:2016-04-30	repo:cpan	file:App-ShellCompleter-perlbrew-0.002.tar.gz	ver:0.002	size:21701
+date:2016-04-30	repo:cpan	file:App-ShellCompleter-perlbrew-0.003.tar.gz	ver:0.003	size:22624
+date:2016-04-30	repo:cpan	file:App-shcompgen-0.16.tar.gz	ver:0.16	size:25670
