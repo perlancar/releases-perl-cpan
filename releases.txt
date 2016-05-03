@@ -7279,3 +7279,4 @@ date:2016-04-30	repo:cpan	file:App-ShellCompleter-perlbrew-0.002.tar.gz	ver:0.00
 date:2016-04-30	repo:cpan	file:App-ShellCompleter-perlbrew-0.003.tar.gz	ver:0.003	size:22624
 date:2016-04-30	repo:cpan	file:App-shcompgen-0.16.tar.gz	ver:0.16	size:25670
 date:2016-04-30	repo:cpan	file:App-shcompgen-0.17.tar.gz	ver:0.17	size:25689
+date:2016-05-03	repo:cpan	file:App-ShellCompleter-perlbrew-0.004.tar.gz	ver:0.004	size:23388
