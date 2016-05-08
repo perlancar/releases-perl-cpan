@@ -7283,3 +7283,7 @@ date:2016-05-03	repo:cpan	file:App-ShellCompleter-perlbrew-0.004.tar.gz	ver:0.00
 date:2016-05-04	repo:cpan	file:DateTime-Format-Alami-0.08.tar.gz	ver:0.08	size:22443
 date:2016-05-04	repo:cpan	file:Class-MaybeXSAccessor-0.001.tar.gz	ver:0.001	size:13595
 date:2016-05-05	repo:cpan	file:DateTime-Format-Alami-0.09.tar.gz	ver:0.09	size:22398
+date:2016-05-08	repo:cpan	file:Sah-Schemas-0.1.0.tar.gz	ver:0.1.0	size:13171
+date:2016-05-08	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.001.tar.gz	ver:0.001	size:14486
+date:2016-05-08	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schemas-0.04.tar.gz	ver:0.04	size:14640
+date:2016-05-08	repo:cpan	file:Sah-Schemas-Int-0.03.tar.gz	ver:0.03	size:14657
