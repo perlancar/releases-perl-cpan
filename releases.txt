@@ -7287,3 +7287,7 @@ date:2016-05-08	repo:cpan	file:Sah-Schemas-0.1.0.tar.gz	ver:0.1.0	size:13171
 date:2016-05-08	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.001.tar.gz	ver:0.001	size:14486	oldname:Dist-Zilla-Plugin-Sah-Schema
 date:2016-05-08	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schemas-0.04.tar.gz	ver:0.04	size:14640	oldname:Pod-Weaver-Plugin-Sah-Schema
 date:2016-05-08	repo:cpan	file:Sah-Schemas-Int-0.03.tar.gz	ver:0.03	size:14657
+date:2016-05-09	repo:cpan	file:Complete-File-0.40.tar.gz	ver:0.40	size:17208
+date:2016-05-09	repo:cpan	file:Perinci-CmdLine-Lite-1.54.tar.gz	ver:1.54	size:55073
+date:2016-05-09	repo:cpan	file:Devel-DieHandler-DumpINC-0.001.tar.gz	ver:0.001	size:13338
+date:2016-05-09	repo:cpan	file:Devel-DieHandler-DumpINC-0.002.tar.gz	ver:0.002	size:13385
