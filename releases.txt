@@ -7321,3 +7321,7 @@ date:2016-05-14	repo:cpan	file:App-PerinciUtils-0.08.tar.gz	ver:0.08	size:29791
 date:2016-05-15	repo:cpan	file:Perinci-Sub-Util-PropertyModule-0.46.tar.gz	ver:0.46	size:14519
 date:2016-05-15	repo:cpan	file:Dist-Zilla-Plugin-For-App-shcompgen-0.04.tar.gz	ver:0.04	size:14489
 date:2016-05-15	repo:cpan	file:Dist-Zilla-Plugin-For-Data-Sah-0.001.tar.gz	ver:0.001	size:14466
+date:2016-05-15	repo:cpan	file:Bencher-Scenarios-DataSah-0.04.tar.gz	ver:0.04	size:16555
+date:2016-05-15	repo:cpan	file:App-SahUtils-0.19.tar.gz	ver:0.19	size:21977
+date:2016-05-15	repo:cpan	file:App-SahUtils-0.20.tar.gz	ver:0.20	size:23641
+date:2016-05-16	repo:cpan	file:Bencher-Scenarios-DataSah-0.05.tar.gz	ver:0.05	size:22431
