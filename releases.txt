@@ -7331,3 +7331,10 @@ date:2016-05-17	repo:cpan	file:Data-Sah-Util-JS-0.001.tar.gz	ver:0.001	size:1286
 date:2016-05-17	repo:cpan	file:Data-Sah-Coerce-0.002.tar.gz	ver:0.002	size:20645
 date:2016-05-17	repo:cpan	file:App-SahUtils-0.20.tar.gz	ver:0.20	size:23124
 date:2016-05-17	repo:cpan	file:Nodejs-Util-0.003.tar.gz	ver:0.003	size:12977
+date:2016-05-17	repo:cpan	file:Bencher-Scenarios-TimeDurationParse-0.001.tar.gz	ver:0.001	size:13824
+date:2016-05-17	repo:cpan	file:Data-Sah-Coerce-0.003.tar.gz	ver:0.003	size:22292
+date:2016-05-17	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.3.tar.gz	ver:0.10.3	size:13961
+date:2016-05-17	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.4.tar.gz	ver:0.10.4	size:14542
+date:2016-05-17	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.5.tar.gz	ver:0.10.5	size:14644
+date:2016-05-18	repo:cpan	file:Data-Sah-Coerce-0.004.tar.gz	ver:0.004	size:22481
+date:2016-05-18	repo:cpan	file:Data-Sah-0.76.tar.gz	ver:0.76	size:115998
