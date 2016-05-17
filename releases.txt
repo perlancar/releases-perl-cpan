@@ -7325,3 +7325,9 @@ date:2016-05-15	repo:cpan	file:Bencher-Scenarios-DataSah-0.04.tar.gz	ver:0.04	si
 date:2016-05-15	repo:cpan	file:App-SahUtils-0.19.tar.gz	ver:0.19	size:21977
 date:2016-05-15	repo:cpan	file:App-SahUtils-0.20.tar.gz	ver:0.20	size:23641
 date:2016-05-16	repo:cpan	file:Bencher-Scenarios-DataSah-0.05.tar.gz	ver:0.05	size:22431
+date:2016-05-16	repo:cpan	file:Data-Sah-Coerce-0.001.tar.gz	ver:0.001	size:18047
+date:2016-05-17	repo:cpan	file:App-PerinciUtils-0.09.tar.gz	ver:0.09	size:28540
+date:2016-05-17	repo:cpan	file:Data-Sah-Util-JS-0.001.tar.gz	ver:0.001	size:12869
+date:2016-05-17	repo:cpan	file:Data-Sah-Coerce-0.002.tar.gz	ver:0.002	size:20645
+date:2016-05-17	repo:cpan	file:App-SahUtils-0.20.tar.gz	ver:0.20	size:23124
+date:2016-05-17	repo:cpan	file:Nodejs-Util-0.003.tar.gz	ver:0.003	size:12977
