@@ -7338,3 +7338,4 @@ date:2016-05-17	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.4.tar.gz	ver:0.10
 date:2016-05-17	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.5.tar.gz	ver:0.10.5	size:14644
 date:2016-05-18	repo:cpan	file:Data-Sah-Coerce-0.004.tar.gz	ver:0.004	size:22481
 date:2016-05-18	repo:cpan	file:Data-Sah-0.76.tar.gz	ver:0.76	size:115998
+date:2016-05-18	repo:cpan	file:App-SahUtils-0.21.tar.gz	ver:0.21	size:22118
