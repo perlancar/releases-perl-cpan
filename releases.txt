@@ -7339,3 +7339,12 @@ date:2016-05-17	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.5.tar.gz	ver:0.10
 date:2016-05-18	repo:cpan	file:Data-Sah-Coerce-0.004.tar.gz	ver:0.004	size:22481
 date:2016-05-18	repo:cpan	file:Data-Sah-0.76.tar.gz	ver:0.76	size:115998
 date:2016-05-18	repo:cpan	file:App-SahUtils-0.21.tar.gz	ver:0.21	size:22118
+date:2016-05-18	repo:cpan	file:Module-Depakable-0.001.tar.gz	ver:0.001	size:13973
+date:2016-05-18	repo:cpan	file:Module-Depakable-0.002.tar.gz	ver:0.002	size:14017
+date:2016-05-18	repo:cpan	file:Dist-Zilla-Plugin-EnsureDepakable-0.001.tar.gz	ver:0.001	size:13040
+date:2016-05-18	repo:cpan	file:Module-Depakable-0.003.tar.gz	ver:0.003	size:14282
+date:2016-05-18	repo:cpan	file:App-depakable-0.001.tar.gz	ver:0.001	size:15434
+date:2016-05-18	repo:cpan	file:Module-Depakable-0.004.tar.gz	ver:0.004	size:14328
+date:2016-05-18	repo:cpan	file:Module-Depakable-0.005.tar.gz	ver:0.005	size:14477
+date:2016-05-18	repo:cpan	file:lib-filter-0.21.tar.gz	ver:0.21	size:20879
+date:2016-05-18	repo:cpan	file:Data-Sah-Coerce-0.005.tar.gz	ver:0.005	size:22973
