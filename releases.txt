@@ -7348,3 +7348,14 @@ date:2016-05-18	repo:cpan	file:Module-Depakable-0.004.tar.gz	ver:0.004	size:1432
 date:2016-05-18	repo:cpan	file:Module-Depakable-0.005.tar.gz	ver:0.005	size:14477
 date:2016-05-18	repo:cpan	file:lib-filter-0.21.tar.gz	ver:0.21	size:20879
 date:2016-05-18	repo:cpan	file:Data-Sah-Coerce-0.005.tar.gz	ver:0.005	size:22973
+date:2016-05-19	repo:cpan	file:lib-filter-0.22.tar.gz	ver:0.22	size:19311
+date:2016-05-19	repo:cpan	file:Dist-Zilla-Plugin-EnsureDepakable-0.002.tar.gz	ver:0.002	size:13117
+date:2016-05-19	repo:cpan	file:Module-Depakable-0.006.tar.gz	ver:0.006	size:14877
+date:2016-05-19	repo:cpan	file:App-SahUtils-0.22.tar.gz	ver:0.22	size:22151
+date:2016-05-19	repo:cpan	file:Data-Sah-Coerce-0.006.tar.gz	ver:0.006	size:24770
+date:2016-05-19	repo:cpan	file:Data-Sah-0.77.tar.gz	ver:0.77	size:116331
+date:2016-05-19	repo:cpan	file:Data-Sah-CoerceRule-array-str_comma_sep-0.001.tar.gz	ver:0.001	size:13443
+date:2016-05-19	repo:cpan	file:Data-Sah-CoerceRule-array-str_comma_sep-0.002.tar.gz	ver:0.002	size:13470
+date:2016-05-19	repo:cpan	file:Data-Sah-Coerce-perl-date-str_alami-0.001.tar.gz	ver:0.001	size:13492
+date:2016-05-20	repo:cpan	file:Perinci-Examples-0.72.tar.gz	ver:0.72	size:40765
+date:2016-05-20	repo:cpan	file:Perinci-CmdLine-Lite-1.55.tar.gz	ver:1.55	size:54388
