@@ -7370,3 +7370,4 @@ date:2016-05-20	repo:cpan	file:Version-Monotonic-1.100.tar.gz	ver:1.100	size:132
 date:2016-05-20	repo:cpan	file:Pod-Weaver-Role-DumpPerinciCmdLineScript-0.06.tar.gz	ver:0.06	size:13499
 date:2016-05-20	repo:cpan	file:Data-Sah-0.78.tar.gz	ver:0.78	size:116419
 date:2016-05-20	repo:cpan	file:App-after-0.03.tar.gz	ver:0.03	size:85128
+date:2016-05-20	repo:cpan	file:Dist-Zilla-Role-DumpPerinciCmdLineScript-0.04.tar.gz	ver:0.04	size:13099
