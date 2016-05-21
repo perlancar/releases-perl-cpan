@@ -7374,3 +7374,10 @@ date:2016-05-20	repo:cpan	file:Dist-Zilla-Role-DumpPerinciCmdLineScript-0.04.tar
 date:2016-05-21	repo:cpan	file:Perinci-CmdLine-Gen-0.29.tar.gz	ver:0.29	size:22354
 date:2016-05-21	repo:cpan	file:Perinci-CmdLine-Gen-0.30.tar.gz	ver:0.30	size:22411
 date:2016-05-21	repo:cpan	file:App-after-0.04.tar.gz	ver:0.04	size:84871
+date:2016-05-21	repo:cpan	file:Data-Clean-JSON-0.34.tar.gz	ver:0.34	size:18853
+date:2016-05-21	repo:cpan	file:Data-Clean-0.34.tar.gz	ver:0.34	size:19114
+date:2016-05-21	repo:cpan	file:Data-Clean-0.35.tar.gz	ver:0.35	size:19096
+date:2016-05-21	repo:cpan	file:Data-Clean-JSON-0.35.tar.gz	ver:0.35	size:18933
+date:2016-05-21	repo:cpan	file:File-Which-Patch-Hide-0.001.tar.gz	ver:0.001	size:13953
+date:2016-05-21	repo:cpan	file:Data-Sah-Coerce-0.008.tar.gz	ver:0.008	size:26357
+date:2016-05-21	repo:cpan	file:Data-Sah-CoerceRule-array-str_comma_sep-0.003.tar.gz	ver:0.003	size:14235
