@@ -7371,3 +7371,6 @@ date:2016-05-20	repo:cpan	file:Pod-Weaver-Role-DumpPerinciCmdLineScript-0.06.tar
 date:2016-05-20	repo:cpan	file:Data-Sah-0.78.tar.gz	ver:0.78	size:116419
 date:2016-05-20	repo:cpan	file:App-after-0.03.tar.gz	ver:0.03	size:85128
 date:2016-05-20	repo:cpan	file:Dist-Zilla-Role-DumpPerinciCmdLineScript-0.04.tar.gz	ver:0.04	size:13099
+date:2016-05-21	repo:cpan	file:Perinci-CmdLine-Gen-0.29.tar.gz	ver:0.29	size:22354
+date:2016-05-21	repo:cpan	file:Perinci-CmdLine-Gen-0.30.tar.gz	ver:0.30	size:22411
+date:2016-05-21	repo:cpan	file:App-after-0.04.tar.gz	ver:0.04	size:84871
