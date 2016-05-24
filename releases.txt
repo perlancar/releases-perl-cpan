@@ -7401,3 +7401,11 @@ date:2016-05-23	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.12.tar.gz	ve
 date:2016-05-23	repo:cpan	file:Bencher-Scenarios-PerinciSubValidateArgs-0.001.tar.gz	ver:0.001	size:16484
 date:2016-05-23	repo:cpan	file:Perinci-Sub-ValidateArgs-0.004.tar.gz	ver:0.004	size:15869
 date:2016-05-24	repo:cpan	file:Bencher-Scenarios-PerinciSubValidateArgs-0.002.tar.gz	ver:0.002	size:17090
+date:2016-05-24	repo:cpan	file:Perinci-Sub-ValidateArgs-0.005.tar.gz	ver:0.005	size:15328
+date:2016-05-24	repo:cpan	file:App-BencherUtils-0.12.tar.gz	ver:0.12	size:20227
+date:2016-05-24	repo:cpan	file:Bencher-Scenario-IntValidation-0.001.tar.gz	ver:0.001	size:13770
+date:2016-05-24	repo:cpan	file:Bencher-Scenarios-DataSahVSTypeTiny-0.001.tar.gz	ver:0.001	size:14335
+date:2016-05-24	repo:cpan	file:Bencher-Scenarios-PerinciSubValidateArgs-0.003.tar.gz	ver:0.003	size:17731
+date:2016-05-24	repo:cpan	file:Data-Sah-Coerce-perl-date-str_natural-0.001.tar.gz	ver:0.001	size:13397
+date:2016-05-24	repo:cpan	file:App-SahUtils-0.27.tar.gz	ver:0.27	size:22672
+date:2016-05-24	repo:cpan	file:Data-Sah-Coerce-0.012.tar.gz	ver:0.012	size:28297
