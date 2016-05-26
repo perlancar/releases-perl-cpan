@@ -7416,3 +7416,4 @@ date:2016-05-25	repo:cpan	file:Bencher-Scenarios-PerinciSubValidateArgs-0.004.ta
 date:2016-05-25	repo:cpan	file:App-lcpan-0.87.tar.gz	ver:0.87	size:93021
 date:2016-05-25	repo:cpan	file:Data-Sah-Coerce-0.013.tar.gz	ver:0.013	size:28320
 date:2016-05-25	repo:cpan	file:Perinci-Sub-ValidateArgs-0.008.tar.gz	ver:0.008	size:16700
+date:2016-05-26	repo:cpan	file:Bencher-Scenarios-DataSahParams-0.001.tar.gz	ver:0.001	size:14643
