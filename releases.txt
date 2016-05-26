@@ -7409,3 +7409,4 @@ date:2016-05-24	repo:cpan	file:Bencher-Scenarios-PerinciSubValidateArgs-0.003.ta
 date:2016-05-24	repo:cpan	file:Data-Sah-Coerce-perl-date-str_natural-0.001.tar.gz	ver:0.001	size:13397
 date:2016-05-24	repo:cpan	file:App-SahUtils-0.27.tar.gz	ver:0.27	size:22672
 date:2016-05-24	repo:cpan	file:Data-Sah-Coerce-0.012.tar.gz	ver:0.012	size:28297
+date:2016-05-26	repo:cpan	file:Bencher-Scenarios-DataSahParams-0.001.tar.gz	ver:0.001	size:14643
