@@ -7420,3 +7420,8 @@ date:2016-05-26	repo:cpan	file:Data-Sah-Params-0.001.tar.gz	ver:0.001	size:14882
 date:2016-05-26	repo:cpan	file:Perinci-Sub-ValidateArgs-0.009.tar.gz	ver:0.009	size:16819
 date:2016-05-26	repo:cpan	file:Data-Sah-Params-0.002.tar.gz	ver:0.002	size:15005
 date:2016-05-26	repo:cpan	file:Bencher-Scenarios-DataSahParams-0.001.tar.gz	ver:0.001	size:14643
+date:2016-05-27	repo:cpan	file:Ubuntu-Releases-0.09.tar.gz	ver:0.09	size:16280
+date:2016-05-27	repo:cpan	file:Data-Sah-Coerce-perl-date-str_alami-0.005.tar.gz	ver:0.005	size:14017
+date:2016-05-27	repo:cpan	file:Data-Sah-Coerce-perl-date-str_natural-0.002.tar.gz	ver:0.002	size:13458
+date:2016-05-27	repo:cpan	file:Data-Sah-Coerce-0.014.tar.gz	ver:0.014	size:28365
+date:2016-05-27	repo:cpan	file:Data-Clean-JSON-0.36.tar.gz	ver:0.36	size:18693
