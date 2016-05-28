@@ -7425,3 +7425,6 @@ date:2016-05-27	repo:cpan	file:Data-Sah-Coerce-perl-date-str_alami-0.005.tar.gz	
 date:2016-05-27	repo:cpan	file:Data-Sah-Coerce-perl-date-str_natural-0.002.tar.gz	ver:0.002	size:13458
 date:2016-05-27	repo:cpan	file:Data-Sah-Coerce-0.014.tar.gz	ver:0.014	size:28365
 date:2016-05-27	repo:cpan	file:Data-Clean-JSON-0.36.tar.gz	ver:0.36	size:18693
+date:2016-05-28	repo:cpan	file:App-CSelUtils-0.03.tar.gz	ver:0.03	size:17081
+date:2016-05-28	repo:cpan	file:App-orgsel-0.002.tar.gz	ver:0.002	size:16837
+date:2016-05-28	repo:cpan	file:Data-Clean-0.36.tar.gz	ver:0.36	size:19626
