@@ -7434,3 +7434,5 @@ date:2016-05-29	repo:cpan	file:Data-Sah-Util-Subschema-0.002.tar.gz	ver:0.002	si
 date:2016-05-30	repo:cpan	file:Data-Sah-Params-0.003.tar.gz	ver:0.003	size:15989
 date:2016-05-30	repo:cpan	file:App-SahUtils-0.29.tar.gz	ver:0.29	size:25976
 date:2016-05-30	repo:cpan	file:App-SahUtils-0.30.tar.gz	ver:0.30	size:26035
+date:2016-05-31	repo:cpan	file:Data-CSel-0.08.tar.gz	ver:0.08	size:29381
+date:2016-05-31	repo:cpan	file:Data-Clean-0.37.tar.gz	ver:0.37	size:18504
