@@ -7436,3 +7436,4 @@ date:2016-05-30	repo:cpan	file:App-SahUtils-0.29.tar.gz	ver:0.29	size:25976
 date:2016-05-30	repo:cpan	file:App-SahUtils-0.30.tar.gz	ver:0.30	size:26035
 date:2016-05-31	repo:cpan	file:Data-CSel-0.08.tar.gz	ver:0.08	size:29381
 date:2016-05-31	repo:cpan	file:Data-Clean-0.37.tar.gz	ver:0.37	size:18504
+date:2016-06-01	repo:cpan	file:Dist-Zilla-Plugin-For-Data-Sah-0.002.tar.gz	ver:0.002	size:13930
