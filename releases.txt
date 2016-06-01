@@ -7437,3 +7437,5 @@ date:2016-05-30	repo:cpan	file:App-SahUtils-0.30.tar.gz	ver:0.30	size:26035
 date:2016-05-31	repo:cpan	file:Data-CSel-0.08.tar.gz	ver:0.08	size:29381
 date:2016-05-31	repo:cpan	file:Data-Clean-0.37.tar.gz	ver:0.37	size:18504
 date:2016-06-01	repo:cpan	file:Dist-Zilla-Plugin-For-Data-Sah-0.002.tar.gz	ver:0.002	size:13930
+date:2016-06-01	repo:cpan	file:Data-Sah-0.79.tar.gz	ver:0.79	size:121095
+date:2016-06-01	repo:cpan	file:App-ShellCompleter-YoutubeDl-0.09.tar.gz	ver:0.09	size:26512
