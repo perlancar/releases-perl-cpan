@@ -7458,3 +7458,9 @@ date:2016-06-02	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AddPrereqs-0.09.tar.gz	ve
 date:2016-06-02	repo:cpan	file:Perinci-CmdLine-Gen-0.31.tar.gz	ver:0.31	size:22922
 date:2016-06-02	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.31.tar.gz	ver:0.31	size:19425
 date:2016-06-02	repo:cpan	file:Data-Sah-0.80.tar.gz	ver:0.80	size:121723
+date:2016-06-02	repo:cpan	file:Media-Info-0.11.tar.gz	ver:0.11	size:14847
+date:2016-06-02	repo:cpan	file:App-ZodiacUtils-0.10.tar.gz	ver:0.10	size:147514
+date:2016-06-02	repo:cpan	file:App-ZodiacUtils-Lite-0.001.tar.gz	ver:0.001	size:16102
+date:2016-06-02	repo:cpan	file:Perinci-CmdLine-Inline-0.38.tar.gz	ver:0.38	size:32780
+date:2016-06-02	repo:cpan	file:App-ShellCompleter-perlbrew-0.005.tar.gz	ver:0.005	size:22866
+date:2016-06-02	repo:cpan	file:App-PerlbrewUtils-0.04.tar.gz	ver:0.04	size:19766
