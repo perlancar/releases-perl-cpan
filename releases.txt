@@ -7465,3 +7465,5 @@ date:2016-06-02	repo:cpan	file:Perinci-CmdLine-Inline-0.38.tar.gz	ver:0.38	size:
 date:2016-06-02	repo:cpan	file:App-ShellCompleter-perlbrew-0.005.tar.gz	ver:0.005	size:22866
 date:2016-06-02	repo:cpan	file:App-PerlbrewUtils-0.04.tar.gz	ver:0.04	size:19766
 date:2016-06-03	repo:cpan	file:Data-Sah-0.81.tar.gz	ver:0.81	size:121415
+date:2016-06-03	repo:cpan	file:App-LintPrereqs-0.42.tar.gz	ver:0.42	size:26125
+date:2016-06-03	repo:cpan	file:Data-Dmp-0.20.tar.gz	ver:0.20	size:20055
