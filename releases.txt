@@ -7467,3 +7467,16 @@ date:2016-06-02	repo:cpan	file:App-PerlbrewUtils-0.04.tar.gz	ver:0.04	size:19766
 date:2016-06-03	repo:cpan	file:Data-Sah-0.81.tar.gz	ver:0.81	size:121415
 date:2016-06-03	repo:cpan	file:App-LintPrereqs-0.42.tar.gz	ver:0.42	size:26125
 date:2016-06-03	repo:cpan	file:Data-Dmp-0.20.tar.gz	ver:0.20	size:20055
+date:2016-06-04	repo:cpan	file:IPC-System-Options-0.25.tar.gz	ver:0.25	size:17903
+date:2016-06-04	repo:cpan	file:IPC-System-Options-0.26.tar.gz	ver:0.26	size:18108
+date:2016-06-04	repo:cpan	file:Nodejs-Util-0.004.tar.gz	ver:0.004	size:13662
+date:2016-06-04	repo:cpan	file:Data-Sah-Coerce-0.015.tar.gz	ver:0.015	size:30301
+date:2016-06-04	repo:cpan	file:Data-Sah-0.82.tar.gz	ver:0.82	size:118332
+date:2016-06-05	repo:cpan	file:Acme-MetaSyntactic-seinfeld-0.001.tar.gz	ver:0.001	size:13325
+date:2016-06-05	repo:cpan	file:Acme-MetaSyntactic-id_names-0.001.tar.gz	ver:0.001	size:32534
+date:2016-06-05	repo:cpan	file:Params-Sah-0.06.tar.gz	ver:0.06	size:19177
+date:2016-06-05	repo:cpan	file:Acme-MetaSyntactic-dangdut-0.001.tar.gz	ver:0.001	size:13373
+date:2016-06-06	repo:cpan	file:File-Write-Rotate-0.30.tar.gz	ver:0.30	size:29588
+date:2016-06-06	repo:cpan	file:WordList-MetaSyntactic-0.001.tar.gz	ver:0.001	size:13492
+date:2016-06-06	repo:cpan	file:WordList-MetaSyntactic-dangdut-0.001.tar.gz	ver:0.001	size:13124
+date:2016-06-06	repo:cpan	file:App-ModulePatchUtils-0.001.tar.gz	ver:0.001	size:14768
