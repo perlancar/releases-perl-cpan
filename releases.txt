@@ -7480,3 +7480,11 @@ date:2016-06-06	repo:cpan	file:File-Write-Rotate-0.30.tar.gz	ver:0.30	size:29588
 date:2016-06-06	repo:cpan	file:WordList-MetaSyntactic-0.001.tar.gz	ver:0.001	size:13492
 date:2016-06-06	repo:cpan	file:WordList-MetaSyntactic-dangdut-0.001.tar.gz	ver:0.001	size:13124
 date:2016-06-06	repo:cpan	file:App-ModulePatchUtils-0.001.tar.gz	ver:0.001	size:14768
+date:2016-06-08	repo:cpan	file:WordList-MetaSyntactic-0.002.tar.gz	ver:0.002	size:12834
+date:2016-06-08	repo:cpan	file:WordList-MetaSyntactic-dangdut-0.002.tar.gz	ver:0.002	size:12491
+date:2016-06-08	repo:cpan	file:IPC-System-Options-0.27.tar.gz	ver:0.27	size:17571
+date:2016-06-08	repo:cpan	file:Dist-Zilla-Plugin-ShareDir-Clean-0.05.tar.gz	ver:0.05	size:14271
+date:2016-06-09	repo:cpan	file:Acme-MetaSyntactic-frasier-0.001.tar.gz	ver:0.001	size:12690
+date:2016-06-09	repo:cpan	file:App-WordListUtils-0.001.tar.gz	ver:0.001	size:13739
+date:2016-06-09	repo:cpan	file:Acme-MetaSyntactic-WordList-0.001.tar.gz	ver:0.001	size:12549
+date:2016-06-09	repo:cpan	file:Acme-MetaSyntactic-countries-0.001.tar.gz	ver:0.001	size:12505
