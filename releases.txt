@@ -7496,3 +7496,8 @@ date:2016-06-09	repo:cpan	file:File-Copy-Undoable-0.10.tar.gz	ver:0.10	size:1706
 date:2016-06-09	repo:cpan	file:File-Move-Undoable-0.07.tar.gz	ver:0.07	size:17009
 date:2016-06-09	repo:cpan	file:File-Patch-Undoable-0.07.tar.gz	ver:0.07	size:16955
 date:2016-06-09	repo:cpan	file:App-LintPrereqs-0.43.tar.gz	ver:0.43	size:24592
+date:2016-06-10	repo:cpan	file:Perinci-Access-Perl-0.87.tar.gz	ver:0.87	size:34986
+date:2016-06-10	repo:cpan	file:Perinci-Tx-Manager-0.56.tar.gz	ver:0.56	size:37067
+date:2016-06-10	repo:cpan	file:File-Copy-Undoable-0.11.tar.gz	ver:0.11	size:17089
+date:2016-06-10	repo:cpan	file:File-Move-Undoable-0.08.tar.gz	ver:0.08	size:17037
+date:2016-06-10	repo:cpan	file:File-Patch-Undoable-0.08.tar.gz	ver:0.08	size:16982
