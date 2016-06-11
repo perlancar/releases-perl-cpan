@@ -7501,3 +7501,5 @@ date:2016-06-10	repo:cpan	file:Perinci-Tx-Manager-0.56.tar.gz	ver:0.56	size:3706
 date:2016-06-10	repo:cpan	file:File-Copy-Undoable-0.11.tar.gz	ver:0.11	size:17089
 date:2016-06-10	repo:cpan	file:File-Move-Undoable-0.08.tar.gz	ver:0.08	size:17037
 date:2016-06-10	repo:cpan	file:File-Patch-Undoable-0.08.tar.gz	ver:0.08	size:16982
+date:2016-06-11	repo:cpan	file:App-gitwrap-0.001.tar.gz	ver:0.001	size:14957
+date:2016-06-11	repo:cpan	file:Sah-0.9.41.tar.gz	ver:0.9.41	size:79933
