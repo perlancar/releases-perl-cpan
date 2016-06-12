@@ -7503,3 +7503,14 @@ date:2016-06-10	repo:cpan	file:File-Move-Undoable-0.08.tar.gz	ver:0.08	size:1703
 date:2016-06-10	repo:cpan	file:File-Patch-Undoable-0.08.tar.gz	ver:0.08	size:16982
 date:2016-06-11	repo:cpan	file:App-gitwrap-0.001.tar.gz	ver:0.001	size:14957
 date:2016-06-11	repo:cpan	file:Sah-0.9.41.tar.gz	ver:0.9.41	size:79933
+date:2016-06-12	repo:cpan	file:Data-Sah-0.83.tar.gz	ver:0.83	size:118593
+date:2016-06-12	repo:cpan	file:App-SahUtils-0.31.tar.gz	ver:0.31	size:29539
+date:2016-06-12	repo:cpan	file:Perinci-Sub-ArgEntity-sah-type_name-0.001.tar.gz	ver:0.001	size:13389
+date:2016-06-12	repo:cpan	file:App-SahUtils-0.32.tar.gz	ver:0.32	size:29558
+date:2016-06-12	repo:cpan	file:File-Trash-Undoable-0.19.tar.gz	ver:0.19	size:22168
+date:2016-06-12	repo:cpan	file:Data-Sah-Coerce-0.016.tar.gz	ver:0.016	size:30760
+date:2016-06-12	repo:cpan	file:Perinci-CmdLine-Classic-1.70.tar.gz	ver:1.70	size:43038
+date:2016-06-12	repo:cpan	file:App-SahUtils-0.33.tar.gz	ver:0.33	size:29586
+date:2016-06-12	repo:cpan	file:App-gitwrap-0.002.tar.gz	ver:0.002	size:16314
+date:2016-06-12	repo:cpan	file:App-reposdb-0.001.tar.gz	ver:0.001	size:18965
+date:2016-06-12	repo:cpan	file:App-reposdb-0.002.tar.gz	ver:0.002	size:19231
