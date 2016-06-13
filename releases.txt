@@ -7514,3 +7514,8 @@ date:2016-06-12	repo:cpan	file:App-SahUtils-0.33.tar.gz	ver:0.33	size:29586
 date:2016-06-12	repo:cpan	file:App-gitwrap-0.002.tar.gz	ver:0.002	size:16314
 date:2016-06-12	repo:cpan	file:App-reposdb-0.001.tar.gz	ver:0.001	size:18965
 date:2016-06-12	repo:cpan	file:App-reposdb-0.002.tar.gz	ver:0.002	size:19231
+date:2016-06-12	repo:cpan	file:Acme-MetaSyntactic-WordList-0.002.tar.gz	ver:0.002	size:13339
+date:2016-06-12	repo:cpan	file:Perinci-Result-Format-Lite-0.15.tar.gz	ver:0.15	size:17678
+date:2016-06-12	repo:cpan	file:App-reposdb-0.003.tar.gz	ver:0.003	size:19712
+date:2016-06-13	repo:cpan	file:Data-Sah-Coerce-0.017.tar.gz	ver:0.017	size:30778
+date:2016-06-13	repo:cpan	file:Data-Sah-Format-0.001.tar.gz	ver:0.001	size:17428
