@@ -7519,3 +7519,15 @@ date:2016-06-12	repo:cpan	file:Perinci-Result-Format-Lite-0.15.tar.gz	ver:0.15	s
 date:2016-06-12	repo:cpan	file:App-reposdb-0.003.tar.gz	ver:0.003	size:19712
 date:2016-06-13	repo:cpan	file:Data-Sah-Coerce-0.017.tar.gz	ver:0.017	size:30778
 date:2016-06-13	repo:cpan	file:Data-Sah-Format-0.001.tar.gz	ver:0.001	size:17428
+date:2016-06-14	repo:cpan	file:Log-Any-For-File-chdir-0.001.tar.gz	ver:0.001	size:12844
+date:2016-06-14	repo:cpan	file:Git-Bunch-0.51.tar.gz	ver:0.51	size:34734
+date:2016-06-14	repo:cpan	file:Data-Sah-Format-perl-boolstr-0.001.tar.gz	ver:0.001	size:13796
+date:2016-06-14	repo:cpan	file:Data-Sah-Coerce-perl-date-str_alami-0.006.tar.gz	ver:0.006	size:14365
+date:2016-06-14	repo:cpan	file:Data-Sah-Coerce-perl-date-str_natural-0.003.tar.gz	ver:0.003	size:13692
+date:2016-06-14	repo:cpan	file:Lingua-EN-Number-Format-MixWithWords-0.08.tar.gz	ver:0.08	size:16647
+date:2016-06-14	repo:cpan	file:Lingua-ID-Number-Format-MixWithWords-0.07.tar.gz	ver:0.07	size:15185
+date:2016-06-14	repo:cpan	file:Parse-Number-EN-0.07.tar.gz	ver:0.07	size:15093
+date:2016-06-14	repo:cpan	file:Parse-VarName-0.03.tar.gz	ver:0.03	size:13907
+date:2016-06-14	repo:cpan	file:Perinci-Gen-ForModule-0.09.tar.gz	ver:0.09	size:15476
+date:2016-06-14	repo:cpan	file:RSS-From-Forum-vBulletin-0.10.tar.gz	ver:0.10	size:18074
+date:2016-06-14	repo:cpan	file:Git-Bunch-0.52.tar.gz	ver:0.52	size:34792
