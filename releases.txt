@@ -7531,3 +7531,5 @@ date:2016-06-14	repo:cpan	file:Parse-VarName-0.03.tar.gz	ver:0.03	size:13907
 date:2016-06-14	repo:cpan	file:Perinci-Gen-ForModule-0.09.tar.gz	ver:0.09	size:15476
 date:2016-06-14	repo:cpan	file:RSS-From-Forum-vBulletin-0.10.tar.gz	ver:0.10	size:18074
 date:2016-06-14	repo:cpan	file:Git-Bunch-0.52.tar.gz	ver:0.52	size:34792
+date:2016-06-14	repo:cpan	file:App-DistUtils-0.10.tar.gz	ver:0.10	size:20771
+date:2016-06-14	repo:cpan	file:App-DistUtils-0.11.tar.gz	ver:0.11	size:21384
