@@ -7560,3 +7560,6 @@ date:2016-06-17	repo:cpan	file:Bencher-Scenario-URIEscaping-0.003.tar.gz	ver:0.0
 date:2016-06-17	repo:cpan	file:Language-Expr-0.25.tar.gz	ver:0.25	size:35733
 date:2016-06-17	repo:cpan	file:Language-Expr-0.26.tar.gz	ver:0.26	size:35823
 date:2016-06-17	repo:cpan	file:App-hr-0.25.tar.gz	ver:0.25	size:77788
+date:2016-06-17	repo:cpan	file:Complete-Path-0.23.tar.gz	ver:0.23	size:17400
+date:2016-06-18	repo:cpan	file:Bencher-Scenarios-PERLANCARParseArithmetic-0.002.tar.gz	ver:0.002	size:13768
+date:2016-06-18	repo:cpan	file:PERLANCAR-Parse-Arithmetic-0.001.tar.gz	ver:0.001	size:13796
