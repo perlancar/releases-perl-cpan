@@ -7571,3 +7571,5 @@ date:2016-06-18	repo:cpan	file:Git-Bunch-0.55.tar.gz	ver:0.55	size:36784
 date:2016-06-18	repo:cpan	file:PERLANCAR-Parse-Arithmetic-0.004.tar.gz	ver:0.004	size:15460
 date:2016-06-18	repo:cpan	file:Bencher-Scenarios-PERLANCARParseArithmetic-0.005.tar.gz	ver:0.005	size:15318
 date:2016-06-19	repo:cpan	file:App-DateUtils-0.05.tar.gz	ver:0.05	size:21937
+date:2016-06-21	repo:cpan	file:App-lcpan-0.88.tar.gz	ver:0.88	size:93396
+date:2016-06-21	repo:cpan	file:WordList-BEW-Betawi-0.001.tar.gz	ver:0.001	size:13275
