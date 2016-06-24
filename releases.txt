@@ -7578,3 +7578,6 @@ date:2016-06-23	repo:cpan	file:App-BencherUtils-0.14.tar.gz	ver:0.14	size:21676
 date:2016-06-23	repo:cpan	file:Perinci-Result-Format-Lite-0.18.tar.gz	ver:0.18	size:18565
 date:2016-06-23	repo:cpan	file:Bencher-Backend-1.011.tar.gz	ver:1.011	size:44854
 date:2016-06-23	repo:cpan	file:Bencher-Scenarios-Accessors-0.07.tar.gz	ver:0.07	size:17373
+date:2016-06-24	repo:cpan	file:App-lcpan-0.89.tar.gz	ver:0.89	size:93469
+date:2016-06-24	repo:cpan	file:Data-Graph-Util-0.001.tar.gz	ver:0.001	size:13708
+date:2016-06-24	repo:cpan	file:Data-Graph-Util-0.002.tar.gz	ver:0.002	size:14295
