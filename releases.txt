@@ -7657,3 +7657,10 @@ date:2016-07-09	repo:cpan	file:lib-filter-0.25.tar.gz	ver:0.25	size:21245
 date:2016-07-09	repo:cpan	file:App-DBIUtils-0.001.tar.gz	ver:0.001	size:17102
 date:2016-07-09	repo:cpan	file:SQL-AlterTable-SQLite-0.001.tar.gz	ver:0.001	size:16162
 date:2016-07-09	repo:cpan	file:SQL-AlterTable-SQLite-0.002.tar.gz	ver:0.002	size:16303
+date:2016-07-10	repo:cpan	file:Test-WithDB-0.08.tar.gz	ver:0.08	size:20241
+date:2016-07-10	repo:cpan	file:SQL-AlterTable-SQLite-0.003.tar.gz	ver:0.003	size:16459
+date:2016-07-10	repo:cpan	file:App-DateUtils-0.10.tar.gz	ver:0.10	size:26682
+date:2016-07-10	repo:cpan	file:Module-Path-More-Patch-Hide-0.001.tar.gz	ver:0.001	size:14128
+date:2016-07-10	repo:cpan	file:Module-Path-Patch-Hide-0.001.tar.gz	ver:0.001	size:14010
+date:2016-07-10	repo:cpan	file:Module-Path-More-Patch-Hide-0.002.tar.gz	ver:0.002	size:14148
+date:2016-07-11	repo:cpan	file:Dist-Zilla-Plugin-For-DefHash-Examples-0.001.tar.gz	ver:0.001	size:14073
