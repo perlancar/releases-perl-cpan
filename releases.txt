@@ -7664,3 +7664,8 @@ date:2016-07-10	repo:cpan	file:Module-Path-More-Patch-Hide-0.001.tar.gz	ver:0.00
 date:2016-07-10	repo:cpan	file:Module-Path-Patch-Hide-0.001.tar.gz	ver:0.001	size:14010
 date:2016-07-10	repo:cpan	file:Module-Path-More-Patch-Hide-0.002.tar.gz	ver:0.002	size:14148
 date:2016-07-11	repo:cpan	file:Dist-Zilla-Plugin-For-DefHash-Examples-0.001.tar.gz	ver:0.001	size:14073
+date:2016-07-12	repo:cpan	file:Bencher-Scenario-Nums2WordsModules-0.001.tar.gz	ver:0.001	size:13847
+date:2016-07-12	repo:cpan	file:Bencher-Scenario-Words2NumsModules-0.001.tar.gz	ver:0.001	size:13882
+date:2016-07-12	repo:cpan	file:Bencher-Backend-1.015.tar.gz	ver:1.015	size:46059
+date:2016-07-12	repo:cpan	file:App-shcompgen-0.18.tar.gz	ver:0.18	size:25191
+date:2016-07-12	repo:cpan	file:App-shcompgen-0.19.tar.gz	ver:0.19	size:25410
