@@ -7664,3 +7664,4 @@ date:2016-07-10	repo:cpan	file:Module-Path-More-Patch-Hide-0.001.tar.gz	ver:0.00
 date:2016-07-10	repo:cpan	file:Module-Path-Patch-Hide-0.001.tar.gz	ver:0.001	size:14010
 date:2016-07-10	repo:cpan	file:Module-Path-More-Patch-Hide-0.002.tar.gz	ver:0.002	size:14148
 date:2016-07-11	repo:cpan	file:Dist-Zilla-Plugin-For-DefHash-Examples-0.001.tar.gz	ver:0.001	size:14073
+date:2016-07-12	repo:cpan	file:Hash-DefHash-0.06.tar.gz	ver:0.06	size:19662
