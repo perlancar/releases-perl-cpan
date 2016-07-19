@@ -7698,3 +7698,14 @@ date:2016-07-17	repo:cpan	file:Bencher-Scenarios-HumanDateParsingModules-0.005.t
 date:2016-07-17	repo:cpan	file:Sah-Schemas-Perl-0.001.tar.gz	ver:0.001	size:14053
 date:2016-07-18	repo:cpan	file:Sah-Schemas-Int-0.04.tar.gz	ver:0.04	size:15272
 date:2016-07-18	repo:cpan	file:Sah-Schemas-Int-0.05.tar.gz	ver:0.05	size:15295
+date:2016-07-19	repo:cpan	file:App-CreateAcmeCPANListsImportModules-0.04.tar.gz	ver:0.04	size:15219
+date:2016-07-19	repo:cpan	file:Acme-CPANLists-Import-0.02.tar.gz	ver:0.02	size:16927
+date:2016-07-19	repo:cpan	file:Data-ModeMerge-0.34.tar.gz	ver:0.34	size:44424
+date:2016-07-19	repo:cpan	file:Bencher-Scenarios-DataModeMerge-0.001.tar.gz	ver:0.001	size:127305
+date:2016-07-19	repo:cpan	file:Sah-Schemas-Examples-0.001.tar.gz	ver:0.001	size:12797
+date:2016-07-19	repo:cpan	file:Data-Sah-Resolve-0.001.tar.gz	ver:0.001	size:14730
+date:2016-07-19	repo:cpan	file:Sah-Schemas-Examples-0.002.tar.gz	ver:0.002	size:12932
+date:2016-07-19	repo:cpan	file:Data-Sah-Resolve-0.002.tar.gz	ver:0.002	size:14998
+date:2016-07-19	repo:cpan	file:App-SahUtils-0.36.tar.gz	ver:0.36	size:29849
+date:2016-07-19	repo:cpan	file:Data-Sah-Util-Type-0.44.tar.gz	ver:0.44	size:14750
+date:2016-07-19	repo:cpan	file:Data-Sah-Util-Type-0.45.tar.gz	ver:0.45	size:14789
