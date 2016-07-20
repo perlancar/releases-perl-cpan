@@ -7722,3 +7722,7 @@ date:2016-07-20	repo:cpan	file:Sah-Schemas-Examples-0.003.tar.gz	ver:0.003	size:
 date:2016-07-20	repo:cpan	file:App-PMUtils-0.60.tar.gz	ver:0.60	size:36439
 date:2016-07-20	repo:cpan	file:Data-Sah-0.85.tar.gz	ver:0.85	size:124944
 date:2016-07-20	repo:cpan	file:Data-Sah-Util-Subschema-0.003.tar.gz	ver:0.003	size:14023
+date:2016-07-20	repo:cpan	file:Sah-Schemas-Path-0.001.tar.gz	ver:0.001	size:13442
+date:2016-07-20	repo:cpan	file:App-PlUtils-0.11.tar.gz	ver:0.11	size:19957
+date:2016-07-20	repo:cpan	file:App-ProgUtils-0.18.tar.gz	ver:0.18	size:19021
+date:2016-07-20	repo:cpan	file:App-lcpan-1.001.tar.gz	ver:1.001	size:94010
