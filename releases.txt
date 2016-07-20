@@ -7709,3 +7709,16 @@ date:2016-07-19	repo:cpan	file:Data-Sah-Resolve-0.002.tar.gz	ver:0.002	size:1499
 date:2016-07-19	repo:cpan	file:App-SahUtils-0.36.tar.gz	ver:0.36	size:29849
 date:2016-07-19	repo:cpan	file:Data-Sah-Util-Type-0.44.tar.gz	ver:0.44	size:14750
 date:2016-07-19	repo:cpan	file:Data-Sah-Util-Type-0.45.tar.gz	ver:0.45	size:14789
+date:2016-07-20	repo:cpan	file:Sah-Schemas-Perl-0.002.tar.gz	ver:0.002	size:13414
+date:2016-07-20	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.72.tar.gz	ver:0.72	size:34733
+date:2016-07-20	repo:cpan	file:Data-Sah-0.84.tar.gz	ver:0.84	size:121429
+date:2016-07-20	repo:cpan	file:Perinci-CmdLine-Lite-1.56.tar.gz	ver:1.56	size:54703
+date:2016-07-20	repo:cpan	file:Perinci-CmdLine-Classic-1.71.tar.gz	ver:1.71	size:42989
+date:2016-07-20	repo:cpan	file:Perinci-CmdLine-Any-0.13.tar.gz	ver:0.13	size:14381
+date:2016-07-20	repo:cpan	file:Data-Sah-Resolve-0.003.tar.gz	ver:0.003	size:15459
+date:2016-07-20	repo:cpan	file:App-SahUtils-0.37.tar.gz	ver:0.37	size:30553
+date:2016-07-20	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.002.tar.gz	ver:0.002	size:14571
+date:2016-07-20	repo:cpan	file:Sah-Schemas-Examples-0.003.tar.gz	ver:0.003	size:13142
+date:2016-07-20	repo:cpan	file:App-PMUtils-0.60.tar.gz	ver:0.60	size:36439
+date:2016-07-20	repo:cpan	file:Data-Sah-0.85.tar.gz	ver:0.85	size:124944
+date:2016-07-20	repo:cpan	file:Data-Sah-Util-Subschema-0.003.tar.gz	ver:0.003	size:14023
