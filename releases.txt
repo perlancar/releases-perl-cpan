@@ -7726,3 +7726,15 @@ date:2016-07-20	repo:cpan	file:Sah-Schemas-Path-0.001.tar.gz	ver:0.001	size:1344
 date:2016-07-20	repo:cpan	file:App-PlUtils-0.11.tar.gz	ver:0.11	size:19957
 date:2016-07-20	repo:cpan	file:App-ProgUtils-0.18.tar.gz	ver:0.18	size:19021
 date:2016-07-20	repo:cpan	file:App-lcpan-1.001.tar.gz	ver:1.001	size:94010
+date:2016-07-21	repo:cpan	file:Parse-PayPal-TxDetailReport-0.001.tar.gz	ver:0.001	size:15079
+date:2016-07-21	repo:cpan	file:Parse-PayPal-TxDetailReport-0.002.tar.gz	ver:0.002	size:15375
+date:2016-07-21	repo:cpan	file:Parse-PayPal-TxDetailReport-0.003.tar.gz	ver:0.003	size:15454
+date:2016-07-21	repo:cpan	file:Parse-PayPal-TxDetailReport-0.004.tar.gz	ver:0.004	size:15521
+date:2016-07-21	repo:cpan	file:Parse-PayPal-TxDetailReport-0.005.tar.gz	ver:0.005	size:15571
+date:2016-07-21	repo:cpan	file:App-SahUtils-0.38.tar.gz	ver:0.38	size:30246
+date:2016-07-21	repo:cpan	file:Bencher-Scenarios-DataSahResolve-0.001.tar.gz	ver:0.001	size:13660
+date:2016-07-21	repo:cpan	file:Bencher-Scenarios-DataSahResolve-0.002.tar.gz	ver:0.002	size:13997
+date:2016-07-22	repo:cpan	file:Sah-Schemas-CPANMeta-0.001.tar.gz	ver:0.001	size:16682
+date:2016-07-22	repo:cpan	file:Sah-0.9.42.tar.gz	ver:0.9.42	size:81475
+date:2016-07-22	repo:cpan	file:Data-Sah-0.86.tar.gz	ver:0.86	size:123512
+date:2016-07-22	repo:cpan	file:App-ValidateCPANMetaWithSah-0.001.tar.gz	ver:0.001	size:16096
