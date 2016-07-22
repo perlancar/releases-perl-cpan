@@ -7751,3 +7751,13 @@ date:2016-07-22	repo:cpan	file:Sah-Schemas-Perl-0.003.tar.gz	ver:0.003	size:1374
 date:2016-07-22	repo:cpan	file:Sah-0.9.43.tar.gz	ver:0.9.43	size:81363
 date:2016-07-22	repo:cpan	file:Sah-Schemas-YouTube-0.002.tar.gz	ver:0.002	size:12854
 date:2016-07-22	repo:cpan	file:Sah-Schemas-Int-0.06.tar.gz	ver:0.06	size:16402
+date:2016-07-22	repo:cpan	file:Bencher-Scenarios-DataModeMerge-0.002.tar.gz	ver:0.002	size:13722
+date:2016-07-22	repo:cpan	file:Finance-Currency-Convert-KlikBCA-0.12.tar.gz	ver:0.12	size:35908
+date:2016-07-22	repo:cpan	file:App-IndonesianFinanceUtils-0.06.tar.gz	ver:0.06	size:17444
+date:2016-07-22	repo:cpan	file:Perinci-Sub-Complete-0.85.tar.gz	ver:0.85	size:29560
+date:2016-07-22	repo:cpan	file:Data-ModeMerge-0.35.tar.gz	ver:0.35	size:44542
+date:2016-07-22	repo:cpan	file:Sah-Schemas-URL-0.001.tar.gz	ver:0.001	size:12471
+date:2016-07-22	repo:cpan	file:Perinci-Sub-XCompletion-0.06.tar.gz	ver:0.06	size:14080
+date:2016-07-22	repo:cpan	file:Sah-Schemas-URL-0.002.tar.gz	ver:0.002	size:12827
+date:2016-07-22	repo:cpan	file:Sah-Schemas-Riap-0.001.tar.gz	ver:0.001	size:12914
+date:2016-07-22	repo:cpan	file:Sah-Schemas-Path-0.003.tar.gz	ver:0.003	size:13834
