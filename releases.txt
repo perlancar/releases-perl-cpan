@@ -7738,3 +7738,16 @@ date:2016-07-22	repo:cpan	file:Sah-Schemas-CPANMeta-0.001.tar.gz	ver:0.001	size:
 date:2016-07-22	repo:cpan	file:Sah-0.9.42.tar.gz	ver:0.9.42	size:81475
 date:2016-07-22	repo:cpan	file:Data-Sah-0.86.tar.gz	ver:0.86	size:123512
 date:2016-07-22	repo:cpan	file:App-ValidateCPANMetaWithSah-0.001.tar.gz	ver:0.001	size:16096
+date:2016-07-22	repo:cpan	file:Sah-Schemas-YouTube-0.001.tar.gz	ver:0.001	size:12612
+date:2016-07-22	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.60.tar.gz	ver:0.60	size:24430
+date:2016-07-22	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AddPrereqs-0.10.tar.gz	ver:0.10	size:15785
+date:2016-07-22	repo:cpan	file:Dist-Zilla-Plugin-Rinci-Validate-0.23.tar.gz	ver:0.23	size:20101
+date:2016-07-22	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.003.tar.gz	ver:0.003	size:15306
+date:2016-07-22	repo:cpan	file:App-SahUtils-0.39.tar.gz	ver:0.39	size:30794
+date:2016-07-22	repo:cpan	file:Sah-Schemas-Examples-0.004.tar.gz	ver:0.004	size:13536
+date:2016-07-22	repo:cpan	file:Sah-Schemas-CPANMeta-0.002.tar.gz	ver:0.002	size:19102
+date:2016-07-22	repo:cpan	file:Sah-Schemas-Path-0.002.tar.gz	ver:0.002	size:13813
+date:2016-07-22	repo:cpan	file:Sah-Schemas-Perl-0.003.tar.gz	ver:0.003	size:13749
+date:2016-07-22	repo:cpan	file:Sah-0.9.43.tar.gz	ver:0.9.43	size:81363
+date:2016-07-22	repo:cpan	file:Sah-Schemas-YouTube-0.002.tar.gz	ver:0.002	size:12854
+date:2016-07-22	repo:cpan	file:Sah-Schemas-Int-0.06.tar.gz	ver:0.06	size:16402
