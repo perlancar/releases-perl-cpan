@@ -7761,3 +7761,11 @@ date:2016-07-22	repo:cpan	file:Perinci-Sub-XCompletion-0.06.tar.gz	ver:0.06	size
 date:2016-07-22	repo:cpan	file:Sah-Schemas-URL-0.002.tar.gz	ver:0.002	size:12827
 date:2016-07-22	repo:cpan	file:Sah-Schemas-Riap-0.001.tar.gz	ver:0.001	size:12914
 date:2016-07-22	repo:cpan	file:Sah-Schemas-Path-0.003.tar.gz	ver:0.003	size:13834
+date:2016-07-25	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.17.tar.gz	ver:0.17	size:23285
+date:2016-07-25	repo:cpan	file:Data-Sah-Util-Subschema-0.004.tar.gz	ver:0.004	size:14605
+date:2016-07-25	repo:cpan	file:Sah-Schemas-Perl-0.004.tar.gz	ver:0.004	size:14786
+date:2016-07-25	repo:cpan	file:App-VersionUtils-0.001.tar.gz	ver:0.001	size:17009
+date:2016-07-25	repo:cpan	file:Sah-Schemas-Rinci-1.1.80.1.tar.gz	ver:1.1.80.1	size:15687
+date:2016-07-25	repo:cpan	file:Sah-Schemas-Riap-1.2.4.1.tar.gz	ver:1.2.4.1	size:13616
+date:2016-07-25	repo:cpan	file:Sah-Schemas-DefHash-1.0.11.1.tar.gz	ver:1.0.11.1	size:14543
+date:2016-07-25	repo:cpan	file:Sah-Schemas-Sah-0.9.43.1.tar.gz	ver:0.9.43.1	size:15041
