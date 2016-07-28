@@ -7769,3 +7769,4 @@ date:2016-07-25	repo:cpan	file:Sah-Schemas-Rinci-1.1.80.1.tar.gz	ver:1.1.80.1	si
 date:2016-07-25	repo:cpan	file:Sah-Schemas-Riap-1.2.4.1.tar.gz	ver:1.2.4.1	size:13616
 date:2016-07-25	repo:cpan	file:Sah-Schemas-DefHash-1.0.11.1.tar.gz	ver:1.0.11.1	size:14543
 date:2016-07-25	repo:cpan	file:Sah-Schemas-Sah-0.9.43.1.tar.gz	ver:0.9.43.1	size:15041
+date:2016-07-26	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.18.tar.gz	ver:0.18	size:22601
