@@ -7772,4 +7772,5 @@ date:2016-07-25	repo:cpan	file:Sah-Schemas-Sah-0.9.43.1.tar.gz	ver:0.9.43.1	size
 date:2016-07-26	repo:cpan	file:Filesys-Ext2-Dump-0.001.tar.gz	ver:0.001	size:14234
 date:2016-07-26	repo:cpan	file:Data-Sah-Resolve-0.004.tar.gz	ver:0.004	size:15293
 date:2016-07-26	repo:cpan	file:Filesys-Ext2-Dump-0.002.tar.gz	ver:0.002	size:14187
+date:2016-07-26	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.18.tar.gz	ver:0.18	size:22601
 date:2016-07-27	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.001.tar.gz	ver:0.001	size:15813
