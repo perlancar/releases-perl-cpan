@@ -7776,3 +7776,4 @@ date:2016-07-26	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.18.tar.gz	ver:0.18	siz
 date:2016-07-27	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.001.tar.gz	ver:0.001	size:15813
 date:2016-07-28	repo:cpan	file:Rinci-1.1.81.tar.gz	ver:1.1.81	size:57330
 date:2016-07-28	repo:cpan	file:Sah-0.9.44.tar.gz	ver:0.9.44	size:81414
+date:2016-07-29	repo:cpan	file:Finance-Currency-Convert-BI-0.03.tar.gz	ver:0.03	size:56180
