@@ -7777,3 +7777,6 @@ date:2016-07-27	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.001.tar.gz	ver:0
 date:2016-07-28	repo:cpan	file:Rinci-1.1.81.tar.gz	ver:1.1.81	size:57330
 date:2016-07-28	repo:cpan	file:Sah-0.9.44.tar.gz	ver:0.9.44	size:81414
 date:2016-07-29	repo:cpan	file:Finance-Currency-Convert-BI-0.03.tar.gz	ver:0.03	size:56180
+date:2016-07-30	repo:cpan	file:Text-NonWideChar-Util-0.001.tar.gz	ver:0.001	size:13665
+date:2016-07-30	repo:cpan	file:App-stopw-0.02.tar.gz	ver:0.02	size:16086
+date:2016-07-30	repo:cpan	file:App-stopw-0.03.tar.gz	ver:0.03	size:16140
