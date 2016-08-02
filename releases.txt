@@ -7780,3 +7780,5 @@ date:2016-07-29	repo:cpan	file:Finance-Currency-Convert-BI-0.03.tar.gz	ver:0.03	
 date:2016-07-30	repo:cpan	file:Text-NonWideChar-Util-0.001.tar.gz	ver:0.001	size:13665
 date:2016-07-30	repo:cpan	file:App-stopw-0.02.tar.gz	ver:0.02	size:16086
 date:2016-07-30	repo:cpan	file:App-stopw-0.03.tar.gz	ver:0.03	size:16140
+date:2016-08-02	repo:cpan	file:App-depak-0.53.tar.gz	ver:0.53	size:32953
+date:2016-08-02	repo:cpan	file:Module-Loadable-0.001.tar.gz	ver:0.001	size:15545
