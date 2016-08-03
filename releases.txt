@@ -7782,3 +7782,14 @@ date:2016-07-30	repo:cpan	file:App-stopw-0.02.tar.gz	ver:0.02	size:16086
 date:2016-07-30	repo:cpan	file:App-stopw-0.03.tar.gz	ver:0.03	size:16140
 date:2016-08-02	repo:cpan	file:App-depak-0.53.tar.gz	ver:0.53	size:32953
 date:2016-08-02	repo:cpan	file:Module-Loadable-0.001.tar.gz	ver:0.001	size:15545
+date:2016-08-03	repo:cpan	file:Module-Installed-Tiny-0.002.tar.gz	ver:0.002	size:15916
+date:2016-08-03	repo:cpan	file:Perinci-Sub-Complete-0.86.tar.gz	ver:0.86	size:29632
+date:2016-08-03	repo:cpan	file:Sah-Schemas-Perl-0.005.tar.gz	ver:0.005	size:14207
+date:2016-08-03	repo:cpan	file:Sah-Schemas-Perl-0.006.tar.gz	ver:0.006	size:14786
+date:2016-08-03	repo:cpan	file:Perinci-CmdLine-Gen-0.32.tar.gz	ver:0.32	size:23107
+date:2016-08-03	repo:cpan	file:Test-Perinci-CmdLine-1.40.tar.gz	ver:1.40	size:22556
+date:2016-08-03	repo:cpan	file:Perinci-CmdLine-Lite-1.57.tar.gz	ver:1.57	size:55201
+date:2016-08-03	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.61.tar.gz	ver:0.61	size:24578
+date:2016-08-03	repo:cpan	file:Module-Path-More-0.31.tar.gz	ver:0.31	size:17508
+date:2016-08-03	repo:cpan	file:App-LintPrereqs-0.44.tar.gz	ver:0.44	size:24843
+date:2016-08-03	repo:cpan	file:HTTP-Daemon-UNIX-0.06.tar.gz	ver:0.06	size:13833
