@@ -7799,3 +7799,8 @@ date:2016-08-04	repo:cpan	file:App-LintPrereqs-0.45.tar.gz	ver:0.45	size:25686
 date:2016-08-04	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.004.tar.gz	ver:0.004	size:15532
 date:2016-08-04	repo:cpan	file:Module-Installed-Tiny-0.003.tar.gz	ver:0.003	size:16025
 date:2016-08-04	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.002.tar.gz	ver:0.002	size:16142
+date:2016-08-07	repo:cpan	file:Getopt-Long-Negate-ID-0.001.tar.gz	ver:0.001	size:14062
+date:2016-08-07	repo:cpan	file:Bencher-Scenario-ModuleInstalledTiny-0.001.tar.gz	ver:0.001	size:14557
+date:2016-08-07	repo:cpan	file:Bencher-Scenario-ModulePathMore-0.001.tar.gz	ver:0.001	size:14297
+date:2016-08-07	repo:cpan	file:App-PayPalUtils-0.001.tar.gz	ver:0.001	size:16698
+date:2016-08-07	repo:cpan	file:Bencher-Scenario-GraphTopologicalSortModules-0.001.tar.gz	ver:0.001	size:14416
