@@ -7804,3 +7804,7 @@ date:2016-08-07	repo:cpan	file:Bencher-Scenario-ModuleInstalledTiny-0.001.tar.gz
 date:2016-08-07	repo:cpan	file:Bencher-Scenario-ModulePathMore-0.001.tar.gz	ver:0.001	size:14297
 date:2016-08-07	repo:cpan	file:App-PayPalUtils-0.001.tar.gz	ver:0.001	size:16698
 date:2016-08-07	repo:cpan	file:Bencher-Scenario-GraphTopologicalSortModules-0.001.tar.gz	ver:0.001	size:14416
+date:2016-08-11	repo:cpan	file:App-lcpan-1.002.tar.gz	ver:1.002	size:94906
+date:2016-08-11	repo:cpan	file:Module-Depakable-0.007.tar.gz	ver:0.007	size:15033
+date:2016-08-11	repo:cpan	file:Perinci-CmdLine-Util-0.10.tar.gz	ver:0.10	size:15329
+date:2016-08-11	repo:cpan	file:App-IndonesianBankingUtils-0.07.tar.gz	ver:0.07	size:5578539
