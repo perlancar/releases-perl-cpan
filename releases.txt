@@ -7799,3 +7799,7 @@ date:2016-08-04	repo:cpan	file:App-LintPrereqs-0.45.tar.gz	ver:0.45	size:25686
 date:2016-08-04	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.004.tar.gz	ver:0.004	size:15532
 date:2016-08-04	repo:cpan	file:Module-Installed-Tiny-0.003.tar.gz	ver:0.003	size:16025
 date:2016-08-04	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.002.tar.gz	ver:0.002	size:16142
+date:2016-08-11	repo:cpan	file:App-lcpan-1.002.tar.gz	ver:1.002	size:94906
+date:2016-08-11	repo:cpan	file:Module-Depakable-0.007.tar.gz	ver:0.007	size:15033
+date:2016-08-11	repo:cpan	file:Perinci-CmdLine-Util-0.10.tar.gz	ver:0.10	size:15329
+date:2016-08-11	repo:cpan	file:App-IndonesianBankingUtils-0.07.tar.gz	ver:0.07	size:5578539
