@@ -7809,3 +7809,7 @@ date:2016-08-11	repo:cpan	file:Module-Depakable-0.007.tar.gz	ver:0.007	size:1503
 date:2016-08-11	repo:cpan	file:Perinci-CmdLine-Util-0.10.tar.gz	ver:0.10	size:15329
 date:2016-08-11	repo:cpan	file:App-IndonesianBankingUtils-0.07.tar.gz	ver:0.07	size:5578539
 date:2016-08-15	repo:cpan	file:App-datecalc-0.07.tar.gz	ver:0.07	size:21834
+date:2016-08-18	repo:cpan	file:App-lcpan-1.003.tar.gz	ver:1.003	size:94533
+date:2016-08-18	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.003.tar.gz	ver:0.003	size:16452
+date:2016-08-18	repo:cpan	file:Perinci-CmdLine-Lite-1.58.tar.gz	ver:1.58	size:55260
+date:2016-08-18	repo:cpan	file:App-riap-0.36.tar.gz	ver:0.36	size:27166
