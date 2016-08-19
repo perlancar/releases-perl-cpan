@@ -7813,3 +7813,5 @@ date:2016-08-18	repo:cpan	file:App-lcpan-1.003.tar.gz	ver:1.003	size:94533
 date:2016-08-18	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.003.tar.gz	ver:0.003	size:16452
 date:2016-08-18	repo:cpan	file:Perinci-CmdLine-Lite-1.58.tar.gz	ver:1.58	size:55260
 date:2016-08-18	repo:cpan	file:App-riap-0.36.tar.gz	ver:0.36	size:27166
+date:2016-08-19	repo:cpan	file:CentOS-Releases-0.02.tar.gz	ver:0.02	size:16211
+date:2016-08-19	repo:cpan	file:Bencher-Scenario-LogAny-0.04.tar.gz	ver:0.04	size:14642
