@@ -7809,3 +7809,6 @@ date:2016-08-11	repo:cpan	file:Module-Depakable-0.007.tar.gz	ver:0.007	size:1503
 date:2016-08-11	repo:cpan	file:Perinci-CmdLine-Util-0.10.tar.gz	ver:0.10	size:15329
 date:2016-08-11	repo:cpan	file:App-IndonesianBankingUtils-0.07.tar.gz	ver:0.07	size:5578539
 date:2016-08-15	repo:cpan	file:App-datecalc-0.07.tar.gz	ver:0.07	size:21834
+date:2016-08-20	repo:cpan	file:Bencher-Backend-1.018.tar.gz	ver:1.018	size:49032
+date:2016-08-20	repo:cpan	file:Bencher-1.007.tar.gz	ver:1.007	size:37950
+date:2016-08-20	repo:cpan	file:Bencher-Scenarios-LogAny-0.06.tar.gz	ver:0.06	size:14861
