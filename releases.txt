@@ -7815,3 +7815,6 @@ date:2016-08-18	repo:cpan	file:Perinci-CmdLine-Lite-1.58.tar.gz	ver:1.58	size:55
 date:2016-08-18	repo:cpan	file:App-riap-0.36.tar.gz	ver:0.36	size:27166
 date:2016-08-19	repo:cpan	file:CentOS-Releases-0.02.tar.gz	ver:0.02	size:16211
 date:2016-08-19	repo:cpan	file:Bencher-Scenario-LogAny-0.04.tar.gz	ver:0.04	size:14642
+date:2016-08-20	repo:cpan	file:Bencher-Backend-1.018.tar.gz	ver:1.018	size:49032
+date:2016-08-20	repo:cpan	file:Bencher-1.007.tar.gz	ver:1.007	size:37950
+date:2016-08-20	repo:cpan	file:Bencher-Scenarios-LogAny-0.06.tar.gz	ver:0.06	size:14861
