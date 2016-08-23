@@ -7818,3 +7818,6 @@ date:2016-08-19	repo:cpan	file:Bencher-Scenario-LogAny-0.04.tar.gz	ver:0.04	size
 date:2016-08-20	repo:cpan	file:Bencher-Backend-1.018.tar.gz	ver:1.018	size:49032
 date:2016-08-20	repo:cpan	file:Bencher-1.007.tar.gz	ver:1.007	size:37950
 date:2016-08-20	repo:cpan	file:Bencher-Scenarios-LogAny-0.06.tar.gz	ver:0.06	size:14861
+date:2016-08-23	repo:cpan	file:Perinci-CmdLine-Util-0.11.tar.gz	ver:0.11	size:15381
+date:2016-08-23	repo:cpan	file:JSON-Color-0.12.tar.gz	ver:0.12	size:15410
+date:2016-08-23	repo:cpan	file:lib-filter-0.26.tar.gz	ver:0.26	size:20589
