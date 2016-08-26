@@ -7835,3 +7835,6 @@ date:2016-08-25	repo:cpan	file:Data-Unixish-Perl-0.001.tar.gz	ver:0.001	size:141
 date:2016-08-26	repo:cpan	file:Bencher-Scenario-TextTableModules-0.06.tar.gz	ver:0.06	size:15633
 date:2016-08-26	repo:cpan	file:Data-CSel-WrapStruct-0.001.tar.gz	ver:0.001	size:14649
 date:2016-08-26	repo:cpan	file:Bencher-Scenarios-DataCSelWrapStruct-0.001.tar.gz	ver:0.001	size:13763
+date:2016-08-26	repo:cpan	file:Bencher-Backend-1.021.tar.gz	ver:1.021	size:50456
+date:2016-08-26	repo:cpan	file:Bencher-1.010.tar.gz	ver:1.010	size:33718
+date:2016-08-26	repo:cpan	file:Bencher-Scenarios-DataCSelWrapStruct-0.002.tar.gz	ver:0.002	size:13945
