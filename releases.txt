@@ -7838,3 +7838,11 @@ date:2016-08-26	repo:cpan	file:Bencher-Scenarios-DataCSelWrapStruct-0.001.tar.gz
 date:2016-08-26	repo:cpan	file:Bencher-Backend-1.021.tar.gz	ver:1.021	size:50456
 date:2016-08-26	repo:cpan	file:Bencher-1.010.tar.gz	ver:1.010	size:33718
 date:2016-08-26	repo:cpan	file:Bencher-Scenarios-DataCSelWrapStruct-0.002.tar.gz	ver:0.002	size:13945
+date:2016-08-27	repo:cpan	file:App-htmlsel-0.002.tar.gz	ver:0.002	size:16638
+date:2016-08-27	repo:cpan	file:App-orgsel-0.003.tar.gz	ver:0.003	size:16893
+date:2016-08-27	repo:cpan	file:App-jsonsel-0.001.tar.gz	ver:0.001	size:17040
+date:2016-08-27	repo:cpan	file:App-CSelUtils-0.04.tar.gz	ver:0.04	size:17602
+date:2016-08-27	repo:cpan	file:App-yamlsel-0.001.tar.gz	ver:0.001	size:16886
+date:2016-08-27	repo:cpan	file:App-CSelUtils-0.05.tar.gz	ver:0.05	size:19498
+date:2016-08-29	repo:cpan	file:Bencher-Scenarios-HashPicking-0.001.tar.gz	ver:0.001	size:14778
+date:2016-08-30	repo:cpan	file:App-orgsel-0.004.tar.gz	ver:0.004	size:17116
