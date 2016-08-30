@@ -7846,3 +7846,5 @@ date:2016-08-27	repo:cpan	file:App-yamlsel-0.001.tar.gz	ver:0.001	size:16886
 date:2016-08-27	repo:cpan	file:App-CSelUtils-0.05.tar.gz	ver:0.05	size:19498
 date:2016-08-29	repo:cpan	file:Bencher-Scenarios-HashPicking-0.001.tar.gz	ver:0.001	size:14778
 date:2016-08-30	repo:cpan	file:App-orgsel-0.004.tar.gz	ver:0.004	size:17116
+date:2016-08-30	repo:cpan	file:Test-Perinci-CmdLine-1.41.tar.gz	ver:1.41	size:22625
+date:2016-08-30	repo:cpan	file:Perinci-CmdLine-Lite-1.59.tar.gz	ver:1.59	size:55353
