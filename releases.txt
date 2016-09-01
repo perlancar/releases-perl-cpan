@@ -7851,3 +7851,15 @@ date:2016-08-30	repo:cpan	file:Perinci-CmdLine-Lite-1.59.tar.gz	ver:1.59	size:55
 date:2016-08-31	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AddPrereqs-0.11.tar.gz	ver:0.11	size:15791
 date:2016-08-31	repo:cpan	file:App-VersionUtils-0.003.tar.gz	ver:0.003	size:16681
 date:2016-08-31	repo:cpan	file:Sys-LoopDevice-0.001.tar.gz	ver:0.001	size:14994
+date:2016-09-01	repo:cpan	file:App-VersionUtils-0.004.tar.gz	ver:0.004	size:16879
+date:2016-09-01	repo:cpan	file:App-jsonsel-0.002.tar.gz	ver:0.002	size:16952
+date:2016-09-01	repo:cpan	file:App-yamlsel-0.002.tar.gz	ver:0.002	size:16825
+date:2016-09-01	repo:cpan	file:App-CSelUtils-0.06.tar.gz	ver:0.06	size:18534
+date:2016-09-01	repo:cpan	file:App-orgsel-0.005.tar.gz	ver:0.005	size:16972
+date:2016-09-01	repo:cpan	file:App-orgsel-0.006.tar.gz	ver:0.006	size:16991
+date:2016-09-01	repo:cpan	file:App-CSelUtils-0.07.tar.gz	ver:0.07	size:18565
+date:2016-09-01	repo:cpan	file:App-jsonsel-0.003.tar.gz	ver:0.003	size:16979
+date:2016-09-01	repo:cpan	file:App-yamlsel-0.003.tar.gz	ver:0.003	size:16859
+date:2016-09-01	repo:cpan	file:CSel-Examples-0.001.tar.gz	ver:0.001	size:13125
+date:2016-09-01	repo:cpan	file:Data-CSel-0.09.tar.gz	ver:0.09	size:30551
+date:2016-09-01	repo:cpan	file:Data-CSel-WrapStruct-0.002.tar.gz	ver:0.002	size:14879
