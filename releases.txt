@@ -7863,3 +7863,10 @@ date:2016-09-01	repo:cpan	file:App-yamlsel-0.003.tar.gz	ver:0.003	size:16859
 date:2016-09-01	repo:cpan	file:CSel-Examples-0.001.tar.gz	ver:0.001	size:13125
 date:2016-09-01	repo:cpan	file:Data-CSel-0.09.tar.gz	ver:0.09	size:30551
 date:2016-09-01	repo:cpan	file:Data-CSel-WrapStruct-0.002.tar.gz	ver:0.002	size:14879
+date:2016-09-03	repo:cpan	file:Bencher-Scenario-HashBuilding-0.001.tar.gz	ver:0.001	size:13464
+date:2016-09-03	repo:cpan	file:Bencher-Scenario-ArrayVsHashBuilding-0.001.tar.gz	ver:0.001	size:13533
+date:2016-09-03	repo:cpan	file:Bencher-Scenarios-JSONDecodeRegexp-0.001.tar.gz	ver:0.001	size:15476
+date:2016-09-03	repo:cpan	file:Text-Table-Any-0.02.tar.gz	ver:0.02	size:14895
+date:2016-09-03	repo:cpan	file:App-TextTableUtils-0.001.tar.gz	ver:0.001	size:16881
+date:2016-09-03	repo:cpan	file:Text-Table-Any-0.03.tar.gz	ver:0.03	size:15093
+date:2016-09-03	repo:cpan	file:App-TextTableUtils-0.002.tar.gz	ver:0.002	size:16527
