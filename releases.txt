@@ -7885,3 +7885,4 @@ date:2016-09-09	repo:cpan	file:Bencher-Scenarios-Accessors-0.10.tar.gz	ver:0.10	
 date:2016-09-09	repo:cpan	file:Bencher-Backend-1.022.tar.gz	ver:1.022	size:50993
 date:2016-09-09	repo:cpan	file:Bencher-Backend-1.023.tar.gz	ver:1.023	size:51104
 date:2016-09-09	repo:cpan	file:Bencher-1.011.tar.gz	ver:1.011	size:34081
+date:2016-09-10	repo:cpan	file:Data-CSel-0.10.tar.gz	ver:0.10	size:31012
