@@ -7886,3 +7886,6 @@ date:2016-09-09	repo:cpan	file:Bencher-Backend-1.022.tar.gz	ver:1.022	size:50993
 date:2016-09-09	repo:cpan	file:Bencher-Backend-1.023.tar.gz	ver:1.023	size:51104
 date:2016-09-09	repo:cpan	file:Bencher-1.011.tar.gz	ver:1.011	size:34081
 date:2016-09-10	repo:cpan	file:Data-CSel-0.10.tar.gz	ver:0.10	size:31012
+date:2016-09-12	repo:cpan	file:Regexp-Pattern-YouTube-0.001.tar.gz	ver:0.001	size:12461
+date:2016-09-12	repo:cpan	file:Dist-Zilla-Plugin-InsertBlock-0.09.tar.gz	ver:0.09	size:15117
+date:2016-09-12	repo:cpan	file:Regexp-Pattern-0.1.0.tar.gz	ver:0.1.0	size:15562
