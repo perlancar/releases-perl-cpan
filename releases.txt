@@ -7902,3 +7902,10 @@ date:2016-09-14	repo:cpan	file:App-GetoptLongUtils-0.001.tar.gz	ver:0.001	size:1
 date:2016-09-14	repo:cpan	file:Builtin-Logged-0.15.tar.gz	ver:0.15	size:15026
 date:2016-09-14	repo:cpan	file:Regexp-Pattern-0.1.2.tar.gz	ver:0.1.2	size:15819
 date:2016-09-14	repo:cpan	file:App-GetoptLongUtils-0.002.tar.gz	ver:0.002	size:13910
+date:2016-09-14	repo:cpan	file:Bencher-Scenarios-RegexpPattern-0.002.tar.gz	ver:0.002	size:13670
+date:2016-09-14	repo:cpan	file:Bencher-Scenarios-RegexpCommonVsRegexpPattern-0.002.tar.gz	ver:0.002	size:13694
+date:2016-09-14	repo:cpan	file:Data-Sah-0.87.tar.gz	ver:0.87	size:109775
+date:2016-09-14	repo:cpan	file:Data-Sah-JS-0.87.tar.gz	ver:0.87	size:28982
+date:2016-09-15	repo:cpan	file:Array-Set-0.03.tar.gz	ver:0.03	size:15145
+date:2016-09-15	repo:cpan	file:Bencher-Scenarios-ArraySet-0.001.tar.gz	ver:0.001	size:15905
+date:2016-09-15	repo:cpan	file:Array-Set-0.04.tar.gz	ver:0.04	size:15172
