@@ -7902,3 +7902,5 @@ date:2016-09-14	repo:cpan	file:App-GetoptLongUtils-0.001.tar.gz	ver:0.001	size:1
 date:2016-09-14	repo:cpan	file:Builtin-Logged-0.15.tar.gz	ver:0.15	size:15026
 date:2016-09-14	repo:cpan	file:Regexp-Pattern-0.1.2.tar.gz	ver:0.1.2	size:15819
 date:2016-09-14	repo:cpan	file:App-GetoptLongUtils-0.002.tar.gz	ver:0.002	size:13910
+date:2016-09-16	repo:cpan	file:Array-Set-0.05.tar.gz	ver:0.05	size:15709
+date:2016-09-16	repo:cpan	file:Bencher-Scenarios-ArraySet-0.002.tar.gz	ver:0.002	size:18985
