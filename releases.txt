@@ -7808,6 +7808,8 @@ date:2016-08-11	repo:cpan	file:App-lcpan-1.002.tar.gz	ver:1.002	size:94906
 date:2016-08-11	repo:cpan	file:Module-Depakable-0.007.tar.gz	ver:0.007	size:15033
 date:2016-08-11	repo:cpan	file:Perinci-CmdLine-Util-0.10.tar.gz	ver:0.10	size:15329
 date:2016-08-11	repo:cpan	file:App-IndonesianBankingUtils-0.07.tar.gz	ver:0.07	size:5578539
+date:2016-08-13	repo:cpan	file:Bencher-Scenarios-IPManipulation-0.001.tar.gz	ver:0.001	size:14464
+date:2016-08-13	repo:cpan	file:Sah-Schemas-Net-0.001.tar.gz	ver:0.001	size:14450
 date:2016-08-15	repo:cpan	file:App-datecalc-0.07.tar.gz	ver:0.07	size:21834
 date:2016-08-18	repo:cpan	file:App-lcpan-1.003.tar.gz	ver:1.003	size:94533
 date:2016-08-18	repo:cpan	file:Perinci-Access-Schemeless-Hash-0.003.tar.gz	ver:0.003	size:16452
@@ -7902,10 +7904,6 @@ date:2016-09-14	repo:cpan	file:App-GetoptLongUtils-0.001.tar.gz	ver:0.001	size:1
 date:2016-09-14	repo:cpan	file:Builtin-Logged-0.15.tar.gz	ver:0.15	size:15026
 date:2016-09-14	repo:cpan	file:Regexp-Pattern-0.1.2.tar.gz	ver:0.1.2	size:15819
 date:2016-09-14	repo:cpan	file:App-GetoptLongUtils-0.002.tar.gz	ver:0.002	size:13910
-<<<<<<< HEAD
-date:2016-09-16	repo:cpan	file:Array-Set-0.05.tar.gz	ver:0.05	size:15709
-date:2016-09-16	repo:cpan	file:Bencher-Scenarios-ArraySet-0.002.tar.gz	ver:0.002	size:18985
-=======
 date:2016-09-14	repo:cpan	file:Bencher-Scenarios-RegexpPattern-0.002.tar.gz	ver:0.002	size:13670
 date:2016-09-14	repo:cpan	file:Bencher-Scenarios-RegexpCommonVsRegexpPattern-0.002.tar.gz	ver:0.002	size:13694
 date:2016-09-14	repo:cpan	file:Data-Sah-0.87.tar.gz	ver:0.87	size:109775
@@ -7913,4 +7911,32 @@ date:2016-09-14	repo:cpan	file:Data-Sah-JS-0.87.tar.gz	ver:0.87	size:28982
 date:2016-09-15	repo:cpan	file:Array-Set-0.03.tar.gz	ver:0.03	size:15145
 date:2016-09-15	repo:cpan	file:Bencher-Scenarios-ArraySet-0.001.tar.gz	ver:0.001	size:15905
 date:2016-09-15	repo:cpan	file:Array-Set-0.04.tar.gz	ver:0.04	size:15172
->>>>>>> 962923db36522bd57552f70585dd8373a0c45d78
+date:2016-09-16	repo:cpan	file:Array-Set-0.05.tar.gz	ver:0.05	size:15709
+date:2016-09-16	repo:cpan	file:Bencher-Scenarios-ArraySet-0.002.tar.gz	ver:0.002	size:18985
+date:2016-09-23	repo:cpan	file:Bencher-Scenario-MathPrimeModules-0.001.tar.gz	ver:0.001	size:14639
+date:2016-09-23	repo:cpan	file:Acme-PERLANCAR-Prime-0.001.tar.gz	ver:0.001	size:13715
+date:2016-09-25	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.20.tar.gz	ver:0.20	size:19769
+date:2016-09-25	repo:cpan	file:App-wordlist-0.25.tar.gz	ver:0.25	size:107092
+date:2016-09-25	repo:cpan	file:PERLANCAR-Permute-Named-0.03.tar.gz	ver:0.03	size:14609
+date:2016-09-25	repo:cpan	file:Permute-Named-Iter-0.03.tar.gz	ver:0.03	size:15007
+date:2016-09-25	repo:cpan	file:App-CrossPericmd-0.001.tar.gz	ver:0.001	size:17701
+date:2016-09-25	repo:cpan	file:Perinci-CmdLine-Gen-0.33.tar.gz	ver:0.33	size:24436
+date:2016-09-25	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.32.tar.gz	ver:0.32	size:19291
+date:2016-09-25	repo:cpan	file:Data-Sah-Coerce-0.019.tar.gz	ver:0.019	size:31078
+date:2016-09-25	repo:cpan	file:Config-IOD-Reader-0.25.tar.gz	ver:0.25	size:24939
+date:2016-09-25	repo:cpan	file:Perinci-Sub-ConvertArgs-Argv-0.09.tar.gz	ver:0.09	size:16468
+date:2016-09-25	repo:cpan	file:Perinci-Access-Lite-0.14.tar.gz	ver:0.14	size:17860
+date:2016-09-25	repo:cpan	file:App-lcpan-1.006.tar.gz	ver:1.006	size:98018
+date:2016-09-25	repo:cpan	file:App-PermuteNamed-0.001.tar.gz	ver:0.001	size:17996
+date:2016-09-25	repo:cpan	file:Perinci-CmdLine-Lite-1.60.tar.gz	ver:1.60	size:56724
+date:2016-09-26	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.25.tar.gz	ver:0.25	size:21197
+date:2016-09-26	repo:cpan	file:PERLANCAR-ShellQuote-Any-0.001.tar.gz	ver:0.001	size:13760
+date:2016-09-26	repo:cpan	file:Bencher-Scenario-ShellQuoteAny-0.001.tar.gz	ver:0.001	size:14518
+date:2016-09-26	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.63.tar.gz	ver:0.63	size:25940
+date:2016-09-26	repo:cpan	file:Perinci-To-Doc-0.79.tar.gz	ver:0.79	size:36434
+date:2016-09-26	repo:cpan	file:App-CrossPericmd-0.002.tar.gz	ver:0.002	size:18235
+date:2016-09-26	repo:cpan	file:App-PermuteNamed-0.002.tar.gz	ver:0.002	size:18313
+date:2016-09-26	repo:cpan	file:App-setop-0.11.tar.gz	ver:0.11	size:18291
+date:2016-09-26	repo:cpan	file:Permute-Named-Iter-0.04.tar.gz	ver:0.04	size:15044
+date:2016-09-26	repo:cpan	file:Markdown-To-POD-0.05.tar.gz	ver:0.05	size:32816
+date:2016-09-26	repo:cpan	file:App-depakable-0.002.tar.gz	ver:0.002	size:17252
