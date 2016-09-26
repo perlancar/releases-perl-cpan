@@ -7938,3 +7938,4 @@ date:2016-09-26	repo:cpan	file:App-setop-0.11.tar.gz	ver:0.11	size:18291
 date:2016-09-26	repo:cpan	file:Permute-Named-Iter-0.04.tar.gz	ver:0.04	size:15044
 date:2016-09-26	repo:cpan	file:Markdown-To-POD-0.05.tar.gz	ver:0.05	size:32816
 date:2016-09-26	repo:cpan	file:App-depakable-0.002.tar.gz	ver:0.002	size:17252
+date:2016-09-26	repo:cpan	file:Perinci-CmdLine-Help-0.10.tar.gz	ver:0.10	size:16412
