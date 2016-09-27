@@ -7940,3 +7940,14 @@ date:2016-09-26	repo:cpan	file:App-setop-0.11.tar.gz	ver:0.11	size:18291
 date:2016-09-26	repo:cpan	file:Permute-Named-Iter-0.04.tar.gz	ver:0.04	size:15044
 date:2016-09-26	repo:cpan	file:Markdown-To-POD-0.05.tar.gz	ver:0.05	size:32816
 date:2016-09-26	repo:cpan	file:App-depakable-0.002.tar.gz	ver:0.002	size:17252
+date:2016-09-27	repo:cpan	file:App-rimetadb-0.17.tar.gz	ver:0.17	size:24773
+date:2016-09-27	repo:cpan	file:App-rimetadb-0.18.tar.gz	ver:0.18	size:25442
+date:2016-09-27	repo:cpan	file:App-LintPrereqs-0.46.tar.gz	ver:0.46	size:25763
+date:2016-09-27	repo:cpan	file:Markdown-To-POD-0.06.tar.gz	ver:0.06	size:31976
+date:2016-09-27	repo:cpan	file:Perinci-To-Doc-0.80.tar.gz	ver:0.80	size:36157
+date:2016-09-27	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.64.tar.gz	ver:0.64	size:25166
+date:2016-09-27	repo:cpan	file:PERLANCAR-ShellQuote-Any-0.002.tar.gz	ver:0.002	size:13207
+date:2016-09-27	repo:cpan	file:Bencher-Scenario-ShellQuoteAny-0.002.tar.gz	ver:0.002	size:13866
+date:2016-09-27	repo:cpan	file:Complete-Getopt-Long-0.42.tar.gz	ver:0.42	size:24477
+date:2016-09-27	repo:cpan	file:Complete-Util-0.49.tar.gz	ver:0.49	size:23320
+date:2016-09-27	repo:cpan	file:Complete-Bash-0.28.tar.gz	ver:0.28	size:25323
