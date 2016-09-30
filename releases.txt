@@ -7959,3 +7959,14 @@ date:2016-09-28	repo:cpan	file:Perinci-CmdLine-Lite-1.61.tar.gz	ver:1.61	size:56
 date:2016-09-28	repo:cpan	file:App-PrimesPericmd-0.001.tar.gz	ver:0.001	size:17062
 date:2016-09-28	repo:cpan	file:Perinci-CmdLine-Help-0.11.tar.gz	ver:0.11	size:15773
 date:2016-09-28	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.66.tar.gz	ver:0.66	size:25559
+date:2016-09-29	repo:cpan	file:App-CdUtils-0.001.tar.gz	ver:0.001	size:14444
+date:2016-09-29	repo:cpan	file:Perinci-Sub-Util-DepModule-0.001.tar.gz	ver:0.001	size:13458
+date:2016-09-29	repo:cpan	file:Dist-Zilla-Plugin-Rinci-AddPrereqs-0.12.tar.gz	ver:0.12	size:15820
+date:2016-09-29	repo:cpan	file:Data-Sah-Coerce-0.020.tar.gz	ver:0.020	size:29429
+date:2016-09-29	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-CheckCircular-0.001.tar.gz	ver:0.001	size:13627
+date:2016-09-29	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.53.tar.gz	ver:0.53	size:16882
+date:2016-09-29	repo:cpan	file:Bencher-Scenarios-Accessors-0.11.tar.gz	ver:0.11	size:18369
+date:2016-09-29	repo:cpan	file:Perl-Examples-Accessors-0.09.tar.gz	ver:0.09	size:15078
+date:2016-09-29	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-CheckCircular-0.002.tar.gz	ver:0.002	size:13744
+date:2016-09-29	repo:cpan	file:App-CdUtils-0.002.tar.gz	ver:0.002	size:14547
+date:2016-09-30	repo:cpan	file:App-CdUtils-0.003.tar.gz	ver:0.003	size:14612
