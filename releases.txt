@@ -7977,3 +7977,9 @@ date:2016-10-01	repo:cpan	file:App-genlines-0.002.tar.gz	ver:0.002	size:14912
 date:2016-10-01	repo:cpan	file:App-linespeed-0.001.tar.gz	ver:0.001	size:14855
 date:2016-10-01	repo:cpan	file:App-numspeed-0.001.tar.gz	ver:0.001	size:14999
 date:2016-10-01	repo:cpan	file:App-AcmeCpanauthors-0.001.tar.gz	ver:0.001	size:101831
+date:2016-10-01	repo:cpan	file:App-genlines-0.003.tar.gz	ver:0.003	size:16325
+date:2016-10-01	repo:cpan	file:App-AcmeCpanauthors-0.002.tar.gz	ver:0.002	size:213948
+date:2016-10-02	repo:cpan	file:Org-Parser-0.50.tar.gz	ver:0.50	size:58591
+date:2016-10-02	repo:cpan	file:Bencher-Scenario-RandomUserAgentModules-0.001.tar.gz	ver:0.001	size:14216
+date:2016-10-02	repo:cpan	file:Log-Dispatch-FileWriteRotate-0.05.tar.gz	ver:0.05	size:14468
+date:2016-10-02	repo:cpan	file:Log-Any-Adapter-FileWriteRotate-0.001.tar.gz	ver:0.001	size:14104
