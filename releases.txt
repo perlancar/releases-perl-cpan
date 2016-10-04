@@ -7983,3 +7983,5 @@ date:2016-10-02	repo:cpan	file:Org-Parser-0.50.tar.gz	ver:0.50	size:58591
 date:2016-10-02	repo:cpan	file:Bencher-Scenario-RandomUserAgentModules-0.001.tar.gz	ver:0.001	size:14216
 date:2016-10-02	repo:cpan	file:Log-Dispatch-FileWriteRotate-0.05.tar.gz	ver:0.05	size:14468
 date:2016-10-02	repo:cpan	file:Log-Any-Adapter-FileWriteRotate-0.001.tar.gz	ver:0.001	size:14104
+date:2016-10-04	repo:cpan	file:Color-ANSI-Util-0.15.tar.gz	ver:0.15	size:18495
+date:2016-10-04	repo:cpan	file:Log-Any-Adapter-Screen-0.13.tar.gz	ver:0.13	size:16592
