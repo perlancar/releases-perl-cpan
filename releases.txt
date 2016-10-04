@@ -7985,3 +7985,7 @@ date:2016-10-02	repo:cpan	file:Log-Dispatch-FileWriteRotate-0.05.tar.gz	ver:0.05
 date:2016-10-02	repo:cpan	file:Log-Any-Adapter-FileWriteRotate-0.001.tar.gz	ver:0.001	size:14104
 date:2016-10-04	repo:cpan	file:Color-ANSI-Util-0.15.tar.gz	ver:0.15	size:18495
 date:2016-10-04	repo:cpan	file:Log-Any-Adapter-Screen-0.13.tar.gz	ver:0.13	size:16592
+date:2016-10-04	repo:cpan	file:Bencher-Scenarios-LogDispatchFileRotate-0.001.tar.gz	ver:0.001	size:13774
+date:2016-10-04	repo:cpan	file:Dist-Zilla-Plugin-Bencher-Scenario-0.14.tar.gz	ver:0.14	size:15758
+date:2016-10-04	repo:cpan	file:Bencher-Scenarios-FileWriteRotate-0.001.tar.gz	ver:0.001	size:14569
+date:2016-10-05	repo:cpan	file:Bencher-Scenarios-ColorANSIUtil-0.001.tar.gz	ver:0.001	size:14009
