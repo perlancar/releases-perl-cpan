@@ -8014,3 +8014,4 @@ date:2016-10-07	repo:cpan	file:Pod-Weaver-Plugin-PERLANCAR-SortSections-0.03.tar
 date:2016-10-07	repo:cpan	file:PERLANCAR-File-HomeDir-0.03.tar.gz	ver:0.03	size:13346
 date:2016-10-07	repo:cpan	file:Config-IOD-Reader-0.26.tar.gz	ver:0.26	size:24042
 date:2016-10-07	repo:cpan	file:Config-IOD-Reader-0.27.tar.gz	ver:0.27	size:24138
+date:2016-10-07	repo:cpan	file:Config-IOD-Reader-0.28.tar.gz	ver:0.28	size:24226
