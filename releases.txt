@@ -8120,3 +8120,10 @@ date:2016-10-20	repo:cpan	file:Bencher-Scenario-RegexpIPv4-0.001.tar.gz	ver:0.00
 date:2016-10-20	repo:cpan	file:Complete-Man-0.07.tar.gz	ver:0.07	size:14429
 date:2016-10-20	repo:cpan	file:App-manwrap-pm-0.001.tar.gz	ver:0.001	size:15903
 date:2016-10-20	repo:cpan	file:Bencher-Scenario-RegexpIPv6-0.001.tar.gz	ver:0.001	size:16324
+date:2016-10-20	repo:cpan	file:Bencher-Backend-1.028.tar.gz	ver:1.028	size:54005
+date:2016-10-20	repo:cpan	file:Bencher-BPM-0.002.tar.gz	ver:0.002	size:15990
+date:2016-10-20	repo:cpan	file:Bencher-Tiny-0.003.tar.gz	ver:0.003	size:16035
+date:2016-10-20	repo:cpan	file:Acme-CPANAuthors-CPAN-TopDepended-0.003.tar.gz	ver:0.003	size:15287
+date:2016-10-20	repo:cpan	file:Acme-CPANAuthors-CPAN-TopDepended-ByOthers-0.003.tar.gz	ver:0.003	size:15475
+date:2016-10-20	repo:cpan	file:Acme-MetaSyntactic-christmas-0.001.tar.gz	ver:0.001	size:12851
+date:2016-10-20	repo:cpan	file:WordList-Phrase-SU-Proverb-PeribahasaNet-0.02.tar.gz	ver:0.02	size:27312
