@@ -8120,3 +8120,4 @@ date:2016-10-20	repo:cpan	file:Bencher-Scenario-RegexpIPv4-0.001.tar.gz	ver:0.00
 date:2016-10-20	repo:cpan	file:Complete-Man-0.07.tar.gz	ver:0.07	size:14429
 date:2016-10-20	repo:cpan	file:App-manwrap-pm-0.001.tar.gz	ver:0.001	size:15903
 date:2016-10-20	repo:cpan	file:Bencher-Scenario-RegexpIPv6-0.001.tar.gz	ver:0.001	size:16324
+date:2016-10-20	repo:cpan	file:Acme-CPANAuthors-CPAN-MostScripts-0.001.tar.gz	ver:0.001	size:14319
