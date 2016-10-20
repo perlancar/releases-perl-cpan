@@ -8113,3 +8113,10 @@ date:2016-10-19	repo:cpan	file:Complete-File-0.41.tar.gz	ver:0.41	size:17280
 date:2016-10-20	repo:cpan	file:Shell-Completer-0.001.tar.gz	ver:0.001	size:16913
 date:2016-10-20	repo:cpan	file:Shell-Completer-0.002.tar.gz	ver:0.002	size:14992
 date:2016-10-20	repo:cpan	file:Complete-File-0.42.tar.gz	ver:0.42	size:17396
+date:2016-10-20	repo:cpan	file:Perinci-CmdLine-Gen-0.34.tar.gz	ver:0.34	size:23500
+date:2016-10-20	repo:cpan	file:App-BencherUtils-0.18.tar.gz	ver:0.18	size:24627
+date:2016-10-20	repo:cpan	file:Bencher-BPM-0.001.tar.gz	ver:0.001	size:16046
+date:2016-10-20	repo:cpan	file:Bencher-Scenario-RegexpIPv4-0.001.tar.gz	ver:0.001	size:16322
+date:2016-10-20	repo:cpan	file:Complete-Man-0.07.tar.gz	ver:0.07	size:14429
+date:2016-10-20	repo:cpan	file:App-manwrap-pm-0.001.tar.gz	ver:0.001	size:15903
+date:2016-10-20	repo:cpan	file:Bencher-Scenario-RegexpIPv6-0.001.tar.gz	ver:0.001	size:16324
