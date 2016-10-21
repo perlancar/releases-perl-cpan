@@ -8147,3 +8147,8 @@ date:2016-10-21	repo:cpan	file:Complete-Fish-Gen-FromPerinciCmdLine-0.001.tar.gz
 date:2016-10-21	repo:cpan	file:App-FishCompleteUtils-0.001.tar.gz	ver:0.001	size:16102
 date:2016-10-21	repo:cpan	file:App-shcompgen-0.20.tar.gz	ver:0.20	size:28121
 date:2016-10-21	repo:cpan	file:App-ShellUtils-0.001.tar.gz	ver:0.001	size:13656
+date:2016-10-21	repo:cpan	file:Getopt-Long-Subcommand-Util-0.001.tar.gz	ver:0.001	size:14228
+date:2016-10-21	repo:cpan	file:App-GetoptLongUtils-0.003.tar.gz	ver:0.003	size:16405
+date:2016-10-21	repo:cpan	file:App-ShellCompleter-perlbrew-0.006.tar.gz	ver:0.006	size:23051
+date:2016-10-21	repo:cpan	file:Getopt-Long-Subcommand-Dump-0.001.tar.gz	ver:0.001	size:14999
+date:2016-10-21	repo:cpan	file:App-GetoptLongSubcommandUtils-0.001.tar.gz	ver:0.001	size:15853
