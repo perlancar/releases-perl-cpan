@@ -8152,3 +8152,9 @@ date:2016-10-21	repo:cpan	file:App-GetoptLongUtils-0.003.tar.gz	ver:0.003	size:1
 date:2016-10-21	repo:cpan	file:App-ShellCompleter-perlbrew-0.006.tar.gz	ver:0.006	size:23051
 date:2016-10-21	repo:cpan	file:Getopt-Long-Subcommand-Dump-0.001.tar.gz	ver:0.001	size:14999
 date:2016-10-21	repo:cpan	file:App-GetoptLongSubcommandUtils-0.001.tar.gz	ver:0.001	size:15853
+date:2016-10-22	repo:cpan	file:Complete-Fish-Gen-FromGetoptLong-0.06.tar.gz	ver:0.06	size:14822
+date:2016-10-22	repo:cpan	file:Complete-Zsh-0.03.tar.gz	ver:0.03	size:13653
+date:2016-10-22	repo:cpan	file:Getopt-Long-Complete-0.28.tar.gz	ver:0.28	size:21076
+date:2016-10-22	repo:cpan	file:Complete-Util-0.54.tar.gz	ver:0.54	size:25231
+date:2016-10-22	repo:cpan	file:Dist-Zilla-Plugin-EnsureDepakable-0.003.tar.gz	ver:0.003	size:13557
+date:2016-10-22	repo:cpan	file:Complete-Fish-Gen-FromPerinciCmdLine-0.002.tar.gz	ver:0.002	size:14147
