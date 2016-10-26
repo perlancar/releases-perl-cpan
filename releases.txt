@@ -8182,3 +8182,8 @@ date:2016-10-26	repo:cpan	file:App-ASCIIUtils-0.001.tar.gz	ver:0.001	size:14282
 date:2016-10-26	repo:cpan	file:App-CompleteUtils-0.12.tar.gz	ver:0.12	size:17396
 date:2016-10-26	repo:cpan	file:Games-TabRace-0.001.tar.gz	ver:0.001	size:17007
 date:2016-10-26	repo:cpan	file:Games-TabRace-0.002.tar.gz	ver:0.002	size:17106
+date:2016-10-26	repo:cpan	file:Ubuntu-Releases-0.10.tar.gz	ver:0.10	size:16438
+date:2016-10-26	repo:cpan	file:Games-TabRace-0.003.tar.gz	ver:0.003	size:16927
+date:2016-10-26	repo:cpan	file:Perinci-CmdLine-Lite-1.62.tar.gz	ver:1.62	size:56200
+date:2016-10-26	repo:cpan	file:App-shcompgen-0.27.tar.gz	ver:0.27	size:29425
+date:2016-10-26	repo:cpan	file:Perinci-Examples-0.75.tar.gz	ver:0.75	size:41387
