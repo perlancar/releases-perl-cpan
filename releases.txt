@@ -8218,3 +8218,7 @@ date:2016-10-27	repo:cpan	file:App-BencherUtils-0.19.tar.gz	ver:0.19	size:24680
 date:2016-10-27	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.28.tar.gz	ver:0.28	size:20609
 date:2016-10-27	repo:cpan	file:Perinci-To-Doc-0.81.tar.gz	ver:0.81	size:36257
 date:2016-10-27	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.68.tar.gz	ver:0.68	size:25689
+date:2016-10-28	repo:cpan	file:Complete-Util-0.56.tar.gz	ver:0.56	size:25226
+date:2016-10-28	repo:cpan	file:Complete-Getopt-Long-0.43.tar.gz	ver:0.43	size:24325
+date:2016-10-28	repo:cpan	file:Perinci-Sub-Complete-0.87.tar.gz	ver:0.87	size:29772
+date:2016-10-28	repo:cpan	file:Bencher-Backend-1.030.tar.gz	ver:1.030	size:54532
