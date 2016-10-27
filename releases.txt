@@ -8200,3 +8200,15 @@ date:2016-10-27	repo:cpan	file:App-GetoptLongUtils-0.004.tar.gz	ver:0.004	size:1
 date:2016-10-27	repo:cpan	file:Getopt-Long-Descriptive-Dump-0.001.tar.gz	ver:0.001	size:15127
 date:2016-10-27	repo:cpan	file:Getopt-Long-Descriptive-Util-0.001.tar.gz	ver:0.001	size:14236
 date:2016-10-27	repo:cpan	file:App-GetoptLongDescriptiveUtils-0.001.tar.gz	ver:0.001	size:17064
+date:2016-10-27	repo:cpan	file:App-ManUtils-0.001.tar.gz	ver:0.001	size:17048
+date:2016-10-27	repo:cpan	file:Complete-Fish-Gen-FromGetoptLong-0.07.tar.gz	ver:0.07	size:15044
+date:2016-10-27	repo:cpan	file:Perinci-CmdLine-Dump-0.06.tar.gz	ver:0.06	size:16131
+date:2016-10-27	repo:cpan	file:Complete-Fish-Gen-FromGetoptLong-0.08.tar.gz	ver:0.08	size:15200
+date:2016-10-27	repo:cpan	file:Complete-Fish-Gen-FromPerinciCmdLine-0.003.tar.gz	ver:0.003	size:14613
+date:2016-10-27	repo:cpan	file:Getopt-Long-Descriptive-Util-0.002.tar.gz	ver:0.002	size:14288
+date:2016-10-27	repo:cpan	file:Complete-Fish-Gen-FromGetoptLong-0.09.tar.gz	ver:0.09	size:15228
+date:2016-10-27	repo:cpan	file:Complete-Fish-Gen-FromGetoptLongDescriptive-0.001.tar.gz	ver:0.001	size:14331
+date:2016-10-27	repo:cpan	file:Complete-Zsh-Gen-FromGetoptLong-0.001.tar.gz	ver:0.001	size:15084
+date:2016-10-27	repo:cpan	file:Complete-Zsh-Gen-FromGetoptLongDescriptive-0.001.tar.gz	ver:0.001	size:14285
+date:2016-10-27	repo:cpan	file:Complete-Zsh-Gen-FromPerinciCmdLine-0.001.tar.gz	ver:0.001	size:14517
+date:2016-10-27	repo:cpan	file:App-ZshCompleteUtils-0.001.tar.gz	ver:0.001	size:16817
