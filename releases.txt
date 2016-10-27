@@ -8191,3 +8191,12 @@ date:2016-10-27	repo:cpan	file:Getopt-Long-Dump-0.09.tar.gz	ver:0.09	size:16233
 date:2016-10-27	repo:cpan	file:Getopt-Long-Dump-0.10.tar.gz	ver:0.10	size:15645
 date:2016-10-27	repo:cpan	file:Getopt-Long-Subcommand-Dump-0.003.tar.gz	ver:0.003	size:15276
 date:2016-10-27	repo:cpan	file:Getopt-Long-Util-0.87.tar.gz	ver:0.87	size:17497
+date:2016-10-27	repo:cpan	file:Getopt-Long-Subcommand-Util-0.002.tar.gz	ver:0.002	size:14247
+date:2016-10-27	repo:cpan	file:Perinci-CmdLine-Lite-1.63.tar.gz	ver:1.63	size:56506
+date:2016-10-27	repo:cpan	file:Perinci-CmdLine-Gen-0.35.tar.gz	ver:0.35	size:23636
+date:2016-10-27	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.33.tar.gz	ver:0.33	size:19688
+date:2016-10-27	repo:cpan	file:App-GetoptLongSubcommandUtils-0.002.tar.gz	ver:0.002	size:17096
+date:2016-10-27	repo:cpan	file:App-GetoptLongUtils-0.004.tar.gz	ver:0.004	size:17549
+date:2016-10-27	repo:cpan	file:Getopt-Long-Descriptive-Dump-0.001.tar.gz	ver:0.001	size:15127
+date:2016-10-27	repo:cpan	file:Getopt-Long-Descriptive-Util-0.001.tar.gz	ver:0.001	size:14236
+date:2016-10-27	repo:cpan	file:App-GetoptLongDescriptiveUtils-0.001.tar.gz	ver:0.001	size:17064
