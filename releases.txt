@@ -8212,3 +8212,9 @@ date:2016-10-27	repo:cpan	file:Complete-Zsh-Gen-FromGetoptLong-0.001.tar.gz	ver:
 date:2016-10-27	repo:cpan	file:Complete-Zsh-Gen-FromGetoptLongDescriptive-0.001.tar.gz	ver:0.001	size:14285
 date:2016-10-27	repo:cpan	file:Complete-Zsh-Gen-FromPerinciCmdLine-0.001.tar.gz	ver:0.001	size:14517
 date:2016-10-27	repo:cpan	file:App-ZshCompleteUtils-0.001.tar.gz	ver:0.001	size:16817
+date:2016-10-27	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.75.tar.gz	ver:0.75	size:35105
+date:2016-10-27	repo:cpan	file:Bencher-Backend-1.029.tar.gz	ver:1.029	size:54145
+date:2016-10-27	repo:cpan	file:App-BencherUtils-0.19.tar.gz	ver:0.19	size:24680
+date:2016-10-27	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.28.tar.gz	ver:0.28	size:20609
+date:2016-10-27	repo:cpan	file:Perinci-To-Doc-0.81.tar.gz	ver:0.81	size:36257
+date:2016-10-27	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.68.tar.gz	ver:0.68	size:25689
