@@ -8242,3 +8242,6 @@ date:2016-10-30	repo:cpan	file:App-GetoptLongUtils-0.005.tar.gz	ver:0.005	size:1
 date:2016-10-30	repo:cpan	file:App-GetoptStdUtils-0.001.tar.gz	ver:0.001	size:17013
 date:2016-10-30	repo:cpan	file:Complete-Util-0.57.tar.gz	ver:0.57	size:26341
 date:2016-11-01	repo:cpan	file:App-lcpan-1.012.tar.gz	ver:1.012	size:97544
+date:2016-11-01	repo:cpan	file:App-CLITestUtils-0.002.tar.gz	ver:0.002	size:14306
+date:2016-11-01	repo:cpan	file:App-CSVUtils-0.001.tar.gz	ver:0.001	size:16537
+date:2016-11-02	repo:cpan	file:App-CSVUtils-0.002.tar.gz	ver:0.002	size:20516
