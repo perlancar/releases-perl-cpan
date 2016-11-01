@@ -8245,3 +8245,4 @@ date:2016-11-01	repo:cpan	file:App-lcpan-1.012.tar.gz	ver:1.012	size:97544
 date:2016-11-01	repo:cpan	file:App-CLITestUtils-0.002.tar.gz	ver:0.002	size:14306
 date:2016-11-01	repo:cpan	file:App-CSVUtils-0.001.tar.gz	ver:0.001	size:16537
 date:2016-11-02	repo:cpan	file:App-CSVUtils-0.002.tar.gz	ver:0.002	size:20516
+date:2016-11-02	repo:cpan	file:App-cpanm-script-0.001.tar.gz	ver:0.001	size:13935
