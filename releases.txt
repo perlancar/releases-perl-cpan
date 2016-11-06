@@ -8250,3 +8250,16 @@ date:2016-11-02	repo:cpan	file:App-CSVUtils-0.003.tar.gz	ver:0.003	size:22516
 date:2016-11-03	repo:cpan	file:App-CSVUtils-0.004.tar.gz	ver:0.004	size:23444
 date:2016-11-03	repo:cpan	file:App-CSVUtils-0.005.tar.gz	ver:0.005	size:21999
 date:2016-11-03	repo:cpan	file:App-shcompgen-0.29.tar.gz	ver:0.29	size:31107
+date:2016-11-04	repo:cpan	file:Complete-Getopt-Long-0.44.tar.gz	ver:0.44	size:25629
+date:2016-11-04	repo:cpan	file:Acme-MetaSyntactic-display_resolution-0.002.tar.gz	ver:0.002	size:13028
+date:2016-11-04	repo:cpan	file:App-CompleteUtils-0.13.tar.gz	ver:0.13	size:18352
+date:2016-11-04	repo:cpan	file:App-ShellCompleter-meta-0.001.tar.gz	ver:0.001	size:14244
+date:2016-11-04	repo:cpan	file:App-ShellCompleter-meta-0.002.tar.gz	ver:0.002	size:14358
+date:2016-11-04	repo:cpan	file:App-CSVUtils-0.006.tar.gz	ver:0.006	size:23736
+date:2016-11-04	repo:cpan	file:JSON-Decode-Regexp-0.09.tar.gz	ver:0.09	size:16381
+date:2016-11-05	repo:cpan	file:Bencher-Scenarios-JSONDecodeRegexp-0.002.tar.gz	ver:0.002	size:34101
+date:2016-11-05	repo:cpan	file:Complete-Getopt-Long-0.45.tar.gz	ver:0.45	size:25872
+date:2016-11-06	repo:cpan	file:App-OrgUtils-0.44.tar.gz	ver:0.44	size:42505
+date:2016-11-06	repo:cpan	file:Org-Parser-0.51.tar.gz	ver:0.51	size:59154
+date:2016-11-06	repo:cpan	file:App-OrgUtils-0.44.tar.gz	ver:0.44	size:42500
+date:2016-11-06	repo:cpan	file:Org-To-HTML-0.17.tar.gz	ver:0.17	size:26012
