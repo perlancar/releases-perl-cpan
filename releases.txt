@@ -8263,3 +8263,12 @@ date:2016-11-06	repo:cpan	file:App-OrgUtils-0.44.tar.gz	ver:0.44	size:42505
 date:2016-11-06	repo:cpan	file:Org-Parser-0.51.tar.gz	ver:0.51	size:59154
 date:2016-11-06	repo:cpan	file:App-OrgUtils-0.44.tar.gz	ver:0.44	size:42500
 date:2016-11-06	repo:cpan	file:Org-To-HTML-0.17.tar.gz	ver:0.17	size:26012
+date:2016-11-06	repo:cpan	file:Org-Parser-0.52.tar.gz	ver:0.52	size:59017
+date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2015-0.001.tar.gz	ver:0.001	size:17053
+date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2014-0.001.tar.gz	ver:0.001	size:18028
+date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2013-0.001.tar.gz	ver:0.001	size:16148
+date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2013-0.002.tar.gz	ver:0.002	size:17524
+date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2012-0.001.tar.gz	ver:0.001	size:17565
+date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2011-0.001.tar.gz	ver:0.001	size:17433
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2010-0.001.tar.gz	ver:0.001	size:16124
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-0.90.3.tar.gz	ver:0.90.3	size:15822
