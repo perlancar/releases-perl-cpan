@@ -8272,3 +8272,17 @@ date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2012-0.001.tar.g
 date:2016-11-06	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2011-0.001.tar.gz	ver:0.001	size:17433
 date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2010-0.001.tar.gz	ver:0.001	size:16124
 date:2016-11-07	repo:cpan	file:Acme-CPANLists-0.90.3.tar.gz	ver:0.90.3	size:15822
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2009-0.001.tar.gz	ver:0.001	size:14240
+date:2016-11-07	repo:cpan	file:App-CreateAcmeCPANListsImportModules-0.05.tar.gz	ver:0.05	size:15544
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2008-0.001.tar.gz	ver:0.001	size:15203
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2007-0.001.tar.gz	ver:0.001	size:14883
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2006-0.001.tar.gz	ver:0.001	size:16321
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2005-0.001.tar.gz	ver:0.001	size:17191
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2004-0.001.tar.gz	ver:0.001	size:15747
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2003-0.001.tar.gz	ver:0.001	size:15709
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2002-0.001.tar.gz	ver:0.001	size:15745
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2001-0.001.tar.gz	ver:0.001	size:15801
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2000-0.001.tar.gz	ver:0.001	size:15452
+date:2016-11-07	repo:cpan	file:CPAN-Info-FromURL-0.07.tar.gz	ver:0.07	size:17214
+date:2016-11-07	repo:cpan	file:App-PMUtils-0.63.tar.gz	ver:0.63	size:38975
+date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PERLANCAR-Advent-2014-0.001.tar.gz	ver:0.001	size:17365
