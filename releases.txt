@@ -8287,3 +8287,8 @@ date:2016-11-07	repo:cpan	file:CPAN-Info-FromURL-0.07.tar.gz	ver:0.07	size:17214
 date:2016-11-07	repo:cpan	file:App-PMUtils-0.63.tar.gz	ver:0.63	size:38975
 date:2016-11-07	repo:cpan	file:Acme-CPANLists-Import-PERLANCAR-Advent-2014-0.001.tar.gz	ver:0.001	size:17365
 date:2016-11-13	repo:cpan	file:Bencher-Scenario-SortKeyTop-0.001.tar.gz	ver:0.001	size:16951
+date:2016-11-14	repo:cpan	file:App-wp-xmlrpc-0.001.tar.gz	ver:0.001	size:20534
+date:2016-11-14	repo:cpan	file:Org-To-HTML-0.18.tar.gz	ver:0.18	size:24314
+date:2016-11-14	repo:cpan	file:Org-To-HTML-WordPress-0.001.tar.gz	ver:0.001	size:17344
+date:2016-11-14	repo:cpan	file:App-org2wp-0.001.tar.gz	ver:0.001	size:18967
+date:2016-11-14	repo:cpan	file:Org-To-HTML-0.19.tar.gz	ver:0.19	size:24441
