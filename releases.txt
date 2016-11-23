@@ -8319,3 +8319,5 @@ date:2016-11-23	repo:cpan	file:File-Digest-0.004.tar.gz	ver:0.004	size:16770
 date:2016-11-23	repo:cpan	file:Parse-Sums-0.001.tar.gz	ver:0.001	size:15406
 date:2016-11-23	repo:cpan	file:File-Digest-0.005.tar.gz	ver:0.005	size:16860
 date:2016-11-23	repo:cpan	file:App-xsum-0.001.tar.gz	ver:0.001	size:18621
+date:2016-11-23	repo:cpan	file:Bencher-Scenarios-LogAny-0.07.tar.gz	ver:0.07	size:24725
+date:2016-11-23	repo:cpan	file:Bencher-Backend-1.031.tar.gz	ver:1.031	size:55734
