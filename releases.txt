@@ -8321,3 +8321,13 @@ date:2016-11-23	repo:cpan	file:File-Digest-0.005.tar.gz	ver:0.005	size:16860
 date:2016-11-23	repo:cpan	file:App-xsum-0.001.tar.gz	ver:0.001	size:18621
 date:2016-11-23	repo:cpan	file:Bencher-Scenarios-LogAny-0.07.tar.gz	ver:0.07	size:24725
 date:2016-11-23	repo:cpan	file:Bencher-Backend-1.031.tar.gz	ver:1.031	size:55734
+date:2016-11-23	repo:cpan	file:File-Digest-0.006.tar.gz	ver:0.006	size:16106
+date:2016-11-23	repo:cpan	file:Tree-ToText-0.05.tar.gz	ver:0.05	size:15887
+date:2016-11-23	repo:cpan	file:Tree-Dump-0.05.tar.gz	ver:0.05	size:14890
+date:2016-11-23	repo:cpan	file:Role-TinyCommons-Tree-0.11.tar.gz	ver:0.11	size:25063
+date:2016-11-23	repo:cpan	file:Data-CSel-0.11.tar.gz	ver:0.11	size:32511
+date:2016-11-25	repo:cpan	file:App-LintPrereqs-0.47.tar.gz	ver:0.47	size:27804
+date:2016-11-25	repo:cpan	file:Bencher-Scenarios-Accessors-0.12.tar.gz	ver:0.12	size:35387
+date:2016-11-25	repo:cpan	file:Perl-Examples-Accessors-0.10.tar.gz	ver:0.10	size:16012
+date:2016-11-26	repo:cpan	file:Perl-Examples-Accessors-0.11.tar.gz	ver:0.11	size:16228
+date:2016-11-26	repo:cpan	file:Bencher-Scenarios-Accessors-0.13.tar.gz	ver:0.13	size:35140
