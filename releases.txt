@@ -8331,3 +8331,4 @@ date:2016-11-25	repo:cpan	file:Bencher-Scenarios-Accessors-0.12.tar.gz	ver:0.12	
 date:2016-11-25	repo:cpan	file:Perl-Examples-Accessors-0.10.tar.gz	ver:0.10	size:16012
 date:2016-11-26	repo:cpan	file:Perl-Examples-Accessors-0.11.tar.gz	ver:0.11	size:16228
 date:2016-11-26	repo:cpan	file:Bencher-Scenarios-Accessors-0.13.tar.gz	ver:0.13	size:35140
+date:2016-11-26	repo:cpan	file:Perl-Examples-Accessors-0.12.tar.gz	ver:0.12	size:16285
