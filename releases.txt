@@ -8332,3 +8332,7 @@ date:2016-11-25	repo:cpan	file:Perl-Examples-Accessors-0.10.tar.gz	ver:0.10	size
 date:2016-11-26	repo:cpan	file:Perl-Examples-Accessors-0.11.tar.gz	ver:0.11	size:16228
 date:2016-11-26	repo:cpan	file:Bencher-Scenarios-Accessors-0.13.tar.gz	ver:0.13	size:35140
 date:2016-11-26	repo:cpan	file:Perl-Examples-Accessors-0.12.tar.gz	ver:0.12	size:16285
+date:2016-11-27	repo:cpan	file:App-pmpatcher-0.04.tar.gz	ver:0.04	size:20675
+date:2016-11-27	repo:cpan	file:App-progpatcher-0.001.tar.gz	ver:0.001	size:20486
+date:2016-11-28	repo:cpan	file:Media-Info-Ffmpeg-0.004.tar.gz	ver:0.004	size:15226
+date:2016-11-28	repo:cpan	file:Media-Info-0.12.tar.gz	ver:0.12	size:15643
