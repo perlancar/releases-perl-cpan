@@ -8340,3 +8340,6 @@ date:2016-11-27	repo:cpan	file:App-progpatcher-0.001.tar.gz	ver:0.001	size:20486
 date:2016-11-28	repo:cpan	file:Media-Info-Ffmpeg-0.004.tar.gz	ver:0.004	size:15226
 date:2016-11-28	repo:cpan	file:Media-Info-0.12.tar.gz	ver:0.12	size:15643
 date:2016-11-29	repo:cpan	file:Git-Bunch-0.56.tar.gz	ver:0.56	size:36722
+date:2016-11-29	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.69.tar.gz	ver:0.69	size:25732
+date:2016-11-29	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.70.tar.gz	ver:0.70	size:25756
+date:2016-11-29	repo:cpan	file:Git-Bunch-0.57.tar.gz	ver:0.57	size:37106
