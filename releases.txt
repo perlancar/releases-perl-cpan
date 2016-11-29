@@ -8343,3 +8343,5 @@ date:2016-11-29	repo:cpan	file:Git-Bunch-0.56.tar.gz	ver:0.56	size:36722
 date:2016-11-29	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.69.tar.gz	ver:0.69	size:25732
 date:2016-11-29	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.70.tar.gz	ver:0.70	size:25756
 date:2016-11-29	repo:cpan	file:Git-Bunch-0.57.tar.gz	ver:0.57	size:37106
+date:2016-11-29	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.71.tar.gz	ver:0.71	size:25821
+date:2016-11-29	repo:cpan	file:Git-Bunch-0.58.tar.gz	ver:0.58	size:37165
