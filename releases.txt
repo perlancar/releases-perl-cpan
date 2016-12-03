@@ -8354,3 +8354,9 @@ date:2016-12-02	repo:cpan	file:Getopt-Long-Less-0.07.tar.gz	ver:0.07	size:19494
 date:2016-12-02	repo:cpan	file:Getopt-Long-Subcommand-0.06.tar.gz	ver:0.06	size:21350
 date:2016-12-02	repo:cpan	file:Perinci-CmdLine-Lite-1.64.tar.gz	ver:1.64	size:56535
 date:2016-12-03	repo:cpan	file:Getopt-Long-Complete-0.29.tar.gz	ver:0.29	size:21209
+date:2016-12-03	repo:cpan	file:Getopt-Long-More-0.001.tar.gz	ver:0.001	size:21379
+date:2016-12-03	repo:cpan	file:Getopt-Long-More-0.002.tar.gz	ver:0.002	size:21424
+date:2016-12-03	repo:cpan	file:Getopt-Long-Complete-0.30.tar.gz	ver:0.30	size:21338
+date:2016-12-03	repo:cpan	file:Getopt-Long-Less-0.08.tar.gz	ver:0.08	size:19622
+date:2016-12-03	repo:cpan	file:Getopt-Long-EvenLess-0.07.tar.gz	ver:0.07	size:18074
+date:2016-12-03	repo:cpan	file:Getopt-Long-More-0.003.tar.gz	ver:0.003	size:21203
