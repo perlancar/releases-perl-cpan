@@ -8360,3 +8360,8 @@ date:2016-12-03	repo:cpan	file:Getopt-Long-Complete-0.30.tar.gz	ver:0.30	size:21
 date:2016-12-03	repo:cpan	file:Getopt-Long-Less-0.08.tar.gz	ver:0.08	size:19622
 date:2016-12-03	repo:cpan	file:Getopt-Long-EvenLess-0.07.tar.gz	ver:0.07	size:18074
 date:2016-12-03	repo:cpan	file:Getopt-Long-More-0.003.tar.gz	ver:0.003	size:21203
+date:2016-12-03	repo:cpan	file:App-GetoptLongMoreUtils-0.001.tar.gz	ver:0.001	size:17555
+date:2016-12-03	repo:cpan	file:Getopt-Long-More-Util-0.001.tar.gz	ver:0.001	size:14917
+date:2016-12-03	repo:cpan	file:Getopt-Long-More-0.004.tar.gz	ver:0.004	size:21944
+date:2016-12-03	repo:cpan	file:App-shcompgen-0.30.tar.gz	ver:0.30	size:32102
+date:2016-12-05	repo:cpan	file:Getopt-Long-More-Dump-0.001.tar.gz	ver:0.001	size:15925
