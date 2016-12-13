@@ -8382,3 +8382,17 @@ date:2016-12-10	repo:cpan	file:Pod-Weaver-PluginBundle-Author-PERLANCAR-0.27.tar
 date:2016-12-10	repo:cpan	file:Rinci-1.1.82.tar.gz	ver:1.1.82	size:64505
 date:2016-12-10	repo:cpan	file:Complete-Util-0.58.tar.gz	ver:0.58	size:27052
 date:2016-12-10	repo:cpan	file:Sah-Schemas-Rinci-1.1.82.1.tar.gz	ver:1.1.82.1	size:15358
+date:2016-12-10	repo:cpan	file:App-rimetadb-0.20.tar.gz	ver:0.20	size:27668
+date:2016-12-10	repo:cpan	file:Bencher-Scenarios-CBlocks-0.001.tar.gz	ver:0.001	size:26508
+date:2016-12-10	repo:cpan	file:Bencher-Backend-1.032.tar.gz	ver:1.032	size:55860
+date:2016-12-10	repo:cpan	file:Perinci-Examples-0.77.tar.gz	ver:0.77	size:42943
+date:2016-12-10	repo:cpan	file:Perinci-Sub-Complete-0.89.tar.gz	ver:0.89	size:31782
+date:2016-12-11	repo:cpan	file:Perinci-Sub-Normalize-0.19.tar.gz	ver:0.19	size:17202
+date:2016-12-11	repo:cpan	file:Perinci-Sub-Complete-0.90.tar.gz	ver:0.90	size:31823
+date:2016-12-11	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.79.tar.gz	ver:0.79	size:37334
+date:2016-12-11	repo:cpan	file:Module-FatPack-0.11.tar.gz	ver:0.11	size:16764
+date:2016-12-11	repo:cpan	file:Module-DataPack-0.18.tar.gz	ver:0.18	size:18054
+date:2016-12-12	repo:cpan	file:Perinci-Sub-ConvertArgs-Argv-0.10.tar.gz	ver:0.10	size:16678
+date:2016-12-12	repo:cpan	file:Bencher-Scenarios-SortSub-0.001.tar.gz	ver:0.001	size:18578
+date:2016-12-12	repo:cpan	file:Perinci-Result-Format-Lite-0.21.tar.gz	ver:0.21	size:20104
+date:2016-12-13	repo:cpan	file:App-audioinfo-0.001.tar.gz	ver:0.001	size:18056
