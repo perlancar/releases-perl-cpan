@@ -8396,3 +8396,4 @@ date:2016-12-12	repo:cpan	file:Perinci-Sub-ConvertArgs-Argv-0.10.tar.gz	ver:0.10
 date:2016-12-12	repo:cpan	file:Bencher-Scenarios-SortSub-0.001.tar.gz	ver:0.001	size:18578
 date:2016-12-12	repo:cpan	file:Perinci-Result-Format-Lite-0.21.tar.gz	ver:0.21	size:20104
 date:2016-12-13	repo:cpan	file:App-audioinfo-0.001.tar.gz	ver:0.001	size:18056
+date:2016-12-14	repo:cpan	file:App-org2wp-0.003.tar.gz	ver:0.003	size:19453
