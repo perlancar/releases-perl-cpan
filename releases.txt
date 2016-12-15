@@ -8403,3 +8403,17 @@ date:2016-12-15	repo:cpan	file:App-rsync-new2old-0.003.tar.gz	ver:0.003	size:161
 date:2016-12-15	repo:cpan	file:App-rsync-new2old-0.004.tar.gz	ver:0.004	size:16249
 date:2016-12-15	repo:cpan	file:App-rsync-new2old-0.005.tar.gz	ver:0.005	size:16560
 date:2016-12-15	repo:cpan	file:Git-Bunch-0.59.tar.gz	ver:0.59	size:38462
+date:2016-12-15	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.34.tar.gz	ver:0.34	size:18778
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Gen-0.36.tar.gz	ver:0.36	size:23713
+date:2016-12-15	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.80.tar.gz	ver:0.80	size:36406
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Gen-0.37.tar.gz	ver:0.37	size:23768
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Gen-0.38.tar.gz	ver:0.38	size:23798
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Lite-1.65.tar.gz	ver:1.65	size:56555
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Classic-1.72.tar.gz	ver:1.72	size:43246
+date:2016-12-15	repo:cpan	file:App-MysqlUtils-0.001.tar.gz	ver:0.001	size:17791
+date:2016-12-15	repo:cpan	file:Rinci-1.1.83.tar.gz	ver:1.1.83	size:60293
+date:2016-12-15	repo:cpan	file:Perinci-Object-0.26.tar.gz	ver:0.26	size:22095
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Lite-1.66.tar.gz	ver:1.66	size:56613
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Classic-1.73.tar.gz	ver:1.73	size:43351
+date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Gen-0.39.tar.gz	ver:0.39	size:23852
+date:2016-12-15	repo:cpan	file:App-MysqlUtils-0.002.tar.gz	ver:0.002	size:19041
