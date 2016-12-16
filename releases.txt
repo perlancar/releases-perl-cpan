@@ -8417,3 +8417,10 @@ date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Lite-1.66.tar.gz	ver:1.66	size:56
 date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Classic-1.73.tar.gz	ver:1.73	size:43351
 date:2016-12-15	repo:cpan	file:Perinci-CmdLine-Gen-0.39.tar.gz	ver:0.39	size:23852
 date:2016-12-15	repo:cpan	file:App-MysqlUtils-0.002.tar.gz	ver:0.002	size:19041
+date:2016-12-16	repo:cpan	file:App-seq-pl-0.001.tar.gz	ver:0.001	size:14500
+date:2016-12-16	repo:cpan	file:App-subsort-0.02.tar.gz	ver:0.02	size:14891
+date:2016-12-16	repo:cpan	file:Sort-Sub-date_in_text-0.003.tar.gz	ver:0.003	size:13753
+date:2016-12-16	repo:cpan	file:Sort-Sub-0.07.tar.gz	ver:0.07	size:16029
+date:2016-12-16	repo:cpan	file:Sort-Sub-num_in_text-0.001.tar.gz	ver:0.001	size:13694
+date:2016-12-16	repo:cpan	file:App-subsort-0.03.tar.gz	ver:0.03	size:15122
+date:2016-12-16	repo:cpan	file:Sort-Sub-num_in_text-0.002.tar.gz	ver:0.002	size:13758
