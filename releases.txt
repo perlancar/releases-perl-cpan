@@ -8424,3 +8424,10 @@ date:2016-12-16	repo:cpan	file:Sort-Sub-0.07.tar.gz	ver:0.07	size:16029
 date:2016-12-16	repo:cpan	file:Sort-Sub-num_in_text-0.001.tar.gz	ver:0.001	size:13694
 date:2016-12-16	repo:cpan	file:App-subsort-0.03.tar.gz	ver:0.03	size:15122
 date:2016-12-16	repo:cpan	file:Sort-Sub-num_in_text-0.002.tar.gz	ver:0.002	size:13758
+date:2016-12-17	repo:cpan	file:Perinci-CmdLine-Lite-1.67.tar.gz	ver:1.67	size:57442
+date:2016-12-17	repo:cpan	file:Pod-Weaver-Plugin-Sort-Sub-0.001.tar.gz	ver:0.001	size:13839
+date:2016-12-17	repo:cpan	file:Sort-Sub-date_in_text-0.004.tar.gz	ver:0.004	size:14105
+date:2016-12-17	repo:cpan	file:Pod-Weaver-Plugin-Sort-Sub-0.002.tar.gz	ver:0.002	size:13944
+date:2016-12-17	repo:cpan	file:Sort-Sub-date_in_text-0.005.tar.gz	ver:0.005	size:14207
+date:2016-12-17	repo:cpan	file:Sort-Sub-num_in_text-0.003.tar.gz	ver:0.003	size:14300
+date:2016-12-17	repo:cpan	file:Sort-Sub-0.08.tar.gz	ver:0.08	size:16929
