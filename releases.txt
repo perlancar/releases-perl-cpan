@@ -8431,3 +8431,6 @@ date:2016-12-17	repo:cpan	file:Pod-Weaver-Plugin-Sort-Sub-0.002.tar.gz	ver:0.002
 date:2016-12-17	repo:cpan	file:Sort-Sub-date_in_text-0.005.tar.gz	ver:0.005	size:14207
 date:2016-12-17	repo:cpan	file:Sort-Sub-num_in_text-0.003.tar.gz	ver:0.003	size:14300
 date:2016-12-17	repo:cpan	file:Sort-Sub-0.08.tar.gz	ver:0.08	size:16929
+date:2016-12-18	repo:cpan	file:Sort-Sub-0.09.tar.gz	ver:0.09	size:18528
+date:2016-12-18	repo:cpan	file:Sort-Sub-0.10.tar.gz	ver:0.10	size:18774
+date:2016-12-18	repo:cpan	file:Sort-Sub-by_date_in_text-0.007.tar.gz	ver:0.007	size:14888
