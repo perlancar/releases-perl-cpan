@@ -8437,3 +8437,6 @@ date:2016-12-18	repo:cpan	file:Sort-Sub-0.10.tar.gz	ver:0.10	size:18774
 date:2016-12-18	repo:cpan	file:Sort-Sub-by_date_in_text-0.007.tar.gz	ver:0.007	size:14888
 date:2016-12-20	repo:cpan	file:Git-Bunch-0.60.tar.gz	ver:0.60	size:37036
 date:2016-12-21	repo:cpan	file:Acme-CPANLists-PERLANCAR-Temp-Plus-0.001.tar.gz	ver:0.001	size:12755
+date:2016-12-22	repo:cpan	file:App-org2wp-0.004.tar.gz	ver:0.004	size:20111
+date:2016-12-23	repo:cpan	file:Getopt-Long-Any-0.002.tar.gz	ver:0.002	size:13042
+date:2016-12-23	repo:cpan	file:App-MysqlUtils-0.003.tar.gz	ver:0.003	size:19992
