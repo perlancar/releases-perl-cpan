@@ -8435,3 +8435,8 @@ date:2016-12-18	repo:cpan	file:Getopt-Long-Any-0.001.tar.gz	ver:0.001	size:12956
 date:2016-12-18	repo:cpan	file:Sort-Sub-0.09.tar.gz	ver:0.09	size:18528
 date:2016-12-18	repo:cpan	file:Sort-Sub-0.10.tar.gz	ver:0.10	size:18774
 date:2016-12-18	repo:cpan	file:Sort-Sub-by_date_in_text-0.007.tar.gz	ver:0.007	size:14888
+date:2016-12-24	repo:cpan	file:Org-To-HTML-0.20.tar.gz	ver:0.20	size:22092
+date:2016-12-24	repo:cpan	file:Org-To-HTML-WordPress-0.002.tar.gz	ver:0.002	size:14369
+date:2016-12-24	repo:cpan	file:App-OrgUtils-0.45.tar.gz	ver:0.45	size:48435
+date:2016-12-24	repo:cpan	file:Org-Parser-0.53.tar.gz	ver:0.53	size:59610
+date:2016-12-24	repo:cpan	file:Org-To-HTML-0.21.tar.gz	ver:0.21	size:22456
