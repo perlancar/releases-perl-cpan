@@ -8445,3 +8445,14 @@ date:2016-12-24	repo:cpan	file:Org-To-HTML-WordPress-0.002.tar.gz	ver:0.002	size
 date:2016-12-24	repo:cpan	file:App-OrgUtils-0.45.tar.gz	ver:0.45	size:48435
 date:2016-12-24	repo:cpan	file:Org-Parser-0.53.tar.gz	ver:0.53	size:59610
 date:2016-12-24	repo:cpan	file:Org-To-HTML-0.21.tar.gz	ver:0.21	size:22456
+date:2016-12-25	repo:cpan	file:Dist-Zilla-Plugin-Comment-0.02.tar.gz	ver:0.02	size:14507
+date:2016-12-25	repo:cpan	file:Complete-Bash-0.29.tar.gz	ver:0.29	size:26381
+date:2016-12-25	repo:cpan	file:ShellQuote-Any-Tiny-0.001.tar.gz	ver:0.001	size:13959
+date:2016-12-26	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.005.tar.gz	ver:0.005	size:16512
+date:2016-12-26	repo:cpan	file:Sah-Schemas-Rinci-1.1.82.2.tar.gz	ver:1.1.82.2	size:16188
+date:2016-12-26	repo:cpan	file:App-GenModEmbedder-0.001.tar.gz	ver:0.001	size:19087
+date:2016-12-26	repo:cpan	file:App-GenModEmbedder-0.002.tar.gz	ver:0.002	size:19259
+date:2016-12-26	repo:cpan	file:App-GenModEmbedder-0.003.tar.gz	ver:0.003	size:19654
+date:2016-12-26	repo:cpan	file:Data-Clean-0.38.tar.gz	ver:0.38	size:20364
+date:2016-12-26	repo:cpan	file:Perinci-Object-0.27.tar.gz	ver:0.27	size:22748
+date:2016-12-26	repo:cpan	file:Acme-CPANLists-Import-PERLANCAR-GetoptModules-0.001.tar.gz	ver:0.001	size:14378
