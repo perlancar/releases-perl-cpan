@@ -8508,3 +8508,5 @@ date:2016-12-28	repo:cpan	file:Sys-LoopDevice-0.003.tar.gz	ver:0.003	size:15146
 date:2016-12-28	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.54.tar.gz	ver:0.54	size:17729
 date:2016-12-28	repo:cpan	file:Acme-CPANLists-0.90.6.tar.gz	ver:0.90.6	size:16780
 date:2016-12-28	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.19.tar.gz	ver:0.19	size:24968
+date:2016-12-28	repo:cpan	file:App-lcpan-CmdBundle-deps-0.004.tar.gz	ver:0.004	size:14655
+date:2016-12-28	repo:cpan	file:App-lcpan-1.014.tar.gz	ver:1.014	size:107584
