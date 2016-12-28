@@ -8511,3 +8511,5 @@ date:2016-12-28	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.19.tar.gz	ver:0.19	siz
 date:2016-12-28	repo:cpan	file:App-lcpan-CmdBundle-deps-0.004.tar.gz	ver:0.004	size:14655
 date:2016-12-28	repo:cpan	file:App-lcpan-1.014.tar.gz	ver:1.014	size:107584
 date:2016-12-28	repo:cpan	file:Rinci-1.1.84.tar.gz	ver:1.1.84	size:64667
+date:2016-12-28	repo:cpan	file:PERLANCAR-Sort-Sub-0.04.tar.gz	ver:0.04	size:13473
+date:2016-12-28	repo:cpan	file:Module-FatPack-0.15.tar.gz	ver:0.15	size:17613
