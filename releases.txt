@@ -8513,3 +8513,16 @@ date:2016-12-28	repo:cpan	file:App-lcpan-1.014.tar.gz	ver:1.014	size:107584
 date:2016-12-28	repo:cpan	file:Rinci-1.1.84.tar.gz	ver:1.1.84	size:64667
 date:2016-12-28	repo:cpan	file:PERLANCAR-Sort-Sub-0.04.tar.gz	ver:0.04	size:13473
 date:2016-12-28	repo:cpan	file:Module-FatPack-0.15.tar.gz	ver:0.15	size:17613
+date:2016-12-29	repo:cpan	file:Config-IOD-0.33.tar.gz	ver:0.33	size:28015
+date:2016-12-29	repo:cpan	file:Module-FatPack-0.16.tar.gz	ver:0.16	size:17636
+date:2016-12-29	repo:cpan	file:Data-Clean-0.43.tar.gz	ver:0.43	size:19922
+date:2016-12-29	repo:cpan	file:Acme-CPANLists-Import-PerlAdvent-2016-0.001.tar.gz	ver:0.001	size:16559
+date:2016-12-29	repo:cpan	file:App-pod2wp-0.001.tar.gz	ver:0.001	size:20185
+date:2016-12-29	repo:cpan	file:Text-Table-HTML-0.001.tar.gz	ver:0.001	size:13961
+date:2016-12-29	repo:cpan	file:Text-Table-HTML-0.002.tar.gz	ver:0.002	size:13965
+date:2016-12-29	repo:cpan	file:Text-Table-HTML-DataTables-0.001.tar.gz	ver:0.001	size:75239
+date:2016-12-29	repo:cpan	file:Text-Table-Any-0.06.tar.gz	ver:0.06	size:15408
+date:2016-12-29	repo:cpan	file:Text-Table-HTML-DataTables-0.002.tar.gz	ver:0.002	size:75339
+date:2016-12-29	repo:cpan	file:App-FatPackUtils-0.08.tar.gz	ver:0.08	size:20000
+date:2016-12-29	repo:cpan	file:Perinci-Result-Format-Lite-0.22.tar.gz	ver:0.22	size:22008
+date:2016-12-29	repo:cpan	file:Perinci-CmdLine-Lite-1.68.tar.gz	ver:1.68	size:68440
