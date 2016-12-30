@@ -8526,3 +8526,6 @@ date:2016-12-29	repo:cpan	file:Text-Table-HTML-DataTables-0.002.tar.gz	ver:0.002
 date:2016-12-29	repo:cpan	file:App-FatPackUtils-0.08.tar.gz	ver:0.08	size:20000
 date:2016-12-29	repo:cpan	file:Perinci-Result-Format-Lite-0.22.tar.gz	ver:0.22	size:22008
 date:2016-12-29	repo:cpan	file:Perinci-CmdLine-Lite-1.68.tar.gz	ver:1.68	size:68440
+date:2016-12-30	repo:cpan	file:Parse-PayPal-TxFinderReport-0.001.tar.gz	ver:0.001	size:15189
+date:2016-12-30	repo:cpan	file:Parse-PayPal-TxDetailReport-0.006.tar.gz	ver:0.006	size:15941
+date:2016-12-30	repo:cpan	file:App-PayPalUtils-0.002.tar.gz	ver:0.002	size:16378
