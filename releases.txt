@@ -8529,3 +8529,11 @@ date:2016-12-29	repo:cpan	file:Perinci-CmdLine-Lite-1.68.tar.gz	ver:1.68	size:68
 date:2016-12-30	repo:cpan	file:Parse-PayPal-TxFinderReport-0.001.tar.gz	ver:0.001	size:15189
 date:2016-12-30	repo:cpan	file:Parse-PayPal-TxDetailReport-0.006.tar.gz	ver:0.006	size:15941
 date:2016-12-30	repo:cpan	file:App-PayPalUtils-0.002.tar.gz	ver:0.002	size:16378
+date:2016-12-31	repo:cpan	file:App-RegexpCommonUtils-0.001.tar.gz	ver:0.001	size:13925
+date:2016-12-31	repo:cpan	file:Complete-Regexp-Pattern-0.001.tar.gz	ver:0.001	size:14758
+date:2016-12-31	repo:cpan	file:App-CompleteCLIs-0.11.tar.gz	ver:0.11	size:31914
+date:2016-12-31	repo:cpan	file:Pod-Weaver-Plugin-PERLANCAR-SortSections-0.05.tar.gz	ver:0.05	size:13409
+date:2016-12-31	repo:cpan	file:Regexp-Pattern-0.1.3.tar.gz	ver:0.1.3	size:16280
+date:2016-12-31	repo:cpan	file:App-RegexpCommonUtils-0.002.tar.gz	ver:0.002	size:18877
+date:2016-12-31	repo:cpan	file:App-RegexpPatternUtils-0.002.tar.gz	ver:0.002	size:20684
+date:2016-12-31	repo:cpan	file:Text-Table-Any-0.07.tar.gz	ver:0.07	size:16061
