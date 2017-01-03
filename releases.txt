@@ -8550,3 +8550,11 @@ date:2017-01-01	repo:cpan	file:Text-Table-Paragraph-0.002.tar.gz	ver:0.002	size:
 date:2017-01-01	repo:cpan	file:TableData-Object-0.10.tar.gz	ver:0.10	size:23530
 date:2017-01-01	repo:cpan	file:App-td-0.08.tar.gz	ver:0.08	size:110848
 date:2017-01-02	repo:cpan	file:Time-Duration-Parse-AsHash-0.10.6.tar.gz	ver:0.10.6	size:15754
+date:2017-01-03	repo:cpan	file:Data-CleanJSON-0.001.tar.gz	ver:0.001	size:14617
+date:2017-01-03	repo:cpan	file:Data-Clean-0.44.tar.gz	ver:0.44	size:21676
+date:2017-01-03	repo:cpan	file:Data-CleanJSON-0.002.tar.gz	ver:0.002	size:14646
+date:2017-01-03	repo:cpan	file:Getopt-Long-Subcommand-0.07.tar.gz	ver:0.07	size:21414
+date:2017-01-03	repo:cpan	file:WWW-PAUSE-Simple-0.32.tar.gz	ver:0.32	size:22799
+date:2017-01-04	repo:cpan	file:Test-Perinci-CmdLine-1.45.tar.gz	ver:1.45	size:26999
+date:2017-01-04	repo:cpan	file:List-Util-ArrayRef-PP-0.001.tar.gz	ver:0.001	size:12480
+date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Gen-0.40.tar.gz	ver:0.40	size:24053
