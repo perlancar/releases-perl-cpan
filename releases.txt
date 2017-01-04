@@ -8558,3 +8558,13 @@ date:2017-01-03	repo:cpan	file:WWW-PAUSE-Simple-0.32.tar.gz	ver:0.32	size:22799
 date:2017-01-04	repo:cpan	file:Test-Perinci-CmdLine-1.45.tar.gz	ver:1.45	size:26999
 date:2017-01-04	repo:cpan	file:List-Util-ArrayRef-PP-0.001.tar.gz	ver:0.001	size:12480
 date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Gen-0.40.tar.gz	ver:0.40	size:24053
+date:2017-01-04	repo:cpan	file:Bencher-Backend-1.033.tar.gz	ver:1.033	size:55343
+date:2017-01-04	repo:cpan	file:Pod-Weaver-Plugin-Bencher-Scenario-0.23.tar.gz	ver:0.23	size:20347
+date:2017-01-04	repo:cpan	file:Bencher-Scenario-ShellQuoteAny-0.003.tar.gz	ver:0.003	size:21710
+date:2017-01-04	repo:cpan	file:ShellQuote-Any-Tiny-0.004.tar.gz	ver:0.004	size:13555
+date:2017-01-04	repo:cpan	file:WWW-PAUSE-Simple-0.33.tar.gz	ver:0.33	size:22776
+date:2017-01-04	repo:cpan	file:Config-IOD-Reader-0.29.tar.gz	ver:0.29	size:24371
+date:2017-01-04	repo:cpan	file:Test-Perinci-CmdLine-1.46.tar.gz	ver:1.46	size:25306
+date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Lite-1.69.tar.gz	ver:1.69	size:55953
+date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Util-Config-1.69.tar.gz	ver:1.69	size:16190
+date:2017-01-04	repo:cpan	file:PERLANCAR-File-HomeDir-0.04.tar.gz	ver:0.04	size:13617
