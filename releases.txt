@@ -8568,3 +8568,4 @@ date:2017-01-04	repo:cpan	file:Test-Perinci-CmdLine-1.46.tar.gz	ver:1.46	size:25
 date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Lite-1.69.tar.gz	ver:1.69	size:55953
 date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Util-Config-1.69.tar.gz	ver:1.69	size:16190
 date:2017-01-04	repo:cpan	file:PERLANCAR-File-HomeDir-0.04.tar.gz	ver:0.04	size:13617
+date:2017-01-05	repo:cpan	file:Config-IOD-Reader-0.30.tar.gz	ver:0.30	size:24787
