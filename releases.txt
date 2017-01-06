@@ -8569,3 +8569,15 @@ date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Lite-1.69.tar.gz	ver:1.69	size:55
 date:2017-01-04	repo:cpan	file:Perinci-CmdLine-Util-Config-1.69.tar.gz	ver:1.69	size:16190
 date:2017-01-04	repo:cpan	file:PERLANCAR-File-HomeDir-0.04.tar.gz	ver:0.04	size:13617
 date:2017-01-05	repo:cpan	file:Config-IOD-Reader-0.30.tar.gz	ver:0.30	size:24787
+date:2017-01-06	repo:cpan	file:Bencher-Scenario-MathPrimeModules-0.002.tar.gz	ver:0.002	size:17152
+date:2017-01-06	repo:cpan	file:Getopt-Long-Subcommand-0.08.tar.gz	ver:0.08	size:19970
+date:2017-01-06	repo:cpan	file:Getopt-Long-Subcommand-0.09.tar.gz	ver:0.09	size:20266
+date:2017-01-06	repo:cpan	file:Perinci-CmdLine-Inline-0.41.tar.gz	ver:0.41	size:36789
+date:2017-01-06	repo:cpan	file:Perinci-CmdLine-Gen-0.41.tar.gz	ver:0.41	size:24582
+date:2017-01-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.35.tar.gz	ver:0.35	size:18876
+date:2017-01-06	repo:cpan	file:App-CreateAcmeCPANListsImportModules-0.06.tar.gz	ver:0.06	size:15912
+date:2017-01-06	repo:cpan	file:Data-Dmp-0.22.tar.gz	ver:0.22	size:19359
+date:2017-01-06	repo:cpan	file:Acme-CPANLists-Import-PerlTricks-0.001.tar.gz	ver:0.001	size:13726
+date:2017-01-06	repo:cpan	file:Acme-CPANLists-PERLANCAR-Self-0.001.tar.gz	ver:0.001	size:13172
+date:2017-01-06	repo:cpan	file:Acme-CPANLists-PERLANCAR-Self-0.002.tar.gz	ver:0.002	size:13272
+date:2017-01-06	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.36.tar.gz	ver:0.36	size:18959
