@@ -8591,3 +8591,8 @@ date:2017-01-08	repo:cpan	file:Sah-Schemas-CPAN-0.001.tar.gz	ver:0.001	size:1350
 date:2017-01-08	repo:cpan	file:App-ValidateCPANMetaWithSah-0.002.tar.gz	ver:0.002	size:17617
 date:2017-01-08	repo:cpan	file:Dist-Zilla-Role-RequireFromBuild-0.002.tar.gz	ver:0.002	size:13997
 date:2017-01-08	repo:cpan	file:Sah-Schemas-CPANMeta-0.003.tar.gz	ver:0.003	size:17592
+date:2017-01-09	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.006.tar.gz	ver:0.006	size:15786
+date:2017-01-09	repo:cpan	file:Dist-Zilla-Role-RequireFromBuild-0.003.tar.gz	ver:0.003	size:13616
+date:2017-01-09	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.37.tar.gz	ver:0.37	size:19958
+date:2017-01-09	repo:cpan	file:Data-Sah-Coerce-perl-date-str_alami-0.007.tar.gz	ver:0.007	size:14276
+date:2017-01-09	repo:cpan	file:App-DateUtils-0.11.tar.gz	ver:0.11	size:26180
