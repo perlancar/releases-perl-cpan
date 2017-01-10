@@ -8606,3 +8606,8 @@ date:2017-01-09	repo:cpan	file:Require-Hook-Noop-0.001.tar.gz	ver:0.001	size:130
 date:2017-01-09	repo:cpan	file:Require-Hook-MetaCPAN-0.001.tar.gz	ver:0.001	size:13186
 date:2017-01-09	repo:cpan	file:Dist-Zilla-Role-RequireFromBuild-0.006.tar.gz	ver:0.006	size:13642
 date:2017-01-09	repo:cpan	file:Require-Hook-DzilBuild-0.001.tar.gz	ver:0.001	size:13255
+date:2017-01-10	repo:cpan	file:Perinci-CmdLine-Inline-0.43.tar.gz	ver:0.43	size:37305
+date:2017-01-10	repo:cpan	file:Perinci-CmdLine-POD-0.001.tar.gz	ver:0.001	size:20519
+date:2017-01-10	repo:cpan	file:Perinci-Result-Format-Lite-0.23.tar.gz	ver:0.23	size:19548
+date:2017-01-10	repo:cpan	file:Data-Clean-0.45.tar.gz	ver:0.45	size:19466
+date:2017-01-10	repo:cpan	file:Perinci-CmdLine-Lite-1.70.tar.gz	ver:1.70	size:55418
