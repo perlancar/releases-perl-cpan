@@ -8619,3 +8619,6 @@ date:2017-01-11	repo:cpan	file:Perinci-CmdLine-POD-0.003.tar.gz	ver:0.003	size:2
 date:2017-01-11	repo:cpan	file:Perinci-CmdLine-Inline-0.44.tar.gz	ver:0.44	size:38318
 date:2017-01-11	repo:cpan	file:Pod-Weaver-PluginBundle-Author-PERLANCAR-0.28.tar.gz	ver:0.28	size:14704
 date:2017-01-11	repo:cpan	file:lib-prereqs-only-0.004.tar.gz	ver:0.004	size:15701
+date:2017-01-11	repo:cpan	file:Getopt-Long-EvenLess-0.08.tar.gz	ver:0.08	size:18165
+date:2017-01-11	repo:cpan	file:Getopt-Long-EvenLess-0.09.tar.gz	ver:0.09	size:18253
+date:2017-01-11	repo:cpan	file:Getopt-Long-EvenLess-0.10.tar.gz	ver:0.10	size:18483
