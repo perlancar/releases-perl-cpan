@@ -8628,3 +8628,5 @@ date:2017-01-12	repo:cpan	file:Test-Perinci-CmdLine-1.47.tar.gz	ver:1.47	size:25
 date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Inline-0.45.tar.gz	ver:0.45	size:39300
 date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Gen-0.43.tar.gz	ver:0.43	size:25049
 date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Util-0.14.tar.gz	ver:0.14	size:15672
+date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Util-Config-1.70.tar.gz	ver:1.70	size:16154
+date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Inline-0.46.tar.gz	ver:0.46	size:39607
