@@ -8630,3 +8630,10 @@ date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Gen-0.43.tar.gz	ver:0.43	size:250
 date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Util-0.14.tar.gz	ver:0.14	size:15672
 date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Util-Config-1.70.tar.gz	ver:1.70	size:16154
 date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Inline-0.46.tar.gz	ver:0.46	size:39607
+date:2017-01-12	repo:cpan	file:Perinci-CmdLine-POD-0.004.tar.gz	ver:0.004	size:21296
+date:2017-01-12	repo:cpan	file:App-GenPericmdCompleterScript-0.10.tar.gz	ver:0.10	size:21334
+date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Inline-0.47.tar.gz	ver:0.47	size:39043
+date:2017-01-12	repo:cpan	file:Perinci-CmdLine-Util-0.15.tar.gz	ver:0.15	size:15786
+date:2017-01-12	repo:cpan	file:WWW-PAUSE-Simple-0.34.tar.gz	ver:0.34	size:23042
+date:2017-01-12	repo:cpan	file:Dist-Zilla-Plugin-UploadToCPAN-WWWPAUSESimple-0.04.tar.gz	ver:0.04	size:14204
+date:2017-01-12	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.38.tar.gz	ver:0.38	size:18979
