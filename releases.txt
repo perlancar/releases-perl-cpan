@@ -8679,3 +8679,10 @@ date:2017-01-15	repo:cpan	file:Perinci-Sub-XCompletion-0.08.tar.gz	ver:0.08	size
 date:2017-01-15	repo:cpan	file:Perinci-Sub-XCompletion-0.09.tar.gz	ver:0.09	size:15330
 date:2017-01-15	repo:cpan	file:Perinci-Sub-Complete-0.91.tar.gz	ver:0.91	size:32020
 date:2017-01-15	repo:cpan	file:WWW-PAUSE-Simple-0.35.tar.gz	ver:0.35	size:23353
+date:2017-01-16	repo:cpan	file:Config-IOD-Reader-0.32.tar.gz	ver:0.32	size:25112
+date:2017-01-16	repo:cpan	file:File-Slurper-Temp-0.001.tar.gz	ver:0.001	size:13050
+date:2017-01-16	repo:cpan	file:File-Slurper-Temp-0.002.tar.gz	ver:0.002	size:13149
+date:2017-01-16	repo:cpan	file:File-Slurper-Temp-0.003.tar.gz	ver:0.003	size:13181
+date:2017-01-16	repo:cpan	file:Dist-Util-Debian-0.003.tar.gz	ver:0.003	size:14352
+date:2017-01-16	repo:cpan	file:App-DistUtils-0.14.tar.gz	ver:0.14	size:23505
+date:2017-01-16	repo:cpan	file:App-lcpan-CmdBundle-debian-0.002.tar.gz	ver:0.002	size:14278
