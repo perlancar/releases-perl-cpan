@@ -8698,3 +8698,5 @@ date:2017-01-17	repo:cpan	file:App-lcpan-CmdBundle-debian-0.003.tar.gz	ver:0.003
 date:2017-01-17	repo:cpan	file:App-lcpan-CmdBundle-debian-0.004.tar.gz	ver:0.004	size:15456
 date:2017-01-17	repo:cpan	file:PERLANCAR-Debian-Releases-0.04.tar.gz	ver:0.04	size:15939
 date:2017-01-17	repo:cpan	file:App-lcpan-CmdBundle-nearest-0.001.tar.gz	ver:0.001	size:14129
+date:2017-01-18	repo:cpan	file:Dist-Util-Debian-0.006.tar.gz	ver:0.006	size:14853
+date:2017-01-18	repo:cpan	file:App-lcpan-CmdBundle-debian-0.005.tar.gz	ver:0.005	size:15586
