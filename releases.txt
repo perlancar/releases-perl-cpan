@@ -8700,3 +8700,6 @@ date:2017-01-17	repo:cpan	file:PERLANCAR-Debian-Releases-0.04.tar.gz	ver:0.04	si
 date:2017-01-17	repo:cpan	file:App-lcpan-CmdBundle-nearest-0.001.tar.gz	ver:0.001	size:14129
 date:2017-01-18	repo:cpan	file:Dist-Util-Debian-0.006.tar.gz	ver:0.006	size:14853
 date:2017-01-18	repo:cpan	file:App-lcpan-CmdBundle-debian-0.005.tar.gz	ver:0.005	size:15586
+date:2017-01-19	repo:cpan	file:Bencher-Scenarios-SortSub-0.002.tar.gz	ver:0.002	size:17696
+date:2017-01-19	repo:cpan	file:App-lcpan-1.015.tar.gz	ver:1.015	size:99272
+date:2017-01-19	repo:cpan	file:App-lcpan-CmdBundle-gh-0.001.tar.gz	ver:0.001	size:14223
