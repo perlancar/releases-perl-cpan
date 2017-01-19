@@ -8703,3 +8703,4 @@ date:2017-01-18	repo:cpan	file:App-lcpan-CmdBundle-debian-0.005.tar.gz	ver:0.005
 date:2017-01-19	repo:cpan	file:Bencher-Scenarios-SortSub-0.002.tar.gz	ver:0.002	size:17696
 date:2017-01-19	repo:cpan	file:App-lcpan-1.015.tar.gz	ver:1.015	size:99272
 date:2017-01-19	repo:cpan	file:App-lcpan-CmdBundle-gh-0.001.tar.gz	ver:0.001	size:14223
+date:2017-01-19	repo:cpan	file:Perinci-CmdLine-Inline-0.50.tar.gz	ver:0.50	size:41212
