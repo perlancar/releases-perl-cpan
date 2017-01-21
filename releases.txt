@@ -8679,3 +8679,4 @@ date:2017-01-15	repo:cpan	file:Perinci-Sub-XCompletion-0.08.tar.gz	ver:0.08	size
 date:2017-01-15	repo:cpan	file:Perinci-Sub-XCompletion-0.09.tar.gz	ver:0.09	size:15330
 date:2017-01-15	repo:cpan	file:Perinci-Sub-Complete-0.91.tar.gz	ver:0.91	size:32020
 date:2017-01-15	repo:cpan	file:WWW-PAUSE-Simple-0.35.tar.gz	ver:0.35	size:23353
+date:2017-01-15	repo:cpan	file:Bencher-Scenarios-DataCleansing-0.002.tar.gz	ver:0.002	size:23685
