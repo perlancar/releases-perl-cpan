@@ -8724,3 +8724,6 @@ date:2017-01-21	repo:cpan	file:Require-Hook-Noop-0.002.tar.gz	ver:0.002	size:132
 date:2017-01-21	repo:cpan	file:Require-Hook-DzilBuild-0.002.tar.gz	ver:0.002	size:13572
 date:2017-01-21	repo:cpan	file:Sah-Schemas-Email-0.001.tar.gz	ver:0.001	size:13170
 date:2017-01-21	repo:cpan	file:App-lcpan-CmdBundle-cpanratings-0.001.tar.gz	ver:0.001	size:14179
+date:2017-01-22	repo:cpan	file:Regexp-Pattern-Twitter-0.001.tar.gz	ver:0.001	size:13367
+date:2017-01-22	repo:cpan	file:Sah-Schemas-Twitter-0.001.tar.gz	ver:0.001	size:13874
+date:2017-01-22	repo:cpan	file:Regexp-Pattern-Twitter-0.002.tar.gz	ver:0.002	size:13422
