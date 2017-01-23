@@ -8727,3 +8727,5 @@ date:2017-01-21	repo:cpan	file:App-lcpan-CmdBundle-cpanratings-0.001.tar.gz	ver:
 date:2017-01-22	repo:cpan	file:Regexp-Pattern-Twitter-0.001.tar.gz	ver:0.001	size:13367
 date:2017-01-22	repo:cpan	file:Sah-Schemas-Twitter-0.001.tar.gz	ver:0.001	size:13874
 date:2017-01-22	repo:cpan	file:Regexp-Pattern-Twitter-0.002.tar.gz	ver:0.002	size:13422
+date:2017-01-23	repo:cpan	file:App-lcpan-CmdBundle-gh-0.003.tar.gz	ver:0.003	size:15370
+date:2017-01-23	repo:cpan	file:App-lcpan-CmdBundle-bugs-0.002.tar.gz	ver:0.002	size:14939
