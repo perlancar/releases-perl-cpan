@@ -8731,3 +8731,4 @@ date:2017-01-23	repo:cpan	file:App-lcpan-CmdBundle-gh-0.003.tar.gz	ver:0.003	siz
 date:2017-01-23	repo:cpan	file:App-lcpan-CmdBundle-bugs-0.002.tar.gz	ver:0.002	size:14939
 date:2017-01-23	repo:cpan	file:Bencher-Scenarios-ArgPassing-0.001.tar.gz	ver:0.001	size:17290
 date:2017-01-23	repo:cpan	file:Bencher-Scenarios-ArgPassing-0.002.tar.gz	ver:0.002	size:20028
+date:2017-01-24	repo:cpan	file:App-lcpan-CmdBundle-cpanratings-0.002.tar.gz	ver:0.002	size:14490
