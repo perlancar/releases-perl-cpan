@@ -8851,3 +8851,6 @@ date:2017-01-25	repo:cpan	file:Bencher-Scenarios-TimeHiRes-0.002.tar.gz	ver:0.00
 date:2017-01-25	repo:cpan	file:Bencher-Scenarios-TreeObject-0.05.tar.gz	ver:0.05	size:28131
 date:2017-01-25	repo:cpan	file:App-lcpan-CmdBundle-bencher-0.001.tar.gz	ver:0.001	size:14540
 date:2017-01-26	repo:cpan	file:Bencher-Scenarios-BitManipulation-0.001.tar.gz	ver:0.001	size:17335
+date:2017-01-27	repo:cpan	file:Perinci-CmdLine-Help-0.14.tar.gz	ver:0.14	size:15924
+date:2017-01-27	repo:cpan	file:Perinci-CmdLine-POD-0.008.tar.gz	ver:0.008	size:22418
+date:2017-01-27	repo:cpan	file:String-Trim-More-0.03.tar.gz	ver:0.03	size:14528
