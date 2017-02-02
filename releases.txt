@@ -8873,3 +8873,15 @@ date:2017-01-29	repo:cpan	file:Perinci-CmdLine-Gen-0.45.tar.gz	ver:0.45	size:260
 date:2017-01-29	repo:cpan	file:App-PermuteNamed-0.003.tar.gz	ver:0.003	size:18509
 date:2017-01-29	repo:cpan	file:Acme-MetaSyntactic-chinese_zodiac-0.001.tar.gz	ver:0.001	size:13579
 date:2017-01-30	repo:cpan	file:Data-Dmp-0.23.tar.gz	ver:0.23	size:20218
+date:2017-01-31	repo:cpan	file:Perinci-Sub-Util-0.46.tar.gz	ver:0.46	size:22928
+date:2017-01-31	repo:cpan	file:Bencher-Scenarios-PerinciSubUtil-0.001.tar.gz	ver:0.001	size:22108
+date:2017-01-31	repo:cpan	file:WordList-CPAN-PAUSEIDs-0.001.tar.gz	ver:0.001	size:58425
+date:2017-01-31	repo:cpan	file:Acme-CPANLists-Import-PerlDancerAdvent-2016-0.001.tar.gz	ver:0.001	size:16582
+date:2017-01-31	repo:cpan	file:Sah-Schemas-Perl-0.007.tar.gz	ver:0.007	size:16003
+date:2017-01-31	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.008.tar.gz	ver:0.008	size:15929
+date:2017-01-31	repo:cpan	file:App-podtohtml-0.001.tar.gz	ver:0.001	size:17709
+date:2017-02-01	repo:cpan	file:Module-Path-More-0.32.tar.gz	ver:0.32	size:19304
+date:2017-02-01	repo:cpan	file:App-PMUtils-0.67.tar.gz	ver:0.67	size:40481
+date:2017-02-01	repo:cpan	file:Module-Path-More-0.33.tar.gz	ver:0.33	size:19345
+date:2017-02-02	repo:cpan	file:Bencher-Scenarios-SortSub-0.004.tar.gz	ver:0.004	size:19731
+date:2017-02-02	repo:cpan	file:Bencher-Scenarios-SortSub-0.005.tar.gz	ver:0.005	size:19769
