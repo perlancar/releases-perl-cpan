@@ -8887,3 +8887,10 @@ date:2017-02-02	repo:cpan	file:Bencher-Scenarios-SortSub-0.004.tar.gz	ver:0.004	
 date:2017-02-02	repo:cpan	file:Bencher-Scenarios-SortSub-0.005.tar.gz	ver:0.005	size:19769
 date:2017-02-03	repo:cpan	file:App-lcpan-1.016.tar.gz	ver:1.016	size:99400
 date:2017-02-03	repo:cpan	file:App-lcpan-1.017.tar.gz	ver:1.017	size:99411
+date:2017-02-03	repo:cpan	file:WWW-RT-CPAN-0.001.tar.gz	ver:0.001	size:14541
+date:2017-02-03	repo:cpan	file:File-RsyBak-0.31.tar.gz	ver:0.31	size:735996
+date:2017-02-03	repo:cpan	file:Perinci-Object-0.30.tar.gz	ver:0.30	size:22343
+date:2017-02-03	repo:cpan	file:App-lcpan-CmdBundle-rt-0.001.tar.gz	ver:0.001	size:15094
+date:2017-02-03	repo:cpan	file:Perinci-To-Doc-0.82.tar.gz	ver:0.82	size:36447
+date:2017-02-03	repo:cpan	file:App-lcpan-CmdBundle-rt-0.002.tar.gz	ver:0.002	size:15159
+date:2017-02-03	repo:cpan	file:WWW-RT-CPAN-0.002.tar.gz	ver:0.002	size:14608
