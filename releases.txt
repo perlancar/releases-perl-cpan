@@ -8885,3 +8885,5 @@ date:2017-02-01	repo:cpan	file:App-PMUtils-0.67.tar.gz	ver:0.67	size:40481
 date:2017-02-01	repo:cpan	file:Module-Path-More-0.33.tar.gz	ver:0.33	size:19345
 date:2017-02-02	repo:cpan	file:Bencher-Scenarios-SortSub-0.004.tar.gz	ver:0.004	size:19731
 date:2017-02-02	repo:cpan	file:Bencher-Scenarios-SortSub-0.005.tar.gz	ver:0.005	size:19769
+date:2017-02-03	repo:cpan	file:App-lcpan-1.016.tar.gz	ver:1.016	size:99400
+date:2017-02-03	repo:cpan	file:App-lcpan-1.017.tar.gz	ver:1.017	size:99411
