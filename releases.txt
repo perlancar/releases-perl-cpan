@@ -8894,3 +8894,13 @@ date:2017-02-03	repo:cpan	file:App-lcpan-CmdBundle-rt-0.001.tar.gz	ver:0.001	siz
 date:2017-02-03	repo:cpan	file:Perinci-To-Doc-0.82.tar.gz	ver:0.82	size:36447
 date:2017-02-03	repo:cpan	file:App-lcpan-CmdBundle-rt-0.002.tar.gz	ver:0.002	size:15159
 date:2017-02-03	repo:cpan	file:WWW-RT-CPAN-0.002.tar.gz	ver:0.002	size:14608
+date:2017-02-04	repo:cpan	file:App-lcpan-CmdBundle-metasyntactic-0.001.tar.gz	ver:0.001	size:13900
+date:2017-02-04	repo:cpan	file:Dist-Zilla-Plugin-Acme-MetaSyntactic-0.001.tar.gz	ver:0.001	size:13194
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-christmas-0.003.tar.gz	ver:0.003	size:13129
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-countries-0.002.tar.gz	ver:0.002	size:12866
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-dangdut-0.002.tar.gz	ver:0.002	size:13027
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-frasier-0.002.tar.gz	ver:0.002	size:13003
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-seinfeld-0.002.tar.gz	ver:0.002	size:12988
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-id_names-0.002.tar.gz	ver:0.002	size:32655
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-display_resolution-0.003.tar.gz	ver:0.003	size:13168
+date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-chinese_zodiac-0.002.tar.gz	ver:0.002	size:13162
