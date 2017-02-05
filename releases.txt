@@ -8904,3 +8904,7 @@ date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-seinfeld-0.002.tar.gz	ver:0.00
 date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-id_names-0.002.tar.gz	ver:0.002	size:32655
 date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-display_resolution-0.003.tar.gz	ver:0.003	size:13168
 date:2017-02-04	repo:cpan	file:Acme-MetaSyntactic-chinese_zodiac-0.002.tar.gz	ver:0.002	size:13162
+date:2017-02-04	repo:cpan	file:Dist-Zilla-Plugin-CopyrightYearFromGit-0.001.tar.gz	ver:0.001	size:13966
+date:2017-02-05	repo:cpan	file:Acme-CPANLists-PERLANCAR-Temp-Plus-0.002.tar.gz	ver:0.002	size:13694
+date:2017-02-05	repo:cpan	file:Release-Util-Git-0.001.tar.gz	ver:0.001	size:14552
+date:2017-02-05	repo:cpan	file:App-ReleaseUtils-0.001.tar.gz	ver:0.001	size:16850
