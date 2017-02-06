@@ -8908,3 +8908,6 @@ date:2017-02-04	repo:cpan	file:Dist-Zilla-Plugin-CopyrightYearFromGit-0.001.tar.
 date:2017-02-05	repo:cpan	file:Acme-CPANLists-PERLANCAR-Temp-Plus-0.002.tar.gz	ver:0.002	size:13694
 date:2017-02-05	repo:cpan	file:Release-Util-Git-0.001.tar.gz	ver:0.001	size:14552
 date:2017-02-05	repo:cpan	file:App-ReleaseUtils-0.001.tar.gz	ver:0.001	size:16850
+date:2017-02-06	repo:cpan	file:App-lcpan-CmdBundle-metasyntactic-0.002.tar.gz	ver:0.002	size:14019
+date:2017-02-06	repo:cpan	file:Sah-Schemas-Perl-0.008.tar.gz	ver:0.008	size:18530
+date:2017-02-06	repo:cpan	file:App-podtohtml-0.002.tar.gz	ver:0.002	size:17383
