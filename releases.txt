@@ -8912,3 +8912,4 @@ date:2017-02-06	repo:cpan	file:App-lcpan-CmdBundle-metasyntactic-0.002.tar.gz	ve
 date:2017-02-06	repo:cpan	file:Sah-Schemas-Perl-0.008.tar.gz	ver:0.008	size:18530
 date:2017-02-06	repo:cpan	file:App-podtohtml-0.002.tar.gz	ver:0.002	size:17383
 date:2017-02-07	repo:cpan	file:App-rsync-new2old-0.006.tar.gz	ver:0.006	size:16775
+date:2017-02-08	repo:cpan	file:Sah-Schemas-Perl-0.009.tar.gz	ver:0.009	size:19523
