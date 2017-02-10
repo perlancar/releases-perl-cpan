@@ -8920,3 +8920,7 @@ date:2017-02-09	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.55.tar
 date:2017-02-09	repo:cpan	file:Business-Tax-ID-PPH21-0.03.tar.gz	ver:0.03	size:16201
 date:2017-02-09	repo:cpan	file:App-ProgUtils-0.19.tar.gz	ver:0.19	size:20007
 date:2017-02-09	repo:cpan	file:Parse-Netstat-0.13.tar.gz	ver:0.13	size:25592
+date:2017-02-10	repo:cpan	file:Release-Util-Git-0.004.tar.gz	ver:0.004	size:14316
+date:2017-02-10	repo:cpan	file:App-ReleaseUtils-0.002.tar.gz	ver:0.002	size:16693
+date:2017-02-10	repo:cpan	file:Dist-Zilla-Plugin-CopyrightYearFromGit-0.003.tar.gz	ver:0.003	size:13514
+date:2017-02-10	repo:cpan	file:DD-0.001.tar.gz	ver:0.001	size:13892
