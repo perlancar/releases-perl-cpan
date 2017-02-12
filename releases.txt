@@ -8927,3 +8927,5 @@ date:2017-02-10	repo:cpan	file:DD-0.001.tar.gz	ver:0.001	size:13892
 date:2017-02-11	repo:cpan	file:WWW-PAUSE-Simple-0.36.tar.gz	ver:0.36	size:22696
 date:2017-02-11	repo:cpan	file:Data-Dump-Patch-Deparse-0.001.tar.gz	ver:0.001	size:13610
 date:2017-02-11	repo:cpan	file:App-metastasize-0.001.tar.gz	ver:0.001	size:16772
+date:2017-02-10	repo:cpan	file:Parse-Netstat-0.14.tar.gz	ver:0.14	size:27385
+date:2017-02-12	repo:cpan	file:App-RemovePdfPassword-0.001.tar.gz	ver:0.001	size:19134
