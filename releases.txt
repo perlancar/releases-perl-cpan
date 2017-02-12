@@ -8925,3 +8925,4 @@ date:2017-02-10	repo:cpan	file:App-ReleaseUtils-0.002.tar.gz	ver:0.002	size:1669
 date:2017-02-10	repo:cpan	file:Dist-Zilla-Plugin-CopyrightYearFromGit-0.003.tar.gz	ver:0.003	size:13514
 date:2017-02-10	repo:cpan	file:DD-0.001.tar.gz	ver:0.001	size:13892
 date:2017-02-10	repo:cpan	file:Parse-Netstat-0.14.tar.gz	ver:0.14	size:27385
+date:2017-02-12	repo:cpan	file:App-RemovePdfPassword-0.001.tar.gz	ver:0.001	size:19134
