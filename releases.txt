@@ -8929,3 +8929,5 @@ date:2017-02-11	repo:cpan	file:Data-Dump-Patch-Deparse-0.001.tar.gz	ver:0.001	si
 date:2017-02-11	repo:cpan	file:App-metastasize-0.001.tar.gz	ver:0.001	size:16772
 date:2017-02-10	repo:cpan	file:Parse-Netstat-0.14.tar.gz	ver:0.14	size:27385
 date:2017-02-12	repo:cpan	file:App-RemovePdfPassword-0.001.tar.gz	ver:0.001	size:19134
+date:2017-02-13	repo:cpan	file:Perinci-CmdLine-POD-0.009.tar.gz	ver:0.009	size:22572
+date:2017-02-13	repo:cpan	file:App-RemovePdfPassword-0.002.tar.gz	ver:0.002	size:17728
