@@ -8934,3 +8934,13 @@ date:2017-02-13	repo:cpan	file:App-RemovePdfPassword-0.002.tar.gz	ver:0.002	size
 date:2017-02-14	repo:cpan	file:anywhere-0.001.tar.gz	ver:0.001	size:13955
 date:2017-02-14	repo:cpan	file:Pod-Weaver-Plugin-PERLANCAR-SortSections-0.06.tar.gz	ver:0.06	size:13619
 date:2017-02-14	repo:cpan	file:anywhere-0.002.tar.gz	ver:0.002	size:14067
+date:2017-02-15	repo:cpan	file:Complete-Acme-MetaSyntactic-0.001.tar.gz	ver:0.001	size:14035
+date:2017-02-16	repo:cpan	file:App-ShellCompleter-meta-0.003.tar.gz	ver:0.003	size:14233
+date:2017-02-16	repo:cpan	file:App-metasyn-0.001.tar.gz	ver:0.001	size:16974
+date:2017-02-17	repo:cpan	file:App-metasyn-0.002.tar.gz	ver:0.002	size:118205
+date:2017-02-17	repo:cpan	file:App-FormatCPANChanges-PERLANCAR-0.001.tar.gz	ver:0.001	size:17282
+date:2017-02-17	repo:cpan	file:Sort-BySpec-0.03.tar.gz	ver:0.03	size:17434
+date:2017-02-17	repo:cpan	file:PERLANCAR-Sort-Sub-0.05.tar.gz	ver:0.05	size:13827
+date:2017-02-17	repo:cpan	file:App-FormatCPANChanges-PERLANCAR-0.002.tar.gz	ver:0.002	size:17462
+date:2017-02-17	repo:cpan	file:PERLANCAR-Sort-Sub-0.06.tar.gz	ver:0.06	size:13997
+date:2017-02-18	repo:cpan	file:Require-HookChain-0.001.tar.gz	ver:0.001	size:15558
