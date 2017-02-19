@@ -8944,3 +8944,6 @@ date:2017-02-17	repo:cpan	file:PERLANCAR-Sort-Sub-0.05.tar.gz	ver:0.05	size:1382
 date:2017-02-17	repo:cpan	file:App-FormatCPANChanges-PERLANCAR-0.002.tar.gz	ver:0.002	size:17462
 date:2017-02-17	repo:cpan	file:PERLANCAR-Sort-Sub-0.06.tar.gz	ver:0.06	size:13997
 date:2017-02-18	repo:cpan	file:Require-HookChain-0.001.tar.gz	ver:0.001	size:15558
+date:2017-02-19	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.11.tar.gz	ver:0.11	size:23706
+date:2017-02-19	repo:cpan	file:Bencher-Backend-1.035.tar.gz	ver:1.035	size:56574
+date:2017-02-19	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.12.tar.gz	ver:0.12	size:40869
