@@ -8949,3 +8949,4 @@ date:2017-02-19	repo:cpan	file:Bencher-Backend-1.035.tar.gz	ver:1.035	size:56574
 date:2017-02-19	repo:cpan	file:Bencher-Scenario-SetOperationModules-0.12.tar.gz	ver:0.12	size:40869
 date:2017-02-20	repo:cpan	file:Bencher-Backend-1.036.tar.gz	ver:1.036	size:55586
 date:2017-02-21	repo:cpan	file:WWW-PAUSE-Simple-0.37.tar.gz	ver:0.37	size:22712
+date:2017-02-22	repo:cpan	file:WWW-phpEasyProject-0.001.tar.gz	ver:0.001	size:13909
