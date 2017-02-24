@@ -8951,3 +8951,8 @@ date:2017-02-20	repo:cpan	file:Bencher-Backend-1.036.tar.gz	ver:1.036	size:55586
 date:2017-02-21	repo:cpan	file:WWW-PAUSE-Simple-0.37.tar.gz	ver:0.37	size:22712
 date:2017-02-22	repo:cpan	file:WWW-phpEasyProject-0.001.tar.gz	ver:0.001	size:13909
 date:2017-02-23	repo:cpan	file:App-RemovePdfPassword-0.003.tar.gz	ver:0.003	size:18153
+date:2017-02-24	repo:cpan	file:WordList-CPAN-PAUSEIDs-0.002.tar.gz	ver:0.002	size:59534
+date:2017-02-24	repo:cpan	file:Perinci-CmdLine-POD-0.010.tar.gz	ver:0.010	size:22666
+date:2017-02-24	repo:cpan	file:Perinci-CmdLine-POD-0.011.tar.gz	ver:0.011	size:22740
+date:2017-02-24	repo:cpan	file:Perinci-To-Doc-0.83.tar.gz	ver:0.83	size:36678
+date:2017-02-24	repo:cpan	file:App-metasyn-0.003.tar.gz	ver:0.003	size:116987
