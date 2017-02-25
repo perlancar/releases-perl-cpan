@@ -8956,3 +8956,4 @@ date:2017-02-24	repo:cpan	file:Perinci-CmdLine-POD-0.010.tar.gz	ver:0.010	size:2
 date:2017-02-24	repo:cpan	file:Perinci-CmdLine-POD-0.011.tar.gz	ver:0.011	size:22740
 date:2017-02-24	repo:cpan	file:Perinci-To-Doc-0.83.tar.gz	ver:0.83	size:36678
 date:2017-02-24	repo:cpan	file:App-metasyn-0.003.tar.gz	ver:0.003	size:116987
+date:2017-02-25	repo:cpan	file:Sah-Schemas-URL-0.003.tar.gz	ver:0.003	size:13809
