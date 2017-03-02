@@ -8963,3 +8963,5 @@ date:2017-02-27	repo:cpan	file:App-metasyn-0.004.tar.gz	ver:0.004	size:117955
 date:2017-02-27	repo:cpan	file:Perinci-To-Doc-0.84.tar.gz	ver:0.84	size:35503
 date:2017-02-28	repo:cpan	file:App-SerializeUtils-0.11.tar.gz	ver:0.11	size:20477
 date:2017-03-01	repo:cpan	file:App-SerializeUtils-0.12.tar.gz	ver:0.12	size:20694
+date:2017-03-02	repo:cpan	file:App-CPANMetaUtils-0.003.tar.gz	ver:0.003	size:16996
+date:2017-03-02	repo:cpan	file:App-CPANMetaUtils-0.004.tar.gz	ver:0.004	size:18852
