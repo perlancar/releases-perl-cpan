@@ -8965,3 +8965,4 @@ date:2017-02-28	repo:cpan	file:App-SerializeUtils-0.11.tar.gz	ver:0.11	size:2047
 date:2017-03-01	repo:cpan	file:App-SerializeUtils-0.12.tar.gz	ver:0.12	size:20694
 date:2017-03-02	repo:cpan	file:App-CPANMetaUtils-0.003.tar.gz	ver:0.003	size:16996
 date:2017-03-02	repo:cpan	file:App-CPANMetaUtils-0.004.tar.gz	ver:0.004	size:18852
+date:2017-03-03	repo:cpan	file:App-CPANMetaUtils-0.005.tar.gz	ver:0.005	size:19620
