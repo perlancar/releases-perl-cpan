@@ -8970,3 +8970,4 @@ date:2017-03-03	repo:cpan	file:App-CPANMetaUtils-0.006.tar.gz	ver:0.006	size:197
 date:2017-03-04	repo:cpan	file:App-CPANMetaUtils-0.007.tar.gz	ver:0.007	size:20195
 date:2017-03-04	repo:cpan	file:App-CPANMetaUtils-0.008.tar.gz	ver:0.008	size:20221
 date:2017-03-06	repo:cpan	file:Bencher-Scenario-CPANMetaValidation-0.001.tar.gz	ver:0.001	size:16858
+date:2017-03-07	repo:cpan	file:Bencher-Scenario-Digest-0.001.tar.gz	ver:0.001	size:16991
