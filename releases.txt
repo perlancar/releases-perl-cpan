@@ -8972,4 +8972,12 @@ date:2017-03-04	repo:cpan	file:App-CPANMetaUtils-0.008.tar.gz	ver:0.008	size:202
 date:2017-03-05	repo:cpan	file:Games-Hangman-0.06.tar.gz	ver:0.06	size:18638
 date:2017-03-06	repo:cpan	file:Bencher-Scenario-CPANMetaValidation-0.001.tar.gz	ver:0.001	size:16858
 date:2017-03-07	repo:cpan	file:Bencher-Scenario-Digest-0.001.tar.gz	ver:0.001	size:16991
+date:2017-03-08	repo:cpan	file:App-ScanPrereqs-0.002.tar.gz	ver:0.002	size:18716
 date:2017-03-09	repo:cpan	file:IPC-System-Options-0.30.tar.gz	ver:0.30	size:20870
+date:2017-03-09	repo:cpan	file:App-SahUtils-0.42.tar.gz	ver:0.42	size:46732
+date:2017-03-09	repo:cpan	file:App-CalcAccumulatedInflation-0.03.tar.gz	ver:0.03	size:17589
+date:2017-03-09	repo:cpan	file:App-SahUtils-0.43.tar.gz	ver:0.43	size:47676
+date:2017-03-09	repo:cpan	file:Sah-0.9.45.tar.gz	ver:0.9.45	size:88615
+date:2017-03-09	repo:cpan	file:Sah-Examples-0.03.tar.gz	ver:0.03	size:15321
+date:2017-03-09	repo:cpan	file:Sah-Examples-0.04.tar.gz	ver:0.04	size:15333
+date:2017-03-09	repo:cpan	file:Sah-Schemas-URL-0.004.tar.gz	ver:0.004	size:13859
