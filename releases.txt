@@ -8972,3 +8972,4 @@ date:2017-03-04	repo:cpan	file:App-CPANMetaUtils-0.008.tar.gz	ver:0.008	size:202
 date:2017-03-05	repo:cpan	file:Games-Hangman-0.06.tar.gz	ver:0.06	size:18638
 date:2017-03-06	repo:cpan	file:Bencher-Scenario-CPANMetaValidation-0.001.tar.gz	ver:0.001	size:16858
 date:2017-03-07	repo:cpan	file:Bencher-Scenario-Digest-0.001.tar.gz	ver:0.001	size:16991
+date:2017-03-09	repo:cpan	file:IPC-System-Options-0.30.tar.gz	ver:0.30	size:20870
