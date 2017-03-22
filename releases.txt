@@ -8988,6 +8988,7 @@ date:2017-03-13	repo:cpan	file:App-FinanceUtils-0.001.tar.gz	ver:0.001	size:1817
 date:2017-03-14	repo:cpan	file:Perinci-Sub-Gen-FromFormulas-0.001.tar.gz	ver:0.001	size:15279
 date:2017-03-14	repo:cpan	file:App-FinanceUtils-0.002.tar.gz	ver:0.002	size:17825
 date:2017-03-14	repo:cpan	file:Data-Sah-Coerce-0.021.tar.gz	ver:0.021	size:30042
+date:2017-03-20	repo:cpan	file:App-DumpFirefoxHistory-0.001.tar.gz	ver:0.001	size:17420
 date:2017-03-21	repo:cpan	file:Acme-PERLANCAR-Test-0.29.tar.gz	ver:0.29	size:14738
 date:2017-03-21	repo:cpan	file:App-BashHistoryUtils-0.06.tar.gz	ver:0.06	size:19178
 date:2017-03-21	repo:cpan	file:App-CPANURLUtils-0.02.tar.gz	ver:0.02	size:17583
