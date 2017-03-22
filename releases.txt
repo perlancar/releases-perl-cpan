@@ -8984,4 +8984,8 @@ date:2017-03-09	repo:cpan	file:Sah-Schemas-URL-0.004.tar.gz	ver:0.004	size:13859
 date:2017-03-10	repo:cpan	file:App-SahUtils-0.44.tar.gz	ver:0.44	size:47564
 date:2017-03-10	repo:cpan	file:TableDef-1.0.8.tar.gz	ver:1.0.8	size:15820
 date:2017-03-13	repo:cpan	file:App-SahUtils-0.45.tar.gz	ver:0.45	size:48108
+date:2017-03-13	repo:cpan	file:App-FinanceUtils-0.001.tar.gz	ver:0.001	size:18174
+date:2017-03-14	repo:cpan	file:Perinci-Sub-Gen-FromFormulas-0.001.tar.gz	ver:0.001	size:15279
+date:2017-03-14	repo:cpan	file:App-FinanceUtils-0.002.tar.gz	ver:0.002	size:17825
+date:2017-03-14	repo:cpan	file:Data-Sah-Coerce-0.021.tar.gz	ver:0.021	size:30042
 date:2017-03-20	repo:cpan	file:App-DumpFirefoxHistory-0.001.tar.gz	ver:0.001	size:17420
