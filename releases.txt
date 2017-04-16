@@ -9008,3 +9008,8 @@ date:2017-04-03	repo:cpan	file:Bencher-Scenario-GraphTopologicalSortModules-0.00
 date:2017-04-03	repo:cpan	file:App-toposort-0.001.tar.gz	ver:0.001	size:14526
 date:2017-04-09	repo:cpan	file:App-PDFUtils-0.001.tar.gz	ver:0.001	size:19646
 date:2017-04-09	repo:cpan	file:IPC-System-Options-0.31.tar.gz	ver:0.31	size:20888
+date:2017-04-16	repo:cpan	file:Bencher-Scenario-SprintfVsUnpack-0.001.tar.gz	ver:0.001	size:17823
+date:2017-04-16	repo:cpan	file:Devel-DieHandler-PrintINCVersion-0.001.tar.gz	ver:0.001	size:13659
+date:2017-04-16	repo:cpan	file:Devel-End-PrintINCVersion-0.001.tar.gz	ver:0.001	size:13481
+date:2017-04-16	repo:cpan	file:Data-Sah-Resolve-0.005.tar.gz	ver:0.005	size:16183
+date:2017-04-16	repo:cpan	file:Data-Sah-Resolve-0.006.tar.gz	ver:0.006	size:16249
