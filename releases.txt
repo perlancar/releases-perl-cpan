@@ -9013,3 +9013,4 @@ date:2017-04-16	repo:cpan	file:Devel-DieHandler-PrintINCVersion-0.001.tar.gz	ver
 date:2017-04-16	repo:cpan	file:Devel-End-PrintINCVersion-0.001.tar.gz	ver:0.001	size:13481
 date:2017-04-16	repo:cpan	file:Data-Sah-Resolve-0.005.tar.gz	ver:0.005	size:16183
 date:2017-04-16	repo:cpan	file:Data-Sah-Resolve-0.006.tar.gz	ver:0.006	size:16249
+date:2017-04-24	repo:cpan	file:App-wp-xmlrpc-0.003.tar.gz	ver:0.003	size:22093
