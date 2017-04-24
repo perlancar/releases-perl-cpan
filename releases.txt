@@ -9016,3 +9016,4 @@ date:2017-04-16	repo:cpan	file:Data-Sah-Resolve-0.006.tar.gz	ver:0.006	size:1624
 date:2017-04-19	repo:cpan	file:Data-Sah-Resolve-0.007.tar.gz	ver:0.007	size:16888
 date:2017-04-19	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.81.tar.gz	ver:0.81	size:37428
 date:2017-04-19	repo:cpan	file:HTTP-Headers-Patch-DontUseStorable-0.05.tar.gz	ver:0.05	size:14333
+date:2017-04-22	repo:cpan	file:App-PDFUtils-0.002.tar.gz	ver:0.002	size:19839
