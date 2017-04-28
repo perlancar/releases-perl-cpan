@@ -9016,3 +9016,7 @@ date:2017-04-16	repo:cpan	file:Data-Sah-Resolve-0.006.tar.gz	ver:0.006	size:1624
 date:2017-04-19	repo:cpan	file:Data-Sah-Resolve-0.007.tar.gz	ver:0.007	size:16888
 date:2017-04-19	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.81.tar.gz	ver:0.81	size:37428
 date:2017-04-19	repo:cpan	file:HTTP-Headers-Patch-DontUseStorable-0.05.tar.gz	ver:0.05	size:14333
+date:2017-04-25	repo:cpan	file:App-CSVUtils-0.012.tar.gz	ver:0.012	size:28645
+date:2017-04-25	repo:cpan	file:DateTime-Format-Alami-0.14.tar.gz	ver:0.14	size:32370
+date:2017-04-25	repo:cpan	file:App-grepdate-0.001.tar.gz	ver:0.001	size:14435
+date:2017-04-25	repo:cpan	file:Sort-Sub-by_date_in_text-0.008.tar.gz	ver:0.008	size:14540
