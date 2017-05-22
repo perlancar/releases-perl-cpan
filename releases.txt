@@ -9033,3 +9033,5 @@ date:2017-05-16	repo:cpan	file:Finance-Bank-ID-BCA-0.45.tar.gz	ver:0.45	size:322
 date:2017-05-16	repo:cpan	file:App-IndonesianBankingUtils-0.09.tar.gz	ver:0.09	size:5780015
 date:2017-05-17	repo:cpan	file:Bencher-Scenario-Serializers-0.15.tar.gz	ver:0.15	size:69699
 date:2017-05-18	repo:cpan	file:App-dt-0.001.tar.gz	ver:0.001	size:15550
+date:2017-05-19	repo:cpan	file:App-dt-0.002.tar.gz	ver:0.002	size:15941
+date:2017-05-19	repo:cpan	file:App-dt-0.003.tar.gz	ver:0.003	size:17257
