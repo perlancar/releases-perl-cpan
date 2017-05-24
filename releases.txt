@@ -9032,10 +9032,15 @@ date:2017-05-15	repo:cpan	file:App-IndonesianBankingUtils-0.08.tar.gz	ver:0.08	s
 date:2017-05-16	repo:cpan	file:Finance-Bank-ID-BCA-0.45.tar.gz	ver:0.45	size:32236
 date:2017-05-16	repo:cpan	file:App-IndonesianBankingUtils-0.09.tar.gz	ver:0.09	size:5780015
 date:2017-05-17	repo:cpan	file:Bencher-Scenario-Serializers-0.15.tar.gz	ver:0.15	size:69699
+date:2017-05-18	repo:cpan	file:App-dt-0.001.tar.gz	ver:0.001	size:15550
 date:2017-05-19	repo:cpan	file:App-dt-0.002.tar.gz	ver:0.002	size:15941
 date:2017-05-19	repo:cpan	file:App-dt-0.003.tar.gz	ver:0.003	size:17257
 date:2017-05-20	repo:cpan	file:WWW-PAUSE-Simple-0.38.tar.gz	ver:0.38	size:22869
 date:2017-05-20	repo:cpan	file:App-pause-0.60.tar.gz	ver:0.60	size:28134
+date:2017-05-22	repo:cpan	file:Sah-Examples-0.05.tar.gz	ver:0.05	size:15735
+date:2017-05-22	repo:cpan	file:App-dt-0.004.tar.gz	ver:0.004	size:16687
+date:2017-05-23	repo:cpan	file:App-SerializeUtils-0.13.tar.gz	ver:0.13	size:20772
+date:2017-05-23	repo:cpan	file:Ledger-Examples-0.04.tar.gz	ver:0.04	size:16260
 date:2017-05-24	repo:cpan	file:Bencher-Scenario-CmdLineParsingModules-0.07.tar.gz	ver:0.07	size:17829
 date:2017-05-24	repo:cpan	file:Bencher-Scenario-SortHashKeys-0.001.tar.gz	ver:0.001	size:16965
 date:2017-05-24	repo:cpan	file:Perinci-Examples-ResMeta-Table-0.001.tar.gz	ver:0.001	size:14787
