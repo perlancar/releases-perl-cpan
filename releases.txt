@@ -9034,3 +9034,11 @@ date:2017-05-16	repo:cpan	file:App-IndonesianBankingUtils-0.09.tar.gz	ver:0.09	s
 date:2017-05-17	repo:cpan	file:Bencher-Scenario-Serializers-0.15.tar.gz	ver:0.15	size:69699
 date:2017-05-19	repo:cpan	file:App-dt-0.002.tar.gz	ver:0.002	size:15941
 date:2017-05-19	repo:cpan	file:App-dt-0.003.tar.gz	ver:0.003	size:17257
+date:2017-05-20	repo:cpan	file:WWW-PAUSE-Simple-0.38.tar.gz	ver:0.38	size:22869
+date:2017-05-20	repo:cpan	file:App-pause-0.60.tar.gz	ver:0.60	size:28134
+date:2017-05-24	repo:cpan	file:Bencher-Scenario-CmdLineParsingModules-0.07.tar.gz	ver:0.07	size:17829
+date:2017-05-24	repo:cpan	file:Bencher-Scenario-SortHashKeys-0.001.tar.gz	ver:0.001	size:16965
+date:2017-05-24	repo:cpan	file:Perinci-Examples-ResMeta-Table-0.001.tar.gz	ver:0.001	size:14787
+date:2017-05-24	repo:cpan	file:Perinci-Result-Format-Lite-0.24.tar.gz	ver:0.24	size:20216
+date:2017-05-24	repo:cpan	file:Business-Tax-ID-PPH21-0.04.tar.gz	ver:0.04	size:16867
+date:2017-05-24	repo:cpan	file:App-PPH21Utils-0.03.tar.gz	ver:0.03	size:18122
