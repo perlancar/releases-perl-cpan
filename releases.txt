@@ -9047,3 +9047,4 @@ date:2017-05-24	repo:cpan	file:Perinci-Examples-ResMeta-Table-0.001.tar.gz	ver:0
 date:2017-05-24	repo:cpan	file:Perinci-Result-Format-Lite-0.24.tar.gz	ver:0.24	size:20216
 date:2017-05-24	repo:cpan	file:Business-Tax-ID-PPH21-0.04.tar.gz	ver:0.04	size:16867
 date:2017-05-24	repo:cpan	file:App-PPH21Utils-0.03.tar.gz	ver:0.03	size:18122
+date:2017-05-29	repo:cpan	file:Calendar-Indonesia-Holiday-0.29.tar.gz	ver:0.29	size:26139
