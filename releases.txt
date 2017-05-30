@@ -9048,3 +9048,6 @@ date:2017-05-24	repo:cpan	file:Perinci-Result-Format-Lite-0.24.tar.gz	ver:0.24	s
 date:2017-05-24	repo:cpan	file:Business-Tax-ID-PPH21-0.04.tar.gz	ver:0.04	size:16867
 date:2017-05-24	repo:cpan	file:App-PPH21Utils-0.03.tar.gz	ver:0.03	size:18122
 date:2017-05-29	repo:cpan	file:Calendar-Indonesia-Holiday-0.29.tar.gz	ver:0.29	size:26139
+date:2017-05-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.20.tar.gz	ver:0.20	size:24159
+date:2017-05-30	repo:cpan	file:App-DumpOperaHistory-0.001.tar.gz	ver:0.001	size:16715
+date:2017-05-30	repo:cpan	file:App-DumpChromeHistory-0.001.tar.gz	ver:0.001	size:17417
