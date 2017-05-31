@@ -9051,3 +9051,12 @@ date:2017-05-29	repo:cpan	file:Calendar-Indonesia-Holiday-0.29.tar.gz	ver:0.29	s
 date:2017-05-30	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.20.tar.gz	ver:0.20	size:24159
 date:2017-05-30	repo:cpan	file:App-DumpOperaHistory-0.001.tar.gz	ver:0.001	size:16715
 date:2017-05-30	repo:cpan	file:App-DumpChromeHistory-0.001.tar.gz	ver:0.001	size:17417
+date:2017-05-31	repo:cpan	file:Finance-Bank-ID-Mandiri-0.34.tar.gz	ver:0.34	size:30697
+date:2017-05-31	repo:cpan	file:HTTP-Tiny-Patch-LogAny-0.04.tar.gz	ver:0.04	size:13959
+date:2017-05-31	repo:cpan	file:Finance-BTCIndo-0.001.tar.gz	ver:0.001	size:15691
+date:2017-05-31	repo:cpan	file:Perinci-Result-Format-Lite-0.25.tar.gz	ver:0.25	size:20067
+date:2017-05-31	repo:cpan	file:Perinci-Examples-ResMeta-Table-0.002.tar.gz	ver:0.002	size:15015
+date:2017-05-31	repo:cpan	file:Finance-BTCIndo-0.002.tar.gz	ver:0.002	size:15932
+date:2017-05-31	repo:cpan	file:App-btcindo-0.001.tar.gz	ver:0.001	size:18718
+date:2017-05-31	repo:cpan	file:Finance-BTCIndo-0.003.tar.gz	ver:0.003	size:16051
+date:2017-05-31	repo:cpan	file:App-btcindo-0.002.tar.gz	ver:0.002	size:18973
