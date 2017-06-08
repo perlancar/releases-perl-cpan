@@ -9060,3 +9060,9 @@ date:2017-05-31	repo:cpan	file:Finance-BTCIndo-0.002.tar.gz	ver:0.002	size:15932
 date:2017-05-31	repo:cpan	file:App-btcindo-0.001.tar.gz	ver:0.001	size:18718
 date:2017-05-31	repo:cpan	file:Finance-BTCIndo-0.003.tar.gz	ver:0.003	size:16051
 date:2017-05-31	repo:cpan	file:App-btcindo-0.002.tar.gz	ver:0.002	size:18973
+date:2017-06-07	repo:cpan	file:Bencher-Scenario-HashUnique-0.001.tar.gz	ver:0.001	size:16629
+date:2017-06-07	repo:cpan	file:Tie-Array-Expire-0.001.tar.gz	ver:0.001	size:13862
+date:2017-06-07	repo:cpan	file:App-BlockWebFlooders-0.001.tar.gz	ver:0.001	size:17250
+date:2017-06-08	repo:cpan	file:Perinci-CmdLine-POD-0.013.tar.gz	ver:0.013	size:22941
+date:2017-06-08	repo:cpan	file:App-BlockWebFlooders-0.002.tar.gz	ver:0.002	size:17385
+date:2017-06-08	repo:cpan	file:App-BlockWebFlooders-0.003.tar.gz	ver:0.003	size:17417
