@@ -9086,3 +9086,4 @@ date:2017-06-09	repo:cpan	file:CPAN-Info-FromURL-0.08.tar.gz	ver:0.08	size:17277
 date:2017-06-09	repo:cpan	file:Module-CheckVersion-0.08.tar.gz	ver:0.08	size:134406
 date:2017-06-09	repo:cpan	file:App-PMUtils-0.68.tar.gz	ver:0.68	size:38625
 date:2017-06-09	repo:cpan	file:Perinci-CmdLine-Easy-1.18.tar.gz	ver:1.18	size:15517
+date:2017-06-11	repo:cpan	file:Bencher-Scenario-Glob-0.001.tar.gz	ver:0.001	size:18033
