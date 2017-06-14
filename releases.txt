@@ -9088,3 +9088,6 @@ date:2017-06-09	repo:cpan	file:App-PMUtils-0.68.tar.gz	ver:0.68	size:38625
 date:2017-06-09	repo:cpan	file:Perinci-CmdLine-Easy-1.18.tar.gz	ver:1.18	size:15517
 date:2017-06-11	repo:cpan	file:Bencher-Scenario-Glob-0.001.tar.gz	ver:0.001	size:18033
 date:2017-06-13	repo:cpan	file:Date-Extract-PERLANCAR-0.001.tar.gz	ver:0.001	size:18573
+date:2017-06-14	repo:cpan	file:Array-Sample-Partition-0.001.tar.gz	ver:0.001	size:13501
+date:2017-06-14	repo:cpan	file:Algorithm-History-Levels-0.001.tar.gz	ver:0.001	size:16302
+date:2017-06-14	repo:cpan	file:App-TrimHistories-0.001.tar.gz	ver:0.001	size:17977
