@@ -9091,3 +9091,4 @@ date:2017-06-13	repo:cpan	file:Date-Extract-PERLANCAR-0.001.tar.gz	ver:0.001	siz
 date:2017-06-14	repo:cpan	file:Array-Sample-Partition-0.001.tar.gz	ver:0.001	size:13501
 date:2017-06-14	repo:cpan	file:Algorithm-History-Levels-0.001.tar.gz	ver:0.001	size:16302
 date:2017-06-14	repo:cpan	file:App-TrimHistories-0.001.tar.gz	ver:0.001	size:17977
+date:2017-06-14	repo:cpan	file:App-TrimHistories-0.002.tar.gz	ver:0.002	size:19314
