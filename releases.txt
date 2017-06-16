@@ -9093,5 +9093,11 @@ date:2017-06-14	repo:cpan	file:Algorithm-History-Levels-0.001.tar.gz	ver:0.001	s
 date:2017-06-14	repo:cpan	file:App-TrimHistories-0.001.tar.gz	ver:0.001	size:17977
 date:2017-06-14	repo:cpan	file:App-TrimHistories-0.002.tar.gz	ver:0.002	size:19314
 date:2017-06-14	repo:cpan	file:Date-Extract-PERLANCAR-0.002.tar.gz	ver:0.002	size:18739
+date:2017-06-14	repo:cpan	file:App-ExtractDate-0.003.tar.gz	ver:0.003	size:16849
+date:2017-06-14	repo:cpan	file:App-MysqlUtils-0.004.tar.gz	ver:0.004	size:20783
+date:2017-06-15	repo:cpan	file:App-MysqlUtils-0.005.tar.gz	ver:0.005	size:21748
+date:2017-06-15	repo:cpan	file:App-MysqlUtils-0.006.tar.gz	ver:0.006	size:22917
+date:2017-06-15	repo:cpan	file:SQL-Schema-Versioned-0.21.tar.gz	ver:0.21	size:21045
+date:2017-06-15	repo:cpan	file:App-ListNewCPANDists-0.001.tar.gz	ver:0.001	size:19019
 date:2017-06-16	repo:cpan	file:Ledger-Examples-0.05.tar.gz	ver:0.05	size:16360
 date:2017-06-16	repo:cpan	file:Ledger-Parser-0.06.tar.gz	ver:0.06	size:19632
