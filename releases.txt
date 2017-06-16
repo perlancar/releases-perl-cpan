@@ -9098,3 +9098,8 @@ date:2017-06-15	repo:cpan	file:App-MysqlUtils-0.005.tar.gz	ver:0.005	size:21748
 date:2017-06-15	repo:cpan	file:App-MysqlUtils-0.006.tar.gz	ver:0.006	size:22917
 date:2017-06-15	repo:cpan	file:SQL-Schema-Versioned-0.21.tar.gz	ver:0.21	size:21045
 date:2017-06-15	repo:cpan	file:App-ListNewCPANDists-0.001.tar.gz	ver:0.001	size:19019
+date:2017-06-16	repo:cpan	file:App-org2wp-0.005.tar.gz	ver:0.005	size:20245
+date:2017-06-16	repo:cpan	file:App-pod2wp-0.002.tar.gz	ver:0.002	size:20295
+date:2017-06-16	repo:cpan	file:App-ListNewCPANDists-0.002.tar.gz	ver:0.002	size:19768
+date:2017-06-16	repo:cpan	file:App-html2wp-0.001.tar.gz	ver:0.001	size:19912
+date:2017-06-16	repo:cpan	file:App-ListNewCPANDists-0.003.tar.gz	ver:0.003	size:19916
