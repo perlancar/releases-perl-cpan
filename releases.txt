@@ -9092,3 +9092,6 @@ date:2017-06-14	repo:cpan	file:Array-Sample-Partition-0.001.tar.gz	ver:0.001	siz
 date:2017-06-14	repo:cpan	file:Algorithm-History-Levels-0.001.tar.gz	ver:0.001	size:16302
 date:2017-06-14	repo:cpan	file:App-TrimHistories-0.001.tar.gz	ver:0.001	size:17977
 date:2017-06-14	repo:cpan	file:App-TrimHistories-0.002.tar.gz	ver:0.002	size:19314
+date:2017-06-14	repo:cpan	file:Date-Extract-PERLANCAR-0.002.tar.gz	ver:0.002	size:18739
+date:2017-06-16	repo:cpan	file:Ledger-Examples-0.05.tar.gz	ver:0.05	size:16360
+date:2017-06-16	repo:cpan	file:Ledger-Parser-0.06.tar.gz	ver:0.06	size:19632
