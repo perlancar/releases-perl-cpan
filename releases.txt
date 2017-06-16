@@ -9101,3 +9101,8 @@ date:2017-06-15	repo:cpan	file:SQL-Schema-Versioned-0.21.tar.gz	ver:0.21	size:21
 date:2017-06-15	repo:cpan	file:App-ListNewCPANDists-0.001.tar.gz	ver:0.001	size:19019
 date:2017-06-16	repo:cpan	file:Ledger-Examples-0.05.tar.gz	ver:0.05	size:16360
 date:2017-06-16	repo:cpan	file:Ledger-Parser-0.06.tar.gz	ver:0.06	size:19632
+date:2017-06-16	repo:cpan	file:App-org2wp-0.005.tar.gz	ver:0.005	size:20245
+date:2017-06-16	repo:cpan	file:App-pod2wp-0.002.tar.gz	ver:0.002	size:20295
+date:2017-06-16	repo:cpan	file:App-ListNewCPANDists-0.002.tar.gz	ver:0.002	size:19768
+date:2017-06-16	repo:cpan	file:App-html2wp-0.001.tar.gz	ver:0.001	size:19912
+date:2017-06-16	repo:cpan	file:App-ListNewCPANDists-0.003.tar.gz	ver:0.003	size:19916
