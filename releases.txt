@@ -9106,3 +9106,17 @@ date:2017-06-16	repo:cpan	file:App-pod2wp-0.002.tar.gz	ver:0.002	size:20295
 date:2017-06-16	repo:cpan	file:App-ListNewCPANDists-0.002.tar.gz	ver:0.002	size:19768
 date:2017-06-16	repo:cpan	file:App-html2wp-0.001.tar.gz	ver:0.001	size:19912
 date:2017-06-16	repo:cpan	file:App-ListNewCPANDists-0.003.tar.gz	ver:0.003	size:19916
+date:2017-06-17	repo:cpan	file:App-ShellCompleter-cpanm-0.18.tar.gz	ver:0.18	size:18490
+date:2017-06-17	repo:cpan	file:App-cpanm-script-0.002.tar.gz	ver:0.002	size:15303
+date:2017-06-17	repo:cpan	file:App-lcpan-1.018.tar.gz	ver:1.018	size:101694
+date:2017-06-17	repo:cpan	file:Array-Sample-SysRand-0.001.tar.gz	ver:0.001	size:14268
+date:2017-06-17	repo:cpan	file:Sah-Schemas-Date-0.001.tar.gz	ver:0.001	size:15385
+date:2017-06-17	repo:cpan	file:Perinci-CmdLine-Lite-1.73.tar.gz	ver:1.73	size:57133
+date:2017-06-17	repo:cpan	file:Perinci-CmdLine-Dump-0.09.tar.gz	ver:0.09	size:16468
+date:2017-06-17	repo:cpan	file:App-TrimHistories-0.003.tar.gz	ver:0.003	size:19920
+date:2017-06-17	repo:cpan	file:App-MysqlUtils-0.007.tar.gz	ver:0.007	size:24628
+date:2017-06-17	repo:cpan	file:App-org2wp-0.006.tar.gz	ver:0.006	size:22495
+date:2017-06-17	repo:cpan	file:App-pod2wp-0.003.tar.gz	ver:0.003	size:22358
+date:2017-06-17	repo:cpan	file:Perinci-CmdLine-Lite-1.74.tar.gz	ver:1.74	size:57172
+date:2017-06-17	repo:cpan	file:App-html2wp-0.002.tar.gz	ver:0.002	size:21988
+date:2017-06-17	repo:cpan	file:Perinci-CmdLine-1.51.tar.gz	ver:1.51	size:28928
