@@ -9120,3 +9120,11 @@ date:2017-06-17	repo:cpan	file:App-pod2wp-0.003.tar.gz	ver:0.003	size:22358
 date:2017-06-17	repo:cpan	file:Perinci-CmdLine-Lite-1.74.tar.gz	ver:1.74	size:57172
 date:2017-06-17	repo:cpan	file:App-html2wp-0.002.tar.gz	ver:0.002	size:21988
 date:2017-06-17	repo:cpan	file:Perinci-CmdLine-1.51.tar.gz	ver:1.51	size:28928
+date:2017-06-19	repo:cpan	file:Log-ger-0.001.tar.gz	ver:0.001	size:16412
+date:2017-06-19	repo:cpan	file:Log-ger-LevelFromEnv-0.001.tar.gz	ver:0.001	size:12418
+date:2017-06-19	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.21.tar.gz	ver:0.21	size:24175
+date:2017-06-19	repo:cpan	file:Log-ger-OptAway-0.001.tar.gz	ver:0.001	size:12630
+date:2017-06-19	repo:cpan	file:Log-ger-LogAny-0.001.tar.gz	ver:0.001	size:12459
+date:2017-06-19	repo:cpan	file:Bencher-Scenarios-LogGer-0.001.tar.gz	ver:0.001	size:20599
+date:2017-06-19	repo:cpan	file:Perinci-CmdLine-Lite-1.74_001.tar.gz	ver:1.74_001	size:56161
+date:2017-06-19	repo:cpan	file:App-TrimHistories-0.004.tar.gz	ver:0.004	size:18168
