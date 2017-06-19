@@ -9128,3 +9128,10 @@ date:2017-06-19	repo:cpan	file:Log-ger-LogAny-0.001.tar.gz	ver:0.001	size:12459
 date:2017-06-19	repo:cpan	file:Bencher-Scenarios-LogGer-0.001.tar.gz	ver:0.001	size:20599
 date:2017-06-19	repo:cpan	file:Perinci-CmdLine-Lite-1.74_001.tar.gz	ver:1.74_001	size:56161
 date:2017-06-19	repo:cpan	file:App-TrimHistories-0.004.tar.gz	ver:0.004	size:18168
+date:2017-06-19	repo:cpan	file:Perinci-CmdLine-Lite-1.74_002.tar.gz	ver:1.74_002	size:56148
+date:2017-06-19	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.22.tar.gz	ver:0.22	size:24246
+date:2017-06-19	repo:cpan	file:Perinci-CmdLine-Lite-1.74_003.tar.gz	ver:1.74_003	size:56402
+date:2017-06-19	repo:cpan	file:App-TrimHistories-0.005.tar.gz	ver:0.005	size:18302
+date:2017-06-19	repo:cpan	file:Perinci-CmdLine-Gen-0.45_001.tar.gz	ver:0.45_001	size:25296
+date:2017-06-19	repo:cpan	file:Log-ger-For-Class-0.001.tar.gz	ver:0.001	size:17885
+date:2017-06-19	repo:cpan	file:Log-ger-DBI-Query-0.001.tar.gz	ver:0.001	size:13806
