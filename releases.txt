@@ -9135,3 +9135,7 @@ date:2017-06-19	repo:cpan	file:App-TrimHistories-0.005.tar.gz	ver:0.005	size:183
 date:2017-06-19	repo:cpan	file:Perinci-CmdLine-Gen-0.45_001.tar.gz	ver:0.45_001	size:25296
 date:2017-06-19	repo:cpan	file:Log-ger-For-Class-0.001.tar.gz	ver:0.001	size:17885
 date:2017-06-19	repo:cpan	file:Log-ger-DBI-Query-0.001.tar.gz	ver:0.001	size:13806
+date:2017-06-19	repo:cpan	file:App-lcpan-1.019.tar.gz	ver:1.019	size:100385
+date:2017-06-20	repo:cpan	file:Calendar-Indonesia-Holiday-0.30.tar.gz	ver:0.30	size:26337
+date:2017-06-20	repo:cpan	file:App-BencherUtils-0.20.tar.gz	ver:0.20	size:25337
+date:2017-06-20	repo:cpan	file:IPC-System-Options-0.31_001.tar.gz	ver:0.31_001	size:19805
