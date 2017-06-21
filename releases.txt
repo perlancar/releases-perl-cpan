@@ -9155,3 +9155,4 @@ date:2017-06-21	repo:cpan	file:Log-Any-Adapter-LogGer-0.002.tar.gz	ver:0.002	siz
 date:2017-06-21	repo:cpan	file:Perinci-CmdLine-Lite-1.74_004.tar.gz	ver:1.74_004	size:56516
 date:2017-06-21	repo:cpan	file:Log-ger-0.004.tar.gz	ver:0.004	size:18776
 date:2017-06-21	repo:cpan	file:Bencher-Scenarios-LogGer-0.002.tar.gz	ver:0.002	size:20759
+date:2017-06-21	repo:cpan	file:Log-ger-Output-File-0.001.tar.gz	ver:0.001	size:13122
