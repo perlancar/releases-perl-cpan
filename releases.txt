@@ -9172,3 +9172,6 @@ date:2017-06-24	repo:cpan	file:Log-ger-Like-LogAny-0.001.tar.gz	ver:0.001	size:1
 date:2017-06-24	repo:cpan	file:Log-ger-Manual-0.006.tar.gz	ver:0.006	size:15349
 date:2017-06-24	repo:cpan	file:Log-ger-Output-ArrayWithLimits-0.001.tar.gz	ver:0.001	size:14063
 date:2017-06-24	repo:cpan	file:Log-ger-Output-FileWriteRotate-0.001.tar.gz	ver:0.001	size:14249
+date:2017-06-24	repo:cpan	file:Dir-Write-Rotate-0.001.tar.gz	ver:0.001	size:17707
+date:2017-06-24	repo:cpan	file:Dir-Write-Rotate-0.002.tar.gz	ver:0.002	size:17714
+date:2017-06-24	repo:cpan	file:Log-ger-Output-DirWriteRotate-0.001.tar.gz	ver:0.001	size:13713
