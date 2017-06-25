@@ -9175,3 +9175,10 @@ date:2017-06-24	repo:cpan	file:Log-ger-Output-FileWriteRotate-0.001.tar.gz	ver:0
 date:2017-06-24	repo:cpan	file:Dir-Write-Rotate-0.001.tar.gz	ver:0.001	size:17707
 date:2017-06-24	repo:cpan	file:Dir-Write-Rotate-0.002.tar.gz	ver:0.002	size:17714
 date:2017-06-24	repo:cpan	file:Log-ger-Output-DirWriteRotate-0.001.tar.gz	ver:0.001	size:13713
+date:2017-06-24	repo:cpan	file:Log-ger-Output-LogAny-0.005.tar.gz	ver:0.005	size:12974
+date:2017-06-24	repo:cpan	file:Perinci-CmdLine-Dump-0.10.tar.gz	ver:0.10	size:16734
+date:2017-06-24	repo:cpan	file:Dist-Zilla-Plugin-Rinci-Validate-0.24.tar.gz	ver:0.24	size:20310
+date:2017-06-24	repo:cpan	file:SQL-Schema-Versioned-0.22.tar.gz	ver:0.22	size:21764
+date:2017-06-25	repo:cpan	file:Log-ger-0.007.tar.gz	ver:0.007	size:22070
+date:2017-06-25	repo:cpan	file:Log-ger-Format-Flogger-0.001.tar.gz	ver:0.001	size:12790
+date:2017-06-25	repo:cpan	file:Log-Any-Adapter-LogGer-0.003.tar.gz	ver:0.003	size:13561
