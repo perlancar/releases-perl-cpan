@@ -9182,3 +9182,6 @@ date:2017-06-24	repo:cpan	file:SQL-Schema-Versioned-0.22.tar.gz	ver:0.22	size:21
 date:2017-06-25	repo:cpan	file:Log-ger-0.007.tar.gz	ver:0.007	size:22070
 date:2017-06-25	repo:cpan	file:Log-ger-Format-Flogger-0.001.tar.gz	ver:0.001	size:12790
 date:2017-06-25	repo:cpan	file:Log-Any-Adapter-LogGer-0.003.tar.gz	ver:0.003	size:13561
+date:2017-06-25	repo:cpan	file:Log-ger-Output-Composite-0.003.tar.gz	ver:0.003	size:16681
+date:2017-06-25	repo:cpan	file:Log-ger-Output-Composite-0.004.tar.gz	ver:0.004	size:16782
+date:2017-06-25	repo:cpan	file:Log-ger-Format-Block-0.003.tar.gz	ver:0.003	size:13230
