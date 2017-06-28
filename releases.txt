@@ -9200,3 +9200,13 @@ date:2017-06-26	repo:cpan	file:Log-ger-For-LWP-0.001.tar.gz	ver:0.001	size:14477
 date:2017-06-26	repo:cpan	file:App-CPANMetaUtils-0.009.tar.gz	ver:0.009	size:20837
 date:2017-06-26	repo:cpan	file:App-SerializeUtils-0.15.tar.gz	ver:0.15	size:22241
 date:2017-06-26	repo:cpan	file:Log-ger-Format-Sprintfn-0.001.tar.gz	ver:0.001	size:13587
+date:2017-06-28	repo:cpan	file:Log-ger-0.009.tar.gz	ver:0.009	size:22999
+date:2017-06-28	repo:cpan	file:Log-ger-Layout-Pattern-0.001.tar.gz	ver:0.001	size:14839
+date:2017-06-28	repo:cpan	file:Log-ger-0.010.tar.gz	ver:0.010	size:23099
+date:2017-06-28	repo:cpan	file:Log-ger-Manual-0.010.tar.gz	ver:0.010	size:16385
+date:2017-06-28	repo:cpan	file:Log-ger-Plugin-SingleLog-0.001.tar.gz	ver:0.001	size:13733
+date:2017-06-28	repo:cpan	file:Bencher-Scenarios-LogGer-0.006.tar.gz	ver:0.006	size:28292
+date:2017-06-28	repo:cpan	file:Log-ger-UseDataDumpColor-0.001.tar.gz	ver:0.001	size:13279
+date:2017-06-28	repo:cpan	file:Log-ger-UseDataDump-0.001.tar.gz	ver:0.001	size:13277
+date:2017-06-28	repo:cpan	file:WWW-PAUSE-Simple-0.40.tar.gz	ver:0.40	size:23682
+date:2017-06-28	repo:cpan	file:Perinci-CmdLine-Lite-1.75.tar.gz	ver:1.75	size:57563
