@@ -9240,3 +9240,14 @@ date:2017-07-02	repo:cpan	file:Log-ger-Output-Composite-0.006.tar.gz	ver:0.006	s
 date:2017-07-02	repo:cpan	file:Log-ger-Output-Composite-0.007.tar.gz	ver:0.007	size:17870
 date:2017-07-02	repo:cpan	file:Bencher-Backend-1.039.tar.gz	ver:1.039	size:56578
 date:2017-07-02	repo:cpan	file:Bencher-Scenarios-LogGer-0.009.tar.gz	ver:0.009	size:40524
+date:2017-07-02	repo:cpan	file:App-CSVUtils-0.013.tar.gz	ver:0.013	size:30775
+date:2017-07-03	repo:cpan	file:Perinci-CmdLine-Inline-0.52.tar.gz	ver:0.52	size:42121
+date:2017-07-03	repo:cpan	file:Finance-Bank-ID-Mandiri-0.35.tar.gz	ver:0.35	size:31668
+date:2017-07-03	repo:cpan	file:App-ConvertLogAnyToLogGer-0.001.tar.gz	ver:0.001	size:16194
+date:2017-07-03	repo:cpan	file:App-ConvertLogAnyToLogGer-0.002.tar.gz	ver:0.002	size:19385
+date:2017-07-03	repo:cpan	file:Perinci-To-Doc-0.85.tar.gz	ver:0.85	size:34757
+date:2017-07-03	repo:cpan	file:App-CompleteUtils-0.14.tar.gz	ver:0.14	size:18468
+date:2017-07-03	repo:cpan	file:Complete-Host-0.05.tar.gz	ver:0.05	size:15633
+date:2017-07-03	repo:cpan	file:Complete-MAC-0.002.tar.gz	ver:0.002	size:14700
+date:2017-07-03	repo:cpan	file:Complete-Path-0.24.tar.gz	ver:0.24	size:18271
+date:2017-07-03	repo:cpan	file:Complete-Util-0.59.tar.gz	ver:0.59	size:30895
