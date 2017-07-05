@@ -9291,3 +9291,4 @@ date:2017-07-04	repo:cpan	file:Business-BankList-0.012.tar.gz	ver:0.012	size:129
 date:2017-07-04	repo:cpan	file:Perinci-CmdLine-Inline-0.53.tar.gz	ver:0.53	size:42052
 date:2017-07-04	repo:cpan	file:App-pause-0.62.tar.gz	ver:0.62	size:28179
 date:2017-07-04	repo:cpan	file:Module-Load-In-INIT-0.003.tar.gz	ver:0.003	size:13653
+date:2017-07-05	repo:cpan	file:App-CompleteUtils-0.15.tar.gz	ver:0.15	size:17464
