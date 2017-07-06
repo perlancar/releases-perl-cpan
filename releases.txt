@@ -9292,3 +9292,4 @@ date:2017-07-04	repo:cpan	file:Perinci-CmdLine-Inline-0.53.tar.gz	ver:0.53	size:
 date:2017-07-04	repo:cpan	file:App-pause-0.62.tar.gz	ver:0.62	size:28179
 date:2017-07-04	repo:cpan	file:Module-Load-In-INIT-0.003.tar.gz	ver:0.003	size:13653
 date:2017-07-05	repo:cpan	file:App-CompleteUtils-0.15.tar.gz	ver:0.15	size:17464
+date:2017-07-06	repo:cpan	file:Dist-Zilla-Plugin-Acme-CPANLists-Blacklist-0.03.tar.gz	ver:0.03	size:15484
