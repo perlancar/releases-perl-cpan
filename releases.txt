@@ -9313,3 +9313,6 @@ date:2017-07-07	repo:cpan	file:Perinci-CmdLine-POD-0.014.tar.gz	ver:0.014	size:2
 date:2017-07-07	repo:cpan	file:Perinci-CmdLine-1.52.tar.gz	ver:1.52	size:28314
 date:2017-07-07	repo:cpan	file:Pod-Weaver-Role-SectionText-SelfCompletion-0.05.tar.gz	ver:0.05	size:13965
 date:2017-07-07	repo:cpan	file:Pod-Weaver-Role-SectionText-HasCompletion-0.04.tar.gz	ver:0.04	size:13836
+date:2017-07-08	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.58.tar.gz	ver:0.58	size:19108
+date:2017-07-08	repo:cpan	file:App-cpanm-shcompgen-0.001.tar.gz	ver:0.001	size:14442
+date:2017-07-08	repo:cpan	file:App-PMUtils-0.69.tar.gz	ver:0.69	size:40241
