@@ -9437,3 +9437,4 @@ date:2017-07-10	repo:cpan	file:Unix-Passwd-File-0.24.tar.gz	ver:0.24	size:39629
 date:2017-07-10	repo:cpan	file:phpBB2-Simple-0.04.tar.gz	ver:0.04	size:18751
 date:2017-07-10	repo:cpan	file:App-PDRUtils-0.11.tar.gz	ver:0.11	size:30808
 date:2017-07-10	repo:cpan	file:Perinci-Access-HTTP-Server-0.61.tar.gz	ver:0.61	size:40956
+date:2017-07-10	repo:cpan	file:Perinci-Sub-Gen-AccessTable-0.57.tar.gz	ver:0.57	size:47434
