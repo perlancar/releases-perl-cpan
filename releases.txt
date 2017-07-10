@@ -9435,3 +9435,5 @@ date:2017-07-10	repo:cpan	file:Text-Fragment-0.10.tar.gz	ver:0.10	size:23965
 date:2017-07-10	repo:cpan	file:Text-ANSITable-0.49.tar.gz	ver:0.49	size:56997
 date:2017-07-10	repo:cpan	file:Unix-Passwd-File-0.24.tar.gz	ver:0.24	size:39629
 date:2017-07-10	repo:cpan	file:phpBB2-Simple-0.04.tar.gz	ver:0.04	size:18751
+date:2017-07-10	repo:cpan	file:App-PDRUtils-0.11.tar.gz	ver:0.11	size:30808
+date:2017-07-10	repo:cpan	file:Perinci-Access-HTTP-Server-0.61.tar.gz	ver:0.61	size:40956
