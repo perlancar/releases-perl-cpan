@@ -9454,3 +9454,4 @@ date:2017-07-11	repo:cpan	file:Log-ger-0.013.tar.gz	ver:0.013	size:23744
 date:2017-07-11	repo:cpan	file:Log-ger-Like-LogAny-0.002.tar.gz	ver:0.002	size:13486
 date:2017-07-11	repo:cpan	file:Log-ger-Manual-0.013.tar.gz	ver:0.013	size:17864
 date:2017-07-11	repo:cpan	file:Log-ger-0.014.tar.gz	ver:0.014	size:23807
+date:2017-07-11	repo:cpan	file:File-Trash-Undoable-0.22.tar.gz	ver:0.22	size:18022
