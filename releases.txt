@@ -9455,3 +9455,13 @@ date:2017-07-11	repo:cpan	file:Log-ger-Like-LogAny-0.002.tar.gz	ver:0.002	size:1
 date:2017-07-11	repo:cpan	file:Log-ger-Manual-0.013.tar.gz	ver:0.013	size:17864
 date:2017-07-11	repo:cpan	file:Log-ger-0.014.tar.gz	ver:0.014	size:23807
 date:2017-07-11	repo:cpan	file:File-Trash-Undoable-0.22.tar.gz	ver:0.22	size:18022
+date:2017-07-12	repo:cpan	file:Log-ger-0.015.tar.gz	ver:0.015	size:23824
+date:2017-07-12	repo:cpan	file:Log-ger-Like-LogAny-0.003.tar.gz	ver:0.003	size:13793
+date:2017-07-12	repo:cpan	file:Log-ger-Manual-0.015.tar.gz	ver:0.015	size:19299
+date:2017-07-12	repo:cpan	file:Log-ger-Like-Log4perl-0.001.tar.gz	ver:0.001	size:14386
+date:2017-07-12	repo:cpan	file:Log-ger-Manual-0.015001.tar.gz	ver:0.015001	size:19446
+date:2017-07-12	repo:cpan	file:Log-ger-Output-Syslog-0.001.tar.gz	ver:0.001	size:12835
+date:2017-07-12	repo:cpan	file:Log-ger-App-0.001.tar.gz	ver:0.001	size:14371
+date:2017-07-12	repo:cpan	file:Log-ger-App-0.002.tar.gz	ver:0.002	size:14448
+date:2017-07-12	repo:cpan	file:Perinci-CmdLine-Lite-1.75_001.tar.gz	ver:1.75_001	size:56560
+date:2017-07-12	repo:cpan	file:Perinci-CmdLine-Classic-1.75_001.tar.gz	ver:1.75_001	size:43157
