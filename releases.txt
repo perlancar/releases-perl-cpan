@@ -9465,3 +9465,5 @@ date:2017-07-12	repo:cpan	file:Log-ger-App-0.001.tar.gz	ver:0.001	size:14371
 date:2017-07-12	repo:cpan	file:Log-ger-App-0.002.tar.gz	ver:0.002	size:14448
 date:2017-07-12	repo:cpan	file:Perinci-CmdLine-Lite-1.75_001.tar.gz	ver:1.75_001	size:56560
 date:2017-07-12	repo:cpan	file:Perinci-CmdLine-Classic-1.75_001.tar.gz	ver:1.75_001	size:43157
+date:2017-07-13	repo:cpan	file:Log-ger-0.016.tar.gz	ver:0.016	size:25972
+date:2017-07-13	repo:cpan	file:Bencher-Scenarios-LogGer-0.010.tar.gz	ver:0.010	size:41926
