@@ -9467,3 +9467,8 @@ date:2017-07-12	repo:cpan	file:Perinci-CmdLine-Lite-1.75_001.tar.gz	ver:1.75_001
 date:2017-07-12	repo:cpan	file:Perinci-CmdLine-Classic-1.75_001.tar.gz	ver:1.75_001	size:43157
 date:2017-07-13	repo:cpan	file:Log-ger-0.016.tar.gz	ver:0.016	size:25972
 date:2017-07-13	repo:cpan	file:Bencher-Scenarios-LogGer-0.010.tar.gz	ver:0.010	size:41926
+date:2017-07-13	repo:cpan	file:App-BencherUtils-0.21.tar.gz	ver:0.21	size:25608
+date:2017-07-13	repo:cpan	file:Bencher-Backend-1.040.tar.gz	ver:1.040	size:61890
+date:2017-07-13	repo:cpan	file:Bencher-1.040.tar.gz	ver:1.040	size:35512
+date:2017-07-13	repo:cpan	file:App-BencherUtils-0.22.tar.gz	ver:0.22	size:25709
+date:2017-07-13	repo:cpan	file:Log-ger-0.017.tar.gz	ver:0.017	size:24722
