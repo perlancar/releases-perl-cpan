@@ -9472,3 +9472,13 @@ date:2017-07-13	repo:cpan	file:Bencher-Backend-1.040.tar.gz	ver:1.040	size:61890
 date:2017-07-13	repo:cpan	file:Bencher-1.040.tar.gz	ver:1.040	size:35512
 date:2017-07-13	repo:cpan	file:App-BencherUtils-0.22.tar.gz	ver:0.22	size:25709
 date:2017-07-13	repo:cpan	file:Log-ger-0.017.tar.gz	ver:0.017	size:24722
+date:2017-07-14	repo:cpan	file:Devel-End-PrintINC-0.001.tar.gz	ver:0.001	size:12849
+date:2017-07-14	repo:cpan	file:Module-DataPack-0.21.tar.gz	ver:0.21	size:18068
+date:2017-07-14	repo:cpan	file:Module-FatPack-0.17.tar.gz	ver:0.17	size:18286
+date:2017-07-14	repo:cpan	file:App-depak-0.56.tar.gz	ver:0.56	size:34757
+date:2017-07-14	repo:cpan	file:Perinci-CmdLine-Lite-1.76.tar.gz	ver:1.76	size:55419
+date:2017-07-14	repo:cpan	file:Dist-Zilla-Plugin-Depak-0.21.tar.gz	ver:0.21	size:17709
+date:2017-07-14	repo:cpan	file:App-CPAN-Changes-0.003.tar.gz	ver:0.003	size:19018
+date:2017-07-14	repo:cpan	file:Log-ger-Output-SimpleFile-0.001.tar.gz	ver:0.001	size:13232
+date:2017-07-14	repo:cpan	file:Log-ger-0.018.tar.gz	ver:0.018	size:25853
+date:2017-07-14	repo:cpan	file:Perinci-CmdLine-Classic-1.76.tar.gz	ver:1.76	size:43787
