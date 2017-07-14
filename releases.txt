@@ -9482,3 +9482,14 @@ date:2017-07-14	repo:cpan	file:App-CPAN-Changes-0.003.tar.gz	ver:0.003	size:1901
 date:2017-07-14	repo:cpan	file:Log-ger-Output-SimpleFile-0.001.tar.gz	ver:0.001	size:13232
 date:2017-07-14	repo:cpan	file:Log-ger-0.018.tar.gz	ver:0.018	size:25853
 date:2017-07-14	repo:cpan	file:Perinci-CmdLine-Classic-1.76.tar.gz	ver:1.76	size:43787
+date:2017-07-14	repo:cpan	file:Log-ger-0.019.tar.gz	ver:0.019	size:25105
+date:2017-07-14	repo:cpan	file:Finance-Bank-ID-Mandiri-0.36.tar.gz	ver:0.36	size:31357
+date:2017-07-14	repo:cpan	file:Perinci-CmdLine-Gen-0.47.tar.gz	ver:0.47	size:26914
+date:2017-07-14	repo:cpan	file:App-IndonesianBankingUtils-0.11.tar.gz	ver:0.11	size:5139354
+date:2017-07-14	repo:cpan	file:Log-ger-App-0.003.tar.gz	ver:0.003	size:14533
+date:2017-07-14	repo:cpan	file:App-depak-0.57.tar.gz	ver:0.57	size:35262
+date:2017-07-14	repo:cpan	file:File-RsyBak-0.33.tar.gz	ver:0.33	size:295033
+date:2017-07-14	repo:cpan	file:File-RsyBak-0.34.tar.gz	ver:0.34	size:295135
+date:2017-07-14	repo:cpan	file:App-cpanminus-script-Patch-UseURIFromFoundMirror-0.001.tar.gz	ver:0.001	size:13883
+date:2017-07-14	repo:cpan	file:App-cpanm-perlancar-0.001.tar.gz	ver:0.001	size:13747
+date:2017-07-14	repo:cpan	file:Complete-File-0.43.tar.gz	ver:0.43	size:18227
