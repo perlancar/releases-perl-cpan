@@ -9509,3 +9509,6 @@ date:2017-07-22	repo:cpan	file:Perinci-CmdLine-Help-0.15.tar.gz	ver:0.15	size:17
 date:2017-07-22	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.82.tar.gz	ver:0.82	size:41147
 date:2017-07-22	repo:cpan	file:Perinci-CmdLine-Lite-1.77.tar.gz	ver:1.77	size:69366
 date:2017-07-23	repo:cpan	file:Bencher-Scenario-ArraySamplePartition-0.001.tar.gz	ver:0.001	size:19969
+date:2017-07-24	repo:cpan	file:Log-ger-Output-Perl-0.001.tar.gz	ver:0.001	size:14273
+date:2017-07-24	repo:cpan	file:Perinci-CmdLine-Help-0.16.tar.gz	ver:0.16	size:16750
+date:2017-07-24	repo:cpan	file:App-pause-0.64.tar.gz	ver:0.64	size:27550
