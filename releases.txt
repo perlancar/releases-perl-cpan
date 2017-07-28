@@ -9514,3 +9514,13 @@ date:2017-07-24	repo:cpan	file:Perinci-CmdLine-Help-0.16.tar.gz	ver:0.16	size:16
 date:2017-07-24	repo:cpan	file:App-pause-0.64.tar.gz	ver:0.64	size:27550
 date:2017-07-27	repo:cpan	file:Complete-Man-0.08.tar.gz	ver:0.08	size:15593
 date:2017-07-27	repo:cpan	file:App-manwrap-pm-0.003.tar.gz	ver:0.003	size:16097
+date:2017-07-28	repo:cpan	file:Dist-Zilla-Plugin-Acme-CPANLists-Blacklist-0.04.tar.gz	ver:0.04	size:15781
+date:2017-07-28	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.24.tar.gz	ver:0.24	size:25666
+date:2017-07-28	repo:cpan	file:Dist-Zilla-Plugin-Acme-CPANLists-0.03.tar.gz	ver:0.03	size:14766
+date:2017-07-28	repo:cpan	file:Acme-CPANLists-PERLANCAR-Self-0.003.tar.gz	ver:0.003	size:13756
+date:2017-07-28	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureVersion-0.04.tar.gz	ver:0.04	size:14211
+date:2017-07-28	repo:cpan	file:String-Elide-FromArray-0.001.tar.gz	ver:0.001	size:14326
+date:2017-07-28	repo:cpan	file:App-lcpan-CmdBundle-deps-0.007.tar.gz	ver:0.007	size:15544
+date:2017-07-28	repo:cpan	file:App-perlmv-u-0.001.tar.gz	ver:0.001	size:19992
+date:2017-07-28	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.25.tar.gz	ver:0.25	size:25727
+date:2017-07-28	repo:cpan	file:Perinci-Access-Simple-Server-0.26.tar.gz	ver:0.26	size:26274
