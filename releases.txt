@@ -9512,3 +9512,5 @@ date:2017-07-23	repo:cpan	file:Bencher-Scenario-ArraySamplePartition-0.001.tar.g
 date:2017-07-24	repo:cpan	file:Log-ger-Output-Perl-0.001.tar.gz	ver:0.001	size:14273
 date:2017-07-24	repo:cpan	file:Perinci-CmdLine-Help-0.16.tar.gz	ver:0.16	size:16750
 date:2017-07-24	repo:cpan	file:App-pause-0.64.tar.gz	ver:0.64	size:27550
+date:2017-07-27	repo:cpan	file:Complete-Man-0.08.tar.gz	ver:0.08	size:15593
+date:2017-07-27	repo:cpan	file:App-manwrap-pm-0.003.tar.gz	ver:0.003	size:16097
