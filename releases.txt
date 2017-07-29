@@ -9524,3 +9524,8 @@ date:2017-07-28	repo:cpan	file:App-lcpan-CmdBundle-deps-0.007.tar.gz	ver:0.007	s
 date:2017-07-28	repo:cpan	file:App-perlmv-u-0.001.tar.gz	ver:0.001	size:19992
 date:2017-07-28	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.25.tar.gz	ver:0.25	size:25727
 date:2017-07-28	repo:cpan	file:Perinci-Access-Simple-Server-0.26.tar.gz	ver:0.26	size:26274
+date:2017-07-29	repo:cpan	file:App-tracepm-0.21.tar.gz	ver:0.21	size:25574
+date:2017-07-29	repo:cpan	file:App-tracepm-0.22.tar.gz	ver:0.22	size:24703
+date:2017-07-29	repo:cpan	file:Complete-Man-0.09.tar.gz	ver:0.09	size:15723
+date:2017-07-29	repo:cpan	file:App-manwrap-pm-0.004.tar.gz	ver:0.004	size:16152
+date:2017-07-29	repo:cpan	file:App-AlgorithmDiffUtils-0.001.tar.gz	ver:0.001	size:17780
