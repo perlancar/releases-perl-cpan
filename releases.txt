@@ -9529,3 +9529,6 @@ date:2017-07-29	repo:cpan	file:App-tracepm-0.22.tar.gz	ver:0.22	size:24703
 date:2017-07-29	repo:cpan	file:Complete-Man-0.09.tar.gz	ver:0.09	size:15723
 date:2017-07-29	repo:cpan	file:App-manwrap-pm-0.004.tar.gz	ver:0.004	size:16152
 date:2017-07-29	repo:cpan	file:App-AlgorithmDiffUtils-0.001.tar.gz	ver:0.001	size:17780
+date:2017-07-29	repo:cpan	file:Bencher-Scenarios-AlgorithmDiff-0.001.tar.gz	ver:0.001	size:25293
+date:2017-07-30	repo:cpan	file:Log-ger-0.020.tar.gz	ver:0.020	size:26696
+date:2017-07-30	repo:cpan	file:Log-ger-For-Class-0.002.tar.gz	ver:0.002	size:19275
