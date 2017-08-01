@@ -9538,3 +9538,15 @@ date:2017-07-31	repo:cpan	file:Perinci-CmdLine-Classic-1.770.tar.gz	ver:1.770	si
 date:2017-07-31	repo:cpan	file:Log-ger-Manual-0.015.002.tar.gz	ver:0.015.002	size:20129
 date:2017-07-31	repo:cpan	file:App-PMUtils-0.71.tar.gz	ver:0.71	size:40422
 date:2017-07-31	repo:cpan	file:File-RsyBak-0.35.tar.gz	ver:0.35	size:353928
+date:2017-08-01	repo:cpan	file:Getopt-Long-Subcommand-0.100.tar.gz	ver:0.100	size:21632
+date:2017-08-01	repo:cpan	file:Log-ger-Format-Block-0.005.tar.gz	ver:0.005	size:13331
+date:2017-08-01	repo:cpan	file:Log-ger-Format-Sprintfn-0.002.tar.gz	ver:0.002	size:13244
+date:2017-08-01	repo:cpan	file:Log-ger-Format-Flogger-0.002.tar.gz	ver:0.002	size:12979
+date:2017-08-01	repo:cpan	file:App-perlmv-u-0.002.tar.gz	ver:0.002	size:20234
+date:2017-08-01	repo:cpan	file:App-perlmv-u-0.003.tar.gz	ver:0.003	size:20275
+date:2017-08-01	repo:cpan	file:Log-ger-Manual-0.020.001.tar.gz	ver:0.020.001	size:20338
+date:2017-08-01	repo:cpan	file:Bencher-Scenarios-LogGer-0.011.tar.gz	ver:0.011	size:44651
+date:2017-08-01	repo:cpan	file:Log-ger-Manual-0.020.002.tar.gz	ver:0.020.002	size:20650
+date:2017-08-01	repo:cpan	file:Perl-Critic-PolicyBundle-PERLANCAR-0.001.tar.gz	ver:0.001	size:14392
+date:2017-08-01	repo:cpan	file:Getopt-Long-Subcommand-0.101.tar.gz	ver:0.101	size:21721
+date:2017-08-01	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.590.tar.gz	ver:0.590	size:18791
