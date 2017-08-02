@@ -9550,3 +9550,16 @@ date:2017-08-01	repo:cpan	file:Log-ger-Manual-0.020.002.tar.gz	ver:0.020.002	siz
 date:2017-08-01	repo:cpan	file:Perl-Critic-PolicyBundle-PERLANCAR-0.001.tar.gz	ver:0.001	size:14392
 date:2017-08-01	repo:cpan	file:Getopt-Long-Subcommand-0.101.tar.gz	ver:0.101	size:21721
 date:2017-08-01	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.590.tar.gz	ver:0.590	size:18791
+date:2017-08-02	repo:cpan	file:Log-ger-0.021.tar.gz	ver:0.021	size:25948
+date:2017-08-02	repo:cpan	file:Log-ger-Manual-0.021.001.tar.gz	ver:0.021.001	size:20868
+date:2017-08-02	repo:cpan	file:Module-Load-DiffINC-0.001.tar.gz	ver:0.001	size:13344
+date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.003.tar.gz	ver:0.003	size:13402
+date:2017-08-02	repo:cpan	file:App-BencherUtils-0.23.tar.gz	ver:0.23	size:25926
+date:2017-08-02	repo:cpan	file:App-PerlCriticUtils-0.001.tar.gz	ver:0.001	size:18544
+date:2017-08-02	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.005.tar.gz	ver:0.005	size:15819
+date:2017-08-02	repo:cpan	file:Log-ger-Output-FileWriteRotate-0.002.tar.gz	ver:0.002	size:14084
+date:2017-08-02	repo:cpan	file:Log-ger-Manual-0.021.002.tar.gz	ver:0.021.002	size:24737
+date:2017-08-02	repo:cpan	file:App-cpanm-shcompgen-0.002.tar.gz	ver:0.002	size:13976
+date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.004.tar.gz	ver:0.004	size:14813
+date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.005.tar.gz	ver:0.005	size:14833
+date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.006.tar.gz	ver:0.006	size:14849
