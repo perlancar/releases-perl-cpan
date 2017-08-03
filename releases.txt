@@ -9563,3 +9563,22 @@ date:2017-08-02	repo:cpan	file:App-cpanm-shcompgen-0.002.tar.gz	ver:0.002	size:1
 date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.004.tar.gz	ver:0.004	size:14813
 date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.005.tar.gz	ver:0.005	size:14833
 date:2017-08-02	repo:cpan	file:Log-ger-Output-File-0.006.tar.gz	ver:0.006	size:14849
+date:2017-08-03	repo:cpan	file:Log-ger-Output-Screen-0.006.tar.gz	ver:0.006	size:14246
+date:2017-08-03	repo:cpan	file:App-LogGerUtils-0.001.tar.gz	ver:0.001	size:13679
+date:2017-08-03	repo:cpan	file:Log-ger-Screen-ColorSchemes-Kuler-0.001.tar.gz	ver:0.001	size:12879
+date:2017-08-03	repo:cpan	file:Log-ger-Screen-ColorSchemes-Kuler-0.002.tar.gz	ver:0.002	size:45360
+date:2017-08-03	repo:cpan	file:Log-ger-Manual-0.022.000.tar.gz	ver:0.022.000	size:30513
+date:2017-08-03	repo:cpan	file:Log-ger-Level-FromEnv-0.002.tar.gz	ver:0.002	size:12735	oldname:Log-ger-LevelFromEnv
+date:2017-08-03	repo:cpan	file:Log-ger-Level-Like-RubyLogging-0.001.tar.gz	ver:0.001	size:12679
+date:2017-08-03	repo:cpan	file:Log-ger-Level-Like-RubyLogging-0.002.tar.gz	ver:0.002	size:12691
+date:2017-08-03	repo:cpan	file:App-IndonesianBankingUtils-0.13.tar.gz	ver:0.13	size:4951955
+date:2017-08-03	repo:cpan	file:Log-ger-Level-Like-RubyLogging-0.003.tar.gz	ver:0.003	size:12692
+date:2017-08-03	repo:cpan	file:Perinci-Access-Simple-Server-0.27.tar.gz	ver:0.27	size:26407
+date:2017-08-03	repo:cpan	file:Log-ger-0.023.tar.gz	ver:0.023	size:26123
+date:2017-08-03	repo:cpan	file:Log-ger-Level-Like-LogAny-0.001.tar.gz	ver:0.001	size:12710
+date:2017-08-03	repo:cpan	file:Log-ger-Output-Screen-0.007.tar.gz	ver:0.007	size:14430
+date:2017-08-03	repo:cpan	file:App-LogGerUtils-0.002.tar.gz	ver:0.002	size:13898
+date:2017-08-03	repo:cpan	file:Log-ger-Level-Like-PythonLogging-0.001.tar.gz	ver:0.001	size:12458
+date:2017-08-03	repo:cpan	file:Log-ger-Screen-ColorSchemes-Kuler-0.003.tar.gz	ver:0.003	size:45388
+date:2017-08-03	repo:cpan	file:Log-ger-Plugin-OptAway-0.005.tar.gz	ver:0.005	size:13968
+date:2017-08-03	repo:cpan	file:Log-ger-Like-LogAny-0.004.tar.gz	ver:0.004	size:14020
