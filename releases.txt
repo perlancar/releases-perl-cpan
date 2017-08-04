@@ -9584,3 +9584,5 @@ date:2017-08-03	repo:cpan	file:Log-ger-Screen-ColorSchemes-Kuler-0.003.tar.gz	ve
 date:2017-08-03	repo:cpan	file:Log-ger-Plugin-OptAway-0.005.tar.gz	ver:0.005	size:13968
 date:2017-08-03	repo:cpan	file:Log-ger-Like-LogAny-0.004.tar.gz	ver:0.004	size:14020
 date:2017-08-03	repo:cpan	file:Log-ger-Output-LogDispatchOutput-0.002.tar.gz	ver:0.002	size:14100
+date:2017-08-04	repo:cpan	file:Log-ger-Plugin-WithWarn-0.001.tar.gz	ver:0.001	size:14207
+date:2017-08-04	repo:cpan	file:Log-ger-Plugin-WithWarn-0.002.tar.gz	ver:0.002	size:14480
