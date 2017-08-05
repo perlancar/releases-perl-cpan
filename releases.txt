@@ -9589,3 +9589,10 @@ date:2017-08-04	repo:cpan	file:Log-ger-Plugin-WithWarn-0.002.tar.gz	ver:0.002	si
 date:2017-08-04	repo:cpan	file:Bencher-Scenarios-SPVM-0.002.tar.gz	ver:0.002	size:17305
 date:2017-08-04	repo:cpan	file:Perinci-CmdLine-Lite-1.78.tar.gz	ver:1.78	size:57126
 date:2017-08-04	repo:cpan	file:Bencher-Scenarios-LogGer-0.012.tar.gz	ver:0.012	size:37896
+date:2017-08-05	repo:cpan	file:Log-ger-Output-Callback-0.003.tar.gz	ver:0.003	size:14179
+date:2017-08-05	repo:cpan	file:IOD-Examples-0.200.tar.gz	ver:0.200	size:21877
+date:2017-08-05	repo:cpan	file:IOD-Examples-0.201.tar.gz	ver:0.201	size:21983
+date:2017-08-05	repo:cpan	file:Config-IOD-Reader-0.33.tar.gz	ver:0.33	size:28445
+date:2017-08-05	repo:cpan	file:Config-IOD-0.34.tar.gz	ver:0.34	size:30667
+date:2017-08-05	repo:cpan	file:App-envset-0.001.tar.gz	ver:0.001	size:15992
+date:2017-08-05	repo:cpan	file:App-IODUtils-0.15.tar.gz	ver:0.15	size:22281
