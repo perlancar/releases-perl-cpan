@@ -9602,3 +9602,7 @@ date:2017-08-06	repo:cpan	file:App-DiffTarballs-0.001.tar.gz	ver:0.001	size:1779
 date:2017-08-06	repo:cpan	file:App-DiffTarballs-0.002.tar.gz	ver:0.002	size:17863
 date:2017-08-07	repo:cpan	file:App-DiffCPANReleases-0.001.tar.gz	ver:0.001	size:18305
 date:2017-08-07	repo:cpan	file:App-DiffTarballs-0.003.tar.gz	ver:0.003	size:18069
+date:2017-08-08	repo:cpan	file:Tie-Handle-LogGer-0.001.tar.gz	ver:0.001	size:13797
+date:2017-08-08	repo:cpan	file:Tie-Handle-LogAny-0.001.tar.gz	ver:0.001	size:13798
+date:2017-08-09	repo:cpan	file:Text-DumbTemplate-0.001.tar.gz	ver:0.001	size:14311
+date:2017-08-09	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.83.tar.gz	ver:0.83	size:41300
