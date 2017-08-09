@@ -9596,3 +9596,7 @@ date:2017-08-05	repo:cpan	file:Config-IOD-Reader-0.33.tar.gz	ver:0.33	size:28445
 date:2017-08-05	repo:cpan	file:Config-IOD-0.34.tar.gz	ver:0.34	size:30667
 date:2017-08-05	repo:cpan	file:App-envset-0.001.tar.gz	ver:0.001	size:15992
 date:2017-08-05	repo:cpan	file:App-IODUtils-0.15.tar.gz	ver:0.15	size:22281
+date:2017-08-08	repo:cpan	file:Tie-Handle-LogGer-0.001.tar.gz	ver:0.001	size:13797
+date:2017-08-08	repo:cpan	file:Tie-Handle-LogAny-0.001.tar.gz	ver:0.001	size:13798
+date:2017-08-09	repo:cpan	file:Text-DumbTemplate-0.001.tar.gz	ver:0.001	size:14311
+date:2017-08-09	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.83.tar.gz	ver:0.83	size:41300
