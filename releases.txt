@@ -9613,3 +9613,13 @@ date:2017-08-09	repo:cpan	file:Module-Patch-0.26.tar.gz	ver:0.26	size:21364
 date:2017-08-09	repo:cpan	file:App-PerinciUtils-0.110.tar.gz	ver:0.110	size:28712
 date:2017-08-09	repo:cpan	file:Getopt-Long-EvenLess-0.110.tar.gz	ver:0.110	size:19019
 date:2017-08-09	repo:cpan	file:Getopt-Long-EvenLess-0.111.tar.gz	ver:0.111	size:19286
+date:2017-08-10	repo:cpan	file:Sah-Schemas-Float-0.001.tar.gz	ver:0.001	size:16002
+date:2017-08-10	repo:cpan	file:App-corruptor-0.001.tar.gz	ver:0.001	size:18166
+date:2017-08-10	repo:cpan	file:Perinci-CmdLine-Gen-0.482.tar.gz	ver:0.482	size:27830
+date:2017-08-10	repo:cpan	file:IPC-System-Options-0.330.tar.gz	ver:0.330	size:21787
+date:2017-08-10	repo:cpan	file:Getopt-Long-Util-0.890.tar.gz	ver:0.890	size:19988
+date:2017-08-10	repo:cpan	file:Getopt-Long-EvenLess-Dump-0.001.tar.gz	ver:0.001	size:16628
+date:2017-08-10	repo:cpan	file:App-errno-0.06.tar.gz	ver:0.06	size:14896
+date:2017-08-10	repo:cpan	file:App-GetoptLongUtils-0.006.tar.gz	ver:0.006	size:18288
+date:2017-08-10	repo:cpan	file:App-shcompgen-0.320.tar.gz	ver:0.320	size:32527
+date:2017-08-11	repo:cpan	file:Module-CPANfile-FromDistINI-0.001.tar.gz	ver:0.001	size:16507
