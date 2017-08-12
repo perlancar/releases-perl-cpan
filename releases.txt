@@ -9623,3 +9623,6 @@ date:2017-08-10	repo:cpan	file:App-errno-0.06.tar.gz	ver:0.06	size:14896
 date:2017-08-10	repo:cpan	file:App-GetoptLongUtils-0.006.tar.gz	ver:0.006	size:18288
 date:2017-08-10	repo:cpan	file:App-shcompgen-0.320.tar.gz	ver:0.320	size:32527
 date:2017-08-11	repo:cpan	file:Module-CPANfile-FromDistINI-0.001.tar.gz	ver:0.001	size:16507
+date:2017-08-12	repo:cpan	file:Text-WordDiff-Unified-ANSIColor-0.001.tar.gz	ver:0.001	size:13989
+date:2017-08-12	repo:cpan	file:App-diffwc-0.001.tar.gz	ver:0.001	size:16538
+date:2017-08-12	repo:cpan	file:App-diffwc-0.002.tar.gz	ver:0.002	size:16596
