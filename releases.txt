@@ -9626,3 +9626,16 @@ date:2017-08-11	repo:cpan	file:Module-CPANfile-FromDistINI-0.001.tar.gz	ver:0.00
 date:2017-08-12	repo:cpan	file:Text-WordDiff-Unified-ANSIColor-0.001.tar.gz	ver:0.001	size:13989
 date:2017-08-12	repo:cpan	file:App-diffwc-0.001.tar.gz	ver:0.001	size:16538
 date:2017-08-12	repo:cpan	file:App-diffwc-0.002.tar.gz	ver:0.002	size:16596
+date:2017-08-12	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.420.tar.gz	ver:0.420	size:20435
+date:2017-08-12	repo:cpan	file:Text-WordDiff-Unified-ANSIColor-0.002.tar.gz	ver:0.002	size:14306
+date:2017-08-12	repo:cpan	file:Filename-Audio-0.001.tar.gz	ver:0.001	size:14526
+date:2017-08-12	repo:cpan	file:Filename-Image-0.001.tar.gz	ver:0.001	size:14538
+date:2017-08-12	repo:cpan	file:Filename-Media-0.001.tar.gz	ver:0.001	size:14778
+date:2017-08-12	repo:cpan	file:Filename-Video-0.001.tar.gz	ver:0.001	size:14505
+date:2017-08-12	repo:cpan	file:Getopt-Long-Subcommand-0.102.tar.gz	ver:0.102	size:22554
+date:2017-08-12	repo:cpan	file:Perinci-CmdLine-Inline-0.540.tar.gz	ver:0.540	size:43311
+date:2017-08-12	repo:cpan	file:Perinci-CmdLine-Help-0.170.tar.gz	ver:0.170	size:17490
+date:2017-08-12	repo:cpan	file:Perinci-To-Doc-0.860.tar.gz	ver:0.860	size:33795
+date:2017-08-12	repo:cpan	file:Perinci-CmdLine-POD-0.015.tar.gz	ver:0.015	size:25177
+date:2017-08-13	repo:cpan	file:App-diffwc-ColorSchemes-Kuler-0.001.tar.gz	ver:0.001	size:14097
+date:2017-08-13	repo:cpan	file:DBIx-Diff-Schema-0.090.tar.gz	ver:0.090	size:18532
