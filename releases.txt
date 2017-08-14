@@ -9639,3 +9639,4 @@ date:2017-08-12	repo:cpan	file:Perinci-To-Doc-0.860.tar.gz	ver:0.860	size:33795
 date:2017-08-12	repo:cpan	file:Perinci-CmdLine-POD-0.015.tar.gz	ver:0.015	size:25177
 date:2017-08-13	repo:cpan	file:App-diffwc-ColorSchemes-Kuler-0.001.tar.gz	ver:0.001	size:14097
 date:2017-08-13	repo:cpan	file:DBIx-Diff-Schema-0.090.tar.gz	ver:0.090	size:18532
+date:2017-08-14	repo:cpan	file:App-ProveDeps-0.001.tar.gz	ver:0.001	size:19111
