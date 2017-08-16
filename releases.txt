@@ -9646,3 +9646,10 @@ date:2017-08-15	repo:cpan	file:DBIx-Connect-MySQL-0.001.tar.gz	ver:0.001	size:13
 date:2017-08-16	repo:cpan	file:App-finddo-0.001.tar.gz	ver:0.001	size:135280
 date:2017-08-16	repo:cpan	file:Perinci-CmdLine-Inline-0.541.tar.gz	ver:0.541	size:42439
 date:2017-08-16	repo:cpan	file:App-finddo-0.002.tar.gz	ver:0.002	size:120079
+date:2017-08-16	repo:cpan	file:ShellQuote-Any-Tiny-0.005.tar.gz	ver:0.005	size:13954
+date:2017-08-16	repo:cpan	file:App-AlgorithmDiffUtils-0.002.tar.gz	ver:0.002	size:17837
+date:2017-08-16	repo:cpan	file:DBIx-Connect-MySQL-0.002.tar.gz	ver:0.002	size:13773
+date:2017-08-16	repo:cpan	file:Perl-Critic-PolicyBundle-PERLANCAR-0.002.tar.gz	ver:0.002	size:14600
+date:2017-08-16	repo:cpan	file:Text-DumbTemplate-0.002.tar.gz	ver:0.002	size:13925
+date:2017-08-16	repo:cpan	file:App-diffwc-0.003.tar.gz	ver:0.003	size:70383
+date:2017-08-16	repo:cpan	file:App-PlUtils-0.120.tar.gz	ver:0.120	size:21617
