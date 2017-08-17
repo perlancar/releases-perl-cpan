@@ -9646,3 +9646,4 @@ date:2017-08-15	repo:cpan	file:DBIx-Connect-MySQL-0.001.tar.gz	ver:0.001	size:13
 date:2017-08-16	repo:cpan	file:App-finddo-0.001.tar.gz	ver:0.001	size:135280
 date:2017-08-16	repo:cpan	file:Perinci-CmdLine-Inline-0.541.tar.gz	ver:0.541	size:42439
 date:2017-08-16	repo:cpan	file:App-finddo-0.002.tar.gz	ver:0.002	size:120079
+date:2017-08-17	repo:cpan	file:IOD-0.9.12.tar.gz	ver:0.9.12	size:20512
