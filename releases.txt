@@ -9654,3 +9654,5 @@ date:2017-08-16	repo:cpan	file:Text-DumbTemplate-0.002.tar.gz	ver:0.002	size:139
 date:2017-08-16	repo:cpan	file:App-diffwc-0.003.tar.gz	ver:0.003	size:70383
 date:2017-08-16	repo:cpan	file:App-PlUtils-0.120.tar.gz	ver:0.120	size:21617
 date:2017-08-17	repo:cpan	file:IOD-0.9.12.tar.gz	ver:0.9.12	size:20512
+date:2017-08-17	repo:cpan	file:App-perlmv-u-0.004.tar.gz	ver:0.004	size:20469
+date:2017-08-17	repo:cpan	file:App-MysqlUtils-0.009.tar.gz	ver:0.009	size:24328
