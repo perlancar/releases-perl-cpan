@@ -9661,3 +9661,13 @@ date:2017-08-19	repo:cpan	file:App-perlmv-u-0.005.tar.gz	ver:0.005	size:21467
 date:2017-08-19	repo:cpan	file:Sah-Schemas-Int-0.070.tar.gz	ver:0.070	size:18587
 date:2017-08-19	repo:cpan	file:Text-DiffU-0.001.tar.gz	ver:0.001	size:16175
 date:2017-08-19	repo:cpan	file:App-TextDiffUUtils-0.001.tar.gz	ver:0.001	size:13976
+date:2017-08-21	repo:cpan	file:App-dbinfo-0.001.tar.gz	ver:0.001	size:19880
+date:2017-08-25	repo:cpan	file:Bencher-Scenarios-DataCleansing-0.004.tar.gz	ver:0.004	size:26343
+date:2017-08-25	repo:cpan	file:Perinci-CmdLine-POD-0.016.tar.gz	ver:0.016	size:24696
+date:2017-08-25	repo:cpan	file:App-dbinfo-0.002.tar.gz	ver:0.002	size:19959
+date:2017-08-27	repo:cpan	file:Bencher-Scenarios-DateModules-0.003.tar.gz	ver:0.003	size:24894
+date:2017-08-27	repo:cpan	file:Class-Accessor-Array-0.030.tar.gz	ver:0.030	size:15259
+date:2017-08-27	repo:cpan	file:Bencher-Scenarios-DateModules-0.004.tar.gz	ver:0.004	size:27384
+date:2017-08-27	repo:cpan	file:Class-Accessor-Array-0.031.tar.gz	ver:0.031	size:15985
+date:2017-08-27	repo:cpan	file:App-PackUtils-0.001.tar.gz	ver:0.001	size:17270
+date:2017-08-27	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.840.tar.gz	ver:0.840	size:41361
