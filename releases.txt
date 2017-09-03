@@ -9671,3 +9671,5 @@ date:2017-08-27	repo:cpan	file:Bencher-Scenarios-DateModules-0.004.tar.gz	ver:0.
 date:2017-08-27	repo:cpan	file:Class-Accessor-Array-0.031.tar.gz	ver:0.031	size:15985
 date:2017-08-27	repo:cpan	file:App-PackUtils-0.001.tar.gz	ver:0.001	size:17270
 date:2017-08-27	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.840.tar.gz	ver:0.840	size:41361
+date:2017-09-01	repo:cpan	file:Class-Accessor-PackedString-0.001.tar.gz	ver:0.001	size:15635
+date:2017-09-01	repo:cpan	file:Perl-Examples-Accessors-0.130.tar.gz	ver:0.130	size:17163
