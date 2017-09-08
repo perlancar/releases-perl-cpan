@@ -9671,3 +9671,11 @@ date:2017-08-27	repo:cpan	file:Bencher-Scenarios-DateModules-0.004.tar.gz	ver:0.
 date:2017-08-27	repo:cpan	file:Class-Accessor-Array-0.031.tar.gz	ver:0.031	size:15985
 date:2017-08-27	repo:cpan	file:App-PackUtils-0.001.tar.gz	ver:0.001	size:17270
 date:2017-08-27	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.840.tar.gz	ver:0.840	size:41361
+date:2017-09-07	repo:cpan	file:Log-ger-App-0.004.tar.gz	ver:0.004	size:15142
+date:2017-09-08	repo:cpan	file:RedHat-Releases-0.020.tar.gz	ver:0.020	size:20110
+date:2017-09-08	repo:cpan	file:Acme-CPANLists-PERLANCAR-0.26.tar.gz	ver:0.26	size:26142
+date:2017-09-08	repo:cpan	file:CentOS-Releases-0.030.tar.gz	ver:0.030	size:18531
+date:2017-09-08	repo:cpan	file:PERLANCAR-Debian-Releases-0.050.tar.gz	ver:0.050	size:20281
+date:2017-09-08	repo:cpan	file:Ubuntu-Releases-0.110.tar.gz	ver:0.110	size:21015
+date:2017-09-08	repo:cpan	file:LinuxMint-Releases-0.030.tar.gz	ver:0.030	size:19972
+date:2017-09-08	repo:cpan	file:Complete-Module-0.260.tar.gz	ver:0.260	size:19635
