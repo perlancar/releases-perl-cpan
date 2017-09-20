@@ -9684,3 +9684,5 @@ date:2017-09-08	repo:cpan	file:LinuxMint-Releases-0.030.tar.gz	ver:0.030	size:19
 date:2017-09-08	repo:cpan	file:Complete-Module-0.260.tar.gz	ver:0.260	size:19635
 date:2017-09-13	repo:cpan	file:Class-Accessor-Array-Slurpy-0.020.tar.gz	ver:0.020	size:15467
 date:2017-09-19	repo:cpan	file:ShellQuote-Any-Tiny-0.006.tar.gz	ver:0.006	size:14164
+date:2017-09-20	repo:cpan	file:App-MacVictimUtils-0.001.tar.gz	ver:0.001	size:16816
+date:2017-09-20	repo:cpan	file:ShellQuote-Any-Tiny-0.007.tar.gz	ver:0.007	size:14301
