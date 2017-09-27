@@ -9683,3 +9683,4 @@ date:2017-09-08	repo:cpan	file:Ubuntu-Releases-0.110.tar.gz	ver:0.110	size:21015
 date:2017-09-08	repo:cpan	file:LinuxMint-Releases-0.030.tar.gz	ver:0.030	size:19972
 date:2017-09-08	repo:cpan	file:Complete-Module-0.260.tar.gz	ver:0.260	size:19635
 date:2017-09-13	repo:cpan	file:Class-Accessor-Array-Slurpy-0.020.tar.gz	ver:0.020	size:15467
+date:2017-09-26	repo:cpan	file:Acme-CPANAuthors-Indonesian-0.050.tar.gz	ver:0.050	size:14177
