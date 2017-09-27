@@ -9686,3 +9686,4 @@ date:2017-09-13	repo:cpan	file:Class-Accessor-Array-Slurpy-0.020.tar.gz	ver:0.02
 date:2017-09-19	repo:cpan	file:ShellQuote-Any-Tiny-0.006.tar.gz	ver:0.006	size:14164
 date:2017-09-20	repo:cpan	file:App-MacVictimUtils-0.001.tar.gz	ver:0.001	size:16816
 date:2017-09-20	repo:cpan	file:ShellQuote-Any-Tiny-0.007.tar.gz	ver:0.007	size:14301
+date:2017-09-26	repo:cpan	file:Acme-CPANAuthors-Indonesian-0.050.tar.gz	ver:0.050	size:14177
