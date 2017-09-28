@@ -9687,3 +9687,4 @@ date:2017-09-19	repo:cpan	file:ShellQuote-Any-Tiny-0.006.tar.gz	ver:0.006	size:1
 date:2017-09-20	repo:cpan	file:App-MacVictimUtils-0.001.tar.gz	ver:0.001	size:16816
 date:2017-09-20	repo:cpan	file:ShellQuote-Any-Tiny-0.007.tar.gz	ver:0.007	size:14301
 date:2017-09-26	repo:cpan	file:Acme-CPANAuthors-Indonesian-0.050.tar.gz	ver:0.050	size:14177
+date:2017-09-28	repo:cpan	file:Log-ger-Output-Journald-0.001.tar.gz	ver:0.001	size:12694
