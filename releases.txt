@@ -9689,3 +9689,6 @@ date:2017-09-20	repo:cpan	file:ShellQuote-Any-Tiny-0.007.tar.gz	ver:0.007	size:1
 date:2017-09-26	repo:cpan	file:Acme-CPANAuthors-Indonesian-0.050.tar.gz	ver:0.050	size:14177
 date:2017-09-28	repo:cpan	file:Log-ger-Output-Journald-0.001.tar.gz	ver:0.001	size:12694
 date:2017-10-02	repo:cpan	file:Getopt-Long-Less-Dump-0.001.tar.gz	ver:0.001	size:16601
+date:2017-10-11	repo:cpan	file:AppLib-CreateSelfSignedSSLCert-0.150.tar.gz	ver:0.150	size:15204
+date:2017-10-11	repo:cpan	file:App-CreateSelfSignedSSLCert-0.150.tar.gz	ver:0.150	size:16923
+date:2017-10-11	repo:cpan	file:App-HTTPSThis-0.001.tar.gz	ver:0.001	size:15488
