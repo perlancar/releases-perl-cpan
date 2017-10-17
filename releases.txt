@@ -9692,3 +9692,6 @@ date:2017-10-02	repo:cpan	file:Getopt-Long-Less-Dump-0.001.tar.gz	ver:0.001	size
 date:2017-10-11	repo:cpan	file:AppLib-CreateSelfSignedSSLCert-0.150.tar.gz	ver:0.150	size:15204
 date:2017-10-11	repo:cpan	file:App-CreateSelfSignedSSLCert-0.150.tar.gz	ver:0.150	size:16923
 date:2017-10-11	repo:cpan	file:App-HTTPSThis-0.001.tar.gz	ver:0.001	size:15488
+date:2017-10-15	repo:cpan	file:Class-Accessor-PackedString-Set-0.001.tar.gz	ver:0.001	size:16925
+date:2017-10-15	repo:cpan	file:Perl-Examples-Accessors-0.131.tar.gz	ver:0.131	size:17300
+date:2017-10-15	repo:cpan	file:DateTime-Tiny-Compact-0.001.tar.gz	ver:0.001	size:14380
