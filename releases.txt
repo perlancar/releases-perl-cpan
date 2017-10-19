@@ -9698,3 +9698,4 @@ date:2017-10-15	repo:cpan	file:DateTime-Tiny-Compact-0.001.tar.gz	ver:0.001	size
 date:2017-10-18	repo:cpan	file:DateTime-Duration-Lite-0.001.tar.gz	ver:0.001	size:15315
 date:2017-10-19	repo:cpan	file:DateTimeX-Duration-Lite-0.002.tar.gz	ver:0.002	size:15372
 date:2017-10-19	repo:cpan	file:DateTimeX-Tiny-Compact-0.002.tar.gz	ver:0.002	size:14134
+date:2017-10-19	repo:cpan	file:Git-Bunch-0.620.tar.gz	ver:0.620	size:39632
