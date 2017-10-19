@@ -9695,3 +9695,6 @@ date:2017-10-11	repo:cpan	file:App-HTTPSThis-0.001.tar.gz	ver:0.001	size:15488
 date:2017-10-15	repo:cpan	file:Class-Accessor-PackedString-Set-0.001.tar.gz	ver:0.001	size:16925
 date:2017-10-15	repo:cpan	file:Perl-Examples-Accessors-0.131.tar.gz	ver:0.131	size:17300
 date:2017-10-15	repo:cpan	file:DateTime-Tiny-Compact-0.001.tar.gz	ver:0.001	size:14380
+date:2017-10-18	repo:cpan	file:DateTime-Duration-Lite-0.001.tar.gz	ver:0.001	size:15315
+date:2017-10-19	repo:cpan	file:DateTimeX-Duration-Lite-0.002.tar.gz	ver:0.002	size:15372
+date:2017-10-19	repo:cpan	file:DateTimeX-Tiny-Compact-0.002.tar.gz	ver:0.002	size:14134
