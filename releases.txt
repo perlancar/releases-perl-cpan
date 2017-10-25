@@ -9699,3 +9699,4 @@ date:2017-10-18	repo:cpan	file:DateTime-Duration-Lite-0.001.tar.gz	ver:0.001	siz
 date:2017-10-19	repo:cpan	file:DateTimeX-Duration-Lite-0.002.tar.gz	ver:0.002	size:15372
 date:2017-10-19	repo:cpan	file:DateTimeX-Tiny-Compact-0.002.tar.gz	ver:0.002	size:14134
 date:2017-10-19	repo:cpan	file:Git-Bunch-0.620.tar.gz	ver:0.620	size:39632
+date:2017-10-25	repo:cpan	file:App-MysqlUtils-0.010.tar.gz	ver:0.010	size:24672
