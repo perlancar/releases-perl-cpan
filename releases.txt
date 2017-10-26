@@ -9700,3 +9700,8 @@ date:2017-10-19	repo:cpan	file:DateTimeX-Duration-Lite-0.002.tar.gz	ver:0.002	si
 date:2017-10-19	repo:cpan	file:DateTimeX-Tiny-Compact-0.002.tar.gz	ver:0.002	size:14134
 date:2017-10-19	repo:cpan	file:Git-Bunch-0.620.tar.gz	ver:0.620	size:39632
 date:2017-10-25	repo:cpan	file:App-MysqlUtils-0.010.tar.gz	ver:0.010	size:24672
+date:2017-10-26	repo:cpan	file:Acme-ID-CompanyName-0.001.tar.gz	ver:0.001	size:41051
+date:2017-10-26	repo:cpan	file:Acme-ID-CompanyName-0.002.tar.gz	ver:0.002	size:41090
+date:2017-10-26	repo:cpan	file:Acme-ID-CompanyName-0.003.tar.gz	ver:0.003	size:42689
+date:2017-10-26	repo:cpan	file:Rinci-1.1.85.tar.gz	ver:1.1.85	size:58586
+date:2017-10-26	repo:cpan	file:Perinci-To-Doc-0.861.tar.gz	ver:0.861	size:37141
