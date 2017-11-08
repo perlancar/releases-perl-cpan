@@ -9712,3 +9712,7 @@ date:2017-11-01	repo:cpan	file:App-DumpFirefoxHistory-0.002.tar.gz	ver:0.002	siz
 date:2017-11-01	repo:cpan	file:Sah-Schemas-Bool-0.001.tar.gz	ver:0.001	size:13791
 date:2017-11-01	repo:cpan	file:Perinci-CmdLine-Lite-1.80.tar.gz	ver:1.80	size:57280
 date:2017-11-03	repo:cpan	file:Android-Releases-0.020.tar.gz	ver:0.020	size:17319
+date:2017-11-06	repo:cpan	file:App-ParseSearchStringFromURL-0.001.tar.gz	ver:0.001	size:18151
+date:2017-11-06	repo:cpan	file:Perinci-CmdLine-Gen-0.483.tar.gz	ver:0.483	size:28098
+date:2017-11-06	repo:cpan	file:App-ParseSearchStringFromURL-0.002.tar.gz	ver:0.002	size:17169
+date:2017-11-06	repo:cpan	file:Unix-Passwd-File-0.250.tar.gz	ver:0.250	size:40969
