@@ -9712,3 +9712,7 @@ date:2017-11-01	repo:cpan	file:App-DumpFirefoxHistory-0.002.tar.gz	ver:0.002	siz
 date:2017-11-01	repo:cpan	file:Sah-Schemas-Bool-0.001.tar.gz	ver:0.001	size:13791
 date:2017-11-01	repo:cpan	file:Perinci-CmdLine-Lite-1.80.tar.gz	ver:1.80	size:57280
 date:2017-11-03	repo:cpan	file:Android-Releases-0.020.tar.gz	ver:0.020	size:17319
+date:2017-11-07	repo:cpan	file:App-wordlist-0.260.tar.gz	ver:0.260	size:141721
+date:2017-11-07	repo:cpan	file:App-Genpass-ID-0.001.tar.gz	ver:0.001	size:131420
+date:2017-11-07	repo:cpan	file:App-Genpass-ID-0.002.tar.gz	ver:0.002	size:131388
+date:2017-11-08	repo:cpan	file:App-wordlist-0.261.tar.gz	ver:0.261	size:141797
