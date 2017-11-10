@@ -9721,3 +9721,8 @@ date:2017-11-07	repo:cpan	file:App-Genpass-ID-0.001.tar.gz	ver:0.001	size:131420
 date:2017-11-07	repo:cpan	file:App-Genpass-ID-0.002.tar.gz	ver:0.002	size:131388
 date:2017-11-08	repo:cpan	file:App-wordlist-0.261.tar.gz	ver:0.261	size:141797
 date:2017-11-09	repo:cpan	file:Business-Tax-ID-PPH21-0.05.tar.gz	ver:0.05	size:19350
+date:2017-11-10	repo:cpan	file:App-FTPThis-0.001.tar.gz	ver:0.001	size:15591
+date:2017-11-10	repo:cpan	file:App-FTPThis-0.001.tar.gz	ver:0.001	size:15593
+date:2017-11-10	repo:cpan	file:Acme-CPANLists-PERLANCAR-FooThis-0.001.tar.gz	ver:0.001	size:13335
+date:2017-11-10	repo:cpan	file:Task-FooThis-0.001.tar.gz	ver:0.001	size:11710
+date:2017-11-10	repo:cpan	file:App-FTPThis-0.002.tar.gz	ver:0.002	size:15632
