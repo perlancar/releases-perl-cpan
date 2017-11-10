@@ -9726,3 +9726,8 @@ date:2017-11-10	repo:cpan	file:App-FTPThis-0.001.tar.gz	ver:0.001	size:15593
 date:2017-11-10	repo:cpan	file:Acme-CPANLists-PERLANCAR-FooThis-0.001.tar.gz	ver:0.001	size:13335
 date:2017-11-10	repo:cpan	file:Task-FooThis-0.001.tar.gz	ver:0.001	size:11710
 date:2017-11-10	repo:cpan	file:App-FTPThis-0.002.tar.gz	ver:0.002	size:15632
+date:2017-11-10	repo:cpan	file:App-DAVThis-0.001.tar.gz	ver:0.001	size:14499
+date:2017-11-10	repo:cpan	file:Acme-CPANLists-PERLANCAR-FooThis-0.002.tar.gz	ver:0.002	size:13723
+date:2017-11-10	repo:cpan	file:Task-FooThis-0.002.tar.gz	ver:0.002	size:11808
+date:2017-11-10	repo:cpan	file:App-FTPThis-0.003.tar.gz	ver:0.003	size:15635
+date:2017-11-10	repo:cpan	file:App-CreateSparseFile-0.080.tar.gz	ver:0.080	size:18036
