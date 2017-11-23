@@ -9732,3 +9732,4 @@ date:2017-11-10	repo:cpan	file:Task-FooThis-0.002.tar.gz	ver:0.002	size:11808
 date:2017-11-10	repo:cpan	file:App-FTPThis-0.003.tar.gz	ver:0.003	size:15635
 date:2017-11-10	repo:cpan	file:App-CreateSparseFile-0.080.tar.gz	ver:0.080	size:18036
 date:2017-11-12	repo:cpan	file:App-Genpass-WordList-0.001.tar.gz	ver:0.001	size:131983
+date:2017-11-23	repo:cpan	file:App-btcindo-0.006.tar.gz	ver:0.006	size:22146
