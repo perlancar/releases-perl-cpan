@@ -9735,4 +9735,12 @@ date:2017-11-12	repo:cpan	file:App-Genpass-WordList-0.001.tar.gz	ver:0.001	size:
 date:2017-11-19	repo:cpan	file:Bencher-Scenario-ListingProcesses-0.001.tar.gz	ver:0.001	size:18839
 date:2017-11-19	repo:cpan	file:Bencher-Scenario-MemoryInfo-0.001.tar.gz	ver:0.001	size:18541
 date:2017-11-19	repo:cpan	file:App-btcindo-0.005.tar.gz	ver:0.005	size:20886
+date:2017-11-23	repo:cpan	file:App-btcindo-0.006.tar.gz	ver:0.006	size:22146
+date:2017-11-24	repo:cpan	file:Git-Bunch-0.621.tar.gz	ver:0.621	size:42218
+date:2017-11-24	repo:cpan	file:App-btcindo-0.007.tar.gz	ver:0.007	size:22965
+date:2017-11-24	repo:cpan	file:App-btcindo-0.008.tar.gz	ver:0.008	size:24382
+date:2017-11-24	repo:cpan	file:Finance-BTCIndo-0.006.tar.gz	ver:0.006	size:18355
+date:2017-11-24	repo:cpan	file:App-btcindo-0.009.tar.gz	ver:0.009	size:23853
+date:2017-11-24	repo:cpan	file:App-btcindo-0.010.tar.gz	ver:0.010	size:23912
+date:2017-11-24	repo:cpan	file:App-btcindo-0.011.tar.gz	ver:0.011	size:23977
 date:2017-11-26	repo:cpan	file:App-EscapeUtils-0.001.tar.gz	ver:0.001	size:19901
