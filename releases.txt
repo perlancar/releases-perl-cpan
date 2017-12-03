@@ -9744,3 +9744,6 @@ date:2017-11-24	repo:cpan	file:App-btcindo-0.009.tar.gz	ver:0.009	size:23853
 date:2017-11-24	repo:cpan	file:App-btcindo-0.010.tar.gz	ver:0.010	size:23912
 date:2017-11-24	repo:cpan	file:App-btcindo-0.011.tar.gz	ver:0.011	size:23977
 date:2017-11-26	repo:cpan	file:App-EscapeUtils-0.001.tar.gz	ver:0.001	size:19901
+date:2017-12-03	repo:cpan	file:Color-ANSI-Util-0.160.tar.gz	ver:0.160	size:20864
+date:2017-12-03	repo:cpan	file:Sah-Schemas-Color-0.001.tar.gz	ver:0.001	size:14276
+date:2017-12-03	repo:cpan	file:App-ANSIColorUtils-0.001.tar.gz	ver:0.001	size:18579
