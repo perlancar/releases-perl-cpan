@@ -9749,3 +9749,4 @@ date:2017-12-03	repo:cpan	file:Sah-Schemas-Color-0.001.tar.gz	ver:0.001	size:142
 date:2017-12-03	repo:cpan	file:App-ANSIColorUtils-0.001.tar.gz	ver:0.001	size:18579
 date:2017-12-04	repo:cpan	file:Calendar-Indonesia-Holiday-0.320.tar.gz	ver:0.320	size:29564
 date:2017-12-04	repo:cpan	file:Business-Tax-ID-PPH21-0.060.tar.gz	ver:0.060	size:19544
+date:2017-12-05	repo:cpan	file:App-btcindo-0.012.tar.gz	ver:0.012	size:24012
