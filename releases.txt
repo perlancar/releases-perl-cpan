@@ -9751,3 +9751,14 @@ date:2017-12-04	repo:cpan	file:Calendar-Indonesia-Holiday-0.320.tar.gz	ver:0.320
 date:2017-12-04	repo:cpan	file:Business-Tax-ID-PPH21-0.060.tar.gz	ver:0.060	size:19544
 date:2017-12-05	repo:cpan	file:App-btcindo-0.012.tar.gz	ver:0.012	size:24012
 date:2017-12-08	repo:cpan	file:Complete-Util-0.600.tar.gz	ver:0.600	size:31121
+date:2017-12-09	repo:cpan	file:Finance-BTCIndo-0.007.tar.gz	ver:0.007	size:18401
+date:2017-12-09	repo:cpan	file:App-btcindo-0.013.tar.gz	ver:0.013	size:24126
+date:2017-12-09	repo:cpan	file:Bencher-Scenarios-MathBigFloat-0.001.tar.gz	ver:0.001	size:24658
+date:2017-12-09	repo:cpan	file:Number-Format-BigFloat-0.001.tar.gz	ver:0.001	size:14273
+date:2017-12-09	repo:cpan	file:Rinci-1.1.86.tar.gz	ver:1.1.86	size:58663
+date:2017-12-09	repo:cpan	file:String-Util-Match-0.001.tar.gz	ver:0.001	size:15527
+date:2017-12-09	repo:cpan	file:Perinci-To-Doc-0.862.tar.gz	ver:0.862	size:35219
+date:2017-12-09	repo:cpan	file:Perinci-Access-HTTP-Server-0.620.tar.gz	ver:0.620	size:42129
+date:2017-12-09	repo:cpan	file:Perinci-Result-Format-Lite-0.270.tar.gz	ver:0.270	size:21470
+date:2017-12-10	repo:cpan	file:App-btcindo-0.014.tar.gz	ver:0.014	size:24292
+date:2017-12-10	repo:cpan	file:String-Util-Match-0.002.tar.gz	ver:0.002	size:15384
