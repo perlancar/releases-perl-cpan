@@ -9762,4 +9762,6 @@ date:2017-12-09	repo:cpan	file:Perinci-Access-HTTP-Server-0.620.tar.gz	ver:0.620
 date:2017-12-09	repo:cpan	file:Perinci-Result-Format-Lite-0.270.tar.gz	ver:0.270	size:21470
 date:2017-12-10	repo:cpan	file:App-btcindo-0.014.tar.gz	ver:0.014	size:24292
 date:2017-12-10	repo:cpan	file:String-Util-Match-0.002.tar.gz	ver:0.002	size:15384
+date:2017-12-15	repo:cpan	file:Perinci-Gen-ForModule-0.110.tar.gz	ver:0.110	size:17104
+date:2017-12-17	repo:cpan	file:Finance-BitFlip-0.001.tar.gz	ver:0.001	size:14788
 date:2017-12-19	repo:cpan	file:Acme-ID-CompanyName-0.004.tar.gz	ver:0.004	size:44762
