@@ -9766,3 +9766,16 @@ date:2017-12-15	repo:cpan	file:Perinci-Gen-ForModule-0.110.tar.gz	ver:0.110	size
 date:2017-12-17	repo:cpan	file:Finance-BitFlip-0.001.tar.gz	ver:0.001	size:14788
 date:2017-12-19	repo:cpan	file:Acme-ID-CompanyName-0.004.tar.gz	ver:0.004	size:44762
 date:2017-12-20	repo:cpan	file:Getopt-Long-Complete-0.310.tar.gz	ver:0.310	size:21141
+date:2017-12-24	repo:cpan	file:WordList-EN-BIP39-0.001.tar.gz	ver:0.001	size:20906
+date:2017-12-24	repo:cpan	file:WordList-0.1.2.tar.gz	ver:0.1.2	size:16238
+date:2017-12-24	repo:cpan	file:Dist-Zilla-Plugin-WordList-0.050.tar.gz	ver:0.050	size:14458
+date:2017-12-24	repo:cpan	file:WordList-FR-BIP39-0.001.tar.gz	ver:0.001	size:22190
+date:2017-12-24	repo:cpan	file:WordList-FR-BIP39-0.002.tar.gz	ver:0.002	size:22224
+date:2017-12-24	repo:cpan	file:WordList-JA-BIP39-0.001.tar.gz	ver:0.001	size:22409
+date:2017-12-24	repo:cpan	file:App-wordlist-0.262.tar.gz	ver:0.262	size:142020
+date:2017-12-24	repo:cpan	file:WordList-IT-BIP39-0.001.tar.gz	ver:0.001	size:22161
+date:2017-12-24	repo:cpan	file:WordList-IT-BIP39-0.002.tar.gz	ver:0.002	size:21962
+date:2017-12-24	repo:cpan	file:WordList-KO-BIP39-0.001.tar.gz	ver:0.001	size:23533
+date:2017-12-24	repo:cpan	file:WordList-ES-BIP39-0.001.tar.gz	ver:0.001	size:21059
+date:2017-12-24	repo:cpan	file:WordList-ZH-Simplified-BIP39-0.001.tar.gz	ver:0.001	size:20533
+date:2017-12-24	repo:cpan	file:WordList-ZH-Traditional-BIP39-0.001.tar.gz	ver:0.001	size:20574
