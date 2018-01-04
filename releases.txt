@@ -9779,3 +9779,4 @@ date:2017-12-24	repo:cpan	file:WordList-KO-BIP39-0.001.tar.gz	ver:0.001	size:235
 date:2017-12-24	repo:cpan	file:WordList-ES-BIP39-0.001.tar.gz	ver:0.001	size:21059
 date:2017-12-24	repo:cpan	file:WordList-ZH-Simplified-BIP39-0.001.tar.gz	ver:0.001	size:20533
 date:2017-12-24	repo:cpan	file:WordList-ZH-Traditional-BIP39-0.001.tar.gz	ver:0.001	size:20574
+date:2018-01-05	repo:cpan	file:App-btcindo-0.017.tar.gz	ver:0.017	size:25398
