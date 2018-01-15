@@ -9821,3 +9821,4 @@ date:2018-01-09	repo:cpan	file:App-cpanmodules-0.001.tar.gz	ver:0.001	size:18441
 date:2018-01-09	repo:cpan	file:Acme-CPANModules-FooThis-0.001.tar.gz	ver:0.001	size:13914
 date:2018-01-09	repo:cpan	file:Pod-Weaver-Plugin-Acme-CPANModules-0.002.tar.gz	ver:0.002	size:14553
 date:2018-01-09	repo:cpan	file:Acme-CPANModulesBundle-PERLANCAR-0.001.tar.gz	ver:0.001	size:25817
+date:2018-01-15	repo:cpan	file:Sort-Sub-0.110.tar.gz	ver:0.110	size:19263
