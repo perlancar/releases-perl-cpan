@@ -9858,3 +9858,4 @@ date:2018-01-14	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.010.tar.gz	ver:0.
 date:2018-01-14	repo:cpan	file:Data-Format-Pretty-Perl-0.060.tar.gz	ver:0.060	size:14563
 date:2018-01-15	repo:cpan	file:Perinci-Examples-SahSchemas-0.002.tar.gz	ver:0.002	size:14214
 date:2018-01-15	repo:cpan	file:Perinci-Examples-Bin-Any-SahSchemas-0.002.tar.gz	ver:0.002	size:17825
+date:2018-01-15	repo:cpan	file:Sort-Sub-0.110.tar.gz	ver:0.110	size:19263
