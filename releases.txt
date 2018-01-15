@@ -9842,3 +9842,4 @@ date:2018-01-12	repo:cpan	file:WordLists-CryptoCurrency-Catalog-20180109.tar.gz	
 date:2018-01-12	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.001.tar.gz	ver:0.001	size:13798
 date:2018-01-12	repo:cpan	file:Perinci-Sub-XCompletionBundle-CryptoCurrency-0.001.tar.gz	ver:0.001	size:14134
 date:2018-01-12	repo:cpan	file:App-CryptoCurrencyUtils-0.002.tar.gz	ver:0.002	size:17064
+date:2018-01-15	repo:cpan	file:Sort-Sub-0.110.tar.gz	ver:0.110	size:19263
