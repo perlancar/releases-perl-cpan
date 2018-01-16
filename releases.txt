@@ -9758,3 +9758,4 @@ date:2018-01-16	repo:cpan	file:App-genpw-base56-0.001.tar.gz	ver:0.001	size:1172
 date:2018-01-16	repo:cpan	file:App-genpw-base58-0.002.tar.gz	ver:0.002	size:117425
 date:2018-01-16	repo:cpan	file:CryptoCurrency-Catalog-20180116.tar.gz	ver:20180116	size:33198
 date:2018-01-16	repo:cpan	file:CryptoExchange-Catalog-20180116.tar.gz	ver:20180116	size:15883
+date:2018-01-16	repo:cpan	file:WordLists-CryptoCurrency-Catalog-20180116.tar.gz	ver:20180116	size:41654
