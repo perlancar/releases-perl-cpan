@@ -9750,3 +9750,11 @@ date:2017-12-03	repo:cpan	file:App-ANSIColorUtils-0.001.tar.gz	ver:0.001	size:18
 date:2017-12-04	repo:cpan	file:Calendar-Indonesia-Holiday-0.320.tar.gz	ver:0.320	size:29564
 date:2017-12-04	repo:cpan	file:Business-Tax-ID-PPH21-0.060.tar.gz	ver:0.060	size:19544
 date:2017-12-05	repo:cpan	file:App-btcindo-0.012.tar.gz	ver:0.012	size:24012
+date:2017-12-11	repo:cpan	file:Perinci-CmdLine-Lite-1.810.tar.gz	ver:1.810	size:57328
+date:2017-12-11	repo:cpan	file:App-PerinciUtils-0.111.tar.gz	ver:0.111	size:29660
+date:2018-01-16	repo:cpan	file:App-genpw-0.003.tar.gz	ver:0.003	size:136683
+date:2018-01-16	repo:cpan	file:App-genpw-base58-0.001.tar.gz	ver:0.001	size:132654
+date:2018-01-16	repo:cpan	file:App-genpw-base56-0.001.tar.gz	ver:0.001	size:117283
+date:2018-01-16	repo:cpan	file:App-genpw-base58-0.002.tar.gz	ver:0.002	size:117425
+date:2018-01-16	repo:cpan	file:CryptoCurrency-Catalog-20180116.tar.gz	ver:20180116	size:33198
+date:2018-01-16	repo:cpan	file:CryptoExchange-Catalog-20180116.tar.gz	ver:20180116	size:15883
