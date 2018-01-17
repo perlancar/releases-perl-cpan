@@ -9873,3 +9873,9 @@ date:2018-01-16	repo:cpan	file:App-genpw-base58-0.002.tar.gz	ver:0.002	size:1174
 date:2018-01-16	repo:cpan	file:CryptoCurrency-Catalog-20180116.tar.gz	ver:20180116	size:33198
 date:2018-01-16	repo:cpan	file:CryptoExchange-Catalog-20180116.tar.gz	ver:20180116	size:15883
 date:2018-01-16	repo:cpan	file:WordLists-CryptoCurrency-Catalog-20180116.tar.gz	ver:20180116	size:41654
+date:2018-01-17	repo:cpan	file:Proc-Find-Parents-0.630.tar.gz	ver:0.630	size:15306
+date:2018-01-17	repo:cpan	file:Task-genpw-0.001.tar.gz	ver:0.001	size:11764
+date:2018-01-17	repo:cpan	file:Perinci-CmdLine-Gen-0.484.tar.gz	ver:0.484	size:27938
+date:2018-01-17	repo:cpan	file:Proc-Find-Parents-0.631.tar.gz	ver:0.631	size:15321
+date:2018-01-17	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.421.tar.gz	ver:0.421	size:21236
+date:2018-01-17	repo:cpan	file:App-ProcUtils-0.030.tar.gz	ver:0.030	size:19025
