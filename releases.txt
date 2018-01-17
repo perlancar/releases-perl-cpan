@@ -9766,3 +9766,8 @@ date:2017-12-15	repo:cpan	file:Perinci-Gen-ForModule-0.110.tar.gz	ver:0.110	size
 date:2017-12-17	repo:cpan	file:Finance-BitFlip-0.001.tar.gz	ver:0.001	size:14788
 date:2017-12-19	repo:cpan	file:Acme-ID-CompanyName-0.004.tar.gz	ver:0.004	size:44762
 date:2017-12-20	repo:cpan	file:Getopt-Long-Complete-0.310.tar.gz	ver:0.310	size:21141
+date:2018-01-17	repo:cpan	file:Data-Dump-Color-0.240.tar.gz	ver:0.240	size:25391
+date:2018-01-17	repo:cpan	file:Log-ger-App-0.005.tar.gz	ver:0.005	size:15991
+date:2018-01-17	repo:cpan	file:App-squidauth-0.001.tar.gz	ver:0.001	size:17737
+date:2018-01-17	repo:cpan	file:Sah-Schemas-Net-0.003.tar.gz	ver:0.003	size:15378
+date:2018-01-17	repo:cpan	file:Git-Bunch-0.622.tar.gz	ver:0.622	size:42393
