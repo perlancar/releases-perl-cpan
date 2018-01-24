@@ -9886,3 +9886,4 @@ date:2018-01-17	repo:cpan	file:App-squidauth-0.001.tar.gz	ver:0.001	size:17737
 date:2018-01-17	repo:cpan	file:Sah-Schemas-Net-0.003.tar.gz	ver:0.003	size:15378
 date:2018-01-17	repo:cpan	file:Git-Bunch-0.622.tar.gz	ver:0.622	size:42393
 date:2018-01-19	repo:cpan	file:LinuxMint-Releases-0.031.tar.gz	ver:0.031	size:20336
+date:2018-01-24	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.592.tar.gz	ver:0.592	size:19280
