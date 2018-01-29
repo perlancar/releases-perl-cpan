@@ -9899,3 +9899,7 @@ date:2018-01-25	repo:cpan	file:CryptoCurrency-Catalog-20180125.tar.gz	ver:201801
 date:2018-01-25	repo:cpan	file:App-WHMCSUtils-0.003.tar.gz	ver:0.003	size:26339
 date:2018-01-26	repo:cpan	file:AppBase-Grep-0.001.tar.gz	ver:0.001	size:15307
 date:2018-01-26	repo:cpan	file:App-CryptoCurrencyUtils-0.005.tar.gz	ver:0.005	size:18809
+date:2018-01-26	repo:cpan	file:List-Rank-0.002.tar.gz	ver:0.002	size:14638
+date:2018-01-26	repo:cpan	file:App-WHMCSUtils-0.004.tar.gz	ver:0.004	size:25035
+date:2018-01-28	repo:cpan	file:App-abgrep-0.001.tar.gz	ver:0.001	size:16945
+date:2018-01-29	repo:cpan	file:App-SerializeUtils-0.160.tar.gz	ver:0.160	size:21101
