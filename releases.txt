@@ -9921,3 +9921,5 @@ date:2018-01-31	repo:cpan	file:App-CryptoCurrencyUtils-0.008.tar.gz	ver:0.008	si
 date:2018-01-31	repo:cpan	file:Perinci-Result-Format-Lite-0.271.tar.gz	ver:0.271	size:21543
 date:2018-01-31	repo:cpan	file:App-CryptoCurrencyUtils-0.009.tar.gz	ver:0.009	size:21554
 date:2018-01-31	repo:cpan	file:Proc-Govern-0.200.tar.gz	ver:0.200	size:27202
+date:2018-02-01	repo:cpan	file:App-btcindo-0.019.tar.gz	ver:0.019	size:28599
+date:2018-02-01	repo:cpan	file:App-rsynccolor-0.002.tar.gz	ver:0.002	size:14098
