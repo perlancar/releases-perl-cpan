@@ -9928,3 +9928,7 @@ date:2018-02-01	repo:cpan	file:App-rsynccolor-0.003.tar.gz	ver:0.003	size:14174
 date:2018-02-04	repo:cpan	file:Acme-CPANModules-fgets-0.001.tar.gz	ver:0.001	size:14307
 date:2018-02-05	repo:cpan	file:App-throttle-0.001.tar.gz	ver:0.001	size:15621
 date:2018-02-05	repo:cpan	file:Acme-CPANModules-fgets-0.002.tar.gz	ver:0.002	size:14680
+date:2018-02-05	repo:cpan	file:Log-ger-Level-FromEnv-0.003.tar.gz	ver:0.003	size:13117
+date:2018-02-05	repo:cpan	file:HTTP-Tiny-Patch-Cache-0.001.tar.gz	ver:0.001	size:15230
+date:2018-02-05	repo:cpan	file:App-throttle-0.002.tar.gz	ver:0.002	size:15500
+date:2018-02-05	repo:cpan	file:App-CryptoCurrencyUtils-0.010.tar.gz	ver:0.010	size:23877
