@@ -9925,3 +9925,4 @@ date:2018-02-01	repo:cpan	file:App-btcindo-0.018.tar.gz	ver:0.018	size:27510
 date:2018-02-01	repo:cpan	file:App-btcindo-0.019.tar.gz	ver:0.019	size:28599
 date:2018-02-01	repo:cpan	file:App-rsynccolor-0.002.tar.gz	ver:0.002	size:14098
 date:2018-02-01	repo:cpan	file:App-rsynccolor-0.003.tar.gz	ver:0.003	size:14174
+date:2018-02-05	repo:cpan	file:App-throttle-0.001.tar.gz	ver:0.001	size:15621
