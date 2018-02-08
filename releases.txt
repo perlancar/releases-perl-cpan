@@ -9934,3 +9934,8 @@ date:2018-02-05	repo:cpan	file:App-throttle-0.002.tar.gz	ver:0.002	size:15500
 date:2018-02-05	repo:cpan	file:App-CryptoCurrencyUtils-0.010.tar.gz	ver:0.010	size:23877
 date:2018-02-06	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.006.tar.gz	ver:0.006	size:16476
 date:2018-02-07	repo:cpan	file:Business-ID-NIK-0.090.tar.gz	ver:0.090	size:17037
+date:2018-02-08	repo:cpan	file:App-GoogleAuthUtils-0.001.tar.gz	ver:0.001	size:17270
+date:2018-02-08	repo:cpan	file:App-lcpan-1.021.tar.gz	ver:1.021	size:103270
+date:2018-02-08	repo:cpan	file:App-lcpan-1.022.tar.gz	ver:1.022	size:103325
+date:2018-02-08	repo:cpan	file:App-CompleteUtils-0.16.tar.gz	ver:0.16	size:17824
+date:2018-02-08	repo:cpan	file:App-shcompgen-0.321.tar.gz	ver:0.321	size:33827
