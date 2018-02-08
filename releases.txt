@@ -9927,3 +9927,5 @@ date:2018-02-01	repo:cpan	file:App-rsynccolor-0.002.tar.gz	ver:0.002	size:14098
 date:2018-02-01	repo:cpan	file:App-rsynccolor-0.003.tar.gz	ver:0.003	size:14174
 date:2018-02-04	repo:cpan	file:Acme-CPANModules-fgets-0.001.tar.gz	ver:0.001	size:14307
 date:2018-02-05	repo:cpan	file:App-throttle-0.001.tar.gz	ver:0.001	size:15621
+date:2018-02-06	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.006.tar.gz	ver:0.006	size:16476
+date:2018-02-07	repo:cpan	file:Business-ID-NIK-0.090.tar.gz	ver:0.090	size:17037
