@@ -9932,3 +9932,5 @@ date:2018-02-05	repo:cpan	file:Log-ger-Level-FromEnv-0.003.tar.gz	ver:0.003	size
 date:2018-02-05	repo:cpan	file:HTTP-Tiny-Patch-Cache-0.001.tar.gz	ver:0.001	size:15230
 date:2018-02-05	repo:cpan	file:App-throttle-0.002.tar.gz	ver:0.002	size:15500
 date:2018-02-05	repo:cpan	file:App-CryptoCurrencyUtils-0.010.tar.gz	ver:0.010	size:23877
+date:2018-02-06	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.006.tar.gz	ver:0.006	size:16476
+date:2018-02-07	repo:cpan	file:Business-ID-NIK-0.090.tar.gz	ver:0.090	size:17037
