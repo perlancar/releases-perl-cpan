@@ -9931,3 +9931,5 @@ date:2018-02-06	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.006.tar.gz	ver
 date:2018-02-07	repo:cpan	file:Business-ID-NIK-0.090.tar.gz	ver:0.090	size:17037
 date:2018-02-10	repo:cpan	file:CryptoCurrency-Catalog-20180210.tar.gz	ver:20180210	size:36102
 date:2018-02-11	repo:cpan	file:AppBase-Grep-ColorSchemes-Kuler-0.001.tar.gz	ver:0.001	size:13757
+date:2018-02-14	repo:cpan	file:JSON-Decode-Regexp-0.100.tar.gz	ver:0.100	size:17070
+date:2018-02-14	repo:cpan	file:Finance-GDAX-Lite-0.001.tar.gz	ver:0.001	size:15807
