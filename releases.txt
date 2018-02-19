@@ -9933,3 +9933,11 @@ date:2018-02-10	repo:cpan	file:CryptoCurrency-Catalog-20180210.tar.gz	ver:201802
 date:2018-02-11	repo:cpan	file:AppBase-Grep-ColorSchemes-Kuler-0.001.tar.gz	ver:0.001	size:13757
 date:2018-02-14	repo:cpan	file:JSON-Decode-Regexp-0.100.tar.gz	ver:0.100	size:17070
 date:2018-02-14	repo:cpan	file:Finance-GDAX-Lite-0.001.tar.gz	ver:0.001	size:15807
+date:2018-02-17	repo:cpan	file:App-btcindo-0.020.tar.gz	ver:0.020	size:27612
+date:2018-02-18	repo:cpan	file:App-CreateAcmeCPANModulesImportModules-0.001.tar.gz	ver:0.001	size:17117
+date:2018-02-18	repo:cpan	file:Acme-CPANModulesBundle-Import-PerlAdvent-2017-0.001.tar.gz	ver:0.001	size:16528
+date:2018-02-18	repo:cpan	file:App-BencherUtils-0.240.tar.gz	ver:0.240	size:28680
+date:2018-02-18	repo:cpan	file:Module-Load-In-INIT-0.005.tar.gz	ver:0.005	size:14617
+date:2018-02-18	repo:cpan	file:Module-Patch-0.270.tar.gz	ver:0.270	size:23007
+date:2018-02-18	repo:cpan	file:App-cpanminus-script-Patch-RunShcompgen-0.003.tar.gz	ver:0.003	size:14100
+date:2018-02-18	repo:cpan	file:App-cpanm-perlancar-0.003.tar.gz	ver:0.003	size:14495
