@@ -9970,3 +9970,17 @@ date:2018-02-20	repo:cpan	file:App-genpw-0.005.tar.gz	ver:0.005	size:19953
 date:2018-02-20	repo:cpan	file:App-genpw-base64-0.001.tar.gz	ver:0.001	size:116927
 date:2018-02-21	repo:cpan	file:List-Util-Uniq-0.001.tar.gz	ver:0.001	size:14014
 date:2018-02-21	repo:cpan	file:App-datecalc-0.08.tar.gz	ver:0.08	size:21365
+date:2018-02-25	repo:cpan	file:Generic-ColorTheme-Kuler-0.001.tar.gz	ver:0.001	size:13692
+date:2018-02-25	repo:cpan	file:Perinci-CmdLine-Gen-0.485.tar.gz	ver:0.485	size:28169
+date:2018-02-25	repo:cpan	file:App-ColorThemeUtils-0.001.tar.gz	ver:0.001	size:17729
+date:2018-02-25	repo:cpan	file:Color-Theme-0.10.1.tar.gz	ver:0.10.1	size:14469
+date:2018-02-25	repo:cpan	file:Color-Theme-Util-0.020.tar.gz	ver:0.020	size:14826
+date:2018-02-25	repo:cpan	file:Color-Theme-Role-0.020.tar.gz	ver:0.020	size:16905
+date:2018-02-25	repo:cpan	file:Color-Theme-Util-ANSI-0.001.tar.gz	ver:0.001	size:13905
+date:2018-02-25	repo:cpan	file:Generic-ColorTheme-Kuler-0.002.tar.gz	ver:0.002	size:13756
+date:2018-02-26	repo:cpan	file:AppBase-Grep-0.005.tar.gz	ver:0.005	size:17225
+date:2018-02-26	repo:cpan	file:App-diffwc-0.004.tar.gz	ver:0.004	size:71445
+date:2018-02-27	repo:cpan	file:Module-FatPack-0.180.tar.gz	ver:0.180	size:19591
+date:2018-02-28	repo:cpan	file:App-ScreensaverUtils-0.003.tar.gz	ver:0.003	size:17646
+date:2018-02-28	repo:cpan	file:Screensaver-Any-0.003.tar.gz	ver:0.003	size:19620
+date:2018-02-28	repo:cpan	file:Screensaver-Any-0.004.tar.gz	ver:0.004	size:19832
