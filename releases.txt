@@ -9985,3 +9985,17 @@ date:2018-02-28	repo:cpan	file:App-ScreensaverUtils-0.003.tar.gz	ver:0.003	size:
 date:2018-02-28	repo:cpan	file:Screensaver-Any-0.003.tar.gz	ver:0.003	size:19620
 date:2018-02-28	repo:cpan	file:Screensaver-Any-0.004.tar.gz	ver:0.004	size:19832
 date:2018-03-01	repo:cpan	file:CryptoCurrency-Catalog-20180301.tar.gz	ver:20180301	size:37142
+date:2018-03-04	repo:cpan	file:Nodejs-Util-0.010.tar.gz	ver:0.010	size:19167
+date:2018-03-04	repo:cpan	file:Float-Util-0.001.tar.gz	ver:0.001	size:13811
+date:2018-03-04	repo:cpan	file:App-ShellCompleter-perlbrew-0.008.tar.gz	ver:0.008	size:24011
+date:2018-03-05	repo:cpan	file:Perinci-CmdLine-Util-Config-1.720.tar.gz	ver:1.720	size:17433
+date:2018-03-05	repo:cpan	file:Perinci-CmdLine-Lite-1.811.tar.gz	ver:1.811	size:58830
+date:2018-03-05	repo:cpan	file:Perinci-CmdLine-Util-Config-1.721.tar.gz	ver:1.721	size:17475
+date:2018-03-05	repo:cpan	file:Perinci-CmdLine-cryp-0.001.tar.gz	ver:0.001	size:13528
+date:2018-03-05	repo:cpan	file:Perinci-CmdLine-cryp-0.002.tar.gz	ver:0.002	size:13558
+date:2018-03-05	repo:cpan	file:Log-ger-Manual-0.023.000.tar.gz	ver:0.023.000	size:32383
+date:2018-03-05	repo:cpan	file:Log-ger-LogException-0.001.tar.gz	ver:0.001	size:12543
+date:2018-03-05	repo:cpan	file:Eval-Util-0.001.tar.gz	ver:0.001	size:13904
+date:2018-03-05	repo:cpan	file:Log-ger-LogException-0.002.tar.gz	ver:0.002	size:12637
+date:2018-03-06	repo:cpan	file:Perinci-CmdLine-cryp-0.003.tar.gz	ver:0.003	size:13586
+date:2018-03-06	repo:cpan	file:App-btcindo-0.021.tar.gz	ver:0.021	size:28363
