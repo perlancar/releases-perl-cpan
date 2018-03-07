@@ -9999,3 +9999,4 @@ date:2018-03-05	repo:cpan	file:Eval-Util-0.001.tar.gz	ver:0.001	size:13904
 date:2018-03-05	repo:cpan	file:Log-ger-LogException-0.002.tar.gz	ver:0.002	size:12637
 date:2018-03-06	repo:cpan	file:Perinci-CmdLine-cryp-0.003.tar.gz	ver:0.003	size:13586
 date:2018-03-06	repo:cpan	file:App-btcindo-0.021.tar.gz	ver:0.021	size:28363
+date:2018-03-07	repo:cpan	file:App-btcindo-0.022.tar.gz	ver:0.022	size:28392
