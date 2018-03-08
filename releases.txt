@@ -10002,3 +10002,11 @@ date:2018-03-06	repo:cpan	file:App-btcindo-0.021.tar.gz	ver:0.021	size:28363
 date:2018-03-06	repo:cpan	file:List-Util-Uniq-0.002.tar.gz	ver:0.002	size:14424
 date:2018-03-06	repo:cpan	file:App-LocaleCodesUtils-0.001.tar.gz	ver:0.001	size:21036
 date:2018-03-07	repo:cpan	file:App-btcindo-0.022.tar.gz	ver:0.022	size:28392
+date:2018-03-07	repo:cpan	file:App-LocaleCodesUtils-0.002.tar.gz	ver:0.002	size:20573
+date:2018-03-08	repo:cpan	file:Sah-Schemas-Currency-0.001.tar.gz	ver:0.001	size:14624
+date:2018-03-08	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.004.tar.gz	ver:0.004	size:14659
+date:2018-03-08	repo:cpan	file:CryptoCurrency-Catalog-20180308.tar.gz	ver:20180308	size:37444
+date:2018-03-08	repo:cpan	file:CryptoCurrency-Catalog-20180308.1.0.tar.gz	ver:20180308.1.0	size:37433
+date:2018-03-08	repo:cpan	file:Perinci-Sub-XCompletionBundle-CryptoCurrency-0.003.tar.gz	ver:0.003	size:14347
+date:2018-03-08	repo:cpan	file:App-CryptoCurrencyUtils-0.011.tar.gz	ver:0.011	size:23271
+date:2018-03-08	repo:cpan	file:Data-Sah-Coerce-perl-str-str_toupper-0.001.tar.gz	ver:0.001	size:14113
