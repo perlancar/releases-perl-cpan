@@ -10013,3 +10013,4 @@ date:2018-03-08	repo:cpan	file:Data-Sah-Coerce-perl-str-str_toupper-0.001.tar.gz
 date:2018-03-09	repo:cpan	file:Float-Util-0.002.tar.gz	ver:0.002	size:14131
 date:2018-03-09	repo:cpan	file:Nodejs-Util-0.011.tar.gz	ver:0.011	size:19258
 date:2018-03-09	repo:cpan	file:Business-Inventory-Valuation-0.001.tar.gz	ver:0.001	size:15401
+date:2018-03-11	repo:cpan	file:Data-Sah-Coerce-perl-str-str_trim-0.001.tar.gz	ver:0.001	size:14519
