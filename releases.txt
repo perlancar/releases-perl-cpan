@@ -10014,3 +10014,9 @@ date:2018-03-09	repo:cpan	file:Float-Util-0.002.tar.gz	ver:0.002	size:14131
 date:2018-03-09	repo:cpan	file:Nodejs-Util-0.011.tar.gz	ver:0.011	size:19258
 date:2018-03-09	repo:cpan	file:Business-Inventory-Valuation-0.001.tar.gz	ver:0.001	size:15401
 date:2018-03-11	repo:cpan	file:Data-Sah-Coerce-perl-str-str_trim-0.001.tar.gz	ver:0.001	size:14519
+date:2018-03-12	repo:cpan	file:App-ListNewCPANDists-0.006.tar.gz	ver:0.006	size:21649
+date:2018-03-12	repo:cpan	file:Eval-Util-0.002.tar.gz	ver:0.002	size:14902
+date:2018-03-12	repo:cpan	file:Log-ger-LogException-0.003.tar.gz	ver:0.003	size:12685
+date:2018-03-12	repo:cpan	file:CryptoCurrency-Catalog-20180312.tar.gz	ver:20180312	size:38206
+date:2018-03-12	repo:cpan	file:App-ListNewCPANDists-0.007.tar.gz	ver:0.007	size:20674
+date:2018-03-12	repo:cpan	file:Log-ger-Level-Set-0.001.tar.gz	ver:0.001	size:13047
