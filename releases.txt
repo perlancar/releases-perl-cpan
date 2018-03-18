@@ -10020,3 +10020,17 @@ date:2018-03-12	repo:cpan	file:Log-ger-LogException-0.003.tar.gz	ver:0.003	size:
 date:2018-03-12	repo:cpan	file:CryptoCurrency-Catalog-20180312.tar.gz	ver:20180312	size:38206
 date:2018-03-12	repo:cpan	file:App-ListNewCPANDists-0.007.tar.gz	ver:0.007	size:20674
 date:2018-03-12	repo:cpan	file:Log-ger-Level-Set-0.001.tar.gz	ver:0.001	size:13047
+date:2018-03-15	repo:cpan	file:Business-Inventory-Valuation-0.002.tar.gz	ver:0.002	size:17164
+date:2018-03-15	repo:cpan	file:Business-Inventory-Valuation-0.003.tar.gz	ver:0.003	size:17288
+date:2018-03-16	repo:cpan	file:Progress-Any-0.210.tar.gz	ver:0.210	size:29555
+date:2018-03-16	repo:cpan	file:Business-Inventory-Valuation-0.004.tar.gz	ver:0.004	size:17493
+date:2018-03-16	repo:cpan	file:Business-Inventory-Valuation-0.005.tar.gz	ver:0.005	size:18660
+date:2018-03-17	repo:cpan	file:Business-Inventory-Valuation-0.006.tar.gz	ver:0.006	size:18839
+date:2018-03-17	repo:cpan	file:Business-Inventory-Valuation-0.007.tar.gz	ver:0.007	size:19040
+date:2018-03-17	repo:cpan	file:Perinci-CmdLine-1.811.0.tar.gz	ver:1.811.0	size:29668
+date:2018-03-17	repo:cpan	file:Progress-Any-0.211.tar.gz	ver:0.211	size:29996
+date:2018-03-17	repo:cpan	file:Progress-Any-Output-TermMessage-0.03.tar.gz	ver:0.03	size:14734
+date:2018-03-17	repo:cpan	file:Text-Sprintf-Length-0.001.tar.gz	ver:0.001	size:14269
+date:2018-03-17	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.240.tar.gz	ver:0.240	size:19800
+date:2018-03-17	repo:cpan	file:Progress-Any-0.212.tar.gz	ver:0.212	size:30198
+date:2018-03-17	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.241.tar.gz	ver:0.241	size:19850
