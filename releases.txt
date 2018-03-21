@@ -10034,3 +10034,12 @@ date:2018-03-17	repo:cpan	file:Text-Sprintf-Length-0.001.tar.gz	ver:0.001	size:1
 date:2018-03-17	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.240.tar.gz	ver:0.240	size:19800
 date:2018-03-17	repo:cpan	file:Progress-Any-0.212.tar.gz	ver:0.212	size:30198
 date:2018-03-17	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.241.tar.gz	ver:0.241	size:19850
+date:2018-03-19	repo:cpan	file:WordList-0.2.0.tar.gz	ver:0.2.0	size:16560
+date:2018-03-19	repo:cpan	file:App-wordlist-0.265.tar.gz	ver:0.265	size:143324
+date:2018-03-19	repo:cpan	file:Dist-Zilla-Plugin-WordList-0.053.tar.gz	ver:0.053	size:14811
+date:2018-03-19	repo:cpan	file:WordLists-Password-10Million-0.002.tar.gz	ver:0.002	size:4347448
+date:2018-03-19	repo:cpan	file:WordList-0.2.1.tar.gz	ver:0.2.1	size:16622
+date:2018-03-21	repo:cpan	file:App-RegexpPatternUtils-0.003.tar.gz	ver:0.003	size:18723
+date:2018-03-21	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.242.tar.gz	ver:0.242	size:20251
+date:2018-03-21	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.243.tar.gz	ver:0.243	size:20252
+date:2018-03-21	repo:cpan	file:Progress-Any-Output-TermMessage-0.040.tar.gz	ver:0.040	size:15155
