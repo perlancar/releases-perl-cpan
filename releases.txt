@@ -10043,3 +10043,14 @@ date:2018-03-21	repo:cpan	file:App-RegexpPatternUtils-0.003.tar.gz	ver:0.003	siz
 date:2018-03-21	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.242.tar.gz	ver:0.242	size:20251
 date:2018-03-21	repo:cpan	file:Progress-Any-Output-TermProgressBarColor-0.243.tar.gz	ver:0.243	size:20252
 date:2018-03-21	repo:cpan	file:Progress-Any-Output-TermMessage-0.040.tar.gz	ver:0.040	size:15155
+date:2018-03-22	repo:cpan	file:App-wordlist-0.266.tar.gz	ver:0.266	size:143406
+date:2018-03-22	repo:cpan	file:WordLists-Char-Latin1-0.001.tar.gz	ver:0.001	size:14201
+date:2018-03-22	repo:cpan	file:App-BloomUtils-0.001.tar.gz	ver:0.001	size:18877
+date:2018-03-22	repo:cpan	file:WordList-0.3.0.tar.gz	ver:0.3.0	size:18378
+date:2018-03-23	repo:cpan	file:Dist-Zilla-Plugin-WordList-0.054.tar.gz	ver:0.054	size:14940
+date:2018-03-23	repo:cpan	file:WordList-0.3.1.tar.gz	ver:0.3.1	size:18699
+date:2018-03-24	repo:cpan	file:Dist-Zilla-Plugin-Regexp-Pattern-0.003.tar.gz	ver:0.003	size:13940
+date:2018-03-24	repo:cpan	file:Regexp-Pattern-0.2.0.tar.gz	ver:0.2.0	size:20663
+date:2018-03-24	repo:cpan	file:Regexp-Pattern-0.2.1.tar.gz	ver:0.2.1	size:20757
+date:2018-03-24	repo:cpan	file:Regexp-Pattern-0.2.2.tar.gz	ver:0.2.2	size:21485
+date:2018-03-24	repo:cpan	file:Regexp-Pattern-JSON-0.001.tar.gz	ver:0.001	size:14416
