@@ -10049,10 +10049,12 @@ date:2018-03-22	repo:cpan	file:WordLists-Char-Latin1-0.001.tar.gz	ver:0.001	size
 date:2018-03-22	repo:cpan	file:App-BloomUtils-0.001.tar.gz	ver:0.001	size:18877
 date:2018-03-22	repo:cpan	file:WordList-0.3.0.tar.gz	ver:0.3.0	size:18378
 date:2018-03-23	repo:cpan	file:App-BloomUtils-0.002.tar.gz	ver:0.002	size:19248
-date:2018-03-23	repo:cpan	file:Dist-Zilla-Plugin-WordList-0.054.tar.gz	ver:0.054	size:14940
+date:2018-03-23	repo:cpan	file:LWP-UserAgent-Patch-HTTPSHardTimeout-0.070.tar.gz	ver:0.070	size:14700
 date:2018-03-23	repo:cpan	file:WordList-0.3.1.tar.gz	ver:0.3.1	size:18699
+date:2018-03-23	repo:cpan	file:Dist-Zilla-Plugin-WordList-0.054.tar.gz	ver:0.054	size:14940
 date:2018-03-24	repo:cpan	file:Dist-Zilla-Plugin-Regexp-Pattern-0.003.tar.gz	ver:0.003	size:13940
 date:2018-03-24	repo:cpan	file:Regexp-Pattern-0.2.0.tar.gz	ver:0.2.0	size:20663
 date:2018-03-24	repo:cpan	file:Regexp-Pattern-0.2.1.tar.gz	ver:0.2.1	size:20757
 date:2018-03-24	repo:cpan	file:Regexp-Pattern-0.2.2.tar.gz	ver:0.2.2	size:21485
 date:2018-03-24	repo:cpan	file:Regexp-Pattern-JSON-0.001.tar.gz	ver:0.001	size:14416
+date:2018-03-28	repo:cpan	file:Perinci-CmdLine-Inline-0.542.tar.gz	ver:0.542	size:44417
