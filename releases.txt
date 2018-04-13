@@ -10116,3 +10116,4 @@ date:2018-04-08	repo:cpan	file:Business-ID-NKK-0.001.tar.gz	ver:0.001	size:16300
 date:2018-04-08	repo:cpan	file:Business-ID-NKK-0.002.tar.gz	ver:0.002	size:16274
 date:2018-04-08	repo:cpan	file:Business-ID-NIK-0.092.tar.gz	ver:0.092	size:17083
 date:2018-04-08	repo:cpan	file:App-IndonesianNumberUtils-0.030.tar.gz	ver:0.030	size:17768
+date:2018-04-12	repo:cpan	file:App-cryp-exchange-0.002.tar.gz	ver:0.002	size:22694
