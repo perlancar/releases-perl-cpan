@@ -10128,3 +10128,6 @@ date:2018-04-17	repo:cpan	file:Data-Sah-CoerceRule-array-str_comma_sep-0.006.tar
 date:2018-04-17	repo:cpan	file:Data-Sah-CoerceRule-array-str_int_range-0.001.tar.gz	ver:0.001	size:14257
 date:2018-04-17	repo:cpan	file:Data-Sah-CoerceRule-array-str_int_range_and_comma_sep-0.001.tar.gz	ver:0.001	size:14534
 date:2018-04-18	repo:cpan	file:App-GoogleAuthUtils-0.004.tar.gz	ver:0.004	size:17401
+date:2018-04-18	repo:cpan	file:Log-Log4perl-Appender-LogGer-0.001.tar.gz	ver:0.001	size:13557
+date:2018-04-18	repo:cpan	file:Random-Any-0.004.tar.gz	ver:0.004	size:14266
+date:2018-04-18	repo:cpan	file:Shorthand-Entropy-UseLocal-0.001.tar.gz	ver:0.001	size:13422
