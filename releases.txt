@@ -10139,3 +10139,11 @@ date:2018-04-26	repo:cpan	file:WWW-PAUSE-Simple-0.440.tar.gz	ver:0.440	size:2543
 date:2018-04-26	repo:cpan	file:Net-HTTP-Methods-Patch-LogRequest-0.11.tar.gz	ver:0.11	size:15332
 date:2018-04-26	repo:cpan	file:WWW-PAUSE-Simple-0.441.tar.gz	ver:0.441	size:25553
 date:2018-04-26	repo:cpan	file:Display-Resolution-0.004.tar.gz	ver:0.004	size:18429
+date:2018-04-29	repo:cpan	file:Acme-CPANModules-PortedFrom-NPM-0.001.tar.gz	ver:0.001	size:13657
+date:2018-05-01	repo:cpan	file:App-rank-0.006.tar.gz	ver:0.006	size:16408
+date:2018-05-01	repo:cpan	file:App-rank-0.007.tar.gz	ver:0.007	size:16430
+date:2018-05-01	repo:cpan	file:Perinci-CmdLine-Lite-1.812.tar.gz	ver:1.812	size:59403
+date:2018-05-01	repo:cpan	file:App-genpw-0.006.tar.gz	ver:0.006	size:21576
+date:2018-05-01	repo:cpan	file:App-genpw-0.007.tar.gz	ver:0.007	size:21636
+date:2018-05-02	repo:cpan	file:Log-ger-Plugin-OptAway-0.006.tar.gz	ver:0.006	size:14283
+date:2018-05-02	repo:cpan	file:Log-ger-Manual-0.023.001.tar.gz	ver:0.023.001	size:32591
