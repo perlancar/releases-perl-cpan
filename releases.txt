@@ -10147,3 +10147,12 @@ date:2018-05-01	repo:cpan	file:App-genpw-0.006.tar.gz	ver:0.006	size:21576
 date:2018-05-01	repo:cpan	file:App-genpw-0.007.tar.gz	ver:0.007	size:21636
 date:2018-05-02	repo:cpan	file:Log-ger-Plugin-OptAway-0.006.tar.gz	ver:0.006	size:14283
 date:2018-05-02	repo:cpan	file:Log-ger-Manual-0.023.001.tar.gz	ver:0.023.001	size:32591
+date:2018-05-07	repo:cpan	file:App-GnuplotUtils-0.001.tar.gz	ver:0.001	size:16497
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.tar.gz	ver:0.001	size:13178
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.0.tar.gz	ver:0.001.0	size:13198
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.0.0.tar.gz	ver:0.001.0.0	size:13199
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.0.0.0.tar.gz	ver:0.001.0.0.0	size:13214
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.0.0.00.tar.gz	ver:0.001.0.0.00	size:13217
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.0.00.0.tar.gz	ver:0.001.0.00.0	size:13221
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.00.00.0.tar.gz	ver:0.001.00.00.0	size:13227
+date:2018-05-07	repo:cpan	file:Acme-PERLANCAR-Test-Versioning-0.001.00.0.0.tar.gz	ver:0.001.00.0.0	size:13234
