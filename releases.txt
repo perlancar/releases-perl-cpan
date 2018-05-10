@@ -10174,3 +10174,4 @@ date:2018-05-10	repo:cpan	file:App-fiatx-0.002.tar.gz	ver:0.002	size:17939
 date:2018-05-10	repo:cpan	file:Finance-Currency-FiatX-0.002.tar.gz	ver:0.002	size:17033
 date:2018-05-10	repo:cpan	file:CryptoExchange-Catalog-20180510.tar.gz	ver:20180510	size:18279
 date:2018-05-10	repo:cpan	file:App-cryp-exchange-0.003.tar.gz	ver:0.003	size:22708
+date:2018-05-10	repo:cpan	file:SQL-Schema-Versioned-0.235.tar.gz	ver:0.235	size:28708
