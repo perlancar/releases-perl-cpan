@@ -10131,3 +10131,6 @@ date:2018-04-18	repo:cpan	file:App-GoogleAuthUtils-0.004.tar.gz	ver:0.004	size:1
 date:2018-04-18	repo:cpan	file:Log-Log4perl-Appender-LogGer-0.001.tar.gz	ver:0.001	size:13557
 date:2018-04-18	repo:cpan	file:Random-Any-0.004.tar.gz	ver:0.004	size:14266
 date:2018-04-18	repo:cpan	file:Shorthand-Entropy-UseLocal-0.001.tar.gz	ver:0.001	size:13422
+date:2018-04-22	repo:cpan	file:App-rank-0.001.tar.gz	ver:0.001	size:15255
+date:2018-04-22	repo:cpan	file:App-rank-0.002.tar.gz	ver:0.002	size:15335
+date:2018-04-22	repo:cpan	file:App-rank-0.003.tar.gz	ver:0.003	size:15718
