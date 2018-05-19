@@ -10175,3 +10175,4 @@ date:2018-05-10	repo:cpan	file:Finance-Currency-FiatX-0.002.tar.gz	ver:0.002	siz
 date:2018-05-10	repo:cpan	file:CryptoExchange-Catalog-20180510.tar.gz	ver:20180510	size:18279
 date:2018-05-10	repo:cpan	file:App-cryp-exchange-0.003.tar.gz	ver:0.003	size:22708
 date:2018-05-10	repo:cpan	file:SQL-Schema-Versioned-0.235.tar.gz	ver:0.235	size:28708
+date:2018-05-12	repo:cpan	file:Acme-CPANModules-BloomFilters-0.001.tar.gz	ver:0.001	size:14580
