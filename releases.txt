@@ -10187,3 +10187,13 @@ date:2018-05-10	repo:cpan	file:SQL-Schema-Versioned-0.235.tar.gz	ver:0.235	size:
 date:2018-05-12	repo:cpan	file:Acme-CPANModules-BloomFilters-0.001.tar.gz	ver:0.001	size:14580
 date:2018-05-20	repo:cpan	file:Perinci-CmdLine-Classic-1.812.tar.gz	ver:1.812	size:44707
 date:2018-05-20	repo:cpan	file:Bencher-Scenarios-ProgressAny-0.001.tar.gz	ver:0.001	size:19972
+date:2018-05-25	repo:cpan	file:App-CSVUtils-0.014.tar.gz	ver:0.014	size:35233
+date:2018-05-28	repo:cpan	file:Log-ger-Level-Like-Syslog-0.001.tar.gz	ver:0.001	size:12854
+date:2018-05-29	repo:cpan	file:Perinci-CmdLine-Lite-1.813.tar.gz	ver:1.813	size:59666
+date:2018-05-29	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_cryptocurrency_code-0.001.tar.gz	ver:0.001	size:14014
+date:2018-05-29	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_cryptocurrency_safename-0.001.tar.gz	ver:0.001	size:14032
+date:2018-05-29	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.001.tar.gz	ver:0.001	size:14065
+date:2018-05-29	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.006.tar.gz	ver:0.006	size:16867
+date:2018-05-29	repo:cpan	file:Perinci-Sub-XCompletionBundle-CryptoCurrency-0.004.tar.gz	ver:0.004	size:14768
+date:2018-05-29	repo:cpan	file:Data-Sah-0.890.tar.gz	ver:0.890	size:111966
+date:2018-05-29	repo:cpan	file:Data-Sah-CoerceBundle-App-cryp-0.001.tar.gz	ver:0.001	size:14460
