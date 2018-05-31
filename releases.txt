@@ -10197,3 +10197,7 @@ date:2018-05-29	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.006.tar.gz	ver:0.006
 date:2018-05-29	repo:cpan	file:Perinci-Sub-XCompletionBundle-CryptoCurrency-0.004.tar.gz	ver:0.004	size:14768
 date:2018-05-29	repo:cpan	file:Data-Sah-0.890.tar.gz	ver:0.890	size:111966
 date:2018-05-29	repo:cpan	file:Data-Sah-CoerceBundle-App-cryp-0.001.tar.gz	ver:0.001	size:14460
+date:2018-05-31	repo:cpan	file:Text-ANSITable-0.500.tar.gz	ver:0.500	size:58572
+date:2018-05-31	repo:cpan	file:Data-Sah-CoerceBundle-App-cryp-0.002.tar.gz	ver:0.002	size:14815
+date:2018-05-31	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.012.tar.gz	ver:0.012	size:17192
+date:2018-05-31	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.007.tar.gz	ver:0.007	size:17301
