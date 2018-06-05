@@ -10231,3 +10231,4 @@ date:2018-06-04	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_cryptocurrency_sa
 date:2018-06-04	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_cryptoexchange_safename-0.003.tar.gz	ver:0.003	size:14214
 date:2018-06-04	repo:cpan	file:Data-Sah-CoerceBundle-App-cryp-0.003.tar.gz	ver:0.003	size:14599
 date:2018-06-04	repo:cpan	file:App-IndonesianBankingUtils-0.140.tar.gz	ver:0.140	size:5040313
+date:2018-06-05	repo:cpan	file:Data-Sah-Coerce-perl-date-str_alami_en-0.008.tar.gz	ver:0.008	size:14580
