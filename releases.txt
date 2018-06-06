@@ -10242,3 +10242,9 @@ date:2018-06-05	repo:cpan	file:Data-Sah-0.892.tar.gz	ver:0.892	size:112506
 date:2018-06-05	repo:cpan	file:Perinci-CmdLine-cryp-0.006.tar.gz	ver:0.006	size:13914
 date:2018-06-05	repo:cpan	file:CryptoExchange-Catalog-20180605.tar.gz	ver:20180605	size:19843
 date:2018-06-05	repo:cpan	file:CryptoExchange-Catalog-20180605.1.0.tar.gz	ver:20180605.1.0	size:18463
+date:2018-06-06	repo:cpan	file:Data-Sah-CoerceBundle-App-cryp-0.005.tar.gz	ver:0.005	size:14891
+date:2018-06-06	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_fiat_or_cryptocurrency_code-0.001.tar.gz	ver:0.001	size:14233
+date:2018-06-06	repo:cpan	file:Perinci-Sub-XCompletionBundle-CryptoCurrency-0.005.tar.gz	ver:0.005	size:15016
+date:2018-06-06	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.008.tar.gz	ver:0.008	size:18413
+date:2018-06-06	repo:cpan	file:Data-Sah-Coerce-perl-str-str_to_cryptoexchange_currency_pair-0.001.tar.gz	ver:0.001	size:14558
+date:2018-06-06	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.009.tar.gz	ver:0.009	size:18859
