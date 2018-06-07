@@ -10245,3 +10245,11 @@ date:2018-06-05	repo:cpan	file:CryptoExchange-Catalog-20180605.1.0.tar.gz	ver:20
 date:2018-06-06	repo:cpan	file:App-cryp-exchange-0.004.tar.gz	ver:0.004	size:23509
 date:2018-06-06	repo:cpan	file:SQL-Schema-Versioned-0.236.tar.gz	ver:0.236	size:29618
 date:2018-06-07	repo:cpan	file:CryptoCurrency-Catalog-20180606.tar.gz	ver:20180606	size:43023
+date:2018-06-07	repo:cpan	file:Sah-Schemas-App-cryp-0.002.tar.gz	ver:0.002	size:14901
+date:2018-06-07	repo:cpan	file:PMVersions-Util-0.001.tar.gz	ver:0.001	size:14874
+date:2018-06-07	repo:cpan	file:Dist-Zilla-Plugin-Prereqs-EnsureVersion-0.050.tar.gz	ver:0.050	size:15049
+date:2018-06-07	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.013.tar.gz	ver:0.013	size:17300
+date:2018-06-07	repo:cpan	file:Sah-Schemas-CryptoCurrency-0.010.tar.gz	ver:0.010	size:19484
+date:2018-06-07	repo:cpan	file:Acme-CPANModules-Import-CPANRatings-User-perlancar-0.001.tar.gz	ver:0.001	size:57910
+date:2018-06-07	repo:cpan	file:App-CreateAcmeCPANModulesImportCPANRatingsModules-0.001.tar.gz	ver:0.001	size:16488
+date:2018-06-07	repo:cpan	file:Acme-CPANModules-Import-CPANRatings-User-stevenharyanto-0.001.tar.gz	ver:0.001	size:149400
