@@ -10294,3 +10294,7 @@ date:2018-06-19	repo:cpan	file:Finance-Currency-FiatX-0.004.tar.gz	ver:0.004	siz
 date:2018-06-19	repo:cpan	file:App-fiatx-0.003.tar.gz	ver:0.003	size:18794
 date:2018-06-19	repo:cpan	file:Bencher-Scenarios-MemoryCacheModules-0.001.tar.gz	ver:0.001	size:17431
 date:2018-06-19	repo:cpan	file:App-fiatx-0.004.tar.gz	ver:0.004	size:18825
+date:2018-06-19	repo:cpan	file:Finance-Currency-FiatX-0.005.tar.gz	ver:0.005	size:22702
+date:2018-06-19	repo:cpan	file:App-fiatx-0.005.tar.gz	ver:0.005	size:18817
+date:2018-06-21	repo:cpan	file:App-ExifUtils-0.001.tar.gz	ver:0.001	size:16920
+date:2018-06-21	repo:cpan	file:App-lcpan-1.023.tar.gz	ver:1.023	size:105200
