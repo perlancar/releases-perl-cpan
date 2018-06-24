@@ -10296,3 +10296,14 @@ date:2018-06-19	repo:cpan	file:Bencher-Scenarios-MemoryCacheModules-0.001.tar.gz
 date:2018-06-19	repo:cpan	file:App-fiatx-0.004.tar.gz	ver:0.004	size:18825
 date:2018-06-20	repo:cpan	file:Finance-Currency-Convert-BI-0.061.tar.gz	ver:0.061	size:58319
 date:2018-06-20	repo:cpan	file:Sah-Schemas-URL-0.007.tar.gz	ver:0.007	size:15042
+date:2018-06-23	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.007.tar.gz	ver:0.007	size:16610
+date:2018-06-23	repo:cpan	file:DateTime-Format-ISO8601-Format-0.001.tar.gz	ver:0.001	size:16469
+date:2018-06-23	repo:cpan	file:DateTime-Format-Duration-ISO8601-0.008.tar.gz	ver:0.008	size:16642
+date:2018-06-23	repo:cpan	file:DateTime-Format-ISO8601-Format-0.002.tar.gz	ver:0.002	size:16495
+date:2018-06-24	repo:cpan	file:App-ListPerlReleases-0.001.tar.gz	ver:0.001	size:18973
+date:2018-06-24	repo:cpan	file:Finance-Currency-Convert-KlikBCA-0.151.tar.gz	ver:0.151	size:38280
+date:2018-06-24	repo:cpan	file:Finance-Currency-Convert-GMC-0.005.tar.gz	ver:0.005	size:19863
+date:2018-06-24	repo:cpan	file:Finance-Currency-Convert-BI-0.062.tar.gz	ver:0.062	size:58346
+date:2018-06-24	repo:cpan	file:DateTime-Format-ISO8601-Format-0.003.tar.gz	ver:0.003	size:16530
+date:2018-06-24	repo:cpan	file:Finance-Currency-FiatX-0.006.tar.gz	ver:0.006	size:22169
+date:2018-06-24	repo:cpan	file:App-cryp-exchange-0.010.tar.gz	ver:0.010	size:32088
