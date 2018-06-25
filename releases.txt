@@ -10307,3 +10307,5 @@ date:2018-06-24	repo:cpan	file:Finance-Currency-Convert-BI-0.062.tar.gz	ver:0.06
 date:2018-06-24	repo:cpan	file:DateTime-Format-ISO8601-Format-0.003.tar.gz	ver:0.003	size:16530
 date:2018-06-24	repo:cpan	file:Finance-Currency-FiatX-0.006.tar.gz	ver:0.006	size:22169
 date:2018-06-24	repo:cpan	file:App-cryp-exchange-0.010.tar.gz	ver:0.010	size:32088
+date:2018-06-25	repo:cpan	file:Finance-Currency-FiatX-0.007.tar.gz	ver:0.007	size:22253
+date:2018-06-25	repo:cpan	file:App-cryp-arbit-0.001.tar.gz	ver:0.001	size:50267
