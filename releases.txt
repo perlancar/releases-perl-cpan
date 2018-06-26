@@ -10313,3 +10313,4 @@ date:2018-06-26	repo:cpan	file:Dist-Zilla-Role-CheckPackageDeclared-0.001.tar.gz
 date:2018-06-26	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.014.tar.gz	ver:0.014	size:17380
 date:2018-06-26	repo:cpan	file:Sah-Schemas-URL-0.008.tar.gz	ver:0.008	size:15345
 date:2018-06-26	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.593.tar.gz	ver:0.593	size:19851
+date:2018-06-26	repo:cpan	file:Calendar-Indonesia-Holiday-0.321.tar.gz	ver:0.321	size:29749
