@@ -10309,3 +10309,7 @@ date:2018-06-24	repo:cpan	file:Finance-Currency-FiatX-0.006.tar.gz	ver:0.006	siz
 date:2018-06-24	repo:cpan	file:App-cryp-exchange-0.010.tar.gz	ver:0.010	size:32088
 date:2018-06-25	repo:cpan	file:Finance-Currency-FiatX-0.007.tar.gz	ver:0.007	size:22253
 date:2018-06-25	repo:cpan	file:App-cryp-arbit-0.001.tar.gz	ver:0.001	size:50267
+date:2018-06-26	repo:cpan	file:Dist-Zilla-Role-CheckPackageDeclared-0.001.tar.gz	ver:0.001	size:13926
+date:2018-06-26	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.014.tar.gz	ver:0.014	size:17380
+date:2018-06-26	repo:cpan	file:Sah-Schemas-URL-0.008.tar.gz	ver:0.008	size:15345
+date:2018-06-26	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.593.tar.gz	ver:0.593	size:19851
