@@ -10314,3 +10314,16 @@ date:2018-06-26	repo:cpan	file:Dist-Zilla-Plugin-Sah-Schemas-0.014.tar.gz	ver:0.
 date:2018-06-26	repo:cpan	file:Sah-Schemas-URL-0.008.tar.gz	ver:0.008	size:15345
 date:2018-06-26	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.593.tar.gz	ver:0.593	size:19851
 date:2018-06-26	repo:cpan	file:Calendar-Indonesia-Holiday-0.321.tar.gz	ver:0.321	size:29749
+date:2018-06-27	repo:cpan	file:Finance-Currency-Convert-BCA-0.152.tar.gz	ver:0.152	size:38418
+date:2018-06-27	repo:cpan	file:Perinci-Result-Format-Lite-0.273.tar.gz	ver:0.273	size:22247
+date:2018-06-27	repo:cpan	file:Sah-Schemas-Currency-0.002.tar.gz	ver:0.002	size:15259
+date:2018-06-27	repo:cpan	file:Finance-Currency-FiatX-0.008.tar.gz	ver:0.008	size:23034
+date:2018-06-27	repo:cpan	file:App-fiatx-0.006.tar.gz	ver:0.006	size:19870
+date:2018-06-27	repo:cpan	file:App-fiatx-0.007.tar.gz	ver:0.007	size:19953
+date:2018-06-29	repo:cpan	file:App-genpw-0.008.tar.gz	ver:0.008	size:21941
+date:2018-06-30	repo:cpan	file:App-OrgUtils-0.470.tar.gz	ver:0.470	size:47203
+date:2018-06-30	repo:cpan	file:DBIx-TextTableAny-0.001.tar.gz	ver:0.001	size:14614
+date:2018-06-30	repo:cpan	file:Text-Table-TSV-0.001.tar.gz	ver:0.001	size:14810
+date:2018-06-30	repo:cpan	file:Text-Table-CSV-0.020.tar.gz	ver:0.020	size:14894
+date:2018-06-30	repo:cpan	file:Text-Table-LTSV-0.001.tar.gz	ver:0.001	size:14876
+date:2018-06-30	repo:cpan	file:Text-Table-Any-0.090.tar.gz	ver:0.090	size:16956
