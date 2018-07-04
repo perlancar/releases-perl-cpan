@@ -10334,3 +10334,9 @@ date:2018-07-01	repo:cpan	file:App-genpw-0.009.tar.gz	ver:0.009	size:21957
 date:2018-07-01	repo:cpan	file:DBIx-CSV-0.001.tar.gz	ver:0.001	size:14508
 date:2018-07-01	repo:cpan	file:DBIx-TSV-0.001.tar.gz	ver:0.001	size:14441
 date:2018-07-01	repo:cpan	file:Business-ID-NIK-0.093.tar.gz	ver:0.093	size:17534
+date:2018-07-02	repo:cpan	file:Text-Table-Any-0.091.tar.gz	ver:0.091	size:16986
+date:2018-07-02	repo:cpan	file:DBIx-TSV-0.002.tar.gz	ver:0.002	size:14529
+date:2018-07-02	repo:cpan	file:DBIx-CSV-0.002.tar.gz	ver:0.002	size:14589
+date:2018-07-02	repo:cpan	file:DBIx-Conn-MySQL-0.001.tar.gz	ver:0.001	size:15211
+date:2018-07-03	repo:cpan	file:DBIx-CSV-0.003.tar.gz	ver:0.003	size:14651
+date:2018-07-04	repo:cpan	file:Perinci-Result-Format-Lite-0.274.tar.gz	ver:0.274	size:22381
