@@ -10351,3 +10351,12 @@ date:2018-07-08	repo:cpan	file:DBIx-Conn-SQLite-0.001.tar.gz	ver:0.001	size:1453
 date:2018-07-10	repo:cpan	file:Finance-Currency-Convert-BCA-0.153.tar.gz	ver:0.153	size:38494
 date:2018-07-10	repo:cpan	file:Finance-Currency-Convert-BI-0.063.tar.gz	ver:0.063	size:58539
 date:2018-07-10	repo:cpan	file:Finance-Currency-Convert-GMC-0.006.tar.gz	ver:0.006	size:20064
+date:2018-07-15	repo:cpan	file:MediaWiki-Table-Tiny-0.021.tar.gz	ver:0.021	size:14500
+date:2018-07-15	repo:cpan	file:Bencher-Scenarios-DateTimeFormatDurationISO8601-0.001.tar.gz	ver:0.001	size:23971
+date:2018-07-15	repo:cpan	file:Finance-Currency-Convert-Mandiri-0.001.tar.gz	ver:0.001	size:17437
+date:2018-07-15	repo:cpan	file:Finance-Currency-FiatX-0.009.tar.gz	ver:0.009	size:23309
+date:2018-07-15	repo:cpan	file:Finance-Currency-Convert-BCA-0.154.tar.gz	ver:0.154	size:38498
+date:2018-07-16	repo:cpan	file:Perinci-CmdLine-Gen-0.486.tar.gz	ver:0.486	size:28306
+date:2018-07-16	repo:cpan	file:Perinci-Examples-Bin-Lite-0.060.tar.gz	ver:0.060	size:20025
+date:2018-07-16	repo:cpan	file:Perinci-CmdLine-Lite-1.815.tar.gz	ver:1.815	size:59953
+date:2018-07-16	repo:cpan	file:Perinci-Examples-Bin-Lite-0.061.tar.gz	ver:0.061	size:20095
