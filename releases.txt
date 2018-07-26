@@ -10360,3 +10360,5 @@ date:2018-07-16	repo:cpan	file:Perinci-CmdLine-Gen-0.486.tar.gz	ver:0.486	size:2
 date:2018-07-16	repo:cpan	file:Perinci-Examples-Bin-Lite-0.060.tar.gz	ver:0.060	size:20025
 date:2018-07-16	repo:cpan	file:Perinci-CmdLine-Lite-1.815.tar.gz	ver:1.815	size:59953
 date:2018-07-16	repo:cpan	file:Perinci-Examples-Bin-Lite-0.061.tar.gz	ver:0.061	size:20095
+date:2018-07-23	repo:cpan	file:Text-Table-ASV-0.001.tar.gz	ver:0.001	size:15413
+date:2018-07-23	repo:cpan	file:Text-Table-Any-0.092.tar.gz	ver:0.092	size:17038
