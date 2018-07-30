@@ -10364,3 +10364,4 @@ date:2018-07-23	repo:cpan	file:Text-Table-ASV-0.001.tar.gz	ver:0.001	size:15413
 date:2018-07-23	repo:cpan	file:Text-Table-Any-0.092.tar.gz	ver:0.092	size:17038
 date:2018-07-26	repo:cpan	file:App-lensort-0.001.tar.gz	ver:0.001	size:14188
 date:2018-07-26	repo:cpan	file:App-lensort-0.002.tar.gz	ver:0.002	size:14353
+date:2018-07-29	repo:cpan	file:Acme-CPANModules-CLI-Sort-0.001.tar.gz	ver:0.001	size:14262
