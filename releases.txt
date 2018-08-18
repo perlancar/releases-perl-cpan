@@ -10381,3 +10381,4 @@ date:2018-08-12	repo:cpan	file:Data-Cmp-0.003.tar.gz	ver:0.003	size:16823
 date:2018-08-12	repo:cpan	file:Bencher-Scenarios-DataComparisonModules-0.003.tar.gz	ver:0.003	size:18923
 date:2018-08-12	repo:cpan	file:Data-Cmp-0.004.tar.gz	ver:0.004	size:17802
 date:2018-08-13	repo:cpan	file:Data-Cmp-0.005.tar.gz	ver:0.005	size:18287
+date:2018-08-16	repo:cpan	file:Bencher-Scenarios-DataComparisonModules-0.004.tar.gz	ver:0.004	size:19330
