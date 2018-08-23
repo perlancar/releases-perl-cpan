@@ -10388,3 +10388,9 @@ date:2018-08-13	repo:cpan	file:Data-Cmp-0.005.tar.gz	ver:0.005	size:18287
 date:2018-08-16	repo:cpan	file:Bencher-Scenarios-DataComparisonModules-0.004.tar.gz	ver:0.004	size:19330
 date:2018-08-21	repo:cpan	file:WHO-GrowthReference-Table-0.001.tar.gz	ver:0.001	size:248867
 date:2018-08-22	repo:cpan	file:WHO-GrowthReference-Table-0.002.tar.gz	ver:0.002	size:250258
+date:2018-08-23	repo:cpan	file:Sah-Schemas-EAN-0.001.tar.gz	ver:0.001	size:15479
+date:2018-08-23	repo:cpan	file:Sah-Schemas-EAN-0.002.tar.gz	ver:0.002	size:15469
+date:2018-08-23	repo:cpan	file:Sah-Schemas-ISBN-0.001.tar.gz	ver:0.001	size:15720
+date:2018-08-23	repo:cpan	file:App-ISBNUtils-0.001.tar.gz	ver:0.001	size:16285
+date:2018-08-23	repo:cpan	file:Sah-Schemas-ISBN-0.002.tar.gz	ver:0.002	size:15920
+date:2018-08-23	repo:cpan	file:App-ISBNUtils-0.002.tar.gz	ver:0.002	size:16389
