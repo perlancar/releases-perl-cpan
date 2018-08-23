@@ -10371,6 +10371,10 @@ date:2018-08-02	repo:cpan	file:App-isbn-0.001.tar.gz	ver:0.001	size:18241
 date:2018-08-04	repo:cpan	file:App-cryp-arbit-0.003.tar.gz	ver:0.003	size:50491
 date:2018-08-07	repo:cpan	file:Log-ger-App-0.006.tar.gz	ver:0.006	size:16158
 date:2018-08-07	repo:cpan	file:App-YouTubeUtils-0.001.tar.gz	ver:0.001	size:16326
+date:2018-08-07	repo:cpan	file:App-cryp-arbit-0.004.tar.gz	ver:0.004	size:52635
+date:2018-08-07	repo:cpan	file:Test-Deeply-Float-0.001.tar.gz	ver:0.001	size:16687
+date:2018-08-07	repo:cpan	file:App-cryp-arbit-0.005.tar.gz	ver:0.005	size:52694
+date:2018-08-07	repo:cpan	file:App-YouTubeUtils-0.002.tar.gz	ver:0.002	size:16292
 date:2018-08-10	repo:cpan	file:Data-Cmp-0.001.tar.gz	ver:0.001	size:18824
 date:2018-08-11	repo:cpan	file:App-cryp-arbit-0.006.tar.gz	ver:0.006	size:51142
 date:2018-08-11	repo:cpan	file:Test-Deeply-Float-0.002.tar.gz	ver:0.002	size:17042
