@@ -10398,3 +10398,5 @@ date:2018-08-23	repo:cpan	file:Sah-Schemas-ISBN-0.003.tar.gz	ver:0.003	size:1643
 date:2018-08-23	repo:cpan	file:App-isbn-0.002.tar.gz	ver:0.002	size:18371
 date:2018-08-26	repo:cpan	file:App-WHOGrowthReferenceUtils-0.001.tar.gz	ver:0.001	size:15321
 date:2018-08-26	repo:cpan	file:Bencher-Scenarios-ISBN-0.001.tar.gz	ver:0.001	size:17918
+date:2018-08-30	repo:cpan	file:Log-ger-App-0.007.tar.gz	ver:0.007	size:16717
+date:2018-08-30	repo:cpan	file:Log-ger-App-0.008.tar.gz	ver:0.008	size:17123
