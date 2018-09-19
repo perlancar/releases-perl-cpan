@@ -10481,3 +10481,8 @@ date:2018-09-13	repo:cpan	file:Software-Catalog-SW-firefox-0.001.tar.gz	ver:0.00
 date:2018-09-13	repo:cpan	file:Software-Catalog-1.0.1.tar.gz	ver:1.0.1	size:15860
 date:2018-09-13	repo:cpan	file:Sah-Schemas-Software-0.001.tar.gz	ver:0.001	size:13516
 date:2018-09-13	repo:cpan	file:App-instopt-0.000.tar.gz	ver:0.000	size:19265
+date:2018-09-16	repo:cpan	file:Bencher-Scenarios-StringFunctions-0.001.tar.gz	ver:0.001	size:25037
+date:2018-09-19	repo:cpan	file:App-StockExchangeUtils-0.001.tar.gz	ver:0.001	size:23291
+date:2018-09-19	repo:cpan	file:Finance-SE-Catalog-20180919.tar.gz	ver:20180919	size:16355
+date:2018-09-19	repo:cpan	file:Finance-SE-Catalog-20180919.1.0.tar.gz	ver:20180919.1.0	size:16226
+date:2018-09-19	repo:cpan	file:File-Util-Tempdir-0.030.tar.gz	ver:0.030	size:15754
