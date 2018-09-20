@@ -10486,3 +10486,8 @@ date:2018-09-19	repo:cpan	file:App-StockExchangeUtils-0.001.tar.gz	ver:0.001	siz
 date:2018-09-19	repo:cpan	file:Finance-SE-Catalog-20180919.tar.gz	ver:20180919	size:16355
 date:2018-09-19	repo:cpan	file:Finance-SE-Catalog-20180919.1.0.tar.gz	ver:20180919.1.0	size:16226
 date:2018-09-19	repo:cpan	file:File-Util-Tempdir-0.030.tar.gz	ver:0.030	size:15754
+date:2018-09-20	repo:cpan	file:File-Util-Tempdir-0.031.tar.gz	ver:0.031	size:15837
+date:2018-09-20	repo:cpan	file:HTTP-Tiny-Patch-Cache-0.002.tar.gz	ver:0.002	size:15418
+date:2018-09-20	repo:cpan	file:Acme-CPANModulesBundle-PERLANCAR-0.003.tar.gz	ver:0.003	size:26641
+date:2018-09-20	repo:cpan	file:File-Util-Tempdir-0.032.tar.gz	ver:0.032	size:16530
+date:2018-09-20	repo:cpan	file:File-Util-Tempdir-0.033.tar.gz	ver:0.033	size:16748
