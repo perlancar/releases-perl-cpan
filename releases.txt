@@ -10499,3 +10499,6 @@ date:2018-09-20	repo:cpan	file:Software-Catalog-SW-bulwark-qt-0.001.tar.gz	ver:0
 date:2018-09-20	repo:cpan	file:App-instopt-0.001.tar.gz	ver:0.001	size:22451
 date:2018-09-20	repo:cpan	file:App-swcat-0.002.tar.gz	ver:0.002	size:19940
 >>>>>>> 755e2c7392fe7ff2b306ba460e3fe4db64fbd5a2
+date:2018-09-21	repo:cpan	file:Software-Catalog-SW-zcoin-qt-0.001.tar.gz	ver:0.001	size:14126
+date:2018-09-21	repo:cpan	file:App-swcat-0.003.tar.gz	ver:0.003	size:20331
+date:2018-09-21	repo:cpan	file:Software-Catalog-SW-zotero-0.001.tar.gz	ver:0.001	size:15048
