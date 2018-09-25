@@ -10502,3 +10502,8 @@ date:2018-09-20	repo:cpan	file:App-swcat-0.002.tar.gz	ver:0.002	size:19940
 date:2018-09-21	repo:cpan	file:Software-Catalog-SW-zcoin-qt-0.001.tar.gz	ver:0.001	size:14126
 date:2018-09-21	repo:cpan	file:App-swcat-0.003.tar.gz	ver:0.003	size:20331
 date:2018-09-21	repo:cpan	file:Software-Catalog-SW-zotero-0.001.tar.gz	ver:0.001	size:15048
+date:2018-09-25	repo:cpan	file:XTerm-Util-0.001.tar.gz	ver:0.001	size:15171
+date:2018-09-25	repo:cpan	file:ShellCompleter-Util-0.030.tar.gz	ver:0.030	size:14421
+date:2018-09-25	repo:cpan	file:AppLib-sshwrap-0.001.tar.gz	ver:0.001	size:13890
+date:2018-09-25	repo:cpan	file:App-XTermUtils-0.001.tar.gz	ver:0.001	size:17553
+date:2018-09-25	repo:cpan	file:App-sshwrap-hostcolor-0.001.tar.gz	ver:0.001	size:15921
