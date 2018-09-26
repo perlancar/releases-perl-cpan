@@ -10534,3 +10534,7 @@ date:2018-09-22	repo:cpan	file:Acme-CPANModulesBundle-Import-RSAVAGE-0.001.tar.g
 date:2018-09-22	repo:cpan	file:Acme-CPANModulesBundle-Import-SHARYANTO-0.001.tar.gz	ver:0.001	size:16467
 date:2018-09-22	repo:cpan	file:Acme-CPANModulesBundle-Import-PERLANCAR-Advent-2014-0.001.tar.gz	ver:0.001	size:19636
 date:2018-09-22	repo:cpan	file:Dist-Zilla-Plugin-PERLANCAR-EnsurePrereqToSpec-0.060.tar.gz	ver:0.060	size:14691
+date:2018-09-22	repo:cpan	file:Software-Catalog-SW-zotero-0.002.tar.gz	ver:0.002	size:15056
+date:2018-09-22	repo:cpan	file:File-Slurper-Shortcuts-0.002.tar.gz	ver:0.002	size:14132
+date:2018-09-23	repo:cpan	file:Text-Table-XLSX-0.001.tar.gz	ver:0.001	size:14183
+date:2018-09-23	repo:cpan	file:Text-Table-Any-0.093.tar.gz	ver:0.093	size:17341
