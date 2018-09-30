@@ -10560,3 +10560,4 @@ date:2018-09-26	repo:cpan	file:App-XTermUtils-0.002.tar.gz	ver:0.002	size:16341
 date:2018-09-26	repo:cpan	file:XTerm-Util-0.003.tar.gz	ver:0.003	size:15824
 date:2018-09-26	repo:cpan	file:App-XTermUtils-0.003.tar.gz	ver:0.003	size:15743
 date:2018-09-30	repo:cpan	file:Acme-CPANModules-CLI-Wrapper-UnixCommand-0.001.tar.gz	ver:0.001	size:14759
+date:2018-09-30	repo:cpan	file:File-RsyBak-0.360.tar.gz	ver:0.360	size:329225
