@@ -10565,3 +10565,15 @@ date:2018-09-26	repo:cpan	file:XTerm-Util-0.003.tar.gz	ver:0.003	size:15824
 date:2018-09-26	repo:cpan	file:App-XTermUtils-0.003.tar.gz	ver:0.003	size:15743
 date:2018-09-27	repo:cpan	file:Git-Bunch-0.623.tar.gz	ver:0.623	size:42981
 date:2018-09-30	repo:cpan	file:App-PerlCriticUtils-0.002.tar.gz	ver:0.002	size:20031
+date:2018-10-03	repo:cpan	file:Perinci-CmdLine-Inline-0.544.tar.gz	ver:0.544	size:45303
+date:2018-10-04	repo:cpan	file:Software-Catalog-SW-bulwark-qt-0.002.tar.gz	ver:0.002	size:14235
+date:2018-10-04	repo:cpan	file:Color-RGB-Util-0.591.tar.gz	ver:0.591	size:18118
+date:2018-10-04	repo:cpan	file:App-GraphicsColorNamesUtils-0.003.tar.gz	ver:0.003	size:19969
+date:2018-10-04	repo:cpan	file:Versioning-Scheme-0.001.tar.gz	ver:0.001	size:16381
+date:2018-10-04	repo:cpan	file:App-instopt-0.002.tar.gz	ver:0.002	size:23798
+date:2018-10-04	repo:cpan	file:Software-Catalog-SW-bulwark-qt-0.003.tar.gz	ver:0.003	size:14274
+date:2018-10-04	repo:cpan	file:Software-Catalog-1.0.2.tar.gz	ver:1.0.2	size:15696
+date:2018-10-04	repo:cpan	file:Software-Catalog-SW-firefox-0.003.tar.gz	ver:0.003	size:14023
+date:2018-10-04	repo:cpan	file:Software-Catalog-SW-zcoin-qt-0.002.tar.gz	ver:0.002	size:14161
+date:2018-10-04	repo:cpan	file:Software-Catalog-SW-zotero-0.003.tar.gz	ver:0.003	size:15045
+date:2018-10-04	repo:cpan	file:App-instopt-0.003.tar.gz	ver:0.003	size:24821
