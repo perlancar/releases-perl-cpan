@@ -10577,3 +10577,16 @@ date:2018-10-04	repo:cpan	file:Software-Catalog-SW-firefox-0.003.tar.gz	ver:0.00
 date:2018-10-04	repo:cpan	file:Software-Catalog-SW-zcoin-qt-0.002.tar.gz	ver:0.002	size:14161
 date:2018-10-04	repo:cpan	file:Software-Catalog-SW-zotero-0.003.tar.gz	ver:0.003	size:15045
 date:2018-10-04	repo:cpan	file:App-instopt-0.003.tar.gz	ver:0.003	size:24821
+date:2018-10-05	repo:cpan	file:Bencher-Mark-0.001.tar.gz	ver:0.001	size:14582
+date:2018-10-05	repo:cpan	file:Versioning-Scheme-0.002.tar.gz	ver:0.002	size:16234
+date:2018-10-05	repo:cpan	file:Software-Catalog-SW-dummy-undownloadable-0.001.tar.gz	ver:0.001	size:13841
+date:2018-10-05	repo:cpan	file:Versioning-Scheme-0.003.tar.gz	ver:0.003	size:16262
+date:2018-10-05	repo:cpan	file:Software-Catalog-1.0.3.tar.gz	ver:1.0.3	size:15757
+date:2018-10-05	repo:cpan	file:Software-Catalog-SW-dummy-undownloadable-0.002.tar.gz	ver:0.002	size:13925
+date:2018-10-05	repo:cpan	file:Software-Catalog-SW-zotero-0.004.tar.gz	ver:0.004	size:15153
+date:2018-10-05	repo:cpan	file:Software-Catalog-SW-firefox-0.004.tar.gz	ver:0.004	size:14108
+date:2018-10-05	repo:cpan	file:Software-Catalog-SW-zcoin-qt-0.003.tar.gz	ver:0.003	size:14253
+date:2018-10-05	repo:cpan	file:Software-Catalog-SW-bulwark-qt-0.004.tar.gz	ver:0.004	size:14387
+date:2018-10-05	repo:cpan	file:App-instopt-0.004.tar.gz	ver:0.004	size:25490
+date:2018-10-05	repo:cpan	file:Color-RGB-Util-0.592.tar.gz	ver:0.592	size:18542
+date:2018-10-05	repo:cpan	file:Color-RGB-Util-0.593.tar.gz	ver:0.593	size:18569
