@@ -10590,3 +10590,6 @@ date:2018-10-05	repo:cpan	file:Software-Catalog-SW-bulwark-qt-0.004.tar.gz	ver:0
 date:2018-10-05	repo:cpan	file:App-instopt-0.004.tar.gz	ver:0.004	size:25490
 date:2018-10-05	repo:cpan	file:Color-RGB-Util-0.592.tar.gz	ver:0.592	size:18542
 date:2018-10-05	repo:cpan	file:Color-RGB-Util-0.593.tar.gz	ver:0.593	size:18569
+date:2018-10-09	repo:cpan	file:WWW-PAUSE-Simple-0.442.tar.gz	ver:0.442	size:25767
+date:2018-10-09	repo:cpan	file:App-pause-0.650.tar.gz	ver:0.650	size:30991
+date:2018-10-09	repo:cpan	file:Finance-SE-IDX-0.004.tar.gz	ver:0.004	size:15947
