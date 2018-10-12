@@ -10616,3 +10616,15 @@ date:2018-10-09	repo:cpan	file:Data-Clean-0.501.tar.gz	ver:0.501	size:22063
 date:2018-10-09	repo:cpan	file:Data-Clean-JSON-0.391.tar.gz	ver:0.391	size:22153
 date:2018-10-09	repo:cpan	file:App-github-cmd-0.001.tar.gz	ver:0.001	size:19810
 date:2018-10-09	repo:cpan	file:App-GitHubUtils-0.001.tar.gz	ver:0.001	size:16457
+date:2018-10-09	repo:cpan	file:App-github-cmd-0.003.tar.gz	ver:0.003	size:20776
+date:2018-10-09	repo:cpan	file:App-GitHubUtils-0.002.tar.gz	ver:0.002	size:17083
+date:2018-10-09	repo:cpan	file:App-GitHubUtils-0.003.tar.gz	ver:0.003	size:17128
+date:2018-10-10	repo:cpan	file:Complete-Bash-0.320.tar.gz	ver:0.320	size:31271
+date:2018-10-10	repo:cpan	file:App-github-cmd-0.004.tar.gz	ver:0.004	size:20813
+date:2018-10-10	repo:cpan	file:App-sshwrap-hostcolor-0.006.tar.gz	ver:0.006	size:16753
+date:2018-10-11	repo:cpan	file:Versioning-Scheme-0.004.tar.gz	ver:0.004	size:17979
+date:2018-10-11	repo:cpan	file:Versioning-Scheme-0.005.tar.gz	ver:0.005	size:18922
+date:2018-10-11	repo:cpan	file:Versioning-Scheme-0.006.tar.gz	ver:0.006	size:20045
+date:2018-10-11	repo:cpan	file:MooX-Role-Parameterized-With-Keyword-0.001.tar.gz	ver:0.001	size:14585
+date:2018-10-12	repo:cpan	file:Versioning-Scheme-0.007.tar.gz	ver:0.007	size:21064
+date:2018-10-12	repo:cpan	file:Perinci-To-Doc-0.864.tar.gz	ver:0.864	size:37773
