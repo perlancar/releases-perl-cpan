@@ -10628,3 +10628,5 @@ date:2018-10-11	repo:cpan	file:Versioning-Scheme-0.006.tar.gz	ver:0.006	size:200
 date:2018-10-11	repo:cpan	file:MooX-Role-Parameterized-With-Keyword-0.001.tar.gz	ver:0.001	size:14585
 date:2018-10-12	repo:cpan	file:Versioning-Scheme-0.007.tar.gz	ver:0.007	size:21064
 date:2018-10-12	repo:cpan	file:Perinci-To-Doc-0.864.tar.gz	ver:0.864	size:37773
+date:2018-10-12	repo:cpan	file:App-github-cmd-0.002.tar.gz	ver:0.002	size:20063
+date:2018-10-12	repo:cpan	file:Finance-SE-IDX-Static-20181012.0.0.tar.gz	ver:20181012.0.0	size:32868
