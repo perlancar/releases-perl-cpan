@@ -10628,3 +10628,7 @@ date:2018-10-11	repo:cpan	file:Versioning-Scheme-0.006.tar.gz	ver:0.006	size:200
 date:2018-10-11	repo:cpan	file:MooX-Role-Parameterized-With-Keyword-0.001.tar.gz	ver:0.001	size:14585
 date:2018-10-12	repo:cpan	file:Versioning-Scheme-0.007.tar.gz	ver:0.007	size:21064
 date:2018-10-12	repo:cpan	file:Perinci-To-Doc-0.864.tar.gz	ver:0.864	size:37773
+date:2018-10-14	repo:cpan	file:Finance-SE-IDX-Any-0.002.tar.gz	ver:0.002	size:
+date:2018-10-14	repo:cpan	file:Data-Clean-0.502.tar.gz	ver:0.502	size:
+date:2018-10-14	repo:cpan	file:App-VersioningSchemeUtils-0.001.tar.gz	ver:0.001	size:
+date:2018-10-17	repo:cpan	file:Calendar-Indonesia-Holiday-0.322.tar.gz	ver:0.322	size:30361
