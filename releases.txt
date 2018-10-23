@@ -10644,3 +10644,5 @@ date:2018-10-18	repo:cpan	file:App-swcat-0.007.tar.gz	ver:0.007	size:22027
 date:2018-10-18	repo:cpan	file:Software-Catalog-SW-zcoin-qt-0.005.tar.gz	ver:0.005	size:14472
 date:2018-10-18	repo:cpan	file:Perinci-Object-0.310.tar.gz	ver:0.310	size:24028
 date:2018-10-18	repo:cpan	file:App-instopt-0.005.tar.gz	ver:0.005	size:26512
+date:2018-10-22	repo:cpan	file:Bluetooth-Any-0.001.tar.gz	ver:0.001	size:15035
+date:2018-10-22	repo:cpan	file:App-BluetoothUtils-0.001.tar.gz	ver:0.001	size:15564
