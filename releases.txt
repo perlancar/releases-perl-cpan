@@ -10647,3 +10647,6 @@ date:2018-10-18	repo:cpan	file:Perinci-Object-0.310.tar.gz	ver:0.310	size:24028
 date:2018-10-18	repo:cpan	file:App-instopt-0.005.tar.gz	ver:0.005	size:26512
 date:2018-10-22	repo:cpan	file:Bluetooth-Any-0.001.tar.gz	ver:0.001	size:15035
 date:2018-10-22	repo:cpan	file:App-BluetoothUtils-0.001.tar.gz	ver:0.001	size:15564
+date:2018-10-24	repo:cpan	file:Bluetooth-Any-0.002.tar.gz	ver:0.002	size:15180
+date:2018-10-30	repo:cpan	file:Acme-CPANModules-DesktopModules-0.001.tar.gz	ver:0.001	size:13775
+date:2018-10-30	repo:cpan	file:Org-To-HTML-0.231.tar.gz	ver:0.231	size:24522
