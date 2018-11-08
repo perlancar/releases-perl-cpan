@@ -10660,3 +10660,4 @@ date:2018-11-06	repo:cpan	file:Parse-PayPal-TxFinderReport-0.003.tar.gz	ver:0.00
 date:2018-11-07	repo:cpan	file:App-PayPalUtils-0.003.tar.gz	ver:0.003	size:16583
 date:2018-11-07	repo:cpan	file:Parse-PayPal-TxDetailReport-Old-0.001.tar.gz	ver:0.001	size:16868
 date:2018-11-07	repo:cpan	file:Parse-PayPal-TxDetailReport-Old-0.002.tar.gz	ver:0.002	size:16883
+date:2018-11-08	repo:cpan	file:App-github-cmd-0.005.tar.gz	ver:0.005	size:20039
