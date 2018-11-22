@@ -10667,3 +10667,7 @@ date:2018-11-10	repo:cpan	file:App-BlockWebFlooders-0.007.tar.gz	ver:0.007	size:
 date:2018-11-10	repo:cpan	file:App-BlockWebFlooders-0.008.tar.gz	ver:0.008	size:20294
 date:2018-11-11	repo:cpan	file:Bencher-Scenarios-PerinciTxManager-0.001.tar.gz	ver:0.001	size:24984
 date:2018-11-11	repo:cpan	file:Bencher-Scenarios-PerinciTxManager-0.001.tar.gz	ver:0.001	size:24979
+date:2018-11-18	repo:cpan	file:Versioning-Scheme-Python-0.001.tar.gz	ver:0.001	size:16305
+date:2018-11-18	repo:cpan	file:Versioning-Scheme-0.008.tar.gz	ver:0.008	size:21116
+date:2018-11-19	repo:cpan	file:App-SerializeUtils-0.161.tar.gz	ver:0.161	size:26886
+date:2018-11-22	repo:cpan	file:Test-Rinci-0.151.tar.gz	ver:0.151	size:20874
