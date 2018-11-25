@@ -10654,3 +10654,4 @@ date:2018-10-30	repo:cpan	file:Org-To-HTML-0.231.tar.gz	ver:0.231	size:24522
 date:2018-10-30	repo:cpan	file:Data-Sah-Coerce-0.027.tar.gz	ver:0.027	size:34110
 date:2018-10-30	repo:cpan	file:Git-Bunch-0.624.tar.gz	ver:0.624	size:43024
 date:2018-11-04	repo:cpan	file:Task-Software-Catalog-SW-0.001.tar.gz	ver:0.001	size:12132
+date:2018-11-25	repo:cpan	file:App-PhoneNumberUtils-0.001.tar.gz	ver:0.001	size:17262
