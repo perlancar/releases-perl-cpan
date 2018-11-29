@@ -10689,3 +10689,4 @@ date:2018-11-22	repo:cpan	file:Perinci-Script-Any-0.001.tar.gz	ver:0.001	size:14
 date:2018-11-22	repo:cpan	file:Perinci-WebScript-JSON-0.002.tar.gz	ver:0.002	size:14927
 date:2018-11-22	repo:cpan	file:Test-Rinci-0.152.tar.gz	ver:0.152	size:20057
 date:2018-11-25	repo:cpan	file:App-PhoneNumberUtils-0.001.tar.gz	ver:0.001	size:17262
+date:2018-11-29	repo:cpan	file:App-lcpan-1.027.tar.gz	ver:1.027	size:105177
