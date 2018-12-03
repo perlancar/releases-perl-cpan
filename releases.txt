@@ -10710,3 +10710,8 @@ date:2018-11-29	repo:cpan	file:Term-ANSIColor-Conditional-0.003.tar.gz	ver:0.003
 date:2018-11-29	repo:cpan	file:App-cryp-arbit-0.007.tar.gz	ver:0.007	size:55389
 date:2018-11-29	repo:cpan	file:App-cryp-arbit-0.008.tar.gz	ver:0.008	size:55501
 date:2018-11-29	repo:cpan	file:Perinci-Examples-0.810.tar.gz	ver:0.810	size:48424
+date:2018-12-03	repo:cpan	file:DBIx-Connect-Any-0.001.tar.gz	ver:0.001	size:13892
+date:2018-12-03	repo:cpan	file:App-cryp-arbit-0.009.tar.gz	ver:0.009	size:55618
+date:2018-12-03	repo:cpan	file:DBIx-Diff-Schema-0.092.tar.gz	ver:0.092	size:19106
+date:2018-12-03	repo:cpan	file:App-DiffDBSchemaUtils-0.001.tar.gz	ver:0.001	size:18206
+date:2018-12-03	repo:cpan	file:App-DiffDBSchemaUtils-0.002.tar.gz	ver:0.002	size:18395
