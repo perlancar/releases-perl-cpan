@@ -10724,3 +10724,4 @@ date:2018-12-03	repo:cpan	file:App-cryp-arbit-0.009.tar.gz	ver:0.009	size:55618
 date:2018-12-03	repo:cpan	file:DBIx-Diff-Schema-0.092.tar.gz	ver:0.092	size:19106
 date:2018-12-03	repo:cpan	file:App-DiffDBSchemaUtils-0.001.tar.gz	ver:0.001	size:18206
 date:2018-12-03	repo:cpan	file:App-DiffDBSchemaUtils-0.002.tar.gz	ver:0.002	size:18395
+date:2018-12-03	repo:cpan	file:Sah-Schemas-Perl-0.015.tar.gz	ver:0.015	size:20664
