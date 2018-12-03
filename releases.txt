@@ -10710,3 +10710,12 @@ date:2018-11-29	repo:cpan	file:Term-ANSIColor-Conditional-0.003.tar.gz	ver:0.003
 date:2018-11-29	repo:cpan	file:App-cryp-arbit-0.007.tar.gz	ver:0.007	size:55389
 date:2018-11-29	repo:cpan	file:App-cryp-arbit-0.008.tar.gz	ver:0.008	size:55501
 date:2018-11-29	repo:cpan	file:Perinci-Examples-0.810.tar.gz	ver:0.810	size:48424
+date:2018-12-02	repo:cpan	file:Term-App-Roles-0.02.tar.gz	ver:0.02	size:16111
+date:2018-12-02	repo:cpan	file:Term-ANSIColor-Conditional-0.004.tar.gz	ver:0.004	size:14879
+date:2018-12-02	repo:cpan	file:Term-ANSIColor-Conditional-0.005.tar.gz	ver:0.005	size:14923
+date:2018-12-02	repo:cpan	file:Term-ANSIColor-Patch-Conditional-0.001.tar.gz	ver:0.001	size:13991
+date:2018-12-02	repo:cpan	file:Term-ANSIColor-Conditional-0.006.tar.gz	ver:0.006	size:15162
+date:2018-12-02	repo:cpan	file:Color-ANSI-Util-0.162.tar.gz	ver:0.162	size:21785
+date:2018-12-02	repo:cpan	file:Text-ANSITable-0.501.tar.gz	ver:0.501	size:58804
+date:2018-12-02	repo:cpan	file:Data-Dump-Color-0.241.tar.gz	ver:0.241	size:26261
+date:2018-12-02	repo:cpan	file:App-rsynccolor-0.004.tar.gz	ver:0.004	size:14736
