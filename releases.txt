@@ -10725,3 +10725,7 @@ date:2018-12-03	repo:cpan	file:DBIx-Diff-Schema-0.092.tar.gz	ver:0.092	size:1910
 date:2018-12-03	repo:cpan	file:App-DiffDBSchemaUtils-0.001.tar.gz	ver:0.001	size:18206
 date:2018-12-03	repo:cpan	file:App-DiffDBSchemaUtils-0.002.tar.gz	ver:0.002	size:18395
 date:2018-12-03	repo:cpan	file:Sah-Schemas-Perl-0.015.tar.gz	ver:0.015	size:20664
+date:2018-12-04	repo:cpan	file:Calendar-Indonesia-Holiday-0.323.tar.gz	ver:0.323	size:29942
+date:2018-12-05	repo:cpan	file:App-ShellCompleter-mpv-0.060.tar.gz	ver:0.060	size:27398
+date:2018-12-05	repo:cpan	file:DBIx-Diff-Schema-0.093.tar.gz	ver:0.093	size:19494
+date:2018-12-05	repo:cpan	file:App-MysqlUtils-0.013.tar.gz	ver:0.013	size:32735
