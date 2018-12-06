@@ -10729,3 +10729,8 @@ date:2018-12-04	repo:cpan	file:Calendar-Indonesia-Holiday-0.323.tar.gz	ver:0.323
 date:2018-12-05	repo:cpan	file:App-ShellCompleter-mpv-0.060.tar.gz	ver:0.060	size:27398
 date:2018-12-05	repo:cpan	file:DBIx-Diff-Schema-0.093.tar.gz	ver:0.093	size:19494
 date:2018-12-05	repo:cpan	file:App-MysqlUtils-0.013.tar.gz	ver:0.013	size:32735
+date:2018-12-06	repo:cpan	file:Data-Cmp-0.006.tar.gz	ver:0.006	size:18702
+date:2018-12-06	repo:cpan	file:Bencher-Scenario-DataCmp-0.001.tar.gz	ver:0.001	size:19812
+date:2018-12-06	repo:cpan	file:Scalar-Cmp-0.001.tar.gz	ver:0.001	size:15791
+date:2018-12-06	repo:cpan	file:Bencher-Scenario-ScalarCmp-0.001.tar.gz	ver:0.001	size:19208
+date:2018-12-06	repo:cpan	file:Scalar-Cmp-0.002.tar.gz	ver:0.002	size:15953
