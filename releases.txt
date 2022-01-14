@@ -15372,3 +15372,4 @@ date:2022-01-07T03:16:06Z	repo:cpan	file:Text-Table-HTML-0.006.tar.gz	ver:0.006	
 date:2022-01-10T13:00:34Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.345.tar.gz	ver:0.345	size:36564
 date:2022-01-10T13:34:29Z	repo:cpan	file:Set-IntSpan-Util-0.001.tar.gz	ver:0.001	size:15480
 date:2022-01-10T13:40:15Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.346.tar.gz	ver:0.346	size:36717
+date:2022-01-14T01:54:42Z	repo:cpan	file:Text-Table-Any-0.109.tar.gz	ver:0.109	size:20302
