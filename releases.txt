@@ -15359,21 +15359,21 @@ date:2021-12-11T13:10:01Z	repo:cpan	file:App-MineralUtils-0.007.tar.gz	ver:0.007
 date:2021-12-14T03:31:21Z	repo:cpan	file:Business-Tax-ID-PPH21-0.064.tar.gz	ver:0.064	size:19706
 date:2021-12-14T12:34:21Z	repo:cpan	file:Business-Tax-ID-PPH21-0.065.tar.gz	ver:0.065	size:19742
 date:2021-12-19T12:30:47Z	repo:cpan	file:Perinci-CmdLine-2.000.0.tar.gz	ver:2.000.0	size:31405
-<<<<<<< HEAD
+date:2021-12-31T23:57:37Z	repo:cpan	file:App-ListPerlReleases-0.004.tar.gz	ver:0.004	size:21712
+date:2022-01-01T00:16:01Z	repo:cpan	file:CentOS-Releases-0.031.tar.gz	ver:0.031	size:22834
 date:2022-01-07T02:24:30Z	repo:cpan	file:Text-Table-Any-0.107.tar.gz	ver:0.107	size:19504
 date:2022-01-07T02:51:09Z	repo:cpan	file:Text-Table-Org-0.030.tar.gz	ver:0.030	size:16267
 date:2022-01-07T02:55:40Z	repo:cpan	file:Text-Table-Sprintf-0.006.tar.gz	ver:0.006	size:17757
 date:2022-01-07T03:10:23Z	repo:cpan	file:Text-Table-Any-0.108.tar.gz	ver:0.108	size:20126
-=======
-date:2021-12-31T23:57:37Z	repo:cpan	file:App-ListPerlReleases-0.004.tar.gz	ver:0.004	size:21712
-date:2022-01-01T00:16:01Z	repo:cpan	file:CentOS-Releases-0.031.tar.gz	ver:0.031	size:22834
->>>>>>> dc13482de9e3ae23b2b758fa0267027ecdb4ac17
 date:2022-01-07T03:16:06Z	repo:cpan	file:Text-Table-HTML-0.006.tar.gz	ver:0.006	size:16271
 date:2022-01-10T13:00:34Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.345.tar.gz	ver:0.345	size:36564
 date:2022-01-10T13:34:29Z	repo:cpan	file:Set-IntSpan-Util-0.001.tar.gz	ver:0.001	size:15480
 date:2022-01-10T13:40:15Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.346.tar.gz	ver:0.346	size:36717
 date:2022-01-14T01:54:42Z	repo:cpan	file:Text-Table-Any-0.109.tar.gz	ver:0.109	size:20302
 date:2022-01-14T01:59:30Z	repo:cpan	file:Acme-CPANModules-PortedFrom-PHP-0.004.tar.gz	ver:0.004	size:15646
+date:2022-01-15T00:03:57Z	repo:cpan	file:Acme-CPANModules-Interop-Ruby-0.001.tar.gz	ver:0.001	size:16427
+date:2022-01-15T01:01:40Z	repo:cpan	file:Pod-From-Acme-CPANModules-0.012.tar.gz	ver:0.012	size:19519
+date:2022-01-16T01:17:05Z	repo:cpan	file:Acme-CPANModules-HaveWebsite-0.004.tar.gz	ver:0.004	size:17534
 date:2022-01-16T12:51:18Z	repo:cpan	file:Perinci-CmdLine-Dump-0.121.tar.gz	ver:0.121	size:19411
 date:2022-01-16T12:57:13Z	repo:cpan	file:Perinci-CmdLine-Gen-0.501.tar.gz	ver:0.501	size:24654
 date:2022-01-16T13:03:32Z	repo:cpan	file:App-ImageMagickUtils-0.009.tar.gz	ver:0.009	size:26507
