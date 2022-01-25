@@ -15389,3 +15389,7 @@ date:2022-01-21T00:14:49Z	repo:cpan	file:App-FirefoxMultiAccountContainersUtils-
 date:2022-01-22T08:39:17Z	repo:cpan	file:Dist-Zilla-Plugin-GenPericmdScript-0.424.tar.gz	ver:0.424	size:21970
 date:2022-01-22T08:42:39Z	repo:cpan	file:Dist-Zilla-Plugin-Perinci-CmdLine-0.002.tar.gz	ver:0.002	size:16130
 date:2022-01-22T08:48:54Z	repo:cpan	file:App-ImageMagickUtils-0.010.tar.gz	ver:0.010	size:26549
+date:2022-01-24T09:38:11Z	repo:cpan	file:BorderStyle-2.0.7.tar.gz	ver:2.0.7	size:17604
+date:2022-01-24T09:42:11Z	repo:cpan	file:BorderStyleBase-0.010.tar.gz	ver:0.010	size:16936
+date:2022-01-24T10:45:47Z	repo:cpan	file:BorderStyles-Standard-0.008.tar.gz	ver:0.008	size:25320
+date:2022-01-24T12:20:12Z	repo:cpan	file:BorderStyles-Standard-0.009.tar.gz	ver:0.009	size:24697
