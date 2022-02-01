@@ -15421,3 +15421,4 @@ date:2022-01-27T11:59:27Z	repo:cpan	file:Text-Table-More-0.022.tar.gz	ver:0.022	
 date:2022-01-27T12:43:25Z	repo:cpan	file:App-BorderStyleUtils-0.014.tar.gz	ver:0.014	size:23787
 date:2022-01-27T13:22:45Z	repo:cpan	file:BorderStyle-2.0.9.tar.gz	ver:2.0.9	size:17876
 date:2022-01-27T13:22:53Z	repo:cpan	file:App-BorderStyleUtils-0.015.tar.gz	ver:0.015	size:23792
+date:2022-01-29T11:03:47Z	repo:cpan	file:Perinci-CmdLine-Lite-1.917.tar.gz	ver:1.917	size:77849
