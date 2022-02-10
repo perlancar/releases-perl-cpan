@@ -15439,3 +15439,8 @@ date:2022-02-08T00:31:19Z	repo:cpan	file:Org-Parser-0.556.tar.gz	ver:0.556	size:
 date:2022-02-08T00:45:45Z	repo:cpan	file:Org-To-HTML-0.234.tar.gz	ver:0.234	size:25569
 date:2022-02-08T01:27:37Z	repo:cpan	file:Bencher-Backend-1.061.tar.gz	ver:1.061	size:66857
 date:2022-02-08T01:28:38Z	repo:cpan	file:Bencher-1.061.tar.gz	ver:1.061	size:43411
+date:2022-02-10T05:47:55Z	repo:cpan	file:App-ImageMagickUtils-0.011.tar.gz	ver:0.011	size:26558
+date:2022-02-10T05:56:53Z	repo:cpan	file:App-ImageMagickUtils-0.012.tar.gz	ver:0.012	size:26582
+date:2022-02-10T07:28:42Z	repo:cpan	file:App-freqtable-0.004.tar.gz	ver:0.004	size:18270
+date:2022-02-10T07:48:50Z	repo:cpan	file:App-CSVUtils-0.035.tar.gz	ver:0.035	size:66159
+date:2022-02-10T08:09:03Z	repo:cpan	file:App-CSVUtils-0.036.tar.gz	ver:0.036	size:66172
