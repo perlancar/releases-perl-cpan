@@ -15485,4 +15485,4 @@ date:2022-02-26T01:10:19Z	repo:cpan	file:Finance-Currency-Convert-BCA-0.156.tar.
 date:2022-02-26T01:37:46Z	repo:cpan	file:Finance-Currency-Convert-GMC-0.007.tar.gz	ver:0.007	size:21201
 date:2022-02-27T09:45:45Z	repo:cpan	file:Finance-Currency-Convert-Mandiri-0.002.tar.gz	ver:0.002	size:42675
 date:2022-03-02T03:02:15Z	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.848.tar.gz	ver:0.848	size:41306
-date:2022-03-06T09:16:20Z	repo:cpan	file:ArrayData-Word-EN-Wordle-20220306.0.0.tar.gz	ver:20220306.0.0	size:50505
+date:2022-03-06T09:26:08Z	repo:cpan	file:ArrayData-Lingua-Word-EN-Wordle-20220306.0.0.tar.gz	ver:20220306.0.0	size:50671
