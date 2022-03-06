@@ -15478,3 +15478,11 @@ date:2022-02-19T01:47:21Z	repo:cpan	file:Dist-Zilla-Role-RequireFromBuild-0.007.
 date:2022-02-20T04:02:28Z	repo:cpan	file:BorderStyles-Standard-0.014.tar.gz	ver:0.014	size:25670
 date:2022-02-20T04:05:23Z	repo:cpan	file:TableDataRoles-Standard-0.014.tar.gz	ver:0.014	size:30977
 date:2022-02-24T10:42:15Z	repo:cpan	file:App-MetaCPANUtils-0.006.tar.gz	ver:0.006	size:24216
+date:2022-02-25T07:16:42Z	repo:cpan	file:App-perlmv-0.604.tar.gz	ver:0.604	size:35569
+date:2022-02-25T07:42:04Z	repo:cpan	file:App-perlmv-0.605.tar.gz	ver:0.605	size:35776
+date:2022-02-26T00:44:22Z	repo:cpan	file:Finance-Currency-Convert-BI-0.064.tar.gz	ver:0.064	size:89068
+date:2022-02-26T01:10:19Z	repo:cpan	file:Finance-Currency-Convert-BCA-0.156.tar.gz	ver:0.156	size:36397
+date:2022-02-26T01:37:46Z	repo:cpan	file:Finance-Currency-Convert-GMC-0.007.tar.gz	ver:0.007	size:21201
+date:2022-02-27T09:45:45Z	repo:cpan	file:Finance-Currency-Convert-Mandiri-0.002.tar.gz	ver:0.002	size:42675
+date:2022-03-02T03:02:15Z	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.848.tar.gz	ver:0.848	size:41306
+date:2022-03-06T09:16:20Z	repo:cpan	file:ArrayData-Word-EN-Wordle-20220306.0.0.tar.gz	ver:20220306.0.0	size:50505
