@@ -15487,3 +15487,11 @@ date:2022-02-26T01:37:46Z	repo:cpan	file:Finance-Currency-Convert-GMC-0.007.tar.
 date:2022-02-27T09:45:45Z	repo:cpan	file:Finance-Currency-Convert-Mandiri-0.002.tar.gz	ver:0.002	size:42675
 date:2022-03-02T03:02:15Z	repo:cpan	file:Perinci-Sub-GetArgs-Argv-0.848.tar.gz	ver:0.848	size:41306
 date:2022-03-06T09:26:08Z	repo:cpan	file:ArrayData-Lingua-Word-EN-Wordle-20220306.0.0.tar.gz	ver:20220306.0.0	size:50671
+date:2022-03-06T09:39:17Z	repo:cpan	file:ArrayData-Lingua-Word-EN-Enable-0.002.tar.gz	ver:0.002	size:473064
+date:2022-03-06T12:37:38Z	repo:cpan	file:ArrayData-Lingua-Word-ID-Wordle-20220306.0.0.tar.gz	ver:20220306.0.0	size:38835
+date:2022-03-06T12:59:53Z	repo:cpan	file:WordList-EN-Wordle-0.001.tar.gz	ver:0.001	size:15404
+date:2022-03-06T13:06:25Z	repo:cpan	file:WordList-ID-Wordle-0.001.tar.gz	ver:0.001	size:15533
+date:2022-03-06T13:07:33Z	repo:cpan	file:WordListRole-Source-ArrayData-0.001.tar.gz	ver:0.001	size:14758
+date:2022-03-06T13:09:54Z	repo:cpan	file:WordList-EN-Wordle-0.002.tar.gz	ver:0.002	size:15353
+date:2022-03-08T08:55:59Z	repo:cpan	file:Perinci-Examples-0.822.tar.gz	ver:0.822	size:55272
+date:2022-03-08T09:01:55Z	repo:cpan	file:Perinci-Examples-Bin-Any-0.072.tar.gz	ver:0.072	size:31426
