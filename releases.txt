@@ -15495,3 +15495,9 @@ date:2022-03-06T13:07:33Z	repo:cpan	file:WordListRole-Source-ArrayData-0.001.tar
 date:2022-03-06T13:09:54Z	repo:cpan	file:WordList-EN-Wordle-0.002.tar.gz	ver:0.002	size:15353
 date:2022-03-08T08:55:59Z	repo:cpan	file:Perinci-Examples-0.822.tar.gz	ver:0.822	size:55272
 date:2022-03-08T09:01:55Z	repo:cpan	file:Perinci-Examples-Bin-Any-0.072.tar.gz	ver:0.072	size:31426
+date:2022-03-08T10:51:21Z	repo:cpan	file:App-TermAttrUtils-0.007.tar.gz	ver:0.007	size:23129
+date:2022-03-08T10:54:30Z	repo:cpan	file:Acme-CPANModules-API-Dead-Currency-0.002.tar.gz	ver:0.002	size:15808
+date:2022-03-08T10:56:18Z	repo:cpan	file:Acme-CPANModules-API-Domain-Registrar-0.002.tar.gz	ver:0.002	size:15891
+date:2022-03-08T10:57:20Z	repo:cpan	file:Acme-CPANModules-AliasingModuleName-0.002.tar.gz	ver:0.002	size:15698
+date:2022-03-08T10:58:18Z	repo:cpan	file:Acme-CPANModules-ArrayClassBuilder-0.002.tar.gz	ver:0.002	size:16034
+date:2022-03-08T11:04:51Z	repo:cpan	file:Acme-CPANModules-Assert-0.002.tar.gz	ver:0.002	size:16149
