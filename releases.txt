@@ -15563,3 +15563,11 @@ date:2022-03-27T11:40:44Z	repo:cpan	file:App-lcpan-CmdBundle-bencher-0.003.tar.g
 date:2022-03-27T12:33:09Z	repo:cpan	file:Data-TableData-Rank-0.002.tar.gz	ver:0.002	size:17417
 date:2022-03-27T12:57:07Z	repo:cpan	file:App-lcpan-1.069.tar.gz	ver:1.069	size:195771
 date:2022-03-27T13:58:38Z	repo:cpan	file:App-lcpan-1.070.tar.gz	ver:1.070	size:196173
+date:2022-04-01T12:17:08Z	repo:cpan	file:Dist-Zilla-Plugin-Acme-CPANModules-0.005.tar.gz	ver:0.005	size:16843
+date:2022-04-01T12:18:37Z	repo:cpan	file:Acme-CPANModules-MockModules-0.002.tar.gz	ver:0.002	size:15593
+date:2022-04-05T06:17:52Z	repo:cpan	file:App-CekBpom-0.018.tar.gz	ver:0.018	size:27835
+date:2022-04-05T15:26:14Z	repo:cpan	file:App-CekBpom-0.019.tar.gz	ver:0.019	size:27805
+date:2022-04-15T06:52:15Z	repo:cpan	file:Perinci-Examples-0.823.tar.gz	ver:0.823	size:55363
+date:2022-04-15T07:34:51Z	repo:cpan	file:Perinci-CmdLine-Lite-1.918.tar.gz	ver:1.918	size:76502
+date:2022-04-15T07:50:33Z	repo:cpan	file:Acme-CPANModules-BrowsingTableInteractively-0.006.tar.gz	ver:0.006	size:17811
+date:2022-04-15T08:01:29Z	repo:cpan	file:Acme-CPANModules-BrowsingTableInteractively-0.007.tar.gz	ver:0.007	size:17845
