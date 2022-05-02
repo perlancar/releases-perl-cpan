@@ -15584,3 +15584,8 @@ date:2022-05-01T15:51:13Z	repo:cpan	file:App-org2wp-0.012.tar.gz	ver:0.012	size:
 date:2022-05-02T00:42:32Z	repo:cpan	file:App-PericmdUtils-0.051.tar.gz	ver:0.051	size:23606
 date:2022-05-02T01:13:07Z	repo:cpan	file:Config-IOD-Reader-0.344.tar.gz	ver:0.344	size:29744
 date:2022-05-02T01:27:38Z	repo:cpan	file:Config-IOD-0.353.tar.gz	ver:0.353	size:33468
+date:2022-05-02T01:30:59Z	repo:cpan	file:App-org2wp-0.013.tar.gz	ver:0.013	size:30762
+date:2022-05-02T01:39:09Z	repo:cpan	file:Perinci-CmdLine-Util-Config-1.726.tar.gz	ver:1.726	size:19782
+date:2022-05-02T01:51:30Z	repo:cpan	file:App-PericmdUtils-0.052.tar.gz	ver:0.052	size:23905
+date:2022-05-02T02:12:35Z	repo:cpan	file:App-PerlCriticUtils-0.007.tar.gz	ver:0.007	size:61065
+date:2022-05-02T02:15:58Z	repo:cpan	file:Config-IOD-Reader-0.345.tar.gz	ver:0.345	size:29875
