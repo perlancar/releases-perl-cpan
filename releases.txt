@@ -15589,3 +15589,7 @@ date:2022-05-02T01:39:09Z	repo:cpan	file:Perinci-CmdLine-Util-Config-1.726.tar.g
 date:2022-05-02T01:51:30Z	repo:cpan	file:App-PericmdUtils-0.052.tar.gz	ver:0.052	size:23905
 date:2022-05-02T02:12:35Z	repo:cpan	file:App-PerlCriticUtils-0.007.tar.gz	ver:0.007	size:61065
 date:2022-05-02T02:15:58Z	repo:cpan	file:Config-IOD-Reader-0.345.tar.gz	ver:0.345	size:29875
+date:2022-05-03T02:11:39Z	repo:cpan	file:Browser-Find-Windows-0.002.tar.gz	ver:0.002	size:14699
+date:2022-05-03T09:01:34Z	repo:cpan	file:Text-Table-Any-0.112.tar.gz	ver:0.112	size:23461
+date:2022-05-03T09:04:47Z	repo:cpan	file:Text-Table-Any-0.113.tar.gz	ver:0.113	size:23528
+date:2022-05-03T09:59:49Z	repo:cpan	file:App-IODUtils-0.163.tar.gz	ver:0.163	size:24367
