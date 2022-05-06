@@ -15601,3 +15601,9 @@ date:2022-05-03T11:40:16Z	repo:cpan	file:Acme-CPANAuthors-CPAN-MostScripts-0.004
 date:2022-05-03T11:46:13Z	repo:cpan	file:App-ThisDist-0.014.tar.gz	ver:0.014	size:19174
 date:2022-05-03T11:49:57Z	repo:cpan	file:App-ThisDist-0.015.tar.gz	ver:0.015	size:19215
 date:2022-05-06T02:36:17Z	repo:cpan	file:Data-TableData-Lookup-0.003.tar.gz	ver:0.003	size:19681
+date:2022-05-06T12:44:12Z	repo:cpan	file:App-ImageMagickUtils-0.013.tar.gz	ver:0.013	size:26257
+date:2022-05-06T13:17:14Z	repo:cpan	file:File-Trash-FreeDesktop-0.200.tar.gz	ver:0.200	size:23884
+date:2022-05-06T13:31:30Z	repo:cpan	file:App-ImageMagickUtils-0.014.tar.gz	ver:0.014	size:26785
+date:2022-05-06T13:35:45Z	repo:cpan	file:App-ImageMagickUtils-0.015.tar.gz	ver:0.015	size:26821
+date:2022-05-06T14:03:23Z	repo:cpan	file:Bencher-Scenario-IPC-System-Options-0.040.tar.gz	ver:0.040	size:19379
+date:2022-05-06T14:13:02Z	repo:cpan	file:Bencher-Scenario-List-MoreUtils-0.041.tar.gz	ver:0.041	size:27278
