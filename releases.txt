@@ -15607,3 +15607,8 @@ date:2022-05-06T13:31:30Z	repo:cpan	file:App-ImageMagickUtils-0.014.tar.gz	ver:0
 date:2022-05-06T13:35:45Z	repo:cpan	file:App-ImageMagickUtils-0.015.tar.gz	ver:0.015	size:26821
 date:2022-05-06T14:03:23Z	repo:cpan	file:Bencher-Scenario-IPC-System-Options-0.040.tar.gz	ver:0.040	size:19379
 date:2022-05-06T14:13:02Z	repo:cpan	file:Bencher-Scenario-List-MoreUtils-0.041.tar.gz	ver:0.041	size:27278
+date:2022-05-07T09:17:52Z	repo:cpan	file:Bencher-Scenario-List-Util-0.051.tar.gz	ver:0.051	size:38528
+date:2022-05-07T09:21:01Z	repo:cpan	file:Bencher-Scenario-Module-Path-More-0.003.tar.gz	ver:0.003	size:19714
+date:2022-05-07T09:26:21Z	repo:cpan	file:Bencher-Scenario-PERLANCAR-Tree-Examples-0.031.tar.gz	ver:0.031	size:19413
+date:2022-05-07T09:28:51Z	repo:cpan	file:Bencher-Scenario-Hash-Unique-0.002.tar.gz	ver:0.002	size:19402
+date:2022-05-07T10:13:27Z	repo:cpan	file:App-lcpan-1.070_001.tar.gz	ver:1.070_001	size:197905
