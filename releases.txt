@@ -15631,3 +15631,9 @@ date:2022-05-08T12:17:59Z	repo:cpan	file:Acme-PERLANCAR-Test-Misc-0.001.tar.gz	v
 date:2022-05-08T12:23:43Z	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.299.tar.gz	ver:0.299	size:27533
 date:2022-05-08T12:29:23Z	repo:cpan	file:Pod-Weaver-PluginBundle-Author-PERLANCAR-0.293.tar.gz	ver:0.293	size:18036
 date:2022-05-08T12:30:10Z	repo:cpan	file:App-ImageMagickUtils-0.019.tar.gz	ver:0.019	size:28116
+date:2022-05-08T12:48:35Z	repo:cpan	file:App-CekBpom-0.021.tar.gz	ver:0.021	size:26558
+date:2022-05-08T12:53:50Z	repo:cpan	file:App-RegexpPatternUtils-0.008.tar.gz	ver:0.008	size:24762
+date:2022-05-08T12:56:56Z	repo:cpan	file:Acme-PERLANCAR-Test-Misc-0.002.tar.gz	ver:0.002	size:15160
+date:2022-05-08T17:27:14Z	repo:cpan	file:App-UniqFiles-0.133.tar.gz	ver:0.133	size:25129
+date:2022-05-08T18:25:06Z	repo:cpan	file:Regexp-Pattern-Filename-Image-WhatsApp-0.004.tar.gz	ver:0.004	size:16197
+date:2022-05-08T18:28:41Z	repo:cpan	file:Regexp-Pattern-Filename-Media-WhatsApp-0.004.tar.gz	ver:0.004	size:16267
