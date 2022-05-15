@@ -15637,3 +15637,7 @@ date:2022-05-08T12:56:56Z	repo:cpan	file:Acme-PERLANCAR-Test-Misc-0.002.tar.gz	v
 date:2022-05-08T17:27:14Z	repo:cpan	file:App-UniqFiles-0.133.tar.gz	ver:0.133	size:25129
 date:2022-05-08T18:25:06Z	repo:cpan	file:Regexp-Pattern-Filename-Image-WhatsApp-0.004.tar.gz	ver:0.004	size:16197
 date:2022-05-08T18:28:41Z	repo:cpan	file:Regexp-Pattern-Filename-Media-WhatsApp-0.004.tar.gz	ver:0.004	size:16267
+date:2022-05-14T01:12:22Z	repo:cpan	file:Perinci-CmdLine-POD-0.027.tar.gz	ver:0.027	size:26891
+date:2022-05-14T01:22:53Z	repo:cpan	file:App-PericmdUtils-0.053.tar.gz	ver:0.053	size:23959
+date:2022-05-14T01:27:11Z	repo:cpan	file:Perinci-To-Doc-0.879.tar.gz	ver:0.879	size:39254
+date:2022-05-14T01:37:33Z	repo:cpan	file:App-podtohtml-0.010.tar.gz	ver:0.010	size:395167
