@@ -15659,3 +15659,12 @@ date:2022-05-20T10:22:10Z	repo:cpan	file:Array-Sample-SimpleRandom-0.002.tar.gz	
 date:2022-05-20T10:23:25Z	repo:cpan	file:Array-Sample-WeightedRandom-0.001.tar.gz	ver:0.001	size:15667
 date:2022-05-20T10:27:04Z	repo:cpan	file:Array-Sample-WeightedRandom-0.002.tar.gz	ver:0.002	size:15804
 date:2022-05-20T10:40:38Z	repo:cpan	file:Data-TableData-Pick-0.001.tar.gz	ver:0.001	size:16185
+date:2022-05-20T23:00:32Z	repo:cpan	file:Array-Pick-Scan-0.005.tar.gz	ver:0.005	size:16518
+date:2022-05-20T23:11:21Z	repo:cpan	file:Array-Sample-SimpleRandom-0.003.tar.gz	ver:0.003	size:16335
+date:2022-05-21T02:59:45Z	repo:cpan	file:Array-Sample-WeightedRandom-0.003.tar.gz	ver:0.003	size:17743
+date:2022-05-21T03:27:30Z	repo:cpan	file:Array-Sample-WeightedRandom-0.004.tar.gz	ver:0.004	size:18120
+date:2022-05-21T03:28:48Z	repo:cpan	file:Bencher-Scenarios-Array-Sample-WeightedRandom-0.001.tar.gz	ver:0.001	size:250439
+date:2022-05-22T11:53:27Z	repo:cpan	file:Bencher-Scenario-shuffle-0.001.tar.gz	ver:0.001	size:31674
+date:2022-05-22T13:13:28Z	repo:cpan	file:Array-Shuffle-0.001.tar.gz	ver:0.001	size:15273
+date:2022-05-22T13:17:17Z	repo:cpan	file:Array-Shuffle-0.002.tar.gz	ver:0.002	size:15466
+date:2022-05-22T13:41:14Z	repo:cpan	file:Array-Sample-WeightedRandom-0.005.tar.gz	ver:0.005	size:17922
