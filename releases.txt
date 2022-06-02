@@ -15668,3 +15668,12 @@ date:2022-05-22T11:53:27Z	repo:cpan	file:Bencher-Scenario-shuffle-0.001.tar.gz	v
 date:2022-05-22T13:13:28Z	repo:cpan	file:Array-Shuffle-0.001.tar.gz	ver:0.001	size:15273
 date:2022-05-22T13:17:17Z	repo:cpan	file:Array-Shuffle-0.002.tar.gz	ver:0.002	size:15466
 date:2022-05-22T13:41:14Z	repo:cpan	file:Array-Sample-WeightedRandom-0.005.tar.gz	ver:0.005	size:17922
+date:2022-05-26T03:00:14Z	repo:cpan	file:App-CekBpom-0.022.tar.gz	ver:0.022	size:28637
+date:2022-05-27T00:28:13Z	repo:cpan	file:Text-Table-Any-0.114.tar.gz	ver:0.114	size:23545
+date:2022-05-27T00:31:22Z	repo:cpan	file:Perinci-CmdLine-Lite-1.921.tar.gz	ver:1.921	size:77605
+date:2022-05-27T00:37:33Z	repo:cpan	file:App-PericmdUtils-0.054.tar.gz	ver:0.054	size:25786
+date:2022-05-28T06:50:31Z	repo:cpan	file:Perinci-CmdLine-POD-0.028.tar.gz	ver:0.028	size:26941
+date:2022-06-02T11:09:30Z	repo:cpan	file:App-td-0.104.tar.gz	ver:0.104	size:31066
+date:2022-06-02T12:27:12Z	repo:cpan	file:App-td-0.105.tar.gz	ver:0.105	size:31488
+date:2022-06-02T12:35:22Z	repo:cpan	file:Array-Shuffle-0.003.tar.gz	ver:0.003	size:15722
+date:2022-06-02T12:40:13Z	repo:cpan	file:App-nauniq-0.110.tar.gz	ver:0.110	size:20531
