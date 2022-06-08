@@ -15677,3 +15677,15 @@ date:2022-06-02T11:09:30Z	repo:cpan	file:App-td-0.104.tar.gz	ver:0.104	size:3106
 date:2022-06-02T12:27:12Z	repo:cpan	file:App-td-0.105.tar.gz	ver:0.105	size:31488
 date:2022-06-02T12:35:22Z	repo:cpan	file:Array-Shuffle-0.003.tar.gz	ver:0.003	size:15722
 date:2022-06-02T12:40:13Z	repo:cpan	file:App-nauniq-0.110.tar.gz	ver:0.110	size:20531
+date:2022-06-02T21:55:02Z	repo:cpan	file:Perinci-Sub-To-CLIDocData-0.300.tar.gz	ver:0.300	size:25509
+date:2022-06-04T03:14:52Z	repo:cpan	file:Acme-CPANModules-PortedFrom-Ruby-0.008.tar.gz	ver:0.008	size:16268
+date:2022-06-05T10:32:51Z	repo:cpan	file:App-td-0.106.tar.gz	ver:0.106	size:31703
+date:2022-06-05T10:56:51Z	repo:cpan	file:App-td-0.107.tar.gz	ver:0.107	size:32577
+date:2022-06-05T11:11:00Z	repo:cpan	file:App-ThisDist-0.016.tar.gz	ver:0.016	size:20132
+date:2022-06-05T12:48:18Z	repo:cpan	file:Sah-Schemas-Str-0.004.tar.gz	ver:0.004	size:19551
+date:2022-06-07T08:43:28Z	repo:cpan	file:WHO-GrowthReference-Table-0.012.tar.gz	ver:0.012	size:431443
+date:2022-06-07T10:39:18Z	repo:cpan	file:Data-CSel-0.128.tar.gz	ver:0.128	size:34393
+date:2022-06-07T23:13:28Z	repo:cpan	file:Sah-Schemas-Str-0.005.tar.gz	ver:0.005	size:19758
+date:2022-06-07T23:18:31Z	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schemas-0.070.tar.gz	ver:0.070	size:18850
+date:2022-06-07T23:20:04Z	repo:cpan	file:Sah-Schemas-Str-0.006.tar.gz	ver:0.006	size:20740
+date:2022-06-07T23:24:00Z	repo:cpan	file:Sah-Schemas-Str-0.007.tar.gz	ver:0.007	size:20835
