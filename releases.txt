@@ -15704,3 +15704,4 @@ date:2022-06-12T11:55:34Z	repo:cpan	file:App-orgadb-0.001.tar.gz	ver:0.001	size:
 date:2022-06-13T09:05:27Z	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.781.tar.gz	ver:0.781	size:22567
 date:2022-06-13T10:58:53Z	repo:cpan	file:App-CPANChangesUtils-0.077.tar.gz	ver:0.077	size:26102
 date:2022-06-13T14:02:01Z	repo:cpan	file:Perinci-CmdLine-POD-0.029.tar.gz	ver:0.029	size:27030
+date:2022-06-17T00:44:05Z	repo:cpan	file:App-MineralUtils-0.008.tar.gz	ver:0.008	size:24118
