@@ -15641,6 +15641,7 @@ date:2022-05-14T01:12:22Z	repo:cpan	file:Perinci-CmdLine-POD-0.027.tar.gz	ver:0.
 date:2022-05-14T01:22:53Z	repo:cpan	file:App-PericmdUtils-0.053.tar.gz	ver:0.053	size:23959
 date:2022-05-14T01:27:11Z	repo:cpan	file:Perinci-To-Doc-0.879.tar.gz	ver:0.879	size:39254
 date:2022-05-14T01:37:33Z	repo:cpan	file:App-podtohtml-0.010.tar.gz	ver:0.010	size:395167
+date:2022-05-16T00:46:17Z	repo:cpan	file:Perinci-Result-Format-Lite-0.287.tar.gz	ver:0.287	size:25716
 date:2022-05-16T09:54:09Z	repo:cpan	file:Log-ger-Plugin-Multisets-0.004.tar.gz	ver:0.004	size:15004
 date:2022-05-16T10:26:10Z	repo:cpan	file:Log-ger-Plugin-Multisets-0.005.tar.gz	ver:0.005	size:15132
 date:2022-05-19T09:57:43Z	repo:cpan	file:Data-TableData-Object-0.116.tar.gz	ver:0.116	size:27520
