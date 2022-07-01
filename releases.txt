@@ -15710,3 +15710,6 @@ date:2022-06-23T16:45:01Z	repo:cpan	file:Pod-Weaver-Plugin-Rinci-0.783.tar.gz	ve
 date:2022-06-23T16:53:58Z	repo:cpan	file:Org-Parser-0.558.tar.gz	ver:0.558	size:64435
 date:2022-06-23T23:20:34Z	repo:cpan	file:App-orgadb-0.002.tar.gz	ver:0.002	size:24722
 date:2022-06-23T23:39:27Z	repo:cpan	file:App-perlmv-0.606.tar.gz	ver:0.606	size:36337
+date:2022-07-01T08:15:56Z	repo:cpan	file:Perinci-Manual-0.009.tar.gz	ver:0.009	size:18383
+date:2022-07-01T08:54:46Z	repo:cpan	file:Perinci-CmdLine-POD-0.030.tar.gz	ver:0.030	size:27299
+date:2022-07-01T09:12:54Z	repo:cpan	file:Perinci-CmdLine-POD-0.031.tar.gz	ver:0.031	size:27494
