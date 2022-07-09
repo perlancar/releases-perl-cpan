@@ -15721,3 +15721,8 @@ date:2022-07-04T12:05:18Z	repo:cpan	file:App-orgadb-0.004.tar.gz	ver:0.004	size:
 date:2022-07-05T02:06:17Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.347.tar.gz	ver:0.347	size:36826
 date:2022-07-05T11:02:54Z	repo:cpan	file:Sah-Schemas-Str-0.009.tar.gz	ver:0.009	size:21339
 date:2022-07-05T12:30:49Z	repo:cpan	file:Regexp-From-String-0.001.tar.gz	ver:0.001	size:15325
+date:2022-07-09T01:59:16Z	repo:cpan	file:Regexp-From-String-0.002.tar.gz	ver:0.002	size:16065
+date:2022-07-09T02:03:49Z	repo:cpan	file:Sah-Schemas-Str-0.010.tar.gz	ver:0.010	size:21329
+date:2022-07-09T02:12:01Z	repo:cpan	file:Regexp-From-String-0.003.tar.gz	ver:0.003	size:16336
+date:2022-07-09T02:24:28Z	repo:cpan	file:Sah-Schemas-Str-0.011.tar.gz	ver:0.011	size:21309
+date:2022-07-09T03:09:18Z	repo:cpan	file:Sah-PSchemas-Re-0.001.tar.gz	ver:0.001	size:15450
