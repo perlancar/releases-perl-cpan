@@ -15782,3 +15782,17 @@ date:2022-07-24T13:09:28Z	repo:cpan	file:App-UnixUIDUtils-0.002.tar.gz	ver:0.002
 date:2022-07-24T13:28:04Z	repo:cpan	file:Data-Sah-Filter-0.013.tar.gz	ver:0.013	size:28918
 date:2022-07-24T13:29:21Z	repo:cpan	file:Test-Sah-Filter-0.004.tar.gz	ver:0.004	size:20030
 date:2022-07-24T13:38:49Z	repo:cpan	file:Sah-Schemas-Binary-0.006.tar.gz	ver:0.006	size:16986
+date:2022-07-25T01:15:59Z	repo:cpan	file:Hash-Util-Regexp-0.001.tar.gz	ver:0.001	size:15361
+date:2022-07-25T12:49:36Z	repo:cpan	file:App-CSVUtils-0.038.tar.gz	ver:0.038	size:68033
+date:2022-07-25T12:55:52Z	repo:cpan	file:TableDataBundle-Software-License-0.001.tar.gz	ver:0.001	size:15796
+date:2022-07-27T01:44:23Z	repo:cpan	file:App-CSVUtils-0.039.tar.gz	ver:0.039	size:68307
+date:2022-07-27T02:09:37Z	repo:cpan	file:Acme-CPANModules-WorkingWithCSV-0.001.tar.gz	ver:0.001	size:17384
+date:2022-07-27T07:48:21Z	repo:cpan	file:App-tabledata-0.003.tar.gz	ver:0.003	size:22434
+date:2022-07-27T09:09:18Z	repo:cpan	file:Hash-Subset-0.007.tar.gz	ver:0.007	size:18523
+date:2022-07-27T09:23:39Z	repo:cpan	file:TableDataBundle-Software-License-0.002.tar.gz	ver:0.002	size:19279
+date:2022-07-27T09:50:43Z	repo:cpan	file:ArrayData-Lingua-Word-EN-Medical-Glutanimate-20220727.0.0.tar.gz	ver:20220727.0.0	size:370299
+date:2022-07-27T09:51:25Z	repo:cpan	file:WordList-EN-Medical-Glutanimate-20220727.0.0.tar.gz	ver:20220727.0.0	size:15456
+date:2022-07-28T14:55:06Z	repo:cpan	file:Module-Installed-Tiny-0.007.tar.gz	ver:0.007	size:19928
+date:2022-07-28T15:19:45Z	repo:cpan	file:Module-Installed-Tiny-0.008.tar.gz	ver:0.008	size:19974
+date:2022-07-29T00:33:56Z	repo:cpan	file:Module-Installed-Tiny-0.009.tar.gz	ver:0.009	size:20381
+date:2022-07-29T13:28:00Z	repo:cpan	file:Perinci-CmdLine-POD-0.033.tar.gz	ver:0.033	size:27603
