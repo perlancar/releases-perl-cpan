@@ -15796,7 +15796,15 @@ date:2022-07-28T14:55:06Z	repo:cpan	file:Module-Installed-Tiny-0.007.tar.gz	ver:
 date:2022-07-28T15:19:45Z	repo:cpan	file:Module-Installed-Tiny-0.008.tar.gz	ver:0.008	size:19974
 date:2022-07-29T00:33:56Z	repo:cpan	file:Module-Installed-Tiny-0.009.tar.gz	ver:0.009	size:20381
 date:2022-07-29T13:28:00Z	repo:cpan	file:Perinci-CmdLine-POD-0.033.tar.gz	ver:0.033	size:27603
+date:2022-07-30T00:08:13Z	repo:cpan	file:Module-Installed-Tiny-0.010.tar.gz	ver:0.010	size:20932
+date:2022-07-30T05:24:43Z	repo:cpan	file:Regexp-Pattern-Perl-0.007.tar.gz	ver:0.007	size:16429
 date:2022-07-30T09:28:12Z	repo:cpan	file:App-GitUtils-0.086.tar.gz	ver:0.086	size:23698
+date:2022-07-30T09:28:12Z	repo:cpan	file:App-GitUtils-0.086.tar.gz	ver:0.086	size:23698
+date:2022-08-01T10:47:35Z	repo:cpan	file:App-CSVUtils-0.040.tar.gz	ver:0.040	size:70755
+date:2022-08-01T11:27:39Z	repo:cpan	file:App-CSVUtils-0.041.tar.gz	ver:0.041	size:72591
+date:2022-08-01T11:41:25Z	repo:cpan	file:App-CSVUtils-0.042.tar.gz	ver:0.042	size:73106
+date:2022-08-01T11:43:42Z	repo:cpan	file:App-CSVUtils-0.043.tar.gz	ver:0.043	size:73127
+date:2022-08-05T23:54:13Z	repo:cpan	file:String-Wildcard-Bash-0.044.tar.gz	ver:0.044	size:20662
 date:2022-08-08T01:45:47Z	repo:cpan	file:App-orgadb-0.005.tar.gz	ver:0.005	size:34072
 date:2022-08-08T01:46:48Z	repo:cpan	file:App-orgadb-0.005.tar.gz	ver:0.005	size:34064
 date:2022-08-08T01:47:08Z	repo:cpan	file:App-orgadb-0.005.tar.gz	ver:0.005	size:34068
