@@ -15853,3 +15853,7 @@ date:2022-08-21T00:51:09Z	repo:cpan	file:Dist-Util-0.070.tar.gz	ver:0.070	size:1
 date:2022-08-21T01:02:36Z	repo:cpan	file:App-DistUtils-0.152.tar.gz	ver:0.152	size:27621
 date:2022-08-21T01:11:51Z	repo:cpan	file:Dist-Util-0.071.tar.gz	ver:0.071	size:16706
 date:2022-08-21T01:21:46Z	repo:cpan	file:App-ThisDist-0.017.tar.gz	ver:0.017	size:20326
+date:2022-08-21T10:08:36Z	repo:cpan	file:Dist-Util-Current-0.001.tar.gz	ver:0.001	size:16305
+date:2022-08-21T10:50:11Z	repo:cpan	file:App-ThisDist-0.018.tar.gz	ver:0.018	size:20429
+date:2022-08-21T10:53:31Z	repo:cpan	file:Dist-Util-Current-0.002.tar.gz	ver:0.002	size:16416
+date:2022-08-22T01:02:00Z	repo:cpan	file:Perinci-CmdLine-Lite-1.922.tar.gz	ver:1.922	size:77618
