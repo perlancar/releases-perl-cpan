@@ -15869,3 +15869,5 @@ date:2022-08-25T01:20:06Z	repo:cpan	file:Test-Sah-Schema-0.013.tar.gz	ver:0.013	
 date:2022-08-25T01:46:37Z	repo:cpan	file:Perinci-Access-Perl-0.898.tar.gz	ver:0.898	size:38448
 date:2022-08-25T01:53:31Z	repo:cpan	file:Sah-Schemas-JSON-0.004.tar.gz	ver:0.004	size:19871
 date:2022-08-25T02:06:25Z	repo:cpan	file:Sah-Schemas-JSON-0.005.tar.gz	ver:0.005	size:21012
+date:2022-08-25T13:32:05Z	repo:cpan	file:TableDataBundle-Locale-JP-City-0.001.tar.gz	ver:0.001	size:43939
+date:2022-08-26T07:28:04Z	repo:cpan	file:Sah-Schemas-JSON-0.006.tar.gz	ver:0.006	size:23295
