@@ -15871,3 +15871,4 @@ date:2022-08-25T01:53:31Z	repo:cpan	file:Sah-Schemas-JSON-0.004.tar.gz	ver:0.004
 date:2022-08-25T02:06:25Z	repo:cpan	file:Sah-Schemas-JSON-0.005.tar.gz	ver:0.005	size:21012
 date:2022-08-25T13:32:05Z	repo:cpan	file:TableDataBundle-Locale-JP-City-0.001.tar.gz	ver:0.001	size:43939
 date:2022-08-26T07:28:04Z	repo:cpan	file:Sah-Schemas-JSON-0.006.tar.gz	ver:0.006	size:23295
+date:2022-09-02T00:31:13Z	repo:cpan	file:App-ListNewCPANDists-0.017.tar.gz	ver:0.017	size:26892
