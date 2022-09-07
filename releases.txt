@@ -15885,3 +15885,6 @@ date:2022-09-01T03:00:03Z	repo:cpan	file:App-ListUtils-0.001.tar.gz	ver:0.001	si
 date:2022-09-01T06:41:09Z	repo:cpan	file:App-ListUtils-0.002.tar.gz	ver:0.002	size:19561
 date:2022-09-01T12:23:37Z	repo:cpan	file:TableDataBundle-Business-ID-DGIP-20220831.0.0.tar.gz	ver:20220831.0.0	size:1623468
 date:2022-09-02T05:21:48Z	repo:cpan	file:App-ListNewCPANDists-0.017.tar.gz	ver:0.017	size:27942
+date:2022-09-03T12:01:09Z	repo:cpan	file:App-hr-0.268.tar.gz	ver:0.268	size:464895
+date:2022-09-07T10:07:02Z	repo:cpan	file:App-BPOMUtils-0.003.tar.gz	ver:0.003	size:29865
+date:2022-09-07T11:18:58Z	repo:cpan	file:App-BPOMUtils-0.004.tar.gz	ver:0.004	size:34869
