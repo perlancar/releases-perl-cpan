@@ -15909,3 +15909,5 @@ date:2022-09-08T10:20:48Z	repo:cpan	file:Complete-Random-0.002.tar.gz	ver:0.002	
 date:2022-09-08T10:46:36Z	repo:cpan	file:Complete-Unix-0.081.tar.gz	ver:0.081	size:16929
 date:2022-09-08T11:02:13Z	repo:cpan	file:Complete-Bash-0.337.tar.gz	ver:0.337	size:33191
 date:2022-09-08T11:32:56Z	repo:cpan	file:Complete-Util-0.612.tar.gz	ver:0.612	size:31748
+date:2022-09-08T12:19:39Z	repo:cpan	file:App-PDFUtils-0.010.tar.gz	ver:0.010	size:31696
+date:2022-09-08T12:22:53Z	repo:cpan	file:App-PDFUtils-0.011.tar.gz	ver:0.011	size:31721
