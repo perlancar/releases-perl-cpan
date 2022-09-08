@@ -15907,3 +15907,5 @@ date:2022-09-08T09:45:01Z	repo:cpan	file:Complete-Unix-0.080.tar.gz	ver:0.080	si
 date:2022-09-08T09:58:08Z	repo:cpan	file:Complete-Random-0.001.tar.gz	ver:0.001	size:15852
 date:2022-09-08T10:20:48Z	repo:cpan	file:Complete-Random-0.002.tar.gz	ver:0.002	size:16092
 date:2022-09-08T10:46:36Z	repo:cpan	file:Complete-Unix-0.081.tar.gz	ver:0.081	size:16929
+date:2022-09-08T11:02:13Z	repo:cpan	file:Complete-Bash-0.337.tar.gz	ver:0.337	size:33191
+date:2022-09-08T11:32:56Z	repo:cpan	file:Complete-Util-0.612.tar.gz	ver:0.612	size:31748
