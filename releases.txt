@@ -15952,3 +15952,14 @@ date:2022-09-25T09:40:35Z	repo:cpan	file:Sah-Schemas-CPAN-0.014.tar.gz	ver:0.014
 date:2022-09-25T09:42:51Z	repo:cpan	file:Sah-Schemas-CPANModules-0.003.tar.gz	ver:0.003	size:18056
 date:2022-09-25T09:44:59Z	repo:cpan	file:Test-Sah-Schema-0.014.tar.gz	ver:0.014	size:20947
 date:2022-09-26T08:44:57Z	repo:cpan	file:App-orgadb-0.008.tar.gz	ver:0.008	size:35670
+date:2022-09-28T01:04:02Z	repo:cpan	file:Types-Sah-Firefox-0.001.tar.gz	ver:0.001	size:14775
+date:2022-09-28T01:09:28Z	repo:cpan	file:Types-Sah-Firefox-0.002.tar.gz	ver:0.002	size:14820
+date:2022-09-28T05:07:50Z	repo:cpan	file:App-PMUtils-0.742.tar.gz	ver:0.742	size:50887
+date:2022-09-29T02:17:20Z	repo:cpan	file:App-chalk-0.050.tar.gz	ver:0.050	size:17737
+date:2022-09-29T10:39:19Z	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schemas-0.071.tar.gz	ver:0.071	size:19139
+date:2022-09-30T10:04:48Z	repo:cpan	file:App-SahUtils-0.482.tar.gz	ver:0.482	size:81737
+date:2022-09-30T10:07:37Z	repo:cpan	file:Data-Sah-0.913.tar.gz	ver:0.913	size:127041
+date:2022-09-30T10:31:43Z	repo:cpan	file:App-CdUtils-0.006.tar.gz	ver:0.006	size:19130
+date:2022-10-04T06:45:03Z	repo:cpan	file:App-FirefoxMultiAccountContainersUtils-0.015.tar.gz	ver:0.015	size:27449
+date:2022-10-05T00:19:35Z	repo:cpan	file:Sah-Schemas-Data-Sah-0.001.tar.gz	ver:0.001	size:18105
+date:2022-10-05T10:48:38Z	repo:cpan	file:Types-Sah-Firefox-0.003.tar.gz	ver:0.003	size:14829
