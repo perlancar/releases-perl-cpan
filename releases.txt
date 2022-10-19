@@ -16031,3 +16031,5 @@ date:2022-10-19T16:08:55Z	repo:cpan	file:Data-Sah-0.914.tar.gz	ver:0.914	size:12
 date:2022-10-19T16:20:08Z	repo:cpan	file:Pod-Weaver-Plugin-Sah-Schemas-0.072.tar.gz	ver:0.072	size:19318
 date:2022-10-19T16:21:08Z	repo:cpan	file:Sah-Schemas-Int-0.077.tar.gz	ver:0.077	size:26985
 date:2022-10-19T17:42:04Z	repo:cpan	file:Sah-Schemas-Float-0.013.tar.gz	ver:0.013	size:24274
+date:2022-10-19T17:46:32Z	repo:cpan	file:Sah-Schemas-Binary-0.008.tar.gz	ver:0.008	size:17437
+date:2022-10-19T17:55:12Z	repo:cpan	file:Sah-Schemas-Date-ID-0.008.tar.gz	ver:0.008	size:28081
