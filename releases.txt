@@ -16040,3 +16040,13 @@ date:2022-10-21T00:47:16Z	repo:cpan	file:App-GoogleSearchUtils-0.016.tar.gz	ver:
 date:2022-10-21T07:16:55Z	repo:cpan	file:DefHash-2.0.1.tar.gz	ver:2.0.1	size:19357
 date:2022-10-21T07:17:39Z	repo:cpan	file:Rinci-1.1.103.tar.gz	ver:1.1.103	size:59717
 date:2022-10-21T07:20:31Z	repo:cpan	file:Sah-0.9.51.tar.gz	ver:0.9.51	size:82105
+date:2022-10-25T05:12:16Z	repo:cpan	file:Clipboard-Any-0.004.tar.gz	ver:0.004	size:17963
+date:2022-10-25T05:15:43Z	repo:cpan	file:App-ClipboardUtils-0.004.tar.gz	ver:0.004	size:20045
+date:2022-10-25T07:28:02Z	repo:cpan	file:Clipboard-Any-0.005.tar.gz	ver:0.005	size:18136
+date:2022-10-25T07:28:58Z	repo:cpan	file:App-ClipboardUtils-0.005.tar.gz	ver:0.005	size:20673
+date:2022-10-25T11:51:22Z	repo:cpan	file:App-CSVUtils-0.046.tar.gz	ver:0.046	size:79406
+date:2022-10-27T09:15:17Z	repo:cpan	file:App-BPOMUtils-0.008.tar.gz	ver:0.008	size:150754
+date:2022-10-27T09:17:33Z	repo:cpan	file:Devel-DieHandler-DumpDieArgs-0.001.tar.gz	ver:0.001	size:14814
+date:2022-10-27T09:39:14Z	repo:cpan	file:TableDataBundle-Business-ID-BPOM-20221027.0.0.tar.gz	ver:20221027.0.0	size:15789
+date:2022-10-27T10:30:51Z	repo:cpan	file:Perinci-CmdLine-POD-0.038.tar.gz	ver:0.038	size:28070
+date:2022-10-27T10:35:32Z	repo:cpan	file:App-BPOMUtils-0.009.tar.gz	ver:0.009	size:163433
