@@ -16105,3 +16105,6 @@ date:2022-11-15T06:06:58Z	repo:cpan	file:Require-HookChain-source-metacpan-0.005
 date:2022-11-15T07:19:38Z	repo:cpan	file:Require-Hook-Source-MetaCPAN-0.003.tar.gz	ver:0.003	size:15641
 date:2022-11-15T07:30:54Z	repo:cpan	file:Require-HookChain-source-dzil_build-0.001.tar.gz	ver:0.001	size:14938
 date:2022-11-15T09:51:00Z	repo:cpan	file:App-UniqFiles-0.139.tar.gz	ver:0.139	size:31270
+date:2022-11-15T10:38:12Z	repo:cpan	file:Pod-Weaver-Plugin-Data-Sah-Filter-0.008.tar.gz	ver:0.008	size:17222
+date:2022-11-15T11:51:41Z	repo:cpan	file:Sah-Schemas-JSON-0.007.tar.gz	ver:0.007	size:25102
+date:2022-11-16T08:00:18Z	repo:cpan	file:App-ManUtils-0.002.tar.gz	ver:0.002	size:21703
