@@ -16108,3 +16108,5 @@ date:2022-11-15T09:51:00Z	repo:cpan	file:App-UniqFiles-0.139.tar.gz	ver:0.139	si
 date:2022-11-15T10:38:12Z	repo:cpan	file:Pod-Weaver-Plugin-Data-Sah-Filter-0.008.tar.gz	ver:0.008	size:17222
 date:2022-11-15T11:51:41Z	repo:cpan	file:Sah-Schemas-JSON-0.007.tar.gz	ver:0.007	size:25102
 date:2022-11-16T08:00:18Z	repo:cpan	file:App-ManUtils-0.002.tar.gz	ver:0.002	size:21703
+date:2022-11-17T04:48:36Z	repo:cpan	file:Perinci-Examples-HTML-0.001.tar.gz	ver:0.001	size:15539
+date:2022-11-22T02:27:22Z	repo:cpan	file:App-SubtitleUtils-0.011.tar.gz	ver:0.011	size:29427
