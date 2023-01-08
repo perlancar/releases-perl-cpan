@@ -16176,3 +16176,5 @@ date:2022-12-28T09:45:07Z	repo:cpan	file:Debian-Releases-PERLANCAR-20221228.0.ta
 date:2022-12-28T10:24:24Z	repo:cpan	file:Ubuntu-Releases-20221228.0.tar.gz	ver:20221228.0	size:23803
 date:2022-12-29T12:50:40Z	repo:cpan	file:App-CSVUtils-1.000.tar.gz	ver:1.000	size:105124
 date:2023-01-07T23:41:46Z	repo:cpan	file:Retry-Backoff-0.004.tar.gz	ver:0.004	size:18119
+date:2023-01-07T23:53:18Z	repo:cpan	file:Retry-Backoff-0.005.tar.gz	ver:0.005	size:18143
+date:2023-01-08T00:07:38Z	repo:cpan	file:App-lcpan-Bootstrap-20230108.0.0.tar.gz	ver:20230108.0.0	size:94745348
