@@ -16271,3 +16271,5 @@ date:2023-01-29T13:01:28Z	repo:cpan	file:App-SpreadsheetUtils-0.003.tar.gz	ver:0
 date:2023-01-31T01:40:39Z	repo:cpan	file:Acme-CPANModules-PortedFrom-Python-0.006.tar.gz	ver:0.006	size:16135
 date:2023-02-01T03:58:37Z	repo:cpan	file:App-CSVUtils-1.004.tar.gz	ver:1.004	size:114592
 date:2023-02-01T06:51:30Z	repo:cpan	file:App-BPOMUtils-Additives-0.001.tar.gz	ver:0.001	size:20000
+date:2023-02-01T07:58:08Z	repo:cpan	file:App-BPOMUtils-Additives-0.002.tar.gz	ver:0.002	size:20177
+date:2023-02-02T15:37:15Z	repo:cpan	file:App-CSVUtils-1.005.tar.gz	ver:1.005	size:116270
