@@ -16405,3 +16405,7 @@ date:2023-03-08T13:47:55Z	repo:cpan	file:Acme-CPANModules-SmartMatch-0.001.tar.g
 date:2023-03-09T01:47:27Z	repo:cpan	file:App-BPOMUtils-Table-FoodType-0.019.tar.gz	ver:0.019	size:118913
 date:2023-03-09T10:19:52Z	repo:cpan	file:App-BPOMUtils-RPO-Checker-0.008.tar.gz	ver:0.008	size:22540
 date:2023-03-09T10:48:32Z	repo:cpan	file:App-ModuleReleaseSelectUtils-0.001.tar.gz	ver:0.001	size:19760
+date:2023-03-10T07:57:20Z	repo:cpan	file:App-BPOMUtils-RPO-Checker-0.009.tar.gz	ver:0.009	size:22709
+date:2023-03-10T10:45:00Z	repo:cpan	file:App-TextTableUtils-0.009.tar.gz	ver:0.009	size:26504
+date:2023-03-10T10:45:52Z	repo:cpan	file:App-CSVUtils-1.022.tar.gz	ver:1.022	size:151674
+date:2023-03-10T15:56:11Z	repo:cpan	file:App-TextWrapUtils-0.006.tar.gz	ver:0.006	size:23394
