@@ -16415,3 +16415,5 @@ date:2023-03-12T12:14:46Z	repo:cpan	file:Acme-MetaSyntactic-breaking_bad-0.001.t
 date:2023-03-12T12:24:56Z	repo:cpan	file:Acme-MetaSyntactic-3rd_rock-0.001.tar.gz	ver:0.001	size:14835
 date:2023-03-12T12:31:05Z	repo:cpan	file:Acme-MetaSyntactic-not_going_out-0.001.tar.gz	ver:0.001	size:14693
 date:2023-03-12T12:38:32Z	repo:cpan	file:Acme-MetaSyntactic-schitts_creek-0.001.tar.gz	ver:0.001	size:14744
+date:2023-03-16T00:55:40Z	repo:cpan	file:App-BPOMUtils-RPO-Checker-0.010.tar.gz	ver:0.010	size:22783
+date:2023-03-16T02:30:53Z	repo:cpan	file:App-BPOMUtils-RPO-Checker-0.011.tar.gz	ver:0.011	size:22848
