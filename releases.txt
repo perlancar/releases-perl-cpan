@@ -16480,3 +16480,8 @@ date:2023-05-12T08:39:16Z	repo:cpan	file:Devel-EndStats-0.212.tar.gz	ver:0.212	s
 date:2023-05-12T11:16:37Z	repo:cpan	file:App-PMUtils-0.744.tar.gz	ver:0.744	size:52135
 date:2023-05-20T02:22:20Z	repo:cpan	file:App-DistUtils-0.154.tar.gz	ver:0.154	size:28267
 date:2023-05-20T02:22:58Z	repo:cpan	file:App-ThisDist-0.019.tar.gz	ver:0.019	size:20473
+date:2023-05-22T14:14:36Z	repo:cpan	file:Perinci-CmdLine-Call-0.060.tar.gz	ver:0.060	size:16782
+date:2023-05-22T15:21:20Z	repo:cpan	file:Text-Table-HTML-0.010.tar.gz	ver:0.010	size:17811
+date:2023-05-24T06:40:53Z	repo:cpan	file:App-FileRenameUtils-0.011.tar.gz	ver:0.011	size:21926
+date:2023-05-24T11:31:13Z	repo:cpan	file:IPC-System-Options-0.341.tar.gz	ver:0.341	size:25187
+date:2023-05-24T11:35:14Z	repo:cpan	file:TableDef-1.0.9.tar.gz	ver:1.0.9	size:17927
