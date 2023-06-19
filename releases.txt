@@ -16510,3 +16510,4 @@ date:2023-06-17T01:57:41Z	repo:cpan	file:TableData-Acme-CPANAuthors-0.002.tar.gz
 date:2023-06-17T02:03:09Z	repo:cpan	file:App-AcmeCpanauthors-0.004.tar.gz	ver:0.004	size:191139
 date:2023-06-17T02:06:47Z	repo:cpan	file:App-cpanmodules-0.007.tar.gz	ver:0.007	size:22479
 date:2023-06-18T12:57:22Z	repo:cpan	file:App-CSVUtils-1.025.tar.gz	ver:1.025	size:163679
+date:2023-06-19T04:38:50Z	repo:cpan	file:App-CSVUtils-1.026.tar.gz	ver:1.026	size:164522
