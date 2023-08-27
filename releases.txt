@@ -16652,3 +16652,14 @@ date:2023-08-25T00:12:09Z	repo:cpan	file:App-SymlinkUtils-0.003.tar.gz	ver:0.003
 date:2023-08-25T09:21:44Z	repo:cpan	file:App-perlmv-scriptlet-add_prefix_datestamp-0.003.tar.gz	ver:0.003	size:16637
 date:2023-08-25T09:27:23Z	repo:cpan	file:File-Symlink-Util-0.005.tar.gz	ver:0.005	size:19668
 date:2023-08-25T09:29:06Z	repo:cpan	file:App-SymlinkUtils-0.004.tar.gz	ver:0.004	size:21980
+date:2023-08-26T04:42:50Z	repo:cpan	file:App-randquote-0.001.tar.gz	ver:0.001	size:18680
+date:2023-08-26T12:22:33Z	repo:cpan	file:Role-TinyCommons-Collection-0.009.tar.gz	ver:0.009	size:21963
+date:2023-08-27T11:06:38Z	repo:cpan	file:TableData-0.2.4.tar.gz	ver:0.2.4	size:21434
+date:2023-08-27T11:19:23Z	repo:cpan	file:TableData-WordList-0.001.tar.gz	ver:0.001	size:15557
+date:2023-08-27T11:37:05Z	repo:cpan	file:App-CheckArchiveFilename-0.005.tar.gz	ver:0.005	size:21008
+date:2023-08-27T11:38:48Z	repo:cpan	file:App-CheckArchiveFilename-0.006.tar.gz	ver:0.006	size:19522
+date:2023-08-27T13:28:47Z	repo:cpan	file:Filename-Archive-0.032.tar.gz	ver:0.032	size:17152
+date:2023-08-27T13:30:39Z	repo:cpan	file:App-CheckArchiveFilename-0.007.tar.gz	ver:0.007	size:19568
+date:2023-08-27T13:42:57Z	repo:cpan	file:Filename-Perl-Release-0.001.tar.gz	ver:0.001	size:16290
+date:2023-08-27T13:52:41Z	repo:cpan	file:App-ThisDist-0.020.tar.gz	ver:0.020	size:21211
+date:2023-08-27T14:05:51Z	repo:cpan	file:App-CheckPerlReleaseFilename-0.001.tar.gz	ver:0.001	size:19151
