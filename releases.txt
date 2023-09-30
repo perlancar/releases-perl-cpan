@@ -16705,3 +16705,15 @@ date:2023-09-23T00:28:58Z	repo:cpan	file:TableData-Business-ID-KAN-Client-Lab-Te
 date:2023-09-23T00:34:45Z	repo:cpan	file:App-BPOMUtils-Table-FoodCategory-0.020.tar.gz	ver:0.020	size:251220
 date:2023-09-23T01:26:17Z	repo:cpan	file:App-tabledata-0.008.tar.gz	ver:0.008	size:24582
 date:2023-09-23T01:41:11Z	repo:cpan	file:Data-Unixish-1.573.tar.gz	ver:1.573	size:55659
+date:2023-09-25T05:13:08Z	repo:cpan	file:Acme-CPANModules-PortedFrom-NPM-0.005.tar.gz	ver:0.005	size:16418
+date:2023-09-26T05:35:50Z	repo:cpan	file:App-lcpan-1.074.tar.gz	ver:1.074	size:207199
+date:2023-09-30T00:48:12Z	repo:cpan	file:Rinci-1.1.104.tar.gz	ver:1.1.104	size:60356
+date:2023-09-30T01:16:43Z	repo:cpan	file:Acme-CPANModules-RemovingElementsFromArray-0.001.tar.gz	ver:0.001	size:17204
+date:2023-09-30T03:04:11Z	repo:cpan	file:Acme-CPANModules-RemovingElementsFromArray-0.002.tar.gz	ver:0.002	size:17237
+date:2023-09-30T03:17:25Z	repo:cpan	file:Acme-CPANModules-RemovingElementsFromArray-0.003.tar.gz	ver:0.003	size:17522
+date:2023-09-30T03:22:30Z	repo:cpan	file:alias-module-0.003.tar.gz	ver:0.003	size:15245
+date:2023-09-30T03:37:29Z	repo:cpan	file:Acme-CPANModules-GroupingElementsOfArray-0.001.tar.gz	ver:0.001	size:16307
+date:2023-09-30T03:38:48Z	repo:cpan	file:Acme-CPANModules-GroupingElementsOfArray-0.002.tar.gz	ver:0.002	size:16342
+date:2023-09-30T04:03:36Z	repo:cpan	file:List-Util-groupby-0.001.tar.gz	ver:0.001	size:16019
+date:2023-09-30T04:04:53Z	repo:cpan	file:List-Util-groupby-0.002.tar.gz	ver:0.002	size:16057
+date:2023-09-30T04:10:53Z	repo:cpan	file:List-Util-mapsplice-0.001.tar.gz	ver:0.001	size:16593
