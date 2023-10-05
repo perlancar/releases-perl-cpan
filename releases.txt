@@ -16717,3 +16717,11 @@ date:2023-09-30T03:38:48Z	repo:cpan	file:Acme-CPANModules-GroupingElementsOfArra
 date:2023-09-30T04:03:36Z	repo:cpan	file:List-Util-groupby-0.001.tar.gz	ver:0.001	size:16019
 date:2023-09-30T04:04:53Z	repo:cpan	file:List-Util-groupby-0.002.tar.gz	ver:0.002	size:16057
 date:2023-09-30T04:10:53Z	repo:cpan	file:List-Util-mapsplice-0.001.tar.gz	ver:0.001	size:16593
+date:2023-09-30T11:31:45Z	repo:cpan	file:List-Util-groupby-0.003.tar.gz	ver:0.003	size:16200
+date:2023-10-03T12:28:11Z	repo:cpan	file:Business-ID-POM-0.005.tar.gz	ver:0.005	size:20692
+date:2023-10-04T10:40:33Z	repo:cpan	file:Business-ID-NKK-0.003.tar.gz	ver:0.003	size:17582
+date:2023-10-04T10:42:39Z	repo:cpan	file:Business-ID-NOPPBB-0.091.tar.gz	ver:0.091	size:18208
+date:2023-10-04T10:50:58Z	repo:cpan	file:App-IndonesianNumberUtils-0.032.tar.gz	ver:0.032	size:23035
+date:2023-10-05T09:05:51Z	repo:cpan	file:App-CreateSelfSignedSSLCert-0.152.tar.gz	ver:0.152	size:20459
+date:2023-10-05T10:46:05Z	repo:cpan	file:Acme-CPANModules-OrderedHash-0.001.tar.gz	ver:0.001	size:26731
+date:2023-10-05T13:23:13Z	repo:cpan	file:Acme-CPANModules-OrderedHash-0.002.tar.gz	ver:0.002	size:48373
