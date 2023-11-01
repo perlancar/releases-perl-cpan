@@ -16832,3 +16832,10 @@ date:2023-10-31T06:20:15Z	repo:cpan	file:Acme-CPANModules-VersionNumber-Perl-0.0
 date:2023-10-31T06:21:46Z	repo:cpan	file:Acme-CPANModules-WordListBundle-Proverbs-0.002.tar.gz	ver:0.002	size:15932
 date:2023-10-31T06:23:30Z	repo:cpan	file:Acme-CPANModules-WorkingWithCSV-0.003.tar.gz	ver:0.003	size:17929
 date:2023-10-31T06:39:36Z	repo:cpan	file:Acme-CPANModules-WorkingWithXLS-0.003.tar.gz	ver:0.003	size:17662
+date:2023-11-01T00:53:58Z	repo:cpan	file:Acme-CPANModules-0.1.11.tar.gz	ver:0.1.11	size:19439
+date:2023-11-01T01:05:27Z	repo:cpan	file:Acme-CPANModulesBundle-PERLANCAR-0.011.tar.gz	ver:0.011	size:21280
+date:2023-11-01T03:28:45Z	repo:cpan	file:Dist-Zilla-PluginBundle-Author-PERLANCAR-0.609.tar.gz	ver:0.609	size:22490
+date:2023-11-01T03:30:30Z	repo:cpan	file:Acme-CPANModulesBundle-PERLANCAR-0.012.tar.gz	ver:0.012	size:22312
+date:2023-11-01T03:31:21Z	repo:cpan	file:Acme-CPANModules-0.1.12.tar.gz	ver:0.1.12	size:19493
+date:2023-11-01T06:00:22Z	repo:cpan	file:Acme-CPANModulesBundle-PERLANCAR-0.013.tar.gz	ver:0.013	size:22329
+date:2023-11-01T06:02:49Z	repo:cpan	file:Acme-CPANModulesBundle-PERLANCAR-0.014.tar.gz	ver:0.014	size:22357
