@@ -16847,3 +16847,12 @@ date:2023-11-03T01:53:22Z	repo:cpan	file:Business-ID-POM-0.006.tar.gz	ver:0.006	
 date:2023-11-05T06:58:13Z	repo:cpan	file:Acme-CPANModules-SmartMatch-0.003.tar.gz	ver:0.003	size:18175
 date:2023-11-06T02:02:09Z	repo:cpan	file:Org-Parser-0.561.tar.gz	ver:0.561	size:65379
 date:2023-11-06T07:34:12Z	repo:cpan	file:Org-To-HTML-0.236.tar.gz	ver:0.236	size:25191
+date:2023-11-09T02:10:08Z	repo:cpan	file:Perinci-Sub-DepChecker-0.127.tar.gz	ver:0.127	size:21244
+date:2023-11-09T02:39:43Z	repo:cpan	file:Spreadsheet-Open-0.002.tar.gz	ver:0.002	size:15551
+date:2023-11-09T03:19:51Z	repo:cpan	file:Spreadsheet-Examples-0.001.tar.gz	ver:0.001	size:208732
+date:2023-11-09T05:35:31Z	repo:cpan	file:Dist-Zilla-Plugin-InsertDistImage-0.006.tar.gz	ver:0.006	size:17872
+date:2023-11-09T06:01:10Z	repo:cpan	file:Dist-Zilla-Plugin-InsertDistImage-0.007.tar.gz	ver:0.007	size:17891
+date:2023-11-09T07:24:46Z	repo:cpan	file:Spreadsheet-Examples-0.002.tar.gz	ver:0.002	size:208962
+date:2023-11-09T07:53:27Z	repo:cpan	file:Dist-Zilla-Role-GetDistFileURL-0.002.tar.gz	ver:0.002	size:16176
+date:2023-11-09T07:54:27Z	repo:cpan	file:Spreadsheet-Examples-0.003.tar.gz	ver:0.003	size:208975
+date:2023-11-09T08:07:43Z	repo:cpan	file:Dist-Zilla-Plugin-InsertDistFileLink-0.001.tar.gz	ver:0.001	size:16507
