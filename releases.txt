@@ -16856,3 +16856,10 @@ date:2023-11-09T07:24:46Z	repo:cpan	file:Spreadsheet-Examples-0.002.tar.gz	ver:0
 date:2023-11-09T07:53:27Z	repo:cpan	file:Dist-Zilla-Role-GetDistFileURL-0.002.tar.gz	ver:0.002	size:16176
 date:2023-11-09T07:54:27Z	repo:cpan	file:Spreadsheet-Examples-0.003.tar.gz	ver:0.003	size:208975
 date:2023-11-09T08:07:43Z	repo:cpan	file:Dist-Zilla-Plugin-InsertDistFileLink-0.001.tar.gz	ver:0.001	size:16507
+date:2023-11-11T01:37:25Z	repo:cpan	file:Text-Table-Any-0.116.tar.gz	ver:0.116	size:24190
+date:2023-11-11T02:01:40Z	repo:cpan	file:Text-Table-Sprintf-0.007.tar.gz	ver:0.007	size:18594
+date:2023-11-11T02:03:22Z	repo:cpan	file:Text-Table-Any-0.117.tar.gz	ver:0.117	size:24218
+date:2023-11-11T02:35:54Z	repo:cpan	file:Module-FeaturesUtil-Get-0.006.tar.gz	ver:0.006	size:17800
+date:2023-11-11T02:44:00Z	repo:cpan	file:Pod-Weaver-Plugin-Module-Features-0.003.tar.gz	ver:0.003	size:17298
+date:2023-11-11T02:45:17Z	repo:cpan	file:Text-Table-Sprintf-0.008.tar.gz	ver:0.008	size:18651
+date:2023-11-11T03:09:41Z	repo:cpan	file:Bencher-Scenarios-Text-Table-Sprintf-0.001.tar.gz	ver:0.001	size:49384
