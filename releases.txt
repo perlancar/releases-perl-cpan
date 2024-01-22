@@ -17148,3 +17148,13 @@ date:2024-01-19T03:08:52Z	repo:cpan	file:List-Util-Uniq-0.008.tar.gz	ver:0.008	s
 date:2024-01-19T05:44:23Z	repo:cpan	file:Sort-BySimilarity-0.001.tar.gz	ver:0.001	size:15610
 date:2024-01-19T06:35:34Z	repo:cpan	file:Sort-BySimilarity-0.002.tar.gz	ver:0.002	size:15809
 date:2024-01-19T06:39:57Z	repo:cpan	file:App-cdbookmark-0.001.tar.gz	ver:0.001	size:21691
+date:2024-01-22T01:31:56Z	repo:cpan	file:Acme-CPANModules-TableData-0.002.tar.gz	ver:0.002	size:16814
+date:2024-01-22T02:20:50Z	repo:cpan	file:Log-ger-App-0.025.tar.gz	ver:0.025	size:21398
+date:2024-01-22T02:23:35Z	repo:cpan	file:Log-ger-Layout-Pattern-0.009.tar.gz	ver:0.009	size:17014
+date:2024-01-22T02:56:50Z	repo:cpan	file:Acme-CPANModules-ArrayData-0.001.tar.gz	ver:0.001	size:16344
+date:2024-01-22T03:03:29Z	repo:cpan	file:Acme-CPANModules-HashData-0.001.tar.gz	ver:0.001	size:16255
+date:2024-01-22T03:22:54Z	repo:cpan	file:HashData-0.1.2.tar.gz	ver:0.1.2	size:18466
+date:2024-01-22T03:51:10Z	repo:cpan	file:Tie-Hash-HashData-0.001.tar.gz	ver:0.001	size:15366
+date:2024-01-22T05:12:17Z	repo:cpan	file:Sorter-0.1.0.tar.gz	ver:0.1.0	size:15798
+date:2024-01-22T05:14:16Z	repo:cpan	file:Sorter-0.1.1.tar.gz	ver:0.1.1	size:15869
+date:2024-01-22T05:32:48Z	repo:cpan	file:Comparer-0.1.0.tar.gz	ver:0.1.0	size:15938
