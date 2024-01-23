@@ -17162,3 +17162,14 @@ date:2024-01-22T08:18:44Z	repo:cpan	file:Data-Sah-FilterBundle-Filename-Safe-0.0
 date:2024-01-22T08:19:41Z	repo:cpan	file:Pod-Weaver-Plugin-Data-Sah-Filter-0.009.tar.gz	ver:0.009	size:17791
 date:2024-01-22T09:18:09Z	repo:cpan	file:File-Util-Rename-0.001.tar.gz	ver:0.001	size:15609
 date:2024-01-22T14:40:14Z	repo:cpan	file:Sorter-by_similarity-0.001.tar.gz	ver:0.001	size:15351
+date:2024-01-23T05:27:35Z	repo:cpan	file:Sorter-0.1.2.tar.gz	ver:0.1.2	size:16145
+date:2024-01-23T06:20:03Z	repo:cpan	file:Comparer-0.1.1.tar.gz	ver:0.1.1	size:16227
+date:2024-01-23T06:38:33Z	repo:cpan	file:SortKey-Num-by_length-0.001.tar.gz	ver:0.001	size:15125
+date:2024-01-23T07:00:25Z	repo:cpan	file:SortKey-0.1.0.tar.gz	ver:0.1.0	size:16338
+date:2024-01-23T07:16:57Z	repo:cpan	file:SortKey-Num-length-0.002.tar.gz	ver:0.002	size:15180
+date:2024-01-23T08:12:24Z	repo:cpan	file:App-genpw-wordlist-0.010.tar.gz	ver:0.010	size:26342
+date:2024-01-23T08:29:31Z	repo:cpan	file:Complete-Util-0.620.tar.gz	ver:0.620	size:35761
+date:2024-01-23T09:13:53Z	repo:cpan	file:Sah-Schemas-SortKey-0.001.tar.gz	ver:0.001	size:17635
+date:2024-01-23T09:45:28Z	repo:cpan	file:Sah-Schemas-Sorter-0.001.tar.gz	ver:0.001	size:17628
+date:2024-01-23T09:59:01Z	repo:cpan	file:Sah-Schemas-Comparer-0.001.tar.gz	ver:0.001	size:17629
+date:2024-01-23T10:11:39Z	repo:cpan	file:SortKey-Num-pattern_count-0.001.tar.gz	ver:0.001	size:15335
