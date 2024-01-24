@@ -17173,3 +17173,17 @@ date:2024-01-23T09:13:53Z	repo:cpan	file:Sah-Schemas-SortKey-0.001.tar.gz	ver:0.
 date:2024-01-23T09:45:28Z	repo:cpan	file:Sah-Schemas-Sorter-0.001.tar.gz	ver:0.001	size:17628
 date:2024-01-23T09:59:01Z	repo:cpan	file:Sah-Schemas-Comparer-0.001.tar.gz	ver:0.001	size:17629
 date:2024-01-23T10:11:39Z	repo:cpan	file:SortKey-Num-pattern_count-0.001.tar.gz	ver:0.001	size:15335
+date:2024-01-24T03:05:22Z	repo:cpan	file:Comparer-by_similarity-0.001.tar.gz	ver:0.001	size:15325
+date:2024-01-24T03:10:47Z	repo:cpan	file:Sorter-by_similarity-0.002.tar.gz	ver:0.002	size:15355
+date:2024-01-24T03:16:53Z	repo:cpan	file:Comparer-similarity-0.002.tar.gz	ver:0.002	size:15381
+date:2024-01-24T03:24:45Z	repo:cpan	file:Sorter-by_similarity-0.003.tar.gz	ver:0.003	size:15399
+date:2024-01-24T03:26:54Z	repo:cpan	file:Sorter-by_similarity-0.004.tar.gz	ver:0.004	size:15495
+date:2024-01-24T03:45:28Z	repo:cpan	file:Comparer-similarity-0.003.tar.gz	ver:0.003	size:15437
+date:2024-01-24T04:01:49Z	repo:cpan	file:SortKey-Num-similarity-0.001.tar.gz	ver:0.001	size:15367
+date:2024-01-24T04:14:26Z	repo:cpan	file:App-SorterUtils-0.001.tar.gz	ver:0.001	size:19028
+date:2024-01-24T04:21:54Z	repo:cpan	file:App-SortKeyUtils-0.001.tar.gz	ver:0.001	size:19030
+date:2024-01-24T04:33:17Z	repo:cpan	file:App-ComparerUtils-0.001.tar.gz	ver:0.001	size:19034
+date:2024-01-24T05:30:59Z	repo:cpan	file:Module-Load-Util-0.010.tar.gz	ver:0.010	size:20808
+date:2024-01-24T05:44:15Z	repo:cpan	file:Comparer-from_sortkey-0.001.tar.gz	ver:0.001	size:15543
+date:2024-01-24T06:08:46Z	repo:cpan	file:Sorter-from_sortkey-0.001.tar.gz	ver:0.001	size:15556
+date:2024-01-24T06:25:01Z	repo:cpan	file:Sorter-from_comparer-0.001.tar.gz	ver:0.001	size:15425
