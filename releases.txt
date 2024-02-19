@@ -17247,3 +17247,4 @@ date:2024-02-16T07:30:51Z	repo:cpan	file:Sah-SchemaBundle-ArrayData-0.005.tar.gz
 date:2024-02-16T09:51:29Z	repo:cpan	file:Data-Sah-0.917.tar.gz	ver:0.917	size:128161
 date:2024-02-18T00:13:29Z	repo:cpan	file:WWW-PAUSE-Simple-0.457.tar.gz	ver:0.457	size:28521
 date:2024-02-18T00:20:57Z	repo:cpan	file:WWW-PAUSE-Simple-0.458.tar.gz	ver:0.458	size:28617
+date:2024-02-19T00:47:33Z	repo:cpan	file:Pod-Weaver-Plugin-Sah-SchemaBundle-0.081.tar.gz	ver:0.081	size:21632
