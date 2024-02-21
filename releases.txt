@@ -17248,3 +17248,5 @@ date:2024-02-16T09:51:29Z	repo:cpan	file:Data-Sah-0.917.tar.gz	ver:0.917	size:12
 date:2024-02-18T00:13:29Z	repo:cpan	file:WWW-PAUSE-Simple-0.457.tar.gz	ver:0.457	size:28521
 date:2024-02-18T00:20:57Z	repo:cpan	file:WWW-PAUSE-Simple-0.458.tar.gz	ver:0.458	size:28617
 date:2024-02-19T00:47:33Z	repo:cpan	file:Pod-Weaver-Plugin-Sah-SchemaBundle-0.081.tar.gz	ver:0.081	size:21632
+date:2024-02-21T00:55:05Z	repo:cpan	file:TableData-Perl-CPAN-Release-Static-2024-20240221.0.tar.gz	ver:20240221.0	size:90935
+date:2024-02-21T01:00:47Z	repo:cpan	file:Acme-CPANAuthorsBundle-CPAN-Streaks-20240221.0.tar.gz	ver:20240221.0	size:34173
