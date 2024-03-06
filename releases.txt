@@ -17269,3 +17269,11 @@ date:2024-02-26T02:11:18Z	repo:cpan	file:App-BPOMUtils-RPO-Ingredients-0.006.tar
 date:2024-03-01T23:58:01Z	repo:cpan	file:Data-MiniDumpX-0.000001.tar.gz	ver:0.000001	size:15912
 date:2024-03-02T00:06:43Z	repo:cpan	file:Plugin-System-0.000001.tar.gz	ver:0.000001	size:18368
 date:2024-03-02T03:15:22Z	repo:cpan	file:Bencher-Scenarios-Data-Dmp-0.004.tar.gz	ver:0.004	size:20330
+date:2024-03-06T05:36:19Z	repo:cpan	file:SortKey-date_in_text-0.001.tar.gz	ver:0.001	size:15894
+date:2024-03-06T06:18:47Z	repo:cpan	file:Comparer-date_in_text-0.001.tar.gz	ver:0.001	size:16166
+date:2024-03-06T12:48:10Z	repo:cpan	file:App-SahUtils-0.484.tar.gz	ver:0.484	size:89716
+date:2024-03-06T13:18:26Z	repo:cpan	file:AppBase-Sort-0.003.tar.gz	ver:0.003	size:23690
+date:2024-03-06T13:20:52Z	repo:cpan	file:Module-Load-Util-0.011.tar.gz	ver:0.011	size:21014
+date:2024-03-06T13:21:36Z	repo:cpan	file:App-sort_by_comparer-0.001.tar.gz	ver:0.001	size:20711
+date:2024-03-06T13:28:31Z	repo:cpan	file:App-sort_by_spec-0.004.tar.gz	ver:0.004	size:22252
+date:2024-03-06T13:33:55Z	repo:cpan	file:App-sort_by_sorter-0.001.tar.gz	ver:0.001	size:20706
