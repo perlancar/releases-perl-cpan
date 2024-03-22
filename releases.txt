@@ -17303,3 +17303,4 @@ date:2024-03-17T12:33:37Z	repo:cpan	file:Module-Features-PluginSystem-0.002.tar.
 date:2024-03-17T12:37:12Z	repo:cpan	file:Plugin-System-_ModuleFeatures-0.002.tar.gz	ver:0.002	size:14934
 date:2024-03-21T09:44:20Z	repo:cpan	file:Acme-CPANModules-JSONVariants-0.001.tar.gz	ver:0.001	size:17384
 date:2024-03-22T10:53:11Z	repo:cpan	file:App-MineralUtils-0.012.tar.gz	ver:0.012	size:26947
+date:2024-03-22T15:34:16Z	repo:cpan	file:Acme-CPANModules-BPOM-FoodRegistration-0.001.tar.gz	ver:0.001	size:17845
