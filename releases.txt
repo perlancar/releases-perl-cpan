@@ -17293,3 +17293,13 @@ date:2024-03-12T11:27:00Z	repo:cpan	file:Data-Dump-HTML-Collapsible-0.003.tar.gz
 date:2024-03-12T11:32:13Z	repo:cpan	file:Data-Dump-HTML-Collapsible-0.004.tar.gz	ver:0.004	size:18857
 date:2024-03-12T12:04:20Z	repo:cpan	file:Carp-Patch-OutputToBrowser-0.001.tar.gz	ver:0.001	size:15901
 date:2024-03-12T12:12:41Z	repo:cpan	file:Devel-Confess-Patch-UseDataDumpHTMLCollapsible-0.001.tar.gz	ver:0.001	size:15346
+date:2024-03-15T23:53:12Z	repo:cpan	file:Data-Dump-HTML-Collapsible-0.005.tar.gz	ver:0.005	size:18910
+date:2024-03-17T10:56:47Z	repo:cpan	file:Data-Dump-HTML-Collapsible-0.006.tar.gz	ver:0.006	size:18942
+date:2024-03-17T11:29:00Z	repo:cpan	file:Data-Dump-HTML-Collapsible-0.007.tar.gz	ver:0.007	size:18976
+date:2024-03-17T11:33:50Z	repo:cpan	file:Data-Dump-HTML-Collapsible-0.008.tar.gz	ver:0.008	size:19003
+date:2024-03-17T12:21:09Z	repo:cpan	file:Data-Dump-HTML-PopUp-0.001.tar.gz	ver:0.001	size:85360
+date:2024-03-17T12:26:17Z	repo:cpan	file:Devel-Confess-Patch-UseDataDumpHTMLPopUp-0.001.tar.gz	ver:0.001	size:15271
+date:2024-03-17T12:33:37Z	repo:cpan	file:Module-Features-PluginSystem-0.002.tar.gz	ver:0.002	size:16243
+date:2024-03-17T12:37:12Z	repo:cpan	file:Plugin-System-_ModuleFeatures-0.002.tar.gz	ver:0.002	size:14934
+date:2024-03-21T09:44:20Z	repo:cpan	file:Acme-CPANModules-JSONVariants-0.001.tar.gz	ver:0.001	size:17384
+date:2024-03-22T10:53:11Z	repo:cpan	file:App-MineralUtils-0.012.tar.gz	ver:0.012	size:26947
