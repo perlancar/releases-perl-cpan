@@ -17304,3 +17304,14 @@ date:2024-03-17T12:37:12Z	repo:cpan	file:Plugin-System-_ModuleFeatures-0.002.tar
 date:2024-03-21T09:44:20Z	repo:cpan	file:Acme-CPANModules-JSONVariants-0.001.tar.gz	ver:0.001	size:17384
 date:2024-03-22T10:53:11Z	repo:cpan	file:App-MineralUtils-0.012.tar.gz	ver:0.012	size:26947
 date:2024-03-22T15:34:16Z	repo:cpan	file:Acme-CPANModules-BPOM-FoodRegistration-0.001.tar.gz	ver:0.001	size:17845
+date:2024-03-25T01:24:35Z	repo:cpan	file:Module-Features-PluginSystem-0.003.tar.gz	ver:0.003	size:16243
+date:2024-03-26T02:05:26Z	repo:cpan	file:Module-Pluggable-_ModuleFeatures-0.002.tar.gz	ver:0.002	size:14947
+date:2024-04-03T00:23:41Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-BCA-0.002.tar.gz	ver:0.002	size:18758
+date:2024-04-03T00:29:49Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-Mandiri-0.002.tar.gz	ver:0.002	size:18832
+date:2024-04-03T00:35:38Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-NIK-0.005.tar.gz	ver:0.005	size:18770
+date:2024-04-03T00:37:50Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-NKK-0.003.tar.gz	ver:0.003	size:18534
+date:2024-04-03T00:43:22Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-NOPPBB-0.002.tar.gz	ver:0.002	size:18738
+date:2024-04-03T00:54:25Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-NPWP-0.002.tar.gz	ver:0.002	size:18756
+date:2024-04-03T01:00:17Z	repo:cpan	file:Sah-SchemaBundle-Business-ID-SIM-0.002.tar.gz	ver:0.002	size:18696
+date:2024-04-06T12:28:32Z	repo:cpan	file:App-BPOMUtils-RPO-Ingredients-0.007.tar.gz	ver:0.007	size:22752
+date:2024-04-06T12:39:29Z	repo:cpan	file:TableData-Perl-CPAN-Release-Static-2024-20240406.0.tar.gz	ver:20240406.0	size:151339
