@@ -17318,3 +17318,16 @@ date:2024-04-06T12:39:29Z	repo:cpan	file:TableData-Perl-CPAN-Release-Static-2024
 date:2024-04-10T03:12:40Z	repo:cpan	file:TableDataBundle-Business-ID-BPOM-20230207.0.1.tar.gz	ver:20230207.0.1	size:15383
 date:2024-04-10T03:32:38Z	repo:cpan	file:TableData-Business-ID-BPOM-FoodAdditive-20240409.0.0.tar.gz	ver:20240409.0.0	size:754843
 date:2024-04-10T03:37:21Z	repo:cpan	file:App-BPOMUtils-Table-FoodAdditive-0.018.tar.gz	ver:0.018	size:142877
+date:2024-04-12T01:52:21Z	repo:cpan	file:TableData-Perl-CPAN-Release-Static-2024-20240412.0.tar.gz	ver:20240412.0	size:156457
+date:2024-04-12T02:29:06Z	repo:cpan	file:Acme-CPANAuthorsBundle-CPAN-Streaks-20240412.0.tar.gz	ver:20240412.0	size:33862
+date:2024-04-17T07:54:07Z	repo:cpan	file:Plugin-System-_ModuleFeatures-0.003.tar.gz	ver:0.003	size:15103
+date:2024-04-17T07:59:31Z	repo:cpan	file:App-DzilUtils-0.120.tar.gz	ver:0.120	size:25117
+date:2024-04-17T08:04:20Z	repo:cpan	file:Module-Pluggable-_ModuleFeatures-0.003.tar.gz	ver:0.003	size:15114
+date:2024-04-17T08:08:10Z	repo:cpan	file:Text-Table-Tiny-_ModuleFeatures-0.006.tar.gz	ver:0.006	size:16726
+date:2024-04-17T08:45:18Z	repo:cpan	file:Module-Patch-0.277.tar.gz	ver:0.277	size:24992
+date:2024-04-17T08:47:45Z	repo:cpan	file:Carp-Patch-ExcludePackage-0.002.tar.gz	ver:0.002	size:15908
+date:2024-04-17T08:52:35Z	repo:cpan	file:Module-Patch-0.278.tar.gz	ver:0.278	size:25009
+date:2024-04-17T09:02:41Z	repo:cpan	file:QRCode-Any-0.001.tar.gz	ver:0.001	size:16444
+date:2024-04-17T09:16:42Z	repo:cpan	file:App-QRCodeUtils-0.003.tar.gz	ver:0.003	size:20499
+date:2024-04-18T14:14:50Z	repo:cpan	file:App-QRCodeUtils-0.004.tar.gz	ver:0.004	size:20557
+date:2024-04-18T14:16:43Z	repo:cpan	file:App-GoogleAuthUtils-0.006.tar.gz	ver:0.006	size:20500
