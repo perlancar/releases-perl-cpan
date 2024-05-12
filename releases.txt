@@ -17350,3 +17350,9 @@ date:2024-05-06T07:22:22Z	repo:cpan	file:Perl-Examples-Accessors-0.133.tar.gz	ve
 date:2024-05-06T07:33:08Z	repo:cpan	file:Graphics-ColorNamesCMYK-BannersCom-0.001.tar.gz	ver:0.001	size:15122
 date:2024-05-06T09:25:49Z	repo:cpan	file:HashData-Color-CMYK-JohnDecemberCom-0.001.tar.gz	ver:0.001	size:19781
 date:2024-05-06T09:31:25Z	repo:cpan	file:Graphics-ColorNamesCMYK-JohnDecemberCom-0.001.tar.gz	ver:0.001	size:22144
+date:2024-05-10T00:15:39Z	repo:cpan	file:Acme-CPANModules-JSONVariants-0.002.tar.gz	ver:0.002	size:17659
+date:2024-05-10T00:31:43Z	repo:cpan	file:HashData-ColorCode-CMYK-ToutesLesCouleursCom-0.002.tar.gz	ver:0.002	size:20687
+date:2024-05-10T00:32:07Z	repo:cpan	file:HashData-ColorCode-CMYK-JohnDecemberCom-0.002.tar.gz	ver:0.002	size:19832
+date:2024-05-10T00:34:11Z	repo:cpan	file:HashData-ColorCode-CMYK-Pantone-0.002.tar.gz	ver:0.002	size:30865
+date:2024-05-12T01:30:49Z	repo:cpan	file:Bencher-ScenarioBundle-Log-Any-0.101.tar.gz	ver:0.101	size:21700
+date:2024-05-12T02:30:45Z	repo:cpan	file:Bencher-ScenarioBundle-Log-ger-0.020.tar.gz	ver:0.020	size:46620
