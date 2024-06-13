@@ -17395,3 +17395,17 @@ date:2024-05-30T09:37:37Z	repo:cpan	file:TableData-Health-Nutrient-0.004.tar.gz	
 date:2024-05-30T09:46:13Z	repo:cpan	file:App-BPOMUtils-NutritionLabelRef-0.003.tar.gz	ver:0.003	size:23189
 date:2024-06-01T01:41:41Z	repo:cpan	file:TableData-Perl-CPAN-Release-Static-2024-20240601.0.tar.gz	ver:20240601.0	size:194557
 date:2024-06-01T01:49:34Z	repo:cpan	file:Acme-CPANAuthorsBundle-CPAN-Streaks-20240601.0.tar.gz	ver:20240601.0	size:33385
+date:2024-06-08T00:43:43Z	repo:cpan	file:Sah-SchemaBundle-CPAN-0.015.tar.gz	ver:0.015	size:20334
+date:2024-06-08T00:54:54Z	repo:cpan	file:Sah-SchemaBundle-CPANMeta-0.004.tar.gz	ver:0.004	size:27164
+date:2024-06-08T00:58:57Z	repo:cpan	file:Sah-SchemaBundle-CPANModules-0.004.tar.gz	ver:0.004	size:19522
+date:2024-06-08T01:22:43Z	repo:cpan	file:Sah-SchemaBundle-Chrome-0.004.tar.gz	ver:0.004	size:18535
+date:2024-06-08T03:46:15Z	repo:cpan	file:Sah-SchemaBundle-Color-0.015.tar.gz	ver:0.015	size:21618
+date:2024-06-08T04:00:19Z	repo:cpan	file:App-KemenkesUtils-RDA-0.001.tar.gz	ver:0.001	size:23900
+date:2024-06-10T04:50:23Z	repo:cpan	file:Sah-SchemaBundle-Code-0.004.tar.gz	ver:0.004	size:19041
+date:2024-06-12T00:09:42Z	repo:cpan	file:TableData-Perl-CPAN-Release-Static-2024-20240612.0.tar.gz	ver:20240612.0	size:203496
+date:2024-06-12T00:17:02Z	repo:cpan	file:Acme-CPANAuthorsBundle-CPAN-Streaks-20240612.0.tar.gz	ver:20240612.0	size:33762
+date:2024-06-13T01:32:39Z	repo:cpan	file:TableData-Business-ID-BPOM-NutritionLabelRef-0.004.tar.gz	ver:0.004	size:18112
+date:2024-06-13T01:43:55Z	repo:cpan	file:Text-Table-HTML-0.011.tar.gz	ver:0.011	size:21321
+date:2024-06-13T01:47:05Z	repo:cpan	file:TableData-Business-ID-BPOM-NutritionLabelRef-0.005.tar.gz	ver:0.005	size:18177
+date:2024-06-13T01:56:10Z	repo:cpan	file:Sah-SchemaBundle-CPAN-0.016.tar.gz	ver:0.016	size:21138
+date:2024-06-13T13:22:02Z	repo:cpan	file:App-BPOMUtils-NutritionLabelRef-0.004.tar.gz	ver:0.004	size:22968
