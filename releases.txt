@@ -17420,3 +17420,4 @@ date:2024-06-21T12:55:14Z	repo:cpan	file:Sah-SchemaBundle-ColorScheme-0.003.tar.
 date:2024-06-21T13:16:08Z	repo:cpan	file:Sah-SchemaBundle-ColorTheme-0.004.tar.gz	ver:0.004	size:19663
 date:2024-06-24T06:47:41Z	repo:cpan	file:App-IODUtils-0.164.tar.gz	ver:0.164	size:25624
 date:2024-06-24T06:54:51Z	repo:cpan	file:App-INIUtils-0.035.tar.gz	ver:0.035	size:26803
+date:2024-06-25T13:44:52Z	repo:cpan	file:App-GeometryUtils-0.001.tar.gz	ver:0.001	size:21397
