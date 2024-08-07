@@ -17473,3 +17473,5 @@ date:2024-08-05T04:18:01Z	repo:cpan	file:Locale-ID-Province-0.111.tar.gz	ver:0.1
 date:2024-08-05T06:11:59Z	repo:cpan	file:App-IndonesianNumberUtils-0.033.tar.gz	ver:0.033	size:23596
 date:2024-08-05T06:56:09Z	repo:cpan	file:Business-ID-VehiclePlate-0.001.tar.gz	ver:0.001	size:56502
 date:2024-08-05T09:47:53Z	repo:cpan	file:Business-ID-VehiclePlate-0.002.tar.gz	ver:0.002	size:56547
+date:2024-08-06T06:17:20Z	repo:cpan	file:App-SahUtils-0.485.tar.gz	ver:0.485	size:89796
+date:2024-08-06T06:18:35Z	repo:cpan	file:App-genpw-0.014.tar.gz	ver:0.014	size:29896
