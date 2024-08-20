@@ -17477,3 +17477,11 @@ date:2024-08-06T06:17:20Z	repo:cpan	file:App-SahUtils-0.485.tar.gz	ver:0.485	siz
 date:2024-08-06T06:18:35Z	repo:cpan	file:App-genpw-0.014.tar.gz	ver:0.014	size:29896
 date:2024-08-09T12:32:52Z	repo:cpan	file:App-prefixcat-0.001.tar.gz	ver:0.001	size:17230
 date:2024-08-11T01:36:33Z	repo:cpan	file:App-prefixcat-0.002.tar.gz	ver:0.002	size:17800
+date:2024-08-13T02:58:01Z	repo:cpan	file:Acme-CPANModules-UnixCommandWrappers-0.009.tar.gz	ver:0.009	size:17595
+date:2024-08-13T03:21:35Z	repo:cpan	file:Acme-CPANModules-UnixCommandVariants-0.001.tar.gz	ver:0.001	size:15935
+date:2024-08-13T03:45:00Z	repo:cpan	file:Acme-CPANModules-UnixCommandImplementations-0.001.tar.gz	ver:0.001	size:17050
+date:2024-08-19T13:59:55Z	repo:cpan	file:App-HeightUtils-0.001.tar.gz	ver:0.001	size:19325
+date:2024-08-20T07:38:28Z	repo:cpan	file:App-imgsize-0.005.tar.gz	ver:0.005	size:22283
+date:2024-08-20T07:57:30Z	repo:cpan	file:App-imgsize-0.006.tar.gz	ver:0.006	size:22318
+date:2024-08-20T08:02:53Z	repo:cpan	file:App-pdfsize-0.001.tar.gz	ver:0.001	size:22647
+date:2024-08-20T10:24:54Z	repo:cpan	file:App-pdfresize-0.001.tar.gz	ver:0.001	size:23199
