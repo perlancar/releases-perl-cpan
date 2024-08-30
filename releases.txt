@@ -17488,3 +17488,6 @@ date:2024-08-20T10:24:54Z	repo:cpan	file:App-pdfresize-0.001.tar.gz	ver:0.001	si
 date:2024-08-29T03:53:02Z	repo:cpan	file:Acme-CPANModules-ModuleAutoinstallers-0.004.tar.gz	ver:0.004	size:16410
 date:2024-08-29T04:56:55Z	repo:cpan	file:Math-Image-CalcResized-0.006.tar.gz	ver:0.006	size:20875
 date:2024-08-29T05:00:08Z	repo:cpan	file:App-ImageMagickUtils-0.023.tar.gz	ver:0.023	size:33147
+date:2024-08-30T09:54:56Z	repo:cpan	file:Clipboard-Any-0.012.tar.gz	ver:0.012	size:20324
+date:2024-08-30T10:02:53Z	repo:cpan	file:App-PMUtils-0.745.tar.gz	ver:0.745	size:52778
+date:2024-08-30T10:18:50Z	repo:cpan	file:App-ClipboardUtils-0.008.tar.gz	ver:0.008	size:23507
