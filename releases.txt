@@ -17517,3 +17517,4 @@ date:2024-10-22T10:05:27Z	repo:cpan	file:Git-Bunch-0.631.tar.gz	ver:0.631	size:4
 date:2024-11-03T17:14:54Z	repo:cpan	file:Hash-Iter-0.001.tar.gz	ver:0.001	size:16986
 date:2024-11-03T17:49:53Z	repo:cpan	file:HashDataRoles-Standard-0.005.tar.gz	ver:0.005	size:25022
 date:2024-11-03T18:16:06Z	repo:cpan	file:HashDataBundle-Display-Resolution-0.001.tar.gz	ver:0.001	size:16986
+date:2024-11-05T06:47:22Z	repo:cpan	file:App-BPOMUtils-NutritionFacts-0.028.tar.gz	ver:0.028	size:50276
