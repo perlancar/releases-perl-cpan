@@ -17518,3 +17518,12 @@ date:2024-11-03T17:14:54Z	repo:cpan	file:Hash-Iter-0.001.tar.gz	ver:0.001	size:1
 date:2024-11-03T17:49:53Z	repo:cpan	file:HashDataRoles-Standard-0.005.tar.gz	ver:0.005	size:25022
 date:2024-11-03T18:16:06Z	repo:cpan	file:HashDataBundle-Display-Resolution-0.001.tar.gz	ver:0.001	size:16986
 date:2024-11-05T06:47:22Z	repo:cpan	file:App-BPOMUtils-NutritionFacts-0.028.tar.gz	ver:0.028	size:50276
+date:2024-11-10T10:44:24Z	repo:cpan	file:Str-Iter-0.001.tar.gz	ver:0.001	size:16948
+date:2024-11-10T10:50:55Z	repo:cpan	file:Comparer-file_num_links-0.001.tar.gz	ver:0.001	size:16835
+date:2024-11-10T10:51:50Z	repo:cpan	file:Comparer-file_num_links-0.002.tar.gz	ver:0.002	size:16894
+date:2024-11-10T10:54:56Z	repo:cpan	file:Sorter-file_by_num_links-0.001.tar.gz	ver:0.001	size:16851
+date:2024-11-10T10:56:07Z	repo:cpan	file:Sorter-file_by_mtime-0.002.tar.gz	ver:0.002	size:16954
+date:2024-11-10T10:58:34Z	repo:cpan	file:SortKey-Num-file_num_links-0.001.tar.gz	ver:0.001	size:16857
+date:2024-11-10T11:01:33Z	repo:cpan	file:Comparer-file_size-0.001.tar.gz	ver:0.001	size:16798
+date:2024-11-10T11:03:59Z	repo:cpan	file:Sorter-file_by_size-0.001.tar.gz	ver:0.001	size:16856
+date:2024-11-10T11:05:50Z	repo:cpan	file:SortKey-Num-file_size-0.001.tar.gz	ver:0.001	size:16822
