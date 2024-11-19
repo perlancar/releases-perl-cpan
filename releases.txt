@@ -17532,3 +17532,12 @@ date:2024-11-12T10:21:04Z	repo:cpan	file:App-EnvUtils-0.001.tar.gz	ver:0.001	siz
 date:2024-11-15T01:49:25Z	repo:cpan	file:Sah-SchemaBundle-Unix-0.022.tar.gz	ver:0.022	size:33354
 date:2024-11-15T01:50:11Z	repo:cpan	file:App-ProcUtils-0.039.tar.gz	ver:0.039	size:25328
 date:2024-11-15T02:14:46Z	repo:cpan	file:App-VirtualBoxUtils-0.001.tar.gz	ver:0.001	size:29784
+date:2024-11-19T04:37:46Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Noun-0.001.tar.gz	ver:0.001	size:94909
+date:2024-11-19T04:40:44Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Noun-0.002.tar.gz	ver:0.002	size:95007
+date:2024-11-19T05:48:40Z	repo:cpan	file:WordList-ID-KBBI-ByClass-Noun-0.001.tar.gz	ver:0.001	size:94588
+date:2024-11-19T05:50:17Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Noun-0.003.tar.gz	ver:0.003	size:95041
+date:2024-11-19T05:59:24Z	repo:cpan	file:WordList-ID-KBBI-ByClass-Adjective-0.001.tar.gz	ver:0.001	size:34243
+date:2024-11-19T06:05:22Z	repo:cpan	file:WordList-ID-KBBI-ByClass-Adverb-0.001.tar.gz	ver:0.001	size:19813
+date:2024-11-19T06:07:17Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Adjective-0.001.tar.gz	ver:0.001	size:33782
+date:2024-11-19T06:08:43Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Adverb-0.001.tar.gz	ver:0.001	size:19345
+date:2024-11-19T06:10:04Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Verb-0.001.tar.gz	ver:0.001	size:61491
