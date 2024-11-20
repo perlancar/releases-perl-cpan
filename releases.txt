@@ -17546,3 +17546,8 @@ date:2024-11-20T03:23:25Z	repo:cpan	file:WordList-ID-KBBI-FigureOfSpeech-0.001.t
 date:2024-11-20T03:26:25Z	repo:cpan	file:WordList-ID-KBBI-Proverb-0.001.tar.gz	ver:0.001	size:23757
 date:2024-11-20T03:51:43Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-FigureOfSpeech-0.001.tar.gz	ver:0.001	size:33810
 date:2024-11-20T03:53:35Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-Proverb-0.001.tar.gz	ver:0.001	size:23292
+date:2024-11-20T04:53:53Z	repo:cpan	file:Acme-CPANModules-Soundex-0.001.tar.gz	ver:0.001	size:17412
+date:2024-11-20T05:43:50Z	repo:cpan	file:AppBase-Grep-0.014.tar.gz	ver:0.014	size:23979
+date:2024-11-20T05:44:58Z	repo:cpan	file:App-grep-sounds-like-0.001.tar.gz	ver:0.001	size:23544
+date:2024-11-20T06:25:59Z	repo:cpan	file:App-grep-sounds-like-0.002.tar.gz	ver:0.002	size:23623
+date:2024-11-20T06:28:54Z	repo:cpan	file:App-grep-similar-text-0.002.tar.gz	ver:0.002	size:23690
