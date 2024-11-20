@@ -17541,3 +17541,8 @@ date:2024-11-19T06:05:22Z	repo:cpan	file:WordList-ID-KBBI-ByClass-Adverb-0.001.t
 date:2024-11-19T06:07:17Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Adjective-0.001.tar.gz	ver:0.001	size:33782
 date:2024-11-19T06:08:43Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Adverb-0.001.tar.gz	ver:0.001	size:19345
 date:2024-11-19T06:10:04Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-ByClass-Verb-0.001.tar.gz	ver:0.001	size:61491
+date:2024-11-20T02:50:45Z	repo:cpan	file:App-ImageMagickUtils-0.023.tar.gz	ver:0.023	size:34724
+date:2024-11-20T03:23:25Z	repo:cpan	file:WordList-ID-KBBI-FigureOfSpeech-0.001.tar.gz	ver:0.001	size:20239
+date:2024-11-20T03:26:25Z	repo:cpan	file:WordList-ID-KBBI-Proverb-0.001.tar.gz	ver:0.001	size:23757
+date:2024-11-20T03:51:43Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-FigureOfSpeech-0.001.tar.gz	ver:0.001	size:33810
+date:2024-11-20T03:53:35Z	repo:cpan	file:ArrayData-Lingua-Word-ID-KBBI-Proverb-0.001.tar.gz	ver:0.001	size:23292
