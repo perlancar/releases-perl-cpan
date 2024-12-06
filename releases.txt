@@ -17558,3 +17558,15 @@ date:2024-11-21T04:36:13Z	repo:cpan	file:App-MineralUtils-0.016.tar.gz	ver:0.016
 date:2024-11-22T00:43:34Z	repo:cpan	file:File-Util-Rename-0.002.tar.gz	ver:0.002	size:17376
 date:2024-11-22T00:54:10Z	repo:cpan	file:File-Util-Copy-0.001.tar.gz	ver:0.001	size:17189
 date:2024-11-22T00:54:59Z	repo:cpan	file:File-Util-Copy-0.002.tar.gz	ver:0.002	size:17298
+date:2024-12-01T07:07:45Z	repo:cpan	file:App-MineralUtils-0.017.tar.gz	ver:0.017	size:35776
+date:2024-12-01T07:55:57Z	repo:cpan	file:App-MineralUtils-0.018.tar.gz	ver:0.018	size:36437
+date:2024-12-03T06:58:02Z	repo:cpan	file:App-MineralUtils-0.019.tar.gz	ver:0.019	size:37099
+date:2024-12-04T03:21:39Z	repo:cpan	file:Bencher-ScenarioBundle-Ref-Util-0.003.tar.gz	ver:0.003	size:20496
+date:2024-12-04T07:58:17Z	repo:cpan	file:App-MineralUtils-0.020.tar.gz	ver:0.020	size:37657
+date:2024-12-05T05:50:08Z	repo:cpan	file:File-FindUniq-0.001.tar.gz	ver:0.001	size:28016
+date:2024-12-05T05:53:24Z	repo:cpan	file:App-UniqFiles-0.142.tar.gz	ver:0.142	size:23568
+date:2024-12-05T05:56:37Z	repo:cpan	file:File-FindUniq-0.002.tar.gz	ver:0.002	size:28097
+date:2024-12-05T05:57:53Z	repo:cpan	file:App-UniqFiles-0.143.tar.gz	ver:0.143	size:23600
+date:2024-12-05T07:59:50Z	repo:cpan	file:App-UniqFiles-0.143.1.tar.gz	ver:0.143.1	size:23696
+date:2024-12-06T02:06:07Z	repo:cpan	file:App-norepeat-0.060.tar.gz	ver:0.060	size:21246
+date:2024-12-06T06:53:30Z	repo:cpan	file:App-repeat-0.001.tar.gz	ver:0.001	size:18987
