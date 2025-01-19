@@ -17645,3 +17645,10 @@ date:2025-01-13T02:31:41Z	repo:cpan	file:WordListBundle-EN-ByClass-Adjective-0.0
 date:2025-01-13T03:11:16Z	repo:cpan	file:App-subsort-0.052.tar.gz	ver:0.052	size:21556
 date:2025-01-13T03:17:27Z	repo:cpan	file:WordListBundle-EN-ByClass-Adverb-0.004.tar.gz	ver:0.004	size:17622
 date:2025-01-13T03:20:53Z	repo:cpan	file:WordListBundle-EN-ByClass-Noun-0.005.tar.gz	ver:0.005	size:17600
+date:2025-01-14T05:19:57Z	repo:cpan	file:WordListBundle-EN-ByCategory-0.001.tar.gz	ver:0.001	size:24335
+date:2025-01-14T05:20:26Z	repo:cpan	file:WordListBundle-ID-ByCategory-0.001.tar.gz	ver:0.001	size:22954
+date:2025-01-14T07:32:14Z	repo:cpan	file:App-CSVUtils-1.035.tar.gz	ver:1.035	size:173894
+date:2025-01-17T05:19:34Z	repo:cpan	file:App-wordlist-0.293.tar.gz	ver:0.293	size:435238
+date:2025-01-18T09:54:52Z	repo:cpan	file:App-wordlist-0.294.tar.gz	ver:0.294	size:435305
+date:2025-01-18T23:46:52Z	repo:cpan	file:Module-Features-PasswordManager-0.001.tar.gz	ver:0.001	size:17533
+date:2025-01-18T23:55:47Z	repo:cpan	file:App-orgadb-0.018.tar.gz	ver:0.018	size:45681
