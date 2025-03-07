@@ -17666,3 +17666,7 @@ date:2025-02-24T04:03:47Z	repo:cpan	file:Text-ANSITable-0.610.tar.gz	ver:0.610	s
 date:2025-02-24T04:36:10Z	repo:cpan	file:App-pause-0.660.tar.gz	ver:0.660	size:37623
 date:2025-02-24T04:37:00Z	repo:cpan	file:App-pause-0.661.tar.gz	ver:0.661	size:37626
 date:2025-02-25T03:14:02Z	repo:cpan	file:App-BPOMUtils-Table-FoodIngredient-0.022.tar.gz	ver:0.022	size:127252
+date:2025-03-07T08:55:54Z	repo:cpan	file:App-wordlist-wordle-0.295.tar.gz	ver:0.295	size:213205
+date:2025-03-07T08:57:31Z	repo:cpan	file:App-wordlist-0.295.tar.gz	ver:0.295	size:233003
+date:2025-03-07T09:32:00Z	repo:cpan	file:App-wordlist-blossom-0.001.tar.gz	ver:0.001	size:212474
+date:2025-03-07T10:17:38Z	repo:cpan	file:App-wordlist-blossom-0.002.tar.gz	ver:0.002	size:212898
