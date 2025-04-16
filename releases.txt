@@ -17684,3 +17684,4 @@ date:2025-03-27T05:56:52Z	repo:cpan	file:URI-Parse-Instagram-0.001.tar.gz	ver:0.
 date:2025-03-27T06:50:12Z	repo:cpan	file:App-InstagramURLUtils-0.001.tar.gz	ver:0.001	size:20545
 date:2025-03-29T13:27:41Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.353.tar.gz	ver:0.353	size:43513
 date:2025-04-11T05:42:12Z	repo:cpan	file:Business-Tax-ID-PPH21-0.068.tar.gz	ver:0.068	size:23345
+date:2025-04-16T05:26:29Z	repo:cpan	file:App-GitUtils-0.087.tar.gz	ver:0.087	size:29569
