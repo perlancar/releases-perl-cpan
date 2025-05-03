@@ -17692,3 +17692,10 @@ date:2025-04-17T03:05:59Z	repo:cpan	file:Clipboard-Any-0.012.tar.gz	ver:0.012	si
 date:2025-04-17T03:07:23Z	repo:cpan	file:Clipboard-Any-0.013.tar.gz	ver:0.013	size:21943
 date:2025-04-17T08:44:17Z	repo:cpan	file:Screensaver-Any-0.008.tar.gz	ver:0.008	size:22514
 date:2025-04-17T09:43:48Z	repo:cpan	file:Clipboard-Any-0.014.tar.gz	ver:0.014	size:22157
+date:2025-05-03T02:17:18Z	repo:cpan	file:File-FindUniq-0.003.tar.gz	ver:0.003	size:27757
+date:2025-05-03T02:31:22Z	repo:cpan	file:File-FindUniq-0.004.tar.gz	ver:0.004	size:28409
+date:2025-05-03T02:34:28Z	repo:cpan	file:App-UniqFiles-0.144.tar.gz	ver:0.144	size:23761
+date:2025-05-03T03:18:42Z	repo:cpan	file:File-Util-Sort-0.010.tar.gz	ver:0.010	size:22963
+date:2025-05-03T05:02:28Z	repo:cpan	file:File-Util-Sort-0.011.tar.gz	ver:0.011	size:22971
+date:2025-05-03T07:28:29Z	repo:cpan	file:App-DownloadsDirUtils-0.006.tar.gz	ver:0.006	size:29786
+date:2025-05-03T07:35:48Z	repo:cpan	file:App-DownloadsDirUtils-0.008.tar.gz	ver:0.008	size:29918
