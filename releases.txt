@@ -17700,3 +17700,7 @@ date:2025-05-03T05:02:28Z	repo:cpan	file:File-Util-Sort-0.011.tar.gz	ver:0.011	s
 date:2025-05-03T07:28:29Z	repo:cpan	file:App-DownloadsDirUtils-0.006.tar.gz	ver:0.006	size:29786
 date:2025-05-03T07:35:48Z	repo:cpan	file:App-DownloadsDirUtils-0.008.tar.gz	ver:0.008	size:29918
 date:2025-05-06T01:40:19Z	repo:cpan	file:App-MineralUtils-0.022.tar.gz	ver:0.022	size:37211
+date:2025-05-15T01:20:53Z	repo:cpan	file:App-pause-0.662.tar.gz	ver:0.662	size:36678
+date:2025-05-15T01:21:33Z	repo:cpan	file:App-pause-0.662.tar.gz	ver:0.662	size:36679
+date:2025-05-15T01:41:22Z	repo:cpan	file:Text-Table-HTML-0.012.tar.gz	ver:0.012	size:23183
+date:2025-05-15T01:48:45Z	repo:cpan	file:Text-Table-HTML-DataTables-0.013.tar.gz	ver:0.013	size:246172
