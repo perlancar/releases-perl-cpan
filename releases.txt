@@ -17705,3 +17705,9 @@ date:2025-05-15T01:21:33Z	repo:cpan	file:App-pause-0.662.tar.gz	ver:0.662	size:3
 date:2025-05-15T01:41:22Z	repo:cpan	file:Text-Table-HTML-0.012.tar.gz	ver:0.012	size:23183
 date:2025-05-15T01:48:45Z	repo:cpan	file:Text-Table-HTML-DataTables-0.013.tar.gz	ver:0.013	size:246172
 date:2025-05-20T04:03:56Z	repo:cpan	file:App-BPOMUtils-Table-FoodType-0.020.tar.gz	ver:0.020	size:104116
+date:2025-05-22T02:12:12Z	repo:cpan	file:App-PickArgs-0.001.tar.gz	ver:0.001	size:19502
+date:2025-05-22T02:16:36Z	repo:cpan	file:Acme-CPANModules-PickingRandomItemsFromList-0.006.tar.gz	ver:0.006	size:18347
+date:2025-05-22T08:28:19Z	repo:cpan	file:App-BPOMUtils-Table-FoodType-0.021.tar.gz	ver:0.021	size:130485
+date:2025-05-29T07:28:29Z	repo:cpan	file:App-ClipboardUtils-0.010.tar.gz	ver:0.010	size:24553
+date:2025-05-29T08:09:56Z	repo:cpan	file:App-CdUtils-0.007.tar.gz	ver:0.007	size:19999
+date:2025-05-29T08:22:48Z	repo:cpan	file:App-CdUtils-0.008.tar.gz	ver:0.008	size:20069
