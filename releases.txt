@@ -17711,3 +17711,12 @@ date:2025-05-22T08:28:19Z	repo:cpan	file:App-BPOMUtils-Table-FoodType-0.021.tar.
 date:2025-05-29T07:28:29Z	repo:cpan	file:App-ClipboardUtils-0.010.tar.gz	ver:0.010	size:24553
 date:2025-05-29T08:09:56Z	repo:cpan	file:App-CdUtils-0.007.tar.gz	ver:0.007	size:19999
 date:2025-05-29T08:22:48Z	repo:cpan	file:App-CdUtils-0.008.tar.gz	ver:0.008	size:20069
+date:2025-06-01T10:20:27Z	repo:cpan	file:App-CdUtils-0.009.tar.gz	ver:0.009	size:20582
+date:2025-06-11T06:07:43Z	repo:cpan	file:Text-Safer-0.001.tar.gz	ver:0.001	size:16163
+date:2025-06-11T06:24:04Z	repo:cpan	file:Text-Safer-0.002.tar.gz	ver:0.002	size:16512
+date:2025-06-11T06:26:07Z	repo:cpan	file:App-safer-0.001.tar.gz	ver:0.001	size:16092
+date:2025-06-14T01:59:57Z	repo:cpan	file:Text-Safer-0.003.tar.gz	ver:0.003	size:16858
+date:2025-06-14T04:06:12Z	repo:cpan	file:App-safer-0.002.tar.gz	ver:0.002	size:20921
+date:2025-06-14T23:31:15Z	repo:cpan	file:App-ClipboardUtils-0.011.tar.gz	ver:0.011	size:25769
+date:2025-06-14T23:40:16Z	repo:cpan	file:App-safer-0.003.tar.gz	ver:0.003	size:22110
+date:2025-06-16T04:56:22Z	repo:cpan	file:Clipboard-Any-0.015.tar.gz	ver:0.015	size:22568
