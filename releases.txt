@@ -17727,3 +17727,6 @@ date:2025-07-15T00:39:20Z	repo:cpan	file:App-SubtitleUtils-0.014.tar.gz	ver:0.01
 date:2025-07-24T06:18:01Z	repo:cpan	file:App-freqtable-0.009.tar.gz	ver:0.009	size:19609
 date:2025-08-02T01:40:58Z	repo:cpan	file:String-CommonPrefix-0.021.tar.gz	ver:0.021	size:16762
 date:2025-08-03T13:26:58Z	repo:cpan	file:App-freqtable-0.010.tar.gz	ver:0.010	size:20421
+date:2025-08-14T00:44:29Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.354.tar.gz	ver:0.354	size:42289
+date:2025-08-20T02:44:59Z	repo:cpan	file:Acme-CPANModules-GrepVariants-0.014.tar.gz	ver:0.014	size:23228
+date:2025-08-20T02:48:34Z	repo:cpan	file:App-BashHistoryUtils-0.071.tar.gz	ver:0.071	size:23806
