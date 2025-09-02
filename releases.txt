@@ -17733,3 +17733,4 @@ date:2025-08-20T02:48:34Z	repo:cpan	file:App-BashHistoryUtils-0.071.tar.gz	ver:0
 date:2025-08-23T14:26:20Z	repo:cpan	file:Filename-Media-Info-0.001.tar.gz	ver:0.001	size:16576
 date:2025-08-23T14:40:47Z	repo:cpan	file:Filename-Media-Info-0.002.tar.gz	ver:0.002	size:16695
 date:2025-08-23T14:42:16Z	repo:cpan	file:App-FilenameUtils-0.003.tar.gz	ver:0.003	size:23124
+date:2025-08-25T07:05:35Z	repo:cpan	file:App-xsum-0.011.tar.gz	ver:0.011	size:23354
