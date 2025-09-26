@@ -17734,3 +17734,14 @@ date:2025-08-23T14:26:20Z	repo:cpan	file:Filename-Media-Info-0.001.tar.gz	ver:0.
 date:2025-08-23T14:40:47Z	repo:cpan	file:Filename-Media-Info-0.002.tar.gz	ver:0.002	size:16695
 date:2025-08-23T14:42:16Z	repo:cpan	file:App-FilenameUtils-0.003.tar.gz	ver:0.003	size:23124
 date:2025-08-25T07:05:35Z	repo:cpan	file:App-xsum-0.011.tar.gz	ver:0.011	size:23354
+date:2025-09-20T04:29:54Z	repo:cpan	file:App-GitUtils-0.087.tar.gz	ver:0.087	size:29263
+date:2025-09-20T06:44:10Z	repo:cpan	file:App-GitUtils-0.088.tar.gz	ver:0.088	size:30597
+date:2025-09-23T05:40:54Z	repo:cpan	file:App-CdUtils-0.010.tar.gz	ver:0.010	size:21551
+date:2025-09-23T08:54:28Z	repo:cpan	file:App-GitUtils-0.089.tar.gz	ver:0.089	size:31857
+date:2025-09-24T01:26:23Z	repo:cpan	file:App-GitUtils-0.090.tar.gz	ver:0.090	size:32220
+date:2025-09-24T01:42:02Z	repo:cpan	file:App-nauniq-0.112.tar.gz	ver:0.112	size:20442
+date:2025-09-24T02:12:44Z	repo:cpan	file:Number-Format-Metric-0.603.tar.gz	ver:0.603	size:18196
+date:2025-09-24T02:57:40Z	repo:cpan	file:App-DataSizeSpeedUtils-0.001.tar.gz	ver:0.001	size:17609
+date:2025-09-24T03:19:38Z	repo:cpan	file:App-GitUtils-0.091.tar.gz	ver:0.091	size:32594
+date:2025-09-24T05:57:06Z	repo:cpan	file:Number-Format-Metric-0.604.tar.gz	ver:0.604	size:19033
+date:2025-09-26T07:36:03Z	repo:cpan	file:App-MineralUtils-0.023.tar.gz	ver:0.023	size:40206
