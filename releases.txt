@@ -17745,3 +17745,4 @@ date:2025-09-24T02:57:40Z	repo:cpan	file:App-DataSizeSpeedUtils-0.001.tar.gz	ver
 date:2025-09-24T03:19:38Z	repo:cpan	file:App-GitUtils-0.091.tar.gz	ver:0.091	size:32594
 date:2025-09-24T05:57:06Z	repo:cpan	file:Number-Format-Metric-0.604.tar.gz	ver:0.604	size:19033
 date:2025-09-26T07:36:03Z	repo:cpan	file:App-MineralUtils-0.023.tar.gz	ver:0.023	size:40206
+date:2025-09-30T04:22:42Z	repo:cpan	file:App-CdUtils-0.011.tar.gz	ver:0.011	size:21640
