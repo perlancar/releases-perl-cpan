@@ -17761,3 +17761,7 @@ date:2025-10-30T01:40:36Z	repo:cpan	file:Progress-Any-SIGHandler-0.004.tar.gz	ve
 date:2025-10-31T05:27:48Z	repo:cpan	file:App-FindUtils-0.004.tar.gz	ver:0.004	size:19968
 date:2025-10-31T08:18:10Z	repo:cpan	file:App-perlmv-scriptlet-add_suffix_imgsize-0.001.tar.gz	ver:0.001	size:16360
 date:2025-10-31T08:26:26Z	repo:cpan	file:App-FileRenameUtils-0.014.tar.gz	ver:0.014	size:24822
+date:2025-11-03T07:58:50Z	repo:cpan	file:TableData-Health-Nutrient-0.006.tar.gz	ver:0.006	size:18763
+date:2025-11-03T09:01:53Z	repo:cpan	file:Sah-SchemaBundle-Nutrient-0.003.tar.gz	ver:0.003	size:20349
+date:2025-11-04T03:18:19Z	repo:cpan	file:App-CdUtils-0.012.tar.gz	ver:0.012	size:22218
+date:2025-11-07T04:33:35Z	repo:cpan	file:App-CdUtils-0.013.tar.gz	ver:0.013	size:22435
