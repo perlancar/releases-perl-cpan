@@ -17773,3 +17773,16 @@ date:2025-11-11T09:33:32Z	repo:cpan	file:Git-Grouper-0.003.tar.gz	ver:0.003	size
 date:2025-11-11T10:49:28Z	repo:cpan	file:Git-Grouper-0.004.tar.gz	ver:0.004	size:25723
 date:2025-11-12T00:55:03Z	repo:cpan	file:Git-Grouper-0.005.tar.gz	ver:0.005	size:26987
 date:2025-11-12T03:56:17Z	repo:cpan	file:App-MineralUtils-0.024.tar.gz	ver:0.024	size:40463
+date:2025-11-13T08:00:55Z	repo:cpan	file:Git-Grouper-0.006.tar.gz	ver:0.006	size:27073
+date:2025-11-15T03:36:12Z	repo:cpan	file:Perinci-CmdLine-Util-Config-1.727.tar.gz	ver:1.727	size:21117
+date:2025-11-26T07:11:03Z	repo:cpan	file:App-FindUtils-0.005.tar.gz	ver:0.005	size:21207
+date:2025-11-28T02:24:54Z	repo:cpan	file:App-uniprint-0.001.tar.gz	ver:0.001	size:16346
+date:2025-11-28T02:28:37Z	repo:cpan	file:App-uniprint-0.002.tar.gz	ver:0.002	size:16564
+date:2025-12-19T05:07:54Z	repo:cpan	file:Calendar-Indonesia-Holiday-0.355.tar.gz	ver:0.355	size:42597
+date:2026-01-03T12:39:06Z	repo:cpan	file:Git-Bunch-0.632.tar.gz	ver:0.632	size:45680
+date:2026-01-05T00:37:11Z	repo:cpan	file:App-FindUtils-0.006.tar.gz	ver:0.006	size:21320
+date:2026-01-05T00:44:04Z	repo:cpan	file:App-FindUtils-0.007.tar.gz	ver:0.007	size:21550
+date:2026-01-15T07:03:23Z	repo:cpan	file:TableData-Business-ID-Kemenkes-RDA-0.001.tar.gz	ver:0.001	size:75079
+date:2026-01-19T07:43:07Z	repo:cpan	file:App-CrockfordBase32Utils-0.001.tar.gz	ver:0.001	size:20437
+date:2026-01-19T10:52:07Z	repo:cpan	file:App-CrockfordBase32Utils-0.002.tar.gz	ver:0.002	size:25724
+date:2026-01-20T01:09:32Z	repo:cpan	file:String-FillCharTemplate-0.001.tar.gz	ver:0.001	size:15820
