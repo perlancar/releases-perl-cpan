@@ -17843,3 +17843,12 @@ date:2026-03-26T13:27:12Z	repo:cpan	file:App-XWindowManagerUtils-0.001.tar.gz	ve
 date:2026-03-27T02:47:08Z	repo:cpan	file:App-KDEActivityUtils-0.002.tar.gz	ver:0.002	size:23633
 date:2026-03-27T03:14:16Z	repo:cpan	file:App-XWindowManagerUtils-0.002.tar.gz	ver:0.002	size:20995
 date:2026-03-27T15:28:01Z	repo:cpan	file:App-perlmv-scriptlet-prefix_with_number-0.002.tar.gz	ver:0.002	size:16152
+date:2026-03-29T01:05:15Z	repo:cpan	file:App-FirefoxUtils-0.025.tar.gz	ver:0.025	size:38260
+date:2026-03-29T02:04:16Z	repo:cpan	file:DesktopWorkspace-1.0.0.tar.gz	ver:1.0.0	size:18179
+date:2026-03-29T02:24:07Z	repo:cpan	file:DesktopWorkspaceRoles-Standard-0.001.tar.gz	ver:0.001	size:16193
+date:2026-03-29T03:54:44Z	repo:cpan	file:List-Util-Find-0.005.1.tar.gz	ver:0.005.1	size:17947
+date:2026-03-29T10:27:20Z	repo:cpan	file:Desktop-KDEActivity-Util-0.001.tar.gz	ver:0.001	size:17858
+date:2026-03-29T10:34:32Z	repo:cpan	file:Desktop-KDEActivity-Util-0.002.tar.gz	ver:0.002	size:17886
+date:2026-03-29T10:38:58Z	repo:cpan	file:App-KDEActivityUtils-0.003.tar.gz	ver:0.003	size:21224
+date:2026-03-29T13:13:14Z	repo:cpan	file:App-DesktopWorkspaceUtils-0.001.tar.gz	ver:0.001	size:19291
+date:2026-03-29T13:13:44Z	repo:cpan	file:Desktop-Workspace-Util-0.001.tar.gz	ver:0.001	size:20512
