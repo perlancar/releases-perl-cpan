@@ -17852,3 +17852,17 @@ date:2026-03-29T10:34:32Z	repo:cpan	file:Desktop-KDEActivity-Util-0.002.tar.gz	v
 date:2026-03-29T10:38:58Z	repo:cpan	file:App-KDEActivityUtils-0.003.tar.gz	ver:0.003	size:21224
 date:2026-03-29T13:13:14Z	repo:cpan	file:App-DesktopWorkspaceUtils-0.001.tar.gz	ver:0.001	size:19291
 date:2026-03-29T13:13:44Z	repo:cpan	file:Desktop-Workspace-Util-0.001.tar.gz	ver:0.001	size:20512
+date:2026-03-29T13:28:47Z	repo:cpan	file:Desktop-Workspace-Util-0.002.tar.gz	ver:0.002	size:20802
+date:2026-03-29T23:37:46Z	repo:cpan	file:Dist-Zilla-Plugin-InsertModulesList-0.032.tar.gz	ver:0.032	size:17097
+date:2026-03-30T00:01:56Z	repo:cpan	file:Perinci-CmdLine-2.000.2.tar.gz	ver:2.000.2	size:33557
+date:2026-03-30T04:36:59Z	repo:cpan	file:App-KDEActivityUtils-0.004.tar.gz	ver:0.004	size:21702
+date:2026-03-30T06:40:23Z	repo:cpan	file:Berdikari-Parse-DeliveryReceipt-Common-0.031.tar.gz	ver:0.031	size:22818
+date:2026-04-04T00:48:06Z	repo:cpan	file:App-CdUtils-0.014.tar.gz	ver:0.014	size:22942
+date:2026-04-04T01:25:20Z	repo:cpan	file:Berdikari-Parse-DeliveryReceipt-Common-0.032.tar.gz	ver:0.032	size:23185
+date:2026-04-05T04:04:09Z	repo:cpan	file:Berdikari-Parse-DeliveryReceipt-Common-0.033.tar.gz	ver:0.033	size:23234
+date:2026-04-06T03:08:16Z	repo:cpan	file:App-XWindowManagerUtils-0.003.tar.gz	ver:0.003	size:22120
+date:2026-04-07T03:36:57Z	file:App-CdUtils-0.015.tar.gz	ver:0.015	size:23044
+date:2026-04-07T10:04:44Z	file:Module-CheckVersion-0.090.tar.gz	ver:0.090	size:202879
+date:2026-04-07T10:28:05Z	file:Complete-KDEActivity-0.001.tar.gz	ver:0.001	size:16096
+date:2026-04-07T10:46:58Z	file:Sah-SchemaBundle-UUID-0.001.tar.gz	ver:0.001	size:18769
+date:2026-04-07T10:53:29Z	file:Sah-SchemaBundle-KDEActivity-0.001.tar.gz	ver:0.001	size:19225
