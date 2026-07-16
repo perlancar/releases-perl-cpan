@@ -17926,3 +17926,9 @@ date:2026-06-26T08:41:56Z	file:App-PDFUtils-0.018.tar.gz	ver:0.018	size:39401
 date:2026-06-26T08:52:55Z	file:Number-Format-FitWidth-0.002.tar.gz	ver:0.002	size:16461
 date:2026-06-27T03:33:32Z	file:App-PDFUtils-0.019.tar.gz	ver:0.019	size:40397
 date:2026-07-07T12:29:04Z	file:Clipboard-Any-0.017.tar.gz	ver:0.017	size:22633
+date:2026-07-08T18:57:35Z	file:App-CSVUtils-1.038.tar.gz	ver:1.038	size:191127
+date:2026-07-15T01:43:07Z	file:TableData-Games-Cards-Troika-0.001.tar.gz	ver:0.001	size:24696
+date:2026-07-15T02:31:08Z	file:Games-Cards-Troika-Util-0.001.tar.gz	ver:0.001	size:19341
+date:2026-07-15T23:13:02Z	file:App-GrepUtils-0.007.tar.gz	ver:0.007	size:17930
+date:2026-07-16T02:16:18Z	file:Games-Cards-Troika-Util-0.002.tar.gz	ver:0.002	size:19876
+date:2026-07-16T03:53:44Z	file:TableData-Games-Cards-Troika-0.002.tar.gz	ver:0.002	size:24749
